@@ -16,6 +16,16 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v13/ — de 3 fichas a 19 fuentes jugables
+
+La v13 completa el reto de la v12: desde las fichas (URLs de detalle) de
+`A Shop for Killers`, `Too Much` y `Special Ops: Lioness` se recorrió el
+grafo de Hubs de la plataforma — `seasons[]` (temporadas) y `dubbingList`
+(audios) — con un BFS vía relay. Las 3 series quedan **100 % jugables**
+(19 websiteParams verificados, doblaje/sub/base por temporada) y estrenan
+póster horizontal (`coverHorizontalUrl`) para el Hero de Pandora.
+[`reto-v13/`](reto-v13/) documenta la travesía y el inventario completo.
+
 ## reto-v12/ — documentación del algoritmo de búsqueda
 
 La v12 se generó con un flujo nuevo: el usuario eligió 3 series solo con
