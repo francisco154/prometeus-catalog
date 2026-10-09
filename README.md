@@ -15,3 +15,13 @@ Data file endpoint for the Prometeus Android TV updater.
 > release (ver repo principal, privado). Regla del formato: `v` crece con
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
+
+## reto-v12/ — documentación del algoritmo de búsqueda
+
+La v12 se generó con un flujo nuevo: el usuario eligió 3 series solo con
+capturas de pantalla (sin links). [`reto-v12/`](reto-v12/) documenta la
+auditoría del catálogo y de la red de 10 frentes, los parámetros y el
+estado en común de todo el contenido, el algoritmo de búsqueda
+(poster → identidad → metadatos → plataforma) y el estado de cada eslabón,
+incluida la evidencia del filtro anti-datacenter de la plataforma y las
+vías para cerrar el circuito de los `websiteParam`.
