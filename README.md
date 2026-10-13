@@ -16,6 +16,20 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v14/ — el lote del usuario: +103 títulos jugables
+
+La v14 incorpora el lote de enlaces recolectado por el usuario (104 fichas
+de detalle sobre los 10 frentes de la red). Sobre esos links se hizo el
+trabajo duro: BFS por el grafo de Hubs (`seasons[]`/`refList`/`dubbingList`),
+temporadas consecutivas con fuentes por episodio, variantes doblaje/sub/base,
+pósters latinos (vertical) + landscape para el Hero, sinopsis con reparto,
+años/géneros IMDb-TVMaze y nombres de capítulos. **399 → 502 títulos**
+(+44 series, +59 películas; 401 fuentes verificadas jugables). El QA
+detectó fichas mal etiquetadas por la plataforma (La caída de la casa Usher
+→ en realidad es el anime *Good Night World*; Spider-Man "2002" → en
+realidad la serie animada de 1994). [`reto-v14/`](reto-v14/) documenta el
+pipeline y los hallazgos.
+
 ## reto-v13/ — de 3 fichas a 19 fuentes jugables
 
 La v13 completa el reto de la v12: desde las fichas (URLs de detalle) de
