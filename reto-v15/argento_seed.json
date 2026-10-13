@@ -1,7 +1,7 @@
 {
-  "v": 1,
+  "v": 2,
   "src": "elvideoclubargento.com.ar",
-  "descripcion": "Lote v15 — 75 películas argentinas de elvideoclubargento.com.ar integradas al HUB de Pandora como nuevo sitioKey \"argento\". Reproducción vía OkruExtractor (resuelve ok.ru/video/{id} → HLS m3u8 + MP4 URLs para ExoPlayer).",
+  "descripcion": "Lote v15+ — 100 películas argentinas de elvideoclubargento.com.ar integradas al HUB de Pandora como nuevo sitioKey \"argento\". Las primeras 75 (lote v15 original) + 25 pelis nuevas de años 2020-2025. Reproducción vía OkruExtractor (resuelve ok.ru/video/{id} → HLS m3u8 + MP4 URLs para ExoPlayer).",
   "cards": [
     {
       "w": "okru-10093463079666",
@@ -2118,6 +2118,675 @@
       "pais": "Argentina",
       "okru_url": "https://ok.ru/video/8037986339570",
       "okru_id": "8037986339570"
+    },
+    {
+      "w": "okru-10093579078386",
+      "n": "Lo que quisimos ser",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/zSzA0H1Ya9edqXAsIMFJ7F1rwle.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "imdb_id": "tt34387707",
+      "tmdb_id": 1266860,
+      "year": 2024,
+      "sinopsis": "A la salida de un cine, un hombre y una mujer comienzan a hablar y siguen la conversación en un café cercano. Allí construirán un mundo de fantasía en el que se convertirán en quienes siempre quisieron ser (una escritora y un astronauta) y deciden quedar todos los jueves a la misma hora y en el mismo lugar. Poco a poco se enamoran... pero cuando sus vidas reales entran en juego, tendrán que luchar por proteger su relación",
+      "direccion": "Alejandro Agresti",
+      "elenco": [
+        "Eleonora Wexler",
+        "Luis Rubio",
+        "Antonio Agresti",
+        "Carlos Gorosito"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10093579078386",
+      "okru_id": "10093579078386"
+    },
+    {
+      "w": "okru-8456842840818",
+      "n": "Noche americana",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/fYE5AayrDorA7vHqRoRNtyubO97.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia",
+        "Suspense"
+      ],
+      "imdb_id": "tt16969742",
+      "tmdb_id": 924032,
+      "year": 2022,
+      "sinopsis": "Aeropuerto de Roma. Hay tormenta y el vuelo del joven Iván se cancela. Trasladan a los viajeros a pasar la noche en un hotel. Así conoce a Michelle, una deslumbrante estrella de cine argentina, 20 años mayor que él, también pasajera en tránsito. Todo parece soñado para Iván cuando ella le abre la puerta a una aventura. Pero la noche descarrila cuando aparecen el marido y la hija de la actriz. Se destapa la crisis emocional que Michelle ocultaba y dos chantajistas, tan peligrosos como improvisado",
+      "direccion": "Alejandro Bazzano",
+      "elenco": [
+        "Florencia Raggi",
+        "Rafael Ferro",
+        "Alan Daicz",
+        "Luis Cao",
+        "Sofía Lara"
+      ],
+      "duracion": 93,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8456842840818",
+      "okru_id": "8456842840818"
+    },
+    {
+      "w": "okru-10050029751026",
+      "n": "El país de las últimas cosas",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/or4wFdY10rUpEchPoAJPltFSrnN.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "imdb_id": "tt3350042",
+      "tmdb_id": 766793,
+      "year": 2020,
+      "sinopsis": "A young woman ventures into an unnamed city that has collapsed into chaos and disorder to search for her journalist brother.",
+      "direccion": "Alejandro Chomski",
+      "elenco": [
+        "Maria de Medeiros",
+        "Juan Fernández",
+        "Christopher Von Uckermann",
+        "Margaux Da Silva",
+        "Jazmín Diz",
+        "Ettore D'Alessandro",
+        "Ruairi Rhodes",
+        "Luis del Valle"
+      ],
+      "duracion": 89,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10050029751026",
+      "okru_id": "10050029751026"
+    },
+    {
+      "w": "okru-10047925521138",
+      "n": "María Luisa Bemberg: El eco de mi voz",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/8wUGGVbODT1pze6JdpDr8o2f22D.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt14687306",
+      "tmdb_id": 830916,
+      "year": 2021,
+      "sinopsis": "Un retrato vivo y actual de María Luisa Bemberg, una de las maestras del cine argentinas más destacadas, singulares e independientes",
+      "direccion": "Alejandro Maci",
+      "elenco": [
+        "María Luisa Bemberg"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10047925521138",
+      "okru_id": "10047925521138"
+    },
+    {
+      "w": "okru-11518755801842",
+      "n": "El secreto de Maró",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/uNRHmFGt03ygh0ODSRnv2LsXBbB.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt14230614",
+      "tmdb_id": 808212,
+      "year": 2021,
+      "sinopsis": "El 20 de diciembre de 2001 cinco personas fueron asesinadas y cientos heridas por la represión policial. Creado por el físico Rodolfo Pregliasco, un panóptico fotográfico sincroniza las imágenes de esa jornada para reconstruir un día negro de la democracia argentina",
+      "direccion": "Alejandro Magnone",
+      "elenco": [
+        "Norma Aleandro",
+        "Lidia Catalano",
+        "Analía Malvido",
+        "Manuel Callau",
+        "César Bordón",
+        "Florencia Raggi",
+        "Héctor Bidonde",
+        "Catalina Motto"
+      ],
+      "duracion": 120,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11518755801842",
+      "okru_id": "11518755801842"
+    },
+    {
+      "w": "okru-8311468067570",
+      "n": "Rocanrol cowboys",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/6FVw0cevupijiIdtxIHSZT1wn0t.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental",
+        "Música"
+      ],
+      "imdb_id": "tt13794154",
+      "tmdb_id": 783603,
+      "year": 2021,
+      "sinopsis": "Esta es la historia del indomable e imperecedero grupo de rock argentino Ratones Paranoicos, ilustrada con grabaciones antiguas de sus conciertos y del backstage",
+      "direccion": "Alejandro Ruax, Ramiro Martínez",
+      "elenco": [
+        "Juanse",
+        "Pablo Sarcófago Cano",
+        "Pablo Memi",
+        "Rubén Roy Quiroga"
+      ],
+      "duracion": 77,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8311468067570",
+      "okru_id": "8311468067570"
+    },
+    {
+      "w": "okru-9840864201458",
+      "n": "Por el Paraná",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/rBQP5ZqKlo71KysG3vmZIf0th2Z.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt30788341",
+      "tmdb_id": 1283959,
+      "year": 2024,
+      "sinopsis": "Dos documentalistas, apasionados del río, se aventuran en un viaje a lo largo de la cuenca del Paraná para explorar la profunda realidad ribereña",
+      "direccion": "Alejo Di Risio, Franco González",
+      "elenco": [],
+      "duracion": 62,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9840864201458",
+      "okru_id": "9840864201458"
+    },
+    {
+      "w": "okru-8098349714162",
+      "n": "La edad media",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/nSXlHuYBNJRdZTYQVEpQLLursjL.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia",
+        "Drama"
+      ],
+      "imdb_id": "tt17518262",
+      "tmdb_id": 898278,
+      "year": 2022,
+      "sinopsis": "¿Una comedia durante el encierro? Probablemente. ¿Un retrato de una niña y su familia durante el parto? Aparentemente si. ¿Un disparo musical absurdo y beckettiano durante el encierro? Exactamente sí",
+      "direccion": "Alejo Moguillansky, Luciana Acuña",
+      "elenco": [
+        "Cleo Moguillansky",
+        "Luciana Acuña",
+        "Alejo Moguillansky",
+        "Lisandro Rodríguez",
+        "Lalo Rotaveria",
+        "Walter Jakob",
+        "Oscar Strasnoy",
+        "Margarita Fernández"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8098349714162",
+      "okru_id": "8098349714162"
+    },
+    {
+      "w": "okru-8075608001266",
+      "n": "Fanny camina",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/bU1QEVgxzlG27v6eh2ie7TLBKEK.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt16294672",
+      "tmdb_id": 878848,
+      "year": 2021,
+      "sinopsis": "Desde su encuentro con Eva Perón hasta la muerte del icono, desde su fascinación por la causa peronista hasta la persecución que sufrió tras la Revolución Libertadora, la estrella de cine Fanny Navarro recuerda su vida, paseando hoy en día por las calles de Buenos Aires. La película no está ambientada en los años 50 ni en la actualidad, se encuentra en la encrucijada del cine de época y el cine de anticipación, mirando el pasado desde el presente y mirando el futuro desde el pasado. Los personaj",
+      "direccion": "Alfredo Arias, Ignacio Masllorens",
+      "elenco": [
+        "Alejandra Radano",
+        "Nicola Costantino",
+        "Marcos Montes",
+        "Fabián Minelli",
+        "Marta Lubos",
+        "Manuel Martínez Sobrado",
+        "Adriana Pegueroles",
+        "Fanny Bianco"
+      ],
+      "duracion": 82,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8075608001266",
+      "okru_id": "8075608001266"
+    },
+    {
+      "w": "okru-10238113811186",
+      "n": "La soledad de los huesos",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/huEpHjJsSnmoq7KmS0cYJaoaZM5.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt18181816",
+      "tmdb_id": 866229,
+      "year": 2020,
+      "sinopsis": "A principios de la década de 1960, Natalie llegó a Tierra del Fuego desde Estados Unidos para formar una familia. Allí, dedica su vida a explorar la isla en busca de plantas para un herbario y huesos de ballena y delfines para un museo. Crea una colección infinita. Esta es la vida de una mujer que tuvo la audacia de aventurarse en un lugar sin lugar para los débiles. Una historia del pasado que empieza a olvidarse",
+      "direccion": "Alfredo Lichter",
+      "elenco": [],
+      "duracion": 79,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10238113811186",
+      "okru_id": "10238113811186"
+    },
+    {
+      "w": "okru-9851217775346",
+      "n": "Vigilia, el estado de quien permanece despierto",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/9mv419pAxZpdnxE5qeN0Ijpk5jx.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt35628849",
+      "tmdb_id": 1305760,
+      "year": 2023,
+      "sinopsis": "La usurpación colonial de las Islas Malvinas se expande hacia el Océano Atlántico, y los bienes naturales de la provincia de Tierra del Fuego son explotados ilegalmente. A través de distintas perspectivas, el documental aborda la importancia geopolítica del atlántico sur para el futuro de la región",
+      "direccion": "Alvare Di Pilato",
+      "elenco": [],
+      "duracion": 58,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9851217775346",
+      "okru_id": "9851217775346"
+    },
+    {
+      "w": "okru-10427481131762",
+      "n": "Magic Farm",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/9XGkkT6KAx5ZYNPGNEF6U34sUf7.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia"
+      ],
+      "imdb_id": "tt34966919",
+      "tmdb_id": 1309962,
+      "year": 2025,
+      "sinopsis": "Un equipo de rodaje que trabaja para una empresa de medios de comunicación de vanguardia viaja a Argentina para hacer un reportaje de un músico local, pero su ineptitud les lleva al país equivocado. Mientras colaboran con los lugareños para crear una tendencia viral, se forjan relaciones en medio de una crisis sanitaria global en ciernes",
+      "direccion": "Amalia Ulman",
+      "elenco": [
+        "Chloë Sevigny",
+        "Alex Wolff",
+        "Amalia Ulman",
+        "Joe Apollonio",
+        "Guillermo Jacubowicz",
+        "Camila del Campo",
+        "Mateo Vaquer",
+        "Ruiz de los Llanos"
+      ],
+      "duracion": 93,
+      "pais": "Estados Unidos",
+      "okru_url": "https://ok.ru/video/10427481131762",
+      "okru_id": "10427481131762"
+    },
+    {
+      "w": "okru-8070620842738",
+      "n": "La uruguaya",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/tyjw3qp5b6g5Lm1ycWinQk53yzS.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt14731294",
+      "tmdb_id": 881708,
+      "year": 2022,
+      "sinopsis": "Un escritor deposita sus esperanzas en un joven de 25 años de espíritu libre que conoce en Montevideo para superar la crisis de la mediana edad. Pero ese día resulta ser el día más inesperado y transformador de su vida",
+      "direccion": "Ana Garcia Blaya",
+      "elenco": [
+        "Fiorella Bottaioli",
+        "Sebastián Arzeno",
+        "Otto",
+        "Gustavo Garzón",
+        "Jazmín Stuart",
+        "Josefina Gali",
+        "Eli Almic",
+        "Emiliano García Blaya"
+      ],
+      "duracion": 78,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8070620842738",
+      "okru_id": "8070620842738"
+    },
+    {
+      "w": "okru-11471711505138",
+      "n": "El Agujerito",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/h9Bj6FKmjfSmRgM7AoTenO1WKzP.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "",
+      "tmdb_id": 1386834,
+      "year": 2024,
+      "sinopsis": "En 1969, los hermanos Epstein fundaron una casa de música en pleno centro porteño. Allí ofrecían los mejores discos importados y pronto se convirtió en un santuario. Músicos como Claudio Gabis, Nito Mestre, Charly García, Andrés Calamaro, coinciden en que fue el lugar de libertad e inspiración que tanto necesitaban. Era la época en que las vanguardias del Instituto Di Tella se nutrían del incipiente rock y este del arte, provocando un estallido en medio de una sociedad aislada y aletargada por e",
+      "direccion": "Ana Hayzus, Leandro Eljall Qüesta",
+      "elenco": [
+        "Rolando Epstein",
+        "Gabriel Epstein",
+        "Susana Epstein",
+        "León Gieco",
+        "Andrés Calamaro"
+      ],
+      "duracion": 68,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11471711505138",
+      "okru_id": "11471711505138"
+    },
+    {
+      "w": "okru-8067353742066",
+      "n": "El perro que no calla",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/r4wsVyNnQZTV1pnymzr4bW5uDkq.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt13648184",
+      "tmdb_id": 638784,
+      "year": 2021,
+      "sinopsis": "Sebastián, un joven de treinta y tantos años, tiene varios trabajos temporales que van y vienen y lo presionan, y abraza el amor cada vez que encuentra la oportunidad. A través de pequeños hechos puntuales, su transformación se retrata en el contexto de un mundo que también se transforma y coquetea con un posible apocalipsis",
+      "direccion": "Ana Katz",
+      "elenco": [
+        "Daniel Katz",
+        "Valeria Lois",
+        "Julieta Zylberberg",
+        "Raquel Bank",
+        "Carlos Portaluppi",
+        "Mirella Pascual y Jimena Anganuzzi"
+      ],
+      "duracion": 73,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8067353742066",
+      "okru_id": "8067353742066"
+    },
+    {
+      "w": "okru-8070636047090",
+      "n": "Elena sabe",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/msBqpMwotbdLYrbHNrr3gSBN952.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt28081899",
+      "tmdb_id": 948038,
+      "year": 2023,
+      "sinopsis": "Elena busca al responsable de la repentina muerte de su hija. Ante la falta de respuestas de las autoridades, es ella quien encarna la investigación, pese a su avanzada enfermedad. Emprende un difícil viaje en tren desde los suburbios hacia la Capital, buscando ayuda familiar. Sus inevitables recuerdos de madre la confrontarán con una inesperada revelación",
+      "direccion": "Anahí Berneri",
+      "elenco": [
+        "Mercedes Morán",
+        "Erica Rivas",
+        "Mey Scápola",
+        "Miranda de la Serna",
+        "Rocío Belzuz",
+        "Horacio Camandulle",
+        "Laura Faienza",
+        "Marcos Ferrante"
+      ],
+      "duracion": 100,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8070636047090",
+      "okru_id": "8070636047090"
+    },
+    {
+      "w": "okru-11351549414130",
+      "n": "Legítima defensa",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/9AuBhcUJfonc7qaAYxAf4NNZu8a.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt15265718",
+      "tmdb_id": 1035989,
+      "year": 2022,
+      "sinopsis": "Eduardo huyó de la vida de pueblo para hundirse en el anonimato de la gran ciudad y dedicarse a su trabajo como fiscal. Separado de su mujer, con una relación complicada con su hija adolescente, su presente no parece ser mucho mejor que ese pasado que eligió dejar atrás. Y va a complicarse aún más cuando una serie de extraños asesinatos lo obligue a volver al pueblo para colaborar con la investigación que lleva adelante un viejo amigo, ahora convertido en comisario, en medio de una trama de viol",
+      "direccion": "Andrea Braga",
+      "elenco": [
+        "Javier Drolas",
+        "María Emilia Ladogana",
+        "Juan Nemirovsky",
+        "Alfonso Tort",
+        "Violeta Urtizberea"
+      ],
+      "duracion": 97,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11351549414130",
+      "okru_id": "11351549414130"
+    },
+    {
+      "w": "okru-9759550999282",
+      "n": "Azor",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/c83Jk9GUOgSWe5lHeT20cMYbyCU.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Suspense"
+      ],
+      "imdb_id": "tt11136276",
+      "tmdb_id": 659954,
+      "year": 2021,
+      "sinopsis": "Yvan De Wiel, un banquero privado de Ginebra, viaja a Argentina en plena dictadura para sustituir a su socio, objeto de los más inquietantes rumores, y desaparecido de la noche a la mañana",
+      "direccion": "Andreas Fontana",
+      "elenco": [
+        "Fabrizio Rongione",
+        "Stéphanie Cléau",
+        "Carmen Iriondo",
+        "Juan Trench",
+        "Ignacio Vila",
+        "Pablo Torre Nilson",
+        "Juan Pablo Geretto",
+        "Alexandre Trocki"
+      ],
+      "duracion": 100,
+      "pais": "Suiza",
+      "okru_url": "https://ok.ru/video/9759550999282",
+      "okru_id": "9759550999282"
+    },
+    {
+      "w": "okru-9691369507570",
+      "n": "Las cuatro y media",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/zANZz2IHOEkpBuAHpsvG1Bh2BRT.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia",
+        "Drama"
+      ],
+      "imdb_id": "",
+      "tmdb_id": 898405,
+      "year": 2020,
+      "sinopsis": "Manuel y Lucio son amigos, pero tienen un vínculo conflictivo: constantemente, Lucio se burla de Manuel y lo considera un cagón. Una madrugada, Lucio propone un desafío para que Manuel demuestre su valentía: arrojarle bolas de papel mojado a los autos que pasan desde la terraza, sin despertar al padre de Lucio que duerme. Cuando un auto frena violentamente y se baja una pareja que busca al culpable, la situación amenaza con irse de las manos y volverse peligrosa.",
+      "direccion": "Andrés Brandariz",
+      "elenco": [
+        "Franco Mazzea",
+        "Sebastián Molinaro",
+        "Pablo Plandolit",
+        "Juan Cruz Márquez de la Serna",
+        "Julieta Koop",
+        "Federico Iturbe"
+      ],
+      "duracion": 10,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9691369507570",
+      "okru_id": "9691369507570"
+    },
+    {
+      "w": "okru-10747800652530",
+      "n": "Cuellos blancos: El caso Vicentin",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/xIpDgbrvmfX5pFasNJzdaDb20w1.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt33818525",
+      "tmdb_id": 1307464,
+      "year": 2024,
+      "sinopsis": "Investigación que revela la trama de delitos financieros ejecutada por el poder económico y sus acólitos en los poderes político y judicial, dejando al borde de la quiebra a una de las empresas nacionales más importantes de la Argentina",
+      "direccion": "Andrés Cedrón",
+      "elenco": [],
+      "duracion": 100,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10747800652530",
+      "okru_id": "10747800652530"
+    },
+    {
+      "w": "okru-8508712159986",
+      "n": "Mixtape La Pampa",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/8g9MDFVJXSKp5BTnjo8gs0sWoat.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt28865157",
+      "tmdb_id": 1168935,
+      "year": 2023,
+      "sinopsis": "Este es el diario de un viaje por La Pampa, tras las huellas de Guillermo Enrique Hudson, alias William Henry Hudson. Se trata de una figura enigmática, llena de paradojas. Fue un gaucho argentino que se convirtió en escritor inglés. Combatió en el ejército contra los “salvajes” pero también los defendió. Escribió obsesivamente sobre su tierra natal, pero nunca volvió. En las idas y vueltas del camino, se mezclan la especulación documental, la historia de Argentina, la memoria personal… y los su",
+      "direccion": "Andrés Di Tella",
+      "elenco": [],
+      "duracion": 104,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8508712159986",
+      "okru_id": "8508712159986"
+    },
+    {
+      "w": "okru-10427481066226",
+      "n": "El portal",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/5056A2d1nx5s7jdfTE6rIqVYqgE.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "",
+      "tmdb_id": 1199367,
+      "year": 2023,
+      "sinopsis": "Rufino Tibaldi fue un curandero venerado por sus milagros en un pequeño pueblo de provincia, cuyo recuerdo se ve empañado por acusaciones sobre su manera de sanar. Fuerzas oscuras rondan la región y muchos vecinos se lo atribuyen a él, ¿pero qué hay detrás de estas creencias? ¿Realidad, sugestión o coincidencia? El portal es ese umbral entre los que creen y los que no creen",
+      "direccion": "Andrés Perugini",
+      "elenco": [],
+      "duracion": 65,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10427481066226",
+      "okru_id": "10427481066226"
+    },
+    {
+      "w": "okru-11351549283058",
+      "n": "Hombre muerto",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/mpEZ0M56Ku9vb6MCrxdMfjLZGp5.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Western",
+        "Suspense",
+        "Comedia"
+      ],
+      "imdb_id": "tt39392791",
+      "tmdb_id": 875350,
+      "year": 2024,
+      "sinopsis": "Un pequeño pueblo perdido entre montañas, paralizado tras el cierre de una mina, recibe la llegada de un forastero, quien ofrece una importante paga a cambio de un trabajo muy especial: matar al propietario de la mina",
+      "direccion": "Andrés Tambornino, Alejandro Gruz",
+      "elenco": [
+        "Osvaldo Laport",
+        "Roly Serrano",
+        "Daniel Valenzuela",
+        "Diego Velázquez",
+        "Sebastián Francini",
+        "Yani Campos",
+        "Harold Agüero",
+        "Oliver Kolker"
+      ],
+      "duracion": 107,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11351549283058",
+      "okru_id": "11351549283058"
+    },
+    {
+      "w": "okru-10459320093426",
+      "n": "Locomotora",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/evipFRC77O7RH0gztcI4OTOOnL3.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "",
+      "tmdb_id": 977248,
+      "year": 2022,
+      "sinopsis": "El documental narra la vida de la boxeadora Alejandra Oliveras, un ícono púgil tanto en Argentina como en el mundo. Su vida refleja una lucha constante sobre los derechos de las mujeres en el box, siendo una espina en la FAB (Federación Argentina de Boxeo), que considera a las mujeres más débil físicamente, y en algunas declaraciones hasta inferiores intelectualmente, y por consecuencia actúa en base a esa fantasía. No obstante, la obra de Alejandra es una tormenta de denuncias frente a los suce",
+      "direccion": "Andrés Vernetti",
+      "elenco": [
+        "Alejandra \"Locomotora\" Oliveras"
+      ],
+      "duracion": 85,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10459320093426",
+      "okru_id": "10459320093426"
+    },
+    {
+      "w": "okru-9914363153138",
+      "n": "La barbarie",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/hIpVLbts9QKGkRJreMtVegq9akh.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt26812522",
+      "tmdb_id": 764527,
+      "year": 2023,
+      "sinopsis": "Nacho huye de la violencia de su casa en Buenos Aires y busca un hogar al amparo de su padre, un estanciero con quien apenas tiene relación. En la estancia Santa Inés, un lugar donde predominan las diferencias sociales y la violencia contenida, Nacho tendrá que luchar para entender su lugar como patrón",
+      "direccion": "Andrew Sala",
+      "elenco": [
+        "Ignacio Quesada",
+        "Marcelo Subiotto",
+        "Tamara Rocca",
+        "Lautaro Souto"
+      ],
+      "duracion": 94,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9914363153138",
+      "okru_id": "9914363153138"
     }
-  ]
+  ],
+  "v15_pelis": 75,
+  "v15_adicional_2020_2025": 25
 }
