@@ -1,0 +1,2123 @@
+{
+  "v": 1,
+  "src": "elvideoclubargento.com.ar",
+  "descripcion": "Lote v15 — 75 películas argentinas de elvideoclubargento.com.ar integradas al HUB de Pandora como nuevo sitioKey \"argento\". Reproducción vía OkruExtractor (resuelve ok.ru/video/{id} → HLS m3u8 + MP4 URLs para ExoPlayer).",
+  "cards": [
+    {
+      "w": "okru-10093463079666",
+      "n": "En compañía",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/rNfxmoYEbi4HoYWNXbgygYfFIMC.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt14336374",
+      "tmdb_id": 763664,
+      "year": 2021,
+      "sinopsis": "'En compañía' indaga acerca de la relación entre las personas y los perros a través de escenas cargadas de intimidad: caricias, hábitos, juegos y cuidados, historias de advenimiento y de pérdidas, protección y desarraigo. Los relatos se entremezclan y componen un mapa sobre el amor y sus enigmas",
+      "direccion": "Ada Frontini",
+      "elenco": [],
+      "duracion": 63,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10093463079666",
+      "okru_id": "10093463079666"
+    },
+    {
+      "w": "okru-10658769537778",
+      "n": "Las tres claves",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/eIJoj8SVkx4NkU5YKcas2T8V1cn.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia"
+      ],
+      "imdb_id": "tt0314798",
+      "tmdb_id": 776079,
+      "year": 1953,
+      "sinopsis": "Un joven detective resuelve el robo de unos planos de una fábrica de armas",
+      "direccion": "Adalberto Páez Arenas",
+      "elenco": [
+        "Ricardo Castro Ríos",
+        "Beatriz Taibo",
+        "Julián Bourges",
+        "Carlos Fioriti",
+        "Marcos Zucker",
+        "Juan Carrara",
+        "Dora Ferreiro",
+        "Aurelia Ferrer"
+      ],
+      "duracion": 83,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10658769537778",
+      "okru_id": "10658769537778"
+    },
+    {
+      "w": "okru-10278636358386",
+      "n": "La mujer del Eternauta",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/27JPE6bpDZuVoiut2MEbQeCxtIU.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt2275785",
+      "tmdb_id": 150666,
+      "year": 2011,
+      "sinopsis": "La mujer del Eternauta es Elsa Sánchez, viuda de Héctor Germán Oesterheld –guionista de la obra cumbre del cómic argentino, ‘El Eternauta’– y una mujer a quien la dictadura militar argentina le arrebató a sus cuatro hijas y a su marido. El sesgo político de la obra de Oesterheld sirvió de excusa para comenzar la barbarie. Esta es la historia de una lucha por la supervivencia en medio del horror. Una crónica vital y cercana en la que Elsa nos acerca a sus recuerdos con el valor de los verdaderos ",
+      "direccion": "Adán Aliaga",
+      "elenco": [
+        "Elsa Sara Sánchez"
+      ],
+      "duracion": 82,
+      "pais": "España",
+      "okru_url": "https://ok.ru/video/10278636358386",
+      "okru_id": "10278636358386"
+    },
+    {
+      "w": "okru-9794905180914",
+      "n": "Oro en la mano",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/t1x6rWtTttJUh2NWAeSluRFTURv.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0192399",
+      "tmdb_id": 929537,
+      "year": 1943,
+      "sinopsis": "Un médico caído en desgracia se dirige a las montañas de Argentina para comenzar una nueva vida. Viviendo como un ermitaño, se convertirá en buscador de oro hasta que se enamora, para su desgracia, de la esposa de otro minero",
+      "direccion": "Adelqui Migliar",
+      "elenco": [
+        "Pepita Serrador",
+        "Sebastián Chiola",
+        "Domingo Sapelli",
+        "Froilán Varela",
+        "José Ruzzo",
+        "José Olarra"
+      ],
+      "duracion": 100,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9794905180914",
+      "okru_id": "9794905180914"
+    },
+    {
+      "w": "okru-10484451511026",
+      "n": "Las luces de Buenos Aires",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/3ktGooQMANJsedOc98LijPXGc00.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia"
+      ],
+      "imdb_id": "tt0022095",
+      "tmdb_id": 170625,
+      "year": 1931,
+      "sinopsis": "En su primera película para la Paramount, Carlos Gardel interpreta a Anselmo, patrón de una estancia a la que llega por accidente un empresario teatral de la capital, en el preciso momento en que tiene lugar una alegre fiesta. Al oír cantar a Elvira (Bozán), la novia de Anselmo, el empresario decide contratarla. Aunque la chica está muy enamorada del estanciero, las luces de Buenos Aires la deslumbran y parte hacia una incierta gloria, dejando desconsolado a su pretendiente. En este filme Gardel",
+      "direccion": "Adelqui Migliar",
+      "elenco": [
+        "Carlos Gardel",
+        "Sofía Bozán",
+        "Pedro Quartucci",
+        "Gloria Guzmán",
+        "Vicente Padula",
+        "José Argüelles"
+      ],
+      "duracion": 85,
+      "pais": "Estados Unidos",
+      "okru_url": "https://ok.ru/video/10484451511026",
+      "okru_id": "10484451511026"
+    },
+    {
+      "w": "okru-10748454701810",
+      "n": "El domador",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/4Pm62HilVGMKC9C65Q1LEUMiq7z.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Romance"
+      ],
+      "imdb_id": "tt0325275",
+      "tmdb_id": 863974,
+      "year": 1954,
+      "sinopsis": "Un entrenador de potros que llega a un pueblo de Salta intenta conquistar a una joven",
+      "direccion": "Adelqui Migliar",
+      "elenco": [
+        "Elisa Galvé",
+        "Oscar Fuentes",
+        "Carlos Perelli",
+        "Eloy Álvarez",
+        "Pilar Gómez",
+        "Rosita Marión",
+        "Blanca Carretero",
+        "Juan C. Nogales"
+      ],
+      "duracion": 100,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10748454701810",
+      "okru_id": "10748454701810"
+    },
+    {
+      "w": "okru-11629326895858",
+      "n": "Ambición",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/aPKS9h7JPTIEDrjLlp8hvmHcZSl.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0122901",
+      "tmdb_id": 316902,
+      "year": 1939,
+      "sinopsis": "Argentinos en París, sueños bañados en champán y mujeres de vida ligera. Todo vale para alcanzar la gloria, incluso olvidar un viejo amor. Adaptación de la obra \"Risas y lágrimas\" de Michael Allard",
+      "direccion": "Adelqui Migliar",
+      "elenco": [
+        "Floren Delbene",
+        "Alberto Anchart",
+        "Mercedes Simone",
+        "Fanny Navarro",
+        "Carlos Perelli",
+        "Mary Parets",
+        "Rafael Frontaura",
+        "Elsa Martínez"
+      ],
+      "duracion": 87,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11629326895858",
+      "okru_id": "11629326895858"
+    },
+    {
+      "w": "okru-11754600991474",
+      "n": "La quinta calumnia",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/migc7z1USWBwrsGNUVRbzFc5iv1.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia"
+      ],
+      "imdb_id": "tt0192502",
+      "tmdb_id": 962307,
+      "year": 1941,
+      "sinopsis": "Una enorme tienda de Buenos Aires está a punto de cerrar debido a las restricciones sobre las importaciones. El dueño de la tienda regresa de unas vacaciones en Francia, y en conocimiento de la situación financiera procede a hacer una gran fiesta de gala. Contrata a un hombre que había conocido en el extranjero para hacerse pasar por un falso conde, con la esperanza de atraer a clientes adinerados",
+      "direccion": "Adelqui Migliar",
+      "elenco": [
+        "Alí Salem de Baraja",
+        "Alberto Anchart",
+        "Vicente Climent",
+        "Mario Baroffio",
+        "Alberto Terrones",
+        "Néstor Deval",
+        "César Fiaschi",
+        "Héctor Coire"
+      ],
+      "duracion": 80,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11754600991474",
+      "okru_id": "11754600991474"
+    },
+    {
+      "w": "okru-8029648128754",
+      "n": "Un lugar en el mundo",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/6mZ5HWapYvTdA1ABNaSLZFqnoW7.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0104774",
+      "tmdb_id": 32635,
+      "year": 1992,
+      "sinopsis": "Ernesto hace un viaje a la provincia argentina de San Luis, a un remoto pueblo en un valle puntano, para recordar su infancia y las circunstancias que han determinado su vida: sus padres se habían exiliado voluntariamente de Buenos Aires para vivir en una comunidad campesina. La llegada de un geólogo español, contratado por el cacique local para buscar petróleo, representa una amenaza para la forma de vida de los campesinos",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Federico Luppi",
+        "Gastón Batyi",
+        "José Sacristán",
+        "Cecilia Roth",
+        "Leonor Benedetto",
+        "Rodolfo Ranni",
+        "Hugo Arana",
+        "Nathalie Poza"
+      ],
+      "duracion": 120,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8029648128754",
+      "okru_id": "8029648128754"
+    },
+    {
+      "w": "okru-8029651012338",
+      "n": "Martín (Hache)",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/ismVb0btyFH9aNTJxo6CpbgBk7W.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0119626",
+      "tmdb_id": 43429,
+      "year": 1997,
+      "sinopsis": "Martín Echenique (Federico Luppi) es un director de cine argentino que lleva más de veinte años viviendo en Madrid. Detesta su país y se niega a recrearse en la nostalgia. Su hijo, al que todos llaman Hache (Juan Diego Botto), tiene 19 años y vive en Buenos Aires con su madre. Ni estudia ni trabaja; callejea y toca su guitarra eléctrica. Después de cinco años sin verse, vuelven a encontrarse en Buenos Aires cuando Hache sufre una sobredosis. La exmujer de Martín propone que el chico viva con su ",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Federico Luppi",
+        "Juan Diego Botto",
+        "Eusebio Poncela",
+        "Cecilia Roth",
+        "Ana María Picchio",
+        "Sancho Gracia",
+        "José María Sacristán",
+        "Joaquin A. Colmenares"
+      ],
+      "duracion": 134,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8029651012338",
+      "okru_id": "8029651012338"
+    },
+    {
+      "w": "okru-8082431150834",
+      "n": "La ley de la frontera",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/asF3zo1at4td3lBC8TlfF0sBgwV.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Aventura"
+      ],
+      "imdb_id": "tt0113647",
+      "tmdb_id": 423175,
+      "year": 1995,
+      "sinopsis": "Transcurre el año 1900 y en ambos lados de la frontera gallego-portuguesa nacen dos niños: João es portugués y está destinado a vestir hábitos, mientras que Xan es gallego y lo que le espera es trabajar duro como su padre. Veintitantos años después los dos huyen de sus respectivos destinos y sus vidas se reencuentran en la frontera, sucediéndoles numerosas aventuras en la que se encontrarán con una bella periodista americana y un legendario bandido",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Pere Ponce",
+        "Aitana Sánchez-Gijón",
+        "Achero Mañas",
+        "Federico Luppi",
+        "Tito Valverde",
+        "Agustín González",
+        "Enrique San Francisco",
+        "Tony Zenet"
+      ],
+      "duracion": 117,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8082431150834",
+      "okru_id": "8082431150834"
+    },
+    {
+      "w": "okru-9877215251186",
+      "n": "Tiempo de revancha",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/lJK4GKGKqr6v6RfkXOdqkEKKKwk.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "imdb_id": "tt0083203",
+      "tmdb_id": 43428,
+      "year": 1981,
+      "sinopsis": "El ex-sindicalista Pedro Bengoa, previa \"limpieza\" de su pasado, consigue trabajo en las minas de la empresa Tulsaco, donde se reencuentra con un antiguo compañero quien, pasado algún tiempo, le propone un plan: simular un accidente y hacerse pasar por mudo para cobrar una indemnización",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Federico Luppi",
+        "Haydée Padilla",
+        "Ulises Dumont",
+        "Aldo Barbero",
+        "Rodolfo Ranni",
+        "Arturo Maly",
+        "Enrique Liporace",
+        "Julio De Grazia"
+      ],
+      "duracion": 108,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9877215251186",
+      "okru_id": "9877215251186"
+    },
+    {
+      "w": "okru-8111037680370",
+      "n": "Últimos días de la víctima",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/ctRPbhNzihncgtrQpOHAwNLkLGi.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Suspense"
+      ],
+      "imdb_id": "tt0084965",
+      "tmdb_id": 265626,
+      "year": 1982,
+      "sinopsis": "A Mendizábal, un asesino a sueldo, sus anónimos clientes le ordenan un nuevo asesinato. Pero en la persecución, precisa y obsesiva, descubrirá que solo forma parte de un juego que no le pertenece, de una cadena al servicio de intereses mayores",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Federico Luppi",
+        "Soledad Silveyra",
+        "Ulises Dumont",
+        "Julio De Grazia",
+        "Arturo Maly",
+        "Elena Tasisto",
+        "Enrique Liporace",
+        "China Zorrilla"
+      ],
+      "duracion": 94,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8111037680370",
+      "okru_id": "8111037680370"
+    },
+    {
+      "w": "okru-8113479617266",
+      "n": "La parte del león",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/r4Ih9CUXFIQ01XiOiZhxTmal1h0.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Crimen",
+        "Drama",
+        "Acción"
+      ],
+      "imdb_id": "tt0078059",
+      "tmdb_id": 215868,
+      "year": 1978,
+      "sinopsis": "Historia de un hombre común y corriente que, por casualidad, toma posesión del dinero que fue robado de un banco, creyendo que así podrá solucionar todos sus problemas",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Julio De Grazia",
+        "Luisina Brando",
+        "Fernanda Mistral",
+        "Beba Bidart",
+        "Ulises Dumont",
+        "Arturo Maly",
+        "Julio Chávez",
+        "Cecilia Padilla"
+      ],
+      "duracion": 85,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8113479617266",
+      "okru_id": "8113479617266"
+    },
+    {
+      "w": "okru-8119894215410",
+      "n": "Roma",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/umwZzQUp20FSyLQk2BfZQixqMr1.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Historia",
+        "Romance",
+        "Misterio"
+      ],
+      "imdb_id": "tt0383862",
+      "tmdb_id": 43432,
+      "year": 2004,
+      "sinopsis": "La irrupción del periodista Manuel Cueto en la vida del escritor Joaquín Góñez, a instancias de la editorial para la que Joaquín está escribiendo su último libro, provocará un gran desasosiego en la solitaria vida de este hombre que vive de espaldas al mundo y rehuye sus propios recuerdos. Acostumbrado a la soledad, el encuentro con el joven periodista despertará en él emociones olvidadas que lo transportan a la época de su niñez y a su locos años de juventud en Buenos Aires: los errores de la i",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Juan Diego Botto",
+        "Susú Pecoraro",
+        "José Sacristán",
+        "Vando Villamil",
+        "Gustavo Garzón",
+        "Marcela Kloosterboer",
+        "Maxi Ghione",
+        "Marina Glezer"
+      ],
+      "duracion": 148,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8119894215410",
+      "okru_id": "8119894215410"
+    },
+    {
+      "w": "okru-8120108649202",
+      "n": "The Stranger",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/aj9st3XDxHUM8fVFsZq8GnyPSeQ.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Suspense"
+      ],
+      "imdb_id": "tt0137291",
+      "tmdb_id": 275729,
+      "year": 1987,
+      "sinopsis": "Tras presenciar un asesinato, Alice Kildee (Bonnie Bedelia) se ve envuelta en un accidente de coche. La mujer despierta en un hospital sin acordarse de nada, y al poco tiempo la mujer, que sigue con amnesia, comienza a ser acechada por unos asesinos. Su psicólogo decide llevar a cabo su propia investigación",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Bonnie Bedelia",
+        "Peter Riegert",
+        "Barry Primus",
+        "David Spielberg",
+        "Marcos Woinsky",
+        "Cecilia Roth",
+        "Jacques Arndt",
+        "Ricardo Darín"
+      ],
+      "duracion": 93,
+      "pais": "Estados Unidos",
+      "okru_url": "https://ok.ru/video/8120108649202",
+      "okru_id": "8120108649202"
+    },
+    {
+      "w": "okru-8439699409650",
+      "n": "Lugares comunes",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/twVLWw7okT2s6Wnn82Hsazl5EUa.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0329330",
+      "tmdb_id": 32546,
+      "year": 2002,
+      "sinopsis": "Fernando Robles (Federico Luppi) es porteño, ya ha cumplido los sesenta y es profesor de literatura en la universidad. Enseña a enseñar. Lleva toda la vida casado con Liliana Rovira (Mercedes Sampietro), española, hija de catalanes, que trabaja como asistente social en barrios marginales de Buenos Aires. Se quieren, se respetan, son leales. Nunca se aburren estando juntos, les gusta estar solos. Se conocen profundamente, se aceptan, se pelean sin odio, se divierten. Son amantes, socios, amigos, ",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Federico Luppi",
+        "Mercedes Sampietro",
+        "Arturo Puig",
+        "Carlos Santamaría",
+        "Valentina Bassi",
+        "Claudio Rissi",
+        "Osvaldo Santoro",
+        "José Luis Alfonzo"
+      ],
+      "duracion": 108,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8439699409650",
+      "okru_id": "8439699409650"
+    },
+    {
+      "w": "okru-9056843664114",
+      "n": "La discoteca del amor",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/r6E7UkDyJDRhONOTxp2T3COAUwV.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia",
+        "Suspense"
+      ],
+      "imdb_id": "tt0080633",
+      "tmdb_id": 475817,
+      "year": 1980,
+      "sinopsis": "Los directivos de una compañía grabadora descubren que sus canciones son pirateadas. Un detective y su ayudante salen a la búsqueda de la banda de delincuentes involucrada en el delito",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Cacho Castaña",
+        "Mónica Gonzaga",
+        "Ricardo Darín",
+        "Stella Maris Lanzani",
+        "Carlos del Burgo",
+        "Silvia Pérez",
+        "Sergio Velasco Ferrero",
+        "Arturo Maly"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9056843664114",
+      "okru_id": "9056843664114"
+    },
+    {
+      "w": "okru-9597223832306",
+      "n": "La playa del amor",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/wbSH96VeIy3KA3uVjKwIJcfdwa9.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Romance",
+        "Comedia"
+      ],
+      "imdb_id": "tt0081343",
+      "tmdb_id": 484880,
+      "year": 1979,
+      "sinopsis": "Un muchacho es llevado por su hermano y su amigo a una playa para que olvide a su novia",
+      "direccion": "Adolfo Aristarain",
+      "elenco": [
+        "Ricardo Darín",
+        "Cacho Castaña",
+        "Carlos Torres Vila",
+        "Mónica Gonzaga",
+        "Alejandra Aquino",
+        "Jorgelina Aranda",
+        "Adolfo Aristarain",
+        "Ángela Carrasco"
+      ],
+      "duracion": 86,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9597223832306",
+      "okru_id": "9597223832306"
+    },
+    {
+      "w": "okru-13250365688562",
+      "n": "Sin alma ni tiempo",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/6sN9izitJJtP6qY6G27KpIw2hz9.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Argentina"
+      ],
+      "imdb_id": "tt36095116",
+      "tmdb_id": 1221953,
+      "year": 1981,
+      "sinopsis": "En un tiempo presente irreal, un hombre originario de América del Sur, sueña la persecución permanente de su cultura. Reflexión sobre la posible pérdida de identidad",
+      "direccion": "Adolfo Nicolás Somavilla",
+      "elenco": [
+        "Walter Vidarte",
+        "Raúl Fraire",
+        "César Cossio",
+        "Colectivo Acua"
+      ],
+      "duracion": 10,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/13250365688562",
+      "okru_id": "13250365688562"
+    },
+    {
+      "w": "okru-10241198459634",
+      "n": "Las olas",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/rdVLkDmvazqHbrgMhApEyu3EK5T.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Comedia",
+        "Aventura"
+      ],
+      "imdb_id": "tt6107572",
+      "tmdb_id": 417434,
+      "year": 2017,
+      "sinopsis": "Alfonso sale de trabajar y va al mar. Se sumerge en el agua y nada. Emerge en una playa donde estuvo de vacaciones con su familia cinco años atrás. Allí comienza un viaje fantástico por diferentes veranos y balnearios en los que estuvo a lo largo de su vida: de niño con sus padres, en una isla misteriosa con su ex esposa, de adolescente con sus amigos, con piratas de la Malasia y acampando en el mismo lugar con dos novias diferentes en dos años consecutivos",
+      "direccion": "Adrián Biniez",
+      "elenco": [
+        "Alfonso Tort",
+        "Fabiana Charlo",
+        "Carlos Lissardy",
+        "Julieta Zylberberg"
+      ],
+      "duracion": 91,
+      "pais": "Uruguay",
+      "okru_url": "https://ok.ru/video/10241198459634",
+      "okru_id": "10241198459634"
+    },
+    {
+      "w": "okru-10424896785138",
+      "n": "Mujeres elefante",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/4wEDIXD5MJtJg5swyIyACu58uTV.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt1016207",
+      "tmdb_id": 488233,
+      "year": 2007,
+      "sinopsis": "Una fábrica, siete mujeres que se reparten los arquetípicos roles propios del mundo del trabajo y miles de elefantes que invaden la ciudad en búsqueda de alimentos y, quizás, de venganza. Una Buenos Aires sitiada es el escenario en el que transcurre este relato de género inclasificable, aunque de gran eficacia para trazar una risueña caracterización de los distintos tipos femeninos. Entre sueño, delirio y realidad, siempre al borde de un absurdo que no elude la crítica social, Muscari y Caetano ",
+      "direccion": "Adrián Caetano, José María Muscari",
+      "elenco": [
+        "Jimena Anganuzzi",
+        "Mimí Ardú",
+        "Lola Berthet",
+        "Celeste Cid",
+        "Carolina Fal",
+        "Julieta Vallina",
+        "Stella Galazzi"
+      ],
+      "duracion": 71,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10424896785138",
+      "okru_id": "10424896785138"
+    },
+    {
+      "w": "okru-9914360990450",
+      "n": "Habitaciones para turistas",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/2kYg1VwoWDDUFHQjvJ1afSKJWW4.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Terror"
+      ],
+      "imdb_id": "tt0286669",
+      "tmdb_id": 121022,
+      "year": 2004,
+      "sinopsis": "Cinco chicas de ciudad deberán pasar la noche en un aislado pueblo del interior de la provincia de Buenos Aires, donde descubrirán más de lo que la carne y los huesos pueden soportar: el lado más violento de la hospitalidad local",
+      "direccion": "Adrián García Bogliano",
+      "elenco": [
+        "Jimena Krouco",
+        "Elena Siritto",
+        "Mariela Mujica",
+        "Brenda Vera",
+        "Victoria Witemburg"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9914360990450",
+      "okru_id": "9914360990450"
+    },
+    {
+      "w": "okru-10271957715698",
+      "n": "Sudor frío",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/8ik0YexoLU5ZjCMrpsLvNkSis5A.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Terror",
+        "Acción",
+        "Suspense"
+      ],
+      "imdb_id": "tt1668212",
+      "tmdb_id": 65989,
+      "year": 2010,
+      "sinopsis": "Un joven en busca de su novia desaparecida. Una amiga incondicional dispuesta a todo para descubrir la verdad. Una investigación que culmina en una antigua casa. En su interior los esperan dos asesinos brutales, armados con veinticinco cajas de explosivos que estuvieron perdidos desde la última dictadura militar",
+      "direccion": "Adrián García Bogliano",
+      "elenco": [
+        "Pancho Mochi",
+        "Victoria Witemburg",
+        "Nicolás Marotta",
+        "Facundo Espinosa",
+        "Marina Glezer",
+        "Gabriel Bosisio",
+        "Camila Velasco",
+        "Omar Gioiosa"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10271957715698",
+      "okru_id": "10271957715698"
+    },
+    {
+      "w": "okru-8388679633650",
+      "n": "Masacre esta noche",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/dsnH283ypxvIqQ3zROPlj99qV1y.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Suspense"
+      ],
+      "imdb_id": "tt1470883",
+      "tmdb_id": 417975,
+      "year": 2009,
+      "sinopsis": "Es la historia de un camarógrafo freelance que durante una jornada de rodaje en una película pornográfica descubre que lo que creía iba a ser una jornada rutinaria de trabajo es en realidad la grabación de un film snuff. Entonces deberá tomar la decisión de ser partícipe del acto violento, o escapar y arriesgar todo para salvar la vida de la actriz",
+      "direccion": "Adrián García Bogliano, Ramiro García Bogliano",
+      "elenco": [
+        "Jorge Pinarello",
+        "Federico Aimetta",
+        "Diego Cremonesi",
+        "Rolf García Puga",
+        "Robertino Gioia",
+        "Diego Aroza",
+        "Natacha Méndez",
+        "Elena Siritto"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8388679633650",
+      "okru_id": "8388679633650"
+    },
+    {
+      "w": "okru-10074540215026",
+      "n": "Mazel Tov",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/j8EORyEJyVk7wSyUoy0bb4lVkuu.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Comedia"
+      ],
+      "imdb_id": "tt35727965",
+      "tmdb_id": 1339374,
+      "year": 2025,
+      "sinopsis": "Cuando Darío Roitman regresa de los Estados Unidos a Argentina para asistir a una boda familiar y un Bat Mitzvah, se enfrenta a un inesperado giro del destino: la muerte de su padre. Lo que comienza como un viaje planeado para reuniones festivas se convierte en una montaña rusa emocional llena de viejas heridas, rivalidades entre hermanos y momentos hilarantes que sólo una familia puede ofrecer.  Entre el dolor y la celebración, los Roitman intentarán encontrar un equilibrio entre tradición y re",
+      "direccion": "Adrián Suar",
+      "elenco": [
+        "Adrián Suar",
+        "Fernán Mirás",
+        "Natalie Pérez",
+        "Benjamín Rojas",
+        "Alberto Ajaka",
+        "Lorena Vega",
+        "Guillermo Arengo",
+        "Esteban Bigliardi"
+      ],
+      "duracion": 97,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10074540215026",
+      "okru_id": "10074540215026"
+    },
+    {
+      "w": "okru-11797230586610",
+      "n": "Errante: La conquista del hogar",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/szVHAP1Es5sTFCQKFxpufVCbFXh.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt27470863",
+      "tmdb_id": 898277,
+      "year": 2022,
+      "sinopsis": "Entre enero de 2019 y mayo de 2020, Adriana Lestido emprendió un viaje, sin compañía ni asistencia alguna, por el círculo polar ártico y por las islas Svalbard, una gélida e inhóspita región que comparten Noruega e Islandia. Durante esos meses la fotógrafa argentina registró, en todo su esplendor, un ecosistema todavía desconocido. En ese desierto blanco, lo inabarcable, lo enigmático y lo melancólico se funden con las elegantes imágenes fijas que se apoderan de gran parte de la película",
+      "direccion": "Adriana Lestido",
+      "elenco": [],
+      "duracion": 77,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11797230586610",
+      "okru_id": "11797230586610"
+    },
+    {
+      "w": "okru-14419344558834",
+      "n": "Bronces en Isla Verde",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/ddzBWP0RZJzhTCihKDgxW6EbGCh.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt3716278",
+      "tmdb_id": 741784,
+      "year": 2015,
+      "sinopsis": "En un pequeñísimo pueblo del interior de Argentina, un grupo de voluntarios formado por Juan, el peluquero, su hijo Luis, trompetista, los músicos Lucía y Ximena, una pareja de cocineros, amigos, parientes y vecinos, llevan adelante un festival internacional de música de bronces",
+      "direccion": "Adriana Yurcovich",
+      "elenco": [],
+      "duracion": 88,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/14419344558834",
+      "okru_id": "14419344558834"
+    },
+    {
+      "w": "okru-10241198197490",
+      "n": "Mari",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/AqmsCW8YE0BV52ZDkgbA853JfL2.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt15420280",
+      "tmdb_id": 804791,
+      "year": 2021,
+      "sinopsis": "Mari es empleada doméstica; es una mujer como cualquier otra, pero también es única. Esta película va descubriendo con una precisión asombrosa las capas de su singularidad y sus intentos para emanciparse, construirse a sí misma y, quizás, dejar atrás un pasado traumático",
+      "direccion": "Adriana Yurcovich, Mariana Turkieh",
+      "elenco": [],
+      "duracion": 81,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10241198197490",
+      "okru_id": "10241198197490"
+    },
+    {
+      "w": "okru-9759551785714",
+      "n": "La utilidad de un revistero",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/biD2B0Llp0OTLqmu0wYCACTwXs4.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Argentina"
+      ],
+      "imdb_id": "tt3342296",
+      "tmdb_id": 525396,
+      "year": 2013,
+      "sinopsis": "Posicionándose en los bordes del cine experimental, la película propone un juego narrativo y audiovisual, a través de un uso del espacio poco convencional",
+      "direccion": "Adriano Salgado",
+      "elenco": [
+        "María Ucedo",
+        "Yanina Gruden"
+      ],
+      "duracion": 115,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9759551785714",
+      "okru_id": "9759551785714"
+    },
+    {
+      "w": "okru-11255049816818",
+      "n": "El espacio que ocupo",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/dP0AwMflINvstkwQRZKY9HIoN3x.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "",
+      "tmdb_id": 1197831,
+      "year": 2023,
+      "sinopsis": "¿Cuáles son los mandatos heredados que cargan las mujeres? La directora se esconde detrás de la cámara, pero filmando a las mujeres de su familia construye una imagen de sí misma",
+      "direccion": "Agostina Gianini",
+      "elenco": [],
+      "duracion": null,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11255049816818",
+      "okru_id": "11255049816818"
+    },
+    {
+      "w": "okru-9857276840690",
+      "n": "El santo",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/eBMA4wyg59Jox7gXLOLsrpRjXJR.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt27520543",
+      "tmdb_id": 1087420,
+      "year": 2023,
+      "sinopsis": "Rubén es un curandero con un pasar humilde que atiende sus pacientes en un pequeño comercial donde también vive. Su fama es moderada, pero no sus técnicas de curación, que son extravagantes y perturbadoras. Con la aparición de Benjamín, su suerte cambiará: se volverá popular y generará un culto en torno a él, que irá creciendo y convirtiéndose en santo a los ojos del resto. Pero esa fama terminará siendo su propio infierno",
+      "direccion": "Agustín Carbonere",
+      "elenco": [
+        "Roberto Suárez",
+        "Elisa Carricajo",
+        "Benjamín Mateos",
+        "Claudio Da Passano",
+        "José Fogwill"
+      ],
+      "duracion": 86,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9857276840690",
+      "okru_id": "9857276840690"
+    },
+    {
+      "w": "okru-10093563939570",
+      "n": "Hace mucho que no duermo",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/vk02cCxL8GgXEAlx4HsvToU7ZZ.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia"
+      ],
+      "imdb_id": "tt23036192",
+      "tmdb_id": 1040618,
+      "year": 2022,
+      "sinopsis": "Como siguiendo un trazado codificado, una mochila pasa de mano en mano entre runners, pasajeros de colectivos, motoqueros y automovilistas, hasta finalmente caer por error en las desatentas manos de un insomne, un hombre gris que parece fuera de todo tiempo y lugar, y que sin saber bien por qué decide escapar con el botín",
+      "direccion": "Agustín Godoy",
+      "elenco": [
+        "Agustín Gagliardi",
+        "Agustina Rudi",
+        "Ailín Salas",
+        "Marcelo Pozzi",
+        "Mateo Pérez",
+        "Ana Julia Catalá",
+        "William Prociuk",
+        "Carla Di Grazia"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10093563939570",
+      "okru_id": "10093563939570"
+    },
+    {
+      "w": "okru-9478659181298",
+      "n": "Una jaula no tiene secretos",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/ejzE5cipXwPMhgvZRe8lOeoRaR4.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia"
+      ],
+      "imdb_id": "tt0056115",
+      "tmdb_id": 580577,
+      "year": 1962,
+      "sinopsis": "El día de Nochevieja, nueve personas se quedan atrapadas en un ascensor de un edificio de oficinas. Todos tienen muchas cosas que hacer y se las van encargando por turnos a un hombre. A medida que pasa el tiempo, la conversación es cada vez más fluida y acaban haciéndose buenos amigos",
+      "direccion": "Agustín Navarro",
+      "elenco": [
+        "Luis Tasca",
+        "Alberto Olmedo",
+        "Nuria Torray",
+        "Rodolfo Onetto",
+        "Nathán Pinzón",
+        "Pablo Moret",
+        "Luis Rodrigo",
+        "Alejandro Maximino"
+      ],
+      "duracion": 80,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9478659181298",
+      "okru_id": "9478659181298"
+    },
+    {
+      "w": "okru-9765839833842",
+      "n": "Torino",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/w0KwDYbevMX58gFD5nHWcb5xhMt.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Argentina"
+      ],
+      "imdb_id": "tt1645166",
+      "tmdb_id": 698439,
+      "year": 2010,
+      "sinopsis": "El Torino (fabricado entre 1966 y 1982) es el coche argentino por excelencia, un objeto de veneración fierrera para no pocos amantes de los autos (es más, incluso se dice que los argentinos son particularmente amantes de los autos). El Torino es también la imagen de una Argentina industriosa, vital y pujante del pasado. Rolandelli quiere contar todo eso y más cosas también, como la mítica carrera de Nürburgring en Alemania o las performances del Torino en el Turismo Carretera. Torino es una pelí",
+      "direccion": "Agustín Rolandelli",
+      "elenco": [],
+      "duracion": 79,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9765839833842",
+      "okru_id": "9765839833842"
+    },
+    {
+      "w": "okru-11198443621106",
+      "n": "Weekend",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/mfg4zmnC12tzRHRgc7ufkQiHBKT.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia",
+        "Drama"
+      ],
+      "imdb_id": "tt32582779",
+      "tmdb_id": 912044,
+      "year": 2024,
+      "sinopsis": "En un último intento por salvar su relación, él y ella escapan a una casa en una isla en lo profundo de la naturaleza salvaje. Lo que comienza como un romántico fin de semana pronto se desmorona cuando una discusión trivial desata una espiral de violencia alimentada por celos y pasiones desbordadas, con la selva como testigo de sus instintos",
+      "direccion": "Agustín Rolandelli",
+      "elenco": [
+        "Jazmín Stuart",
+        "Rafael Spregelburd",
+        "Jorge Prado"
+      ],
+      "duracion": 84,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11198443621106",
+      "okru_id": "11198443621106"
+    },
+    {
+      "w": "okru-9818301729522",
+      "n": "En vos confío",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/vxLngbgN7a2KcL1JUXumkg39RW4.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt27160117",
+      "tmdb_id": 1087416,
+      "year": 2023,
+      "sinopsis": "Desde el 2006, Susana y Nélida, las protagonistas de esta historia están presas en la Cárcel de Mujeres de Tucumán. Se las acusa de un crimen del que ellas dicen ser inocentes. Las condenaron a 20 años de prisión como responsables de la desaparición de una docente amiga de ellas, Beatriz Argañaraz, cuyo cuerpo jamás apareció. Susana y Nélida siguen rezando todos los días para que el cuerpo aparezca y el misterio se resuelva. Mientras tanto sus vidas cambiaron rotundamente en los últimos 16 años ",
+      "direccion": "Agustín Toscano",
+      "elenco": [],
+      "duracion": 84,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9818301729522",
+      "okru_id": "9818301729522"
+    },
+    {
+      "w": "okru-10680484825842",
+      "n": "El motoarrebatador",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/2nudobVltqXm3BOuI90h1uDLp6d.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt8266010",
+      "tmdb_id": 518749,
+      "year": 2018,
+      "sinopsis": "Narra la historia de un ladrón, quien tras golpear brutalmente a una señora mayor para arrebatarle la cartera, intenta redimir el daño que hizo. Pero su pasado de motoarrebatador lo persigue, impidiéndole comenzar una nueva vida",
+      "direccion": "Agustín Toscano",
+      "elenco": [
+        "Sergio Prina",
+        "Liliana Juárez",
+        "Daniel Elías",
+        "León Zelarayán",
+        "Pilar Benítez Vibart",
+        "Mirella Pascual",
+        "Camila Plaate",
+        "Pablo Ríos"
+      ],
+      "duracion": 94,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10680484825842",
+      "okru_id": "10680484825842"
+    },
+    {
+      "w": "okru-8104688945906",
+      "n": "El silencio es un cuerpo que cae",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/iQrsPKVtqP5OtCuxeUpZ6qtieK7.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt7795132",
+      "tmdb_id": 518776,
+      "year": 2017,
+      "sinopsis": "Detrás de la cámara que captura fiestas y vacaciones familiares, hay un hombre. Es el padre de Agustina, la directora de este documental que, a partir de películas caseras en 8mm y VHS, explora un pasado personal y a su vez descubre en sus pliegues el retrato político y social de una época",
+      "direccion": "Agustina Comedi",
+      "elenco": [
+        "Agustina Comedi",
+        "Jaime Comedi",
+        "La Delpi",
+        "Susana Palomas"
+      ],
+      "duracion": 72,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8104688945906",
+      "okru_id": "8104688945906"
+    },
+    {
+      "w": "okru-10235272825586",
+      "n": "Playback: Ensayo de una despedida",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/tBWiDiOBAXly4IHMMkCQtV7A66O.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt11879572",
+      "tmdb_id": 647568,
+      "year": 2019,
+      "sinopsis": "Lejos de la capital argentina, en Córdoba, el final de la dictadura augura una primavera que durará muy poco. La Delpi es la única sobreviviente de un grupo de travestis y transformistas, que hacia fines de los 80 empezaban a morir, una tras otra, de sida. En una ciudad católica y de provincia, el Grupo Kalas hizo de los playbacks y de los vestidos improvisados su arma y su trinchera. Hoy las imágenes de un archivo único e inédito son una carta de despedida, un manifiesto a la amistad",
+      "direccion": "Agustina Comedi",
+      "elenco": [
+        "Marcos García",
+        "La Delpi",
+        "Martín Shanly",
+        "Marcos Caceres",
+        "Dana Colazo"
+      ],
+      "duracion": 14,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10235272825586",
+      "okru_id": "10235272825586"
+    },
+    {
+      "w": "okru-11404729846514",
+      "n": "Miss Carbón",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/fOqlr3OXH5H4eFtfkf1ykWTLgCA.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt32832410",
+      "tmdb_id": 1321656,
+      "year": 2025,
+      "sinopsis": "Miss Carbón narra la historia real de Carla Antonella Rodríguez, la primera mujer trans en trabajar en la minería en una región de Argentina donde esa labor estaba prohibida para mujeres",
+      "direccion": "Agustina Macri",
+      "elenco": [
+        "Lux Pascal",
+        "Paco León",
+        "Laura Grandinetti",
+        "Romina Escobar",
+        "Gabriela Pastor",
+        "Simone Mercado",
+        "Federico Marzullo",
+        "Agostina Innella"
+      ],
+      "duracion": 96,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11404729846514",
+      "okru_id": "11404729846514"
+    },
+    {
+      "w": "okru-9546458335986",
+      "n": "Beatriz Portinari",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/4H7Z1vGfZAqRdMj6G1e78sXSH0y.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt2801512",
+      "tmdb_id": 674842,
+      "year": 2013,
+      "sinopsis": "A Aurora Venturini no le caben definiciones. Su vida es un compendio de varias vidas llenas de historias fascinantes, algunas reales y otras no. Escuchar hablar a Aurora a los 91 años es placentero: a pesar de ese cuerpo frágil con el que carga, su mente es jovial, audaz, irónica, y muy sagaz. No tiene paciencia, no parecen gustarle las cámaras, en realidad nada tecnológico parece agradarle: dice sin ninguna vergüenza que está esperando el día para destruir su computadora. Sus amigos y conocidos",
+      "direccion": "Agustina Massa, Fernando Krapp",
+      "elenco": [],
+      "duracion": 76,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9546458335986",
+      "okru_id": "9546458335986"
+    },
+    {
+      "w": "okru-9765838785266",
+      "n": "Nuestra sombra",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/du3YCGeNdRK09usVrEWEGKt2gdp.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt32129625",
+      "tmdb_id": 1275379,
+      "year": 2024,
+      "sinopsis": "En algún lugar de Argentina, mientras se prevé un eclipse de sol y el bosque circundante sigue siendo devastado por la tala de árboles, sólo quedan unas pocas mujeres y un niño pequeño para valerse por sí mismos. Cuando todo se derrumba, uno se aferra al menor atisbo de vitalidad",
+      "direccion": "Agustina Sánchez Gavier",
+      "elenco": [
+        "Marcia Majcher",
+        "Liliana Ojeda",
+        "Leon Kallsten",
+        "Ana Sedoff",
+        "Lorena Larrondo",
+        "Nino Barboza"
+      ],
+      "duracion": 20,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9765838785266",
+      "okru_id": "9765838785266"
+    },
+    {
+      "w": "okru-10062142638834",
+      "n": "La rabia",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/rjQZdYXj7fqAyhGnXJT6dZWlY3R.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt1173744",
+      "tmdb_id": 83748,
+      "year": 2008,
+      "sinopsis": "Una tragedia que tiene lugar en la árida pampa argentina: el adulterio, el odio y varias diferencias acaban en una explosión de rabia y violencia que destroza a dos familias. Cuando Poldo se percata de que su gran camarada, el granjero Pichón, ha ofendido a la pequeña Nati, su hija muda, decide romper por completo la relación que tenían. Poldo también prohíbe a su mujer que vea a Pichón, sin sospechar que ambos mantienen una relación amorosa",
+      "direccion": "Albertina Carri",
+      "elenco": [
+        "Analía Couceyro",
+        "Víctor Hugo Carrizo",
+        "Nazarena Duarte",
+        "Dalma Maradona",
+        "Gonzalo Pérez",
+        "Javier Lorenzo"
+      ],
+      "duracion": 87,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10062142638834",
+      "okru_id": "10062142638834"
+    },
+    {
+      "w": "okru-8052159417074",
+      "n": "No quiero volver a casa",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/daiQx0T1YcldnXsTyoLCXyIp3oa.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0283510",
+      "tmdb_id": 408779,
+      "year": 2000,
+      "sinopsis": "Es la historia de dos familias atravesadas por un asesinato. La familia de Rubén, un joven de 25 años sin ningún objetivo, y la de Ricardo, un empresario decadente con problemas irreconciliables con su socio y cuñado. Susana, una prostituta, será el vínculo entre estas dos familias",
+      "direccion": "Albertina Carri",
+      "elenco": [
+        "Martín Churba",
+        "Manuel Callau",
+        "Analía Couceyro",
+        "Fabiana Falcón",
+        "Luis Ziembrowski",
+        "Márgara Alonso"
+      ],
+      "duracion": 74,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8052159417074",
+      "okru_id": "8052159417074"
+    },
+    {
+      "w": "okru-8064038013682",
+      "n": "Los rubios",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/vRrjM2ieeV91H3V3oX9EZ6eyBwE.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt0319307",
+      "tmdb_id": 193302,
+      "year": 2003,
+      "sinopsis": "'Los rubios' es un recorrido por diversos estados de la memoria a partir de la ausencia de los padres de la protagonista. Fragmentos, fantasías, relatos y fotos dan forma a una realidad que pertenece al pasado y se proyecta en el presente. Un equipo de filmación a la deriva, una actriz y unos clicks de Playmobil felices construyen el universo fracturado en que la protagonista descubre una y otra vez lo imposible de la memoria",
+      "direccion": "Albertina Carri",
+      "elenco": [
+        "Analía Couceyro",
+        "Albertina Carri",
+        "Santiago Giralt",
+        "Jesica Suárez",
+        "Marcelo Zanelli"
+      ],
+      "duracion": 89,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8064038013682",
+      "okru_id": "8064038013682"
+    },
+    {
+      "w": "okru-8104688421618",
+      "n": "Cuatreros",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/4ZcVaQ2slANbKsrDTN6co57Kwhx.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt6305774",
+      "tmdb_id": 440132,
+      "year": 2016,
+      "sinopsis": "Voy tras los pasos de Isidro Velázquez, el último gauchillo alzado de la Argentina y, como la búsqueda del tiempo perdido siempre es errática, ¿voy realmente tras los pasos de ese fugitivo de la justicia burguesa? ¿O es que voy tras mis pasos, tras mi herencia? Viajo a Chaco, a Cuba, busco una película desaparecida, busco en archivos fílmicos cuerpos en movimientos que me devuelvan algo de lo que se fue muy temprano. ¿Qué busco? Busco películas, también una familia, una de vivos, una de muertos;",
+      "direccion": "Albertina Carri",
+      "elenco": [
+        "Albertina Carri"
+      ],
+      "duracion": 83,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8104688421618",
+      "okru_id": "8104688421618"
+    },
+    {
+      "w": "okru-8220785314546",
+      "n": "Geminis",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/HPE0E5ig1KvQ3jJZY4XdDAVB5h.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0366544",
+      "tmdb_id": 30688,
+      "year": 2005,
+      "sinopsis": "Meme y Jeremías viven rodeados de un entorno familiar disfuncional. A un padre casi ausente se le opone una estructura matriarcal manejada por una madre tan posesiva como dominadora. La confusión general se incrementa cuando llega al hogar Ezequiel, el hijo mayor residente en Barcelona, para celebrar su matrimonio con Montse. En medio del estrés y del vértigo de los festejos, va creciendo la pasión incontrolable entre los dos hermanos menores",
+      "direccion": "Albertina Carri",
+      "elenco": [
+        "Cristina Banegas",
+        "Daniel Fanego",
+        "María Abadi",
+        "Lucas Escariz",
+        "Damian Ramonda",
+        "Silvia Baylé",
+        "Julieta Zylberberg",
+        "Lucrecia Capello"
+      ],
+      "duracion": 85,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8220785314546",
+      "okru_id": "8220785314546"
+    },
+    {
+      "w": "okru-9826605992690",
+      "n": "Las hijas del fuego",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/tAX0OITUbq9waXPOJQwar9r2GZE.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt8805374",
+      "tmdb_id": 518997,
+      "year": 2019,
+      "sinopsis": "La nueva obra de Albertina Carri, con escenas de sexo explícito, escapa a cualquier intento de categorización, y desafía al espectador con una búsqueda tan explícita como tangible, la de sus protagonistas y su propia erótica en un mundo que desdeña el placer de los sentidos.",
+      "direccion": "Albertina Carri",
+      "elenco": [
+        "Rocío Zuviría",
+        "Mijal Katzowicz",
+        "Violeta Valiente",
+        "Rana Rzonscinsky",
+        "Canela M.",
+        "Ivo Colonna Olsen",
+        "Mar Morales",
+        "Carla Morales Ríos"
+      ],
+      "duracion": 115,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9826605992690",
+      "okru_id": "9826605992690"
+    },
+    {
+      "w": "okru-10074539035378",
+      "n": "Palabras ajenas",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/ewGR0ywlI1xD2fDiFDeApR0lZqH.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt43613707",
+      "tmdb_id": 1198149,
+      "year": 2023,
+      "sinopsis": "Realizado entre 2021 y 2022, el mediometraje homenajea la homónima obra del artista León Ferrari, un collage literario realizado entre 1965 y 1967 en el contexto de la guerra de Vietnam: replica su método a través de un montaje con archivos del encierro ocasionado por la pandemia. ¿Qué hacemos con los desechos de información que atraviesan nuestros cuerpos? A partir de esa interrogación, la cineasta compone una ecología de la imagen/archivo, reciclando los spams alienantes, banales, ridículos, d",
+      "direccion": "Albertina Carri",
+      "elenco": [],
+      "duracion": 45,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10074539035378",
+      "okru_id": "10074539035378"
+    },
+    {
+      "w": "okru-11797230521074",
+      "n": "¡Caigan las rosas blancas!",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/jwrjFmoLyR8F5jpJt2vUlBb5LpG.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia"
+      ],
+      "imdb_id": "tt18264016",
+      "tmdb_id": 848334,
+      "year": 2025,
+      "sinopsis": "Violeta, una joven directora de cine que hizo, alguna vez, junto a un grupo de amigas una película porno, lésbica y gozosa, es contratada para hacer una porno mainstream. Sus ideas sobre los sistemas de géneros -cinematográficos y sexuados- no le permiten llevar adelante la filmación. Parte con sus amigas actrices desde Buenos Aires hacia la cálida São Paulo. Nada la satisface, hasta lanzarse a nado al océano atlántico y encontrar una isla dónde nuevas y antiguas historias la reciben a través de",
+      "direccion": "Albertina Carri",
+      "elenco": [
+        "Carolina Alamino",
+        "Maru Marcet",
+        "Rocío Zuviría",
+        "Mijal Katzowicz",
+        "Luisa Gavasa"
+      ],
+      "duracion": 123,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11797230521074",
+      "okru_id": "11797230521074"
+    },
+    {
+      "w": "okru-10009360927474",
+      "n": "¿Ni vencedores ni vencidos?",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/bMEVMYZF2JZXmEaNnM4syqfXNpS.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt0358782",
+      "tmdb_id": 389167,
+      "year": 1972,
+      "sinopsis": "Documental político sobre el período que transcurre desde comienzos del siglo XX hasta 1955 con material de archivo del Archivo General de la Nación y del noticiero Sucesos Argentinos",
+      "direccion": "Alberto Cabado, Naum Spoliansky",
+      "elenco": [],
+      "duracion": 87,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10009360927474",
+      "okru_id": "10009360927474"
+    },
+    {
+      "w": "okru-9857276250866",
+      "n": "Muerte civil",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/ys9r96WirYQSf7DGzAnEOxVC1vd.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Argentina"
+      ],
+      "imdb_id": "tt0123180",
+      "tmdb_id": 864049,
+      "year": 1954,
+      "sinopsis": "A man convicted of killing his brother-in-law escaped from jail and when he found his daughter, he found out that he believed someone else was her father.",
+      "direccion": "Alberto D'Alversa",
+      "elenco": [
+        "Armando Bó",
+        "Diana Ingro",
+        "Carlos Perelli",
+        "Diana Myriam Jones",
+        "Alberto D'Alversa"
+      ],
+      "duracion": 70,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9857276250866",
+      "okru_id": "9857276250866"
+    },
+    {
+      "w": "okru-11182251903730",
+      "n": "Los hampones",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/aEW3tLkpXfW5RyJ4nZkKAj7OrI4.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Misterio"
+      ],
+      "imdb_id": "tt0190440",
+      "tmdb_id": 865735,
+      "year": 1955,
+      "sinopsis": "Una mujer le roba al jefe autoritario de una banda de delincuentes y luego se enamora de un compinche",
+      "direccion": "Alberto D’Aversa",
+      "elenco": [
+        "Golde Flami",
+        "Mario Cabré",
+        "Guillermo Battaglia",
+        "Noemí Laserre",
+        "Beto Gianola",
+        "Nino Persello",
+        "Elida Gay Palmer",
+        "Luis Orbegoso"
+      ],
+      "duracion": 78,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/11182251903730",
+      "okru_id": "11182251903730"
+    },
+    {
+      "w": "okru-9548083628786",
+      "n": "El gran amor de Bécquer",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/lvCmALgkvpzpuXU1TnAYXCdieOz.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0187086",
+      "tmdb_id": 484807,
+      "year": 1946,
+      "sinopsis": "Sobre la figura del famoso poeta romántico sevillano. Frente a su muerte, sus amigos lo recuerdan a él y al amor que fue el secreto de su vida",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Delia Garcés",
+        "Esteban Serrador",
+        "Vicente Ariño",
+        "Pedro Codina",
+        "Alberto Contreras Jr.",
+        "Josefina Díaz",
+        "Susana Freyre",
+        "Herminia Mas"
+      ],
+      "duracion": 72,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9548083628786",
+      "okru_id": "9548083628786"
+    },
+    {
+      "w": "okru-9679209695986",
+      "n": "La doctora quiere tangos",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/hpVKU3TS60zhi1yIGtrG5wwZ8aq.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Comedia",
+        "Música"
+      ],
+      "imdb_id": "tt0186966",
+      "tmdb_id": 573549,
+      "year": 1949,
+      "sinopsis": "Luisa Soler, una joven y adinerada abogada, viaja a la provincia de Buenos Aires junto a su tía Totona y ahí conoce a un humilde compositor de tangos, Martín Salazar. El encuentro entre ellos crea confusiones para la novia de éste y, tras varios momentos de tensión y fuertes discusiones, Martín le pide a Luisa que aclare la situación con su prometida. Pero cuando la abogada decide hacerlo algo cambia para los dos. Ambos se dan cuenta que se aman y que, más allá de las diferentes vidas que llevan",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Yeya Duciel",
+        "Gloria Ferrandiz",
+        "María Gámez",
+        "Mirtha Legrand",
+        "Diana Maggi",
+        "Claudio Martino",
+        "Felisa Mary",
+        "Mariano Mores"
+      ],
+      "duracion": 90,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9679209695986",
+      "okru_id": "9679209695986"
+    },
+    {
+      "w": "okru-9742345439986",
+      "n": "Rosa de América",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/aAoTsgshZIPWDViEt6XgJv45EH.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Comedia"
+      ],
+      "imdb_id": "tt0038872",
+      "tmdb_id": 484844,
+      "year": 1946,
+      "sinopsis": "Narra la vida de Santa Rosa de Lima",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Delia Garcés",
+        "Orestes Caviglia",
+        "Antonia Herrero",
+        "Ernesto Vilches",
+        "Elsa O'Connor",
+        "Enrique Diosdado",
+        "Josefina Díaz",
+        "Angelina Pagano"
+      ],
+      "duracion": 105,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9742345439986",
+      "okru_id": "9742345439986"
+    },
+    {
+      "w": "okru-9820888632050",
+      "n": "La vida de Carlos Gardel",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/q7YbzOwx1j1Sam0oBVz7wa7slhX.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Música",
+        "Drama"
+      ],
+      "imdb_id": "tt0032098",
+      "tmdb_id": 430594,
+      "year": 1939,
+      "sinopsis": "Carlos es un cantante que ha dado una fama internacional, y viaja por muchos lugares para expresar sus maravillosas canciones. Este, tiene una relación personal con Teresa, una hermosa joven que también está enamorada de él. Las cosas se complican cuando Teresa ve a Carlos besándose con Dorina. Aunque el amor de esta pareja siempre es fuerte, deja de serlo cuando Carlos tiene que hacer una gira de cantos hacia Medellín, y llegando a la ciudad, muere en un accidente aéreo. Teresa queda sola escuc",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Hugo del Carril",
+        "Delia Garcés",
+        "Elsa O'Connor",
+        "Miguel Gómez Bao",
+        "Juana Sujo",
+        "Santiago Gómez Cou",
+        "Armando de Vicente",
+        "Alberto Terrones"
+      ],
+      "duracion": 107,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9820888632050",
+      "okru_id": "9820888632050"
+    },
+    {
+      "w": "okru-9857275398898",
+      "n": "Dama de compañía",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/lYEehUhxvS3d9rDkVHaixtVoUwi.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Argentina"
+      ],
+      "imdb_id": "tt0186942",
+      "tmdb_id": 737633,
+      "year": 1940,
+      "sinopsis": "Los buenos y malos momentos que comparten tres muchachas, su madre y una gobernanta que estaba en todo y no solo en las cosas de la casa sino en las del corazón de las mujeres",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Olinda Bozán",
+        "Delia Garcés",
+        "Elsa O'Connor",
+        "Esteban Serrador",
+        "Aída Alberti",
+        "Juana Sujo",
+        "Héctor Quintanilla",
+        "Domingo Mania"
+      ],
+      "duracion": 88,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9857275398898",
+      "okru_id": "9857275398898"
+    },
+    {
+      "w": "okru-9887131044594",
+      "n": "De padre desconocido",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/jBmAn5vkP0JMNyITu32HnXRw2Pz.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0186946",
+      "tmdb_id": 430590,
+      "year": 1949,
+      "sinopsis": "Una muchacha huérfana (Delia Garcés) que se crió en un asilo del cual luego escapa, comienza a trabajar en una orquesta, pero es acusada de prostitución y detenida. Pesan sobre ella dos circunstancias que significan un estigma social: es una madre soltera que se vio obligada a entregar a su hija a un matrimonio y, ella misma, es una hija de padre desconocido que para ocultar esa filiación robó la identidad de una compañera muerta. En los tribunales se enfrentan dos visiones diferentes de la prob",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Enrique Muiño",
+        "Fernando Lamas",
+        "Orestes Caviglia",
+        "Delia Garcés",
+        "Rosa Rosen",
+        "Aurelia Ferrer",
+        "Alfonso Ferrari Amores",
+        "Osvaldo María Cabrera"
+      ],
+      "duracion": 86,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9887131044594",
+      "okru_id": "9887131044594"
+    },
+    {
+      "w": "okru-10271957453554",
+      "n": "El fin de la noche",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/fvvQlSAyDA8fsKpvifwUloLX4ZR.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Música"
+      ],
+      "imdb_id": "tt0178446",
+      "tmdb_id": 430588,
+      "year": 1944,
+      "sinopsis": "Lola es una cantante sudamericana que reside en París pero que ansía volver a su ciudad natal con su hija. Una noche un General Nazi, que necesita una cantante extranjera para una misión de espionaje, irrumpe en su mansión y la chantajea proponiéndole que se infiltre entre un grupo de rebeldes a cambio de los pasaportes para ella y su hija",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Libertad Lamarque",
+        "Alberto Bello",
+        "Juan José Miguez",
+        "Florence Marly",
+        "Ernesto Raquén",
+        "Elisardo Santalla",
+        "Bertha Moss",
+        "Homero Cárpena"
+      ],
+      "duracion": 95,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10271957453554",
+      "okru_id": "10271957453554"
+    },
+    {
+      "w": "okru-10473650129650",
+      "n": "Escala en la ciudad",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/amM9Am0CRM0djXzUchhYab68INm.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt0186994",
+      "tmdb_id": 403705,
+      "year": 1935,
+      "sinopsis": "El idilio de un día entre una orillera y un pasajero de un barco que hace escala en el puerto",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Esther Vani",
+        "Eduardo Berri",
+        "Cecilia Lezard",
+        "Héctor Cataruzza",
+        "Matilde Bhor"
+      ],
+      "duracion": 70,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10473650129650",
+      "okru_id": "10473650129650"
+    },
+    {
+      "w": "okru-10559221009138",
+      "n": "Veinte años y una noche",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/aus4EREUHgyZlBM7slldz7Q5LXx.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0186788",
+      "tmdb_id": 430585,
+      "year": 1941,
+      "sinopsis": "Una colegiala va a vivir al caserón de una tía en las sierras, al terminar sus estudios, y se encuentra con el odio de dos familias y la misteriosa muerte de su madre",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Delia Garcés",
+        "Pedro López Lagar",
+        "Camila Quiroga",
+        "Milagros de la Vega",
+        "Agustín Barrios",
+        "Juan Carrara",
+        "Josefina Dessein",
+        "Ilde Pirovano"
+      ],
+      "duracion": 93,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10559221009138",
+      "okru_id": "10559221009138"
+    },
+    {
+      "w": "okru-10584898603762",
+      "n": "El hombre que amé",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/iEBiba9h0C2j0iUtnl2BoaHab21.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Fantasía",
+        "Terror"
+      ],
+      "imdb_id": "tt0187154",
+      "tmdb_id": 484787,
+      "year": 1947,
+      "sinopsis": "Un hombre vende su juventud a un extraño personaje, mediante un pacto. Con Delia Garcés y Pedro López Lagar. Variación del mito de Fausto",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Delia Garcés",
+        "Pedro López Lagar",
+        "Olga Casares Pearson",
+        "Jorge Salcedo",
+        "Julián Bourges",
+        "Bertha Moss",
+        "Jorge Villoldo",
+        "Agustín Orrequia"
+      ],
+      "duracion": 86,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10584898603762",
+      "okru_id": "10584898603762"
+    },
+    {
+      "w": "okru-10680479255282",
+      "n": "Malambo",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/yD0fzxnQoRaEgbUxPvHdbKJU2JV.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0178732",
+      "tmdb_id": 500884,
+      "year": 1942,
+      "sinopsis": "Basada en una leyenda quechua, Malambo cuenta la historia de una mujer que perdió a su marido y a su hijo a causa del codicioso patrón de una hacienda. Juró que nunca se quitaría el paño que cubría sus ojos hasta que sus muertos fueran vengados por la muerte del patrón y su hija. La naturaleza parece estar de su lado, ya que una sequía ha azotado la tierra. Su otro hijo, Malambo, acepta el deber de venganza. Malambo no es un ser humano normal: es el runa-uturungo, o Hombre Tigre, de la tradición",
+      "direccion": "Alberto De Zavalia",
+      "elenco": [
+        "Delia Garcés",
+        "Oscar Valicelli",
+        "Orestes Caviglia",
+        "Milagros de la Vega",
+        "Alberto Bello",
+        "Nelo Cosimi",
+        "Mariana Martí",
+        "Tito Alonso"
+      ],
+      "duracion": 99,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10680479255282",
+      "okru_id": "10680479255282"
+    },
+    {
+      "w": "okru-9581664078578",
+      "n": "La maestrita de los obreros",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/5fiRi1iHhIFVA7Spwpue3vNjAqp.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0123161",
+      "tmdb_id": 430584,
+      "year": 1942,
+      "sinopsis": "La maestra de una escuela nocturna tiene dificultades para manejar a sus rudos alumnos",
+      "direccion": "Alberto de Zavalía",
+      "elenco": [
+        "Delia Garcés",
+        "Oscar Valicelli",
+        "Felisa Mary",
+        "Nelo Cosimi",
+        "Rafael Frontaura",
+        "María Santos",
+        "María Esther Buschiazzo",
+        "César Fiaschi"
+      ],
+      "duracion": 97,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/9581664078578",
+      "okru_id": "9581664078578"
+    },
+    {
+      "w": "okru-10070018296562",
+      "n": "Concierto de almas",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/5L9DRPeLq5VO54cesVP2LV2O10O.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0186929",
+      "tmdb_id": 880472,
+      "year": 1942,
+      "sinopsis": "Una estudiante de medicina que se enamora de un paciente amnésico renuncia a él para no malograr la felicidad de otra mujer",
+      "direccion": "Alberto de Zavalía",
+      "elenco": [
+        "Delia Garcés",
+        "Pedro López Lagar",
+        "Chela Cordero",
+        "Rafael Frontaura",
+        "Antonio Gandía",
+        "Carlos Morganti",
+        "Pepito Petray",
+        "Ernesto Raquén"
+      ],
+      "duracion": 67,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10070018296562",
+      "okru_id": "10070018296562"
+    },
+    {
+      "w": "okru-10484451642098",
+      "n": "Los caranchos de la Florida",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/aMDFlodMWd5AhB9UjJMJS1nUCJB.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama"
+      ],
+      "imdb_id": "tt0186913",
+      "tmdb_id": 621323,
+      "year": 1938,
+      "sinopsis": "Padre e hijo se enfrentan en una estancia por la joven hija de un puestero",
+      "direccion": "Alberto De Zavalía",
+      "elenco": [
+        "José Gola",
+        "Amelia Bence",
+        "Domingo Sapelli",
+        "Homero Cárpena",
+        "Froilán Varela",
+        "Alberto Montiel",
+        "Herminia Mancini",
+        "Isabel Figlioli"
+      ],
+      "duracion": 80,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10484451642098",
+      "okru_id": "10484451642098"
+    },
+    {
+      "w": "okru-8789355989746",
+      "n": "Los torturados",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/uc7kYp66vjEZtcezpwnpYCWWg73.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Crimen",
+        "Drama"
+      ],
+      "imdb_id": "tt0188243",
+      "tmdb_id": 601223,
+      "year": 1956,
+      "sinopsis": "Una fuerza parapolicial dentro del peronismo se dedica a reducir y extorsionar toda clase de opositores, entre los que unos pocos se alzan para denunciar lo que está ocurriendo. El film, aunque tiene fines propagandísticos que ignoran deliberadamente parte de la realidad, está basado en casos documentados, como los del estudiante Ernesto Mario Bravo o del dirigente sindicalista Cipriano Reyes",
+      "direccion": "Alberto Dubois",
+      "elenco": [
+        "Ricardo Trigo",
+        "Tito Alonso",
+        "Dora Ferreiro",
+        "Oscar Martínez",
+        "Zemborain",
+        "Alberto Barcel",
+        "Gilberto Peyret",
+        "Oscar Valicelli"
+      ],
+      "duracion": 77,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8789355989746",
+      "okru_id": "8789355989746"
+    },
+    {
+      "w": "okru-9772286413554",
+      "n": "La sangre y la semilla",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/fCaScnTGjla6coFfuBnp1KF1EaZ.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Historia"
+      ],
+      "imdb_id": "tt0188191",
+      "tmdb_id": 697377,
+      "year": 1959,
+      "sinopsis": "Historia situada en 1870, a finales de la Guerra de la Triple Alianza. Una mujer paraguaya salva a un sargento herido y da a luz. Juntos deberán esconderse de su enemigo, el ejército argentino",
+      "direccion": "Alberto Dubois",
+      "elenco": [
+        "Olga Zubarry",
+        "Ernesto Báez",
+        "Romualdo Quiroga",
+        "Roque Centurión Miranda",
+        "Rafael Rojas Doria",
+        "Carlos Gómez",
+        "Celia Elís",
+        "Miguel Ángel Yegros"
+      ],
+      "duracion": 80,
+      "pais": "Paraguay",
+      "okru_url": "https://ok.ru/video/9772286413554",
+      "okru_id": "9772286413554"
+    },
+    {
+      "w": "okru-10241197738738",
+      "n": "Destino para dos",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/8gD2PDWAEhoSkFJYE4inw1oHbnC.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Romance",
+        "Comedia"
+      ],
+      "imdb_id": "tt0187812",
+      "tmdb_id": 721630,
+      "year": 1968,
+      "sinopsis": "Gira alrededor de la vida de un boxeador (Horacio Accavallo), su historia, sueños y triunfos",
+      "direccion": "Alberto Dubois",
+      "elenco": [
+        "Horacio Accavallo",
+        "Simonette",
+        "Ricardo Bauleo",
+        "Maurice Jouvet",
+        "Nelly Beltrán",
+        "Juan Carlos Lamas",
+        "Chela Ruiz",
+        "Amalia Bernabé"
+      ],
+      "duracion": 63,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10241197738738",
+      "okru_id": "10241197738738"
+    },
+    {
+      "w": "okru-10899530779378",
+      "n": "Recordando al Zorzal",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/gh8vc82j4SaQutlh38YSP1is1bm.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt0059640",
+      "tmdb_id": 128524,
+      "year": 1965,
+      "sinopsis": "La vida, obra y trágica desaparición de Carlos Gardel, el zorzal criollo",
+      "direccion": "Alberto Dubois",
+      "elenco": [
+        "Carlos Gardel",
+        "Alberto Barcel",
+        "Norberto Sánchez Calleja",
+        "Rubén Monastridis",
+        "Celia Elías",
+        "Querino Marchessi",
+        "Víctor Catalano"
+      ],
+      "duracion": 55,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10899530779378",
+      "okru_id": "10899530779378"
+    },
+    {
+      "w": "okru-10899530582770",
+      "n": "La flor de irupé",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/qIuwEYAhUOO9IhdGyVyX8RJxZIu.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Crimen"
+      ],
+      "imdb_id": "tt0059184",
+      "tmdb_id": 447384,
+      "year": 1962,
+      "sinopsis": "Tres delincuentes roban un banco y asesinan a un guardia. Huyen con el botín, y buscando dónde ocultarse, encuentran una choza solitaria entre los esteros del Iberá, a orillas del río Paraná. La precaria vivienda está habitada por un anciano trampero ermitaño. Los fugitivos deciden permanecer allí ocultos por algún tiempo. Los días pasan lentamente; el tedio y la falta de mujeres, torna a los prófugos inquietos e irritables. Un atardecer, uno de ellos, Roberto (Alarcón), se topa con una bella mu",
+      "direccion": "Alberto Dubois",
+      "elenco": [
+        "Libertad Leblanc",
+        "Héctor Pellegrini",
+        "Luis Alarcón",
+        "Mario Amaya",
+        "Alberto Barcel",
+        "Héctor Carrión",
+        "Mario Casado",
+        "Amelia Folcini"
+      ],
+      "duracion": 72,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/10899530582770",
+      "okru_id": "10899530582770"
+    },
+    {
+      "w": "okru-8390292146930",
+      "n": "Otra película maldita",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/oEEuM4F54sZfpFtYteeA2R65ppL.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Documental"
+      ],
+      "imdb_id": "tt27458959",
+      "tmdb_id": 1110816,
+      "year": 2023,
+      "sinopsis": "Historia del cine de terror argentino, desde sus inicios en 1934 hasta la actualidad. Es un camino de derrotas, calles sin salida y triunfos, donde los protagonistas nos llevan por los poco conocidos pasillos del terror vernáculo",
+      "direccion": "Alberto Fasce, Mario Varela",
+      "elenco": [
+        "Darío Lavia",
+        "Cristina Zaccaría",
+        "Pablo Sapere",
+        "Gabriel Schipani",
+        "Fernando Martín Peña",
+        "Violeta Aguirre González",
+        "Christian Aguirre",
+        "Raúl Manrupe"
+      ],
+      "duracion": 120,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8390292146930",
+      "okru_id": "8390292146930"
+    },
+    {
+      "w": "okru-8037986339570",
+      "n": "La pieza de Franz",
+      "t": "movie",
+      "c": "https://image.tmdb.org/t/p/w500/1tDICusiEhIKt5SxtS5UDhm4bDH.jpg",
+      "s": 6.0,
+      "y": "argento",
+      "g": [
+        "Drama",
+        "Argentina"
+      ],
+      "imdb_id": "tt0254692",
+      "tmdb_id": 504362,
+      "year": 1973,
+      "sinopsis": "Una aventura fascinante que entremezcla el cine con la música. Una pianista tocando la Sonata en Si menor de Franz Liszt, Ana María Stekelman bailando y las manifestaciones de la Juventud Peronista durante el triunfo de Cámpora",
+      "direccion": "Alberto Fischerman",
+      "elenco": [],
+      "duracion": 42,
+      "pais": "Argentina",
+      "okru_url": "https://ok.ru/video/8037986339570",
+      "okru_id": "8037986339570"
+    }
+  ]
+}
