@@ -16,6 +16,23 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v16/ — +8 series Marvel/Avatar (lote de fichas del usuario)
+
+La v16 incorpora 8 series nuevas a partir de los links de ficha del
+usuario, recorriendo el **mini hub** de cada una (`seasons[]` ×
+`dubbingList` — el grafo temporadas × variantes de audio) con un BFS
+vía relay: WandaVision, Ojo de Halcón, She-Hulk, Agatha ¿quién si no?,
+VisionQuest (en emisión), la **Avatar animada original 2005-2008**,
+La leyenda de Korra completa (T1-T4) y Avatar: Los Siete Refugios (en
+emisión). **502 → 510 títulos** (+20 temporadas, 34 websiteParams
+verificados jugables), con póster landscape para el hero, nombres de
+capítulos TVMaze, y las dos series en emisión marcadas `em=1` para que
+el actualizador las siga cada 9 días. Loki ya estaba (v13) — se verificó
+jugable, sin cambios. El manifiesto viaja **cumulativo** (la semilla del
+APK vigente es v11/396: un delta dejaría huérfanas las adiciones v12-v14
+tras un reinicio). [`reto-v16/`](reto-v16/) documenta el pipeline y la
+verificación.
+
 ## reto-v14/ — el lote del usuario: +103 títulos jugables
 
 La v14 incorpora el lote de enlaces recolectado por el usuario (104 fichas

@@ -1,0 +1,640 @@
+{
+ "v": 16,
+ "shows": [
+  {
+   "i": "wandavision",
+   "t": "WandaVision",
+   "k": "serie",
+   "tt": "tt9140560",
+   "p": "https://images.metahub.space/poster/medium/tt9140560/img",
+   "b": "https://images.metahub.space/background/medium/tt9140560/img",
+   "h": "https://img.cuevana19.com/cover/20210915/1631692901553_e158de01b428da21721e67f9922416131i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
+   "s": "Wanda Maximoff y Visión, dos seres superpoderosos que viven su vida suburbana ideal, comienzan a sospechar que nada es lo que parece. La serie mezcla el estilo de las comedias clásicas de televisión con el universo cinematográfico de Marvel: cada década trae una nueva etapa, un nuevo misterio y una verdad cada vez más difícil de ignorar.",
+   "a": 2021,
+   "f": 2021,
+   "r": 8,
+   "g": [
+    "Acción",
+    "Comedia",
+    "Drama",
+    "Fantasía",
+    "Ciencia ficción"
+   ],
+   "em": 0,
+   "e": [
+    {
+     "n": 1,
+     "q": 9,
+     "x": [
+      "Filmed Before a Live Studio Audience",
+      "Don't Touch That Dial",
+      "Now in Color",
+      "We Interrupt This Program",
+      "On a Very Special Episode…",
+      "All-New Halloween Spooktacular!",
+      "Breaking the Fourth Wall",
+      "Previously On",
+      "The Series Finale"
+     ],
+     "w": [
+      {
+       "w": "uBpjawT2lpTDIoarROlKm-WandaVision[Audio-Latino]",
+       "v": "latino",
+       "y": "cuevana19"
+      },
+      {
+       "w": "Fl7pmqVEGTvC1eauI6O0o-WandaVision",
+       "v": "sub",
+       "y": "cuevana19"
+      },
+      {
+       "w": "9h3ESQdXyGC7710qRFu6v-WandaVision",
+       "v": "base",
+       "y": "cuevana19"
+      },
+      {
+       "w": "SvkzluBcN3UviTgZmSRN0-WandaVision",
+       "v": "base",
+       "y": "cuevana19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "hawkeye",
+   "t": "Ojo de Halcón",
+   "k": "serie",
+   "tt": "tt10160804",
+   "p": "https://images.metahub.space/poster/medium/tt10160804/img",
+   "b": "https://images.metahub.space/background/medium/tt10160804/img",
+   "h": "https://img.flixlat.com/cover/20211125/1637805714894_0ff3fad0afab6389251db8ae35b470a19azoCDFJnPxqfPhY2FNRMwtOQ0n.jpg",
+   "s": "Clint Barton, el Ojo de Halcón, solo quiere volver a casa con su familia para Navidad. Pero una amenaza de su pasado amenaza con desenmascararlo y se cruza en su camino Kate Bishop, una joven arquera de 22 años y gran fan de sus hazañas, que se convierte en su imprevista compañera. Juntos deberán desmantelar una conspiración criminal mientras Clint le pasa el relevo a la futura Ojo de Halcón.",
+   "a": 2021,
+   "f": 2021,
+   "r": 7.5,
+   "g": [
+    "Acción",
+    "Aventura",
+    "Crimen",
+    "Drama",
+    "Suspense",
+    "Ciencia ficción"
+   ],
+   "em": 0,
+   "al": "Hawkeye",
+   "e": [
+    {
+     "n": 1,
+     "q": 6,
+     "x": [
+      "Never Meet Your Heroes",
+      "Hide and Seek",
+      "Echoes",
+      "Partners, Am I Right?",
+      "Ronin",
+      "So This Is Christmas?"
+     ],
+     "w": [
+      {
+       "w": "YyA7kagsQPlZG93jbKULq-Hawkeye[Audio-Latino]",
+       "v": "doblaje",
+       "y": "flixlat"
+      },
+      {
+       "w": "f5rsrVSvIeZU2hRdmuUJt-Hawkeye",
+       "v": "sub",
+       "y": "flixlat"
+      },
+      {
+       "w": "oGhrkStlZ9dMql4RsPa4u-Hawkeye",
+       "v": "base",
+       "y": "flixlat"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "she-hulk",
+   "t": "She-Hulk: Abogada Hulka",
+   "k": "serie",
+   "tt": "tt10857160",
+   "p": "https://images.metahub.space/poster/medium/tt10857160/img",
+   "b": "https://images.metahub.space/background/medium/tt10857160/img",
+   "h": "https://img.123flmsfree.com/cover/20220818/1660806966134_5792b69f555f1b9d68bb44d9d332e5e8xdcQMtVf0JXOhgXOOTAI6tNQXRP.jpg",
+   "s": "Jennifer Walters lleva una vida complicada: es una abogada soltera de treinta y tantos años que también resulta ser una Hulk verde de superpoderes y 1,80 metros de alto. Entre casos legales de superhumanos, citas desastrosas y un pasado que no la deja en paz, Jennifer debe aprender a equilibrar su carrera, su vida amorosa y su nueva condición.",
+   "a": 2022,
+   "f": 2022,
+   "r": 4.8,
+   "g": [
+    "Acción",
+    "Aventura",
+    "Comedia",
+    "Drama",
+    "Ciencia ficción"
+   ],
+   "em": 0,
+   "al": "She-Hulk: Attorney at Law",
+   "e": [
+    {
+     "n": 1,
+     "q": 9,
+     "x": [
+      "A Normal Amount of Rage",
+      "Superhuman Law",
+      "The People vs. Emil Blonsky",
+      "Is This Not Real Magic?",
+      "Mean, Green, and Straight Poured into These Jeans",
+      "Just Jen",
+      "The Retreat",
+      "Ribbit and Rip it",
+      "Whose Show Is This?"
+     ],
+     "w": [
+      {
+       "w": "Hzg4tZSileWYQ0pa4bvl9-She-Hulk-Attorney-at-Law",
+       "v": "doblaje",
+       "y": "flms"
+      },
+      {
+       "w": "qn7IWmuw0pTFPamJFwXP2-She-Hulk-Attorney-at-Law",
+       "v": "base",
+       "y": "flms"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "agatha-quien-si-no",
+   "t": "Agatha, ¿quién si no?",
+   "k": "serie",
+   "tt": "tt15571732",
+   "p": "https://images.metahub.space/poster/medium/tt15571732/img",
+   "b": "https://images.metahub.space/background/medium/tt15571732/img",
+   "h": "https://img.cuevana19.com/cover/20240812/1723457315373_4b26b5a9cc23cd6c43ef97cc082a0dffwcFdpy6i6XtcIptC5PNvq85mJ3s.jpg",
+   "s": "La bruja Agatha Harkness recupera su libertad gracias a la ayuda de un adolescente. Intrigada por su súplica, se embarca en las pruebas del Camino de las Brujas para reclamar sus poderes y descubrir qué motiva realmente al misterioso chico. Secuela de WandaVision centrada en la villana de Kathryn Hahn.",
+   "a": 2024,
+   "f": 2024,
+   "r": 9,
+   "g": [
+    "Acción",
+    "Aventura",
+    "Comedia",
+    "Drama",
+    "Fantasía",
+    "Ciencia ficción"
+   ],
+   "em": 0,
+   "al": "Agatha All Along",
+   "e": [
+    {
+     "n": 1,
+     "q": 9,
+     "x": [
+      "Seekest Thou the Road",
+      "Circle Sewn with Fate Unlock Thy Hidden Gate",
+      "Through Many Miles of Tricks and Trials",
+      "If I Can't Reach You Let My Song Teach You",
+      "Darkest Hour, Wake Thy Power",
+      "Familiar by Thy Side",
+      "Death's Hand in Mine",
+      "Follow Me My Friend To Glory at the End",
+      "Maiden Mother Crone"
+     ],
+     "w": [
+      {
+       "w": "Z7uSL6maWx7abC0eiw8LD-Agatha-All-Along[Audio-Latino]",
+       "v": "doblaje",
+       "y": "cuevana19"
+      },
+      {
+       "w": "tf2cK2uDQSt4izGvpwFuG-Agatha-All-Along",
+       "v": "sub",
+       "y": "cuevana19"
+      },
+      {
+       "w": "OV8SzXOd6GdqbXBwPWkfw-Agatha-All-Along[Audio-pt-BR]",
+       "v": "base",
+       "y": "cuevana19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "visionquest",
+   "t": "VisionQuest",
+   "k": "serie",
+   "tt": "tt23112594",
+   "p": "https://img.solo-latino.com/cover/20260921/1789973608614_551ca4389285b638078f81a6dfbe5e8dWGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "b": "https://img.solo-latino.com/cover/20260921/1789973614093_7402bb7bf2274bbc0b45f5b29e792341v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+   "h": "https://img.solo-latino.com/cover/20260921/1789973614093_7402bb7bf2274bbc0b45f5b29e792341v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+   "s": "Visión, reiniciado y tras escapar de quienes intentaban convertirlo en un arma, se ha mantenido oculto. En busca de un nuevo sentido a su vida, consulta a las IA integradas en su programación, entre ellas FRIDAY, EDITH, JARVIS y el infame Ultron. Su discreta existencia termina cuando una recompensa por su cabeza lo obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras Visión evade la captura, deberá enfrentarse a su naturaleza, resistir la influencia de Ultron y desentrañar el enigma que representa su joven compañero si quiere sobrevivir.",
+   "a": 2026,
+   "f": null,
+   "r": 8.6,
+   "g": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Ciencia ficción"
+   ],
+   "em": 1,
+   "al": "Vision Quest",
+   "e": [
+    {
+     "n": 1,
+     "q": 2,
+     "x": [
+      "No Strings",
+      "Theseus",
+      "Reboot",
+      "Malware",
+      "Firewall",
+      "Deadlock",
+      "Immolation",
+      "Forever"
+     ],
+     "w": [
+      {
+       "w": "pxj9uS7n5faOTxTYMsebq-VisionQuest",
+       "v": "doblaje",
+       "y": "sololatino"
+      },
+      {
+       "w": "sK8RB97PMndpctJBGYOh6-VisionQuest",
+       "v": "sub",
+       "y": "sololatino"
+      },
+      {
+       "w": "oZD2lJIVcjT23jsympWbY-VisionQuest",
+       "v": "base",
+       "y": "sololatino"
+      },
+      {
+       "w": "vOy5WUNvNcNEQpxt2Ff3y-VisionQuest",
+       "v": "base",
+       "y": "sololatino"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "avatar-leyenda-de-aang",
+   "t": "Avatar: La leyenda de Aang",
+   "k": "serie",
+   "tt": "tt0417299",
+   "p": "https://images.metahub.space/poster/medium/tt0417299/img",
+   "b": "https://images.metahub.space/background/medium/tt0417299/img",
+   "h": "https://img.321moviesfree.com/cover/20220107/1641521805284_53a640c8eaa46fa76a528052bdc6a26941eUFDjNA7KMcCQJ9Vw3OkCUWYz.jpg",
+   "s": "El mundo se divide en cuatro naciones elementales: las tribus de agua del norte y sur, el Reino de la Tierra, la Nación del Fuego y los nómadas aire. El Avatar mantiene el equilibrio entre las naciones, pero todo cambió cuando la Nación del Fuego invadió. Solo el Avatar, maestro de los cuatro elementos, puede detenerlos... pero cuando el mundo más lo necesita, desaparece. Cien años después, Katara y Sokka descubren al nuevo Avatar: un niño maestro aire llamado Aang. Juntos deben ayudar a Aang a dominar los elementos y salvar al mundo.",
+   "a": 2005,
+   "f": 2008,
+   "r": 9.3,
+   "g": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Familiares",
+    "Fantasía",
+    "Suspense"
+   ],
+   "em": 0,
+   "al": "Avatar: The Last Airbender",
+   "e": [
+    {
+     "n": 1,
+     "q": 20,
+     "x": [
+      "Book One: Water - Chapter One: The Boy in the Iceberg",
+      "Book One: Water - Chapter Two: The Avatar Returns",
+      "Book One: Water - Chapter Three: The Southern Air Temple",
+      "Book One: Water - Chapter Four: The Warriors of Kyoshi",
+      "Book One: Water - Chapter Five: The King of Omashu",
+      "Book One: Water - Chapter Six: Imprisoned",
+      "Book One: Water - Chapter Seven: The Spirit World (Winter Solstice, Part 1)",
+      "Book One: Water - Chapter Eight: Avatar Roku (Winter Solstice, Part 2)",
+      "Book One: Water - Chapter Nine: The Waterbending Scroll",
+      "Book One: Water - Chapter Ten: Jet",
+      "Book One: Water - Chapter Eleven: The Great Divide",
+      "Book One: Water - Chapter Twelve: The Storm",
+      "Book One: Water - Chapter Thirteen: The Blue Spirit",
+      "Book One: Water - Chapter Fourteen: The Fortuneteller",
+      "Book One: Water - Chapter Fifteen: Bato of the Water Tribe",
+      "Book One: Water - Chapter Sixteen: The Deserter",
+      "Book One: Water - Chapter Seventeen: The Northern Air Temple",
+      "Book One: Water - Chapter Eighteen: The Waterbending Master",
+      "Book One: Water - Chapter Nineteen: The Siege of the North, Part 1",
+      "Book One: Water - Chapter Twenty: The Siege of the North, Part 2"
+     ],
+     "w": [
+      {
+       "w": "kpQxyLrbiOvFhf46F6t1G-Avatar-The-Last-Airbender-Season-1",
+       "v": "doblaje",
+       "y": "movies321"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "q": 20,
+     "x": [
+      "Book Two: Earth - Chapter One: The Avatar State",
+      "Book Two: Earth - Chapter Two: The Cave of Two Lovers",
+      "Book Two: Earth - Chapter Three: Return to Omashu",
+      "Book Two: Earth - Chapter Four: The Swamp",
+      "Book Two: Earth - Chapter Five: Avatar Day",
+      "Book Two: Earth - Chapter Six: The Blind Bandit",
+      "Book Two: Earth - Chapter Seven: Zuko Alone",
+      "Book Two: Earth - Chapter Eight: The Chase",
+      "Book Two: Earth - Chapter Nine: Bitter Work",
+      "Book Two: Earth - Chapter Ten: The Library",
+      "Book Two: Earth - Chapter Eleven: The Desert",
+      "Book Two: Earth - Chapter Twelve: The Serpent's Pass",
+      "Book Two: Earth - Chapter Thirteen: The Drill",
+      "Book Two: Earth - Chapter Fourteen: City of Walls and Secrets",
+      "Book Two: Earth - Chapter Fifteen: The Tales of Ba Sing Se",
+      "Book Two: Earth - Chapter Sixteen: Appa's Lost Days",
+      "Book Two: Earth - Chapter Seventeen: Lake Laogai",
+      "Book Two: Earth - Chapter Eighteen: The Earth King",
+      "Book Two: Earth - Chapter Nineteen: The Guru",
+      "Book Two: Earth - Chapter Twenty: The Crossroads of Destiny"
+     ],
+     "w": [
+      {
+       "w": "KDzh04YFLjs7W2N4IFj0u-Avatar-Season-2--The-Earth-Volume-Season-2",
+       "v": "doblaje",
+       "y": "movies321"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "q": 21,
+     "x": [
+      "Book Three: Fire - Chapter One: The Awakening",
+      "Book Three: Fire - Chapter Two: The Headband",
+      "Book Three: Fire - Chapter Three: The Painted Lady",
+      "Book Three: Fire - Chapter Four: Sokka's Master",
+      "Book Three: Fire - Chapter Five: The Beach",
+      "Book Three: Fire - Chapter Six: The Avatar and the Firelord",
+      "Book Three: Fire - Chapter Seven: The Runaway",
+      "Book Three: Fire - Chapter Eighth: The Puppetmaster",
+      "Book Three: Fire - Chapter Nine: Nightmares and Daydreams",
+      "Book Three: Fire - Chapter Ten: The Day of Black Sun, Part 1: The Invasion",
+      "Book Three: Fire - Chapter Eleven: The Day of Black Sun, Part 2: The Eclipse",
+      "Book Three: Fire - Chapter Twelve: The Western Air Temple",
+      "Book Three: Fire - Chapter Thirteen: The Firebending Masters",
+      "Book Three: Fire - Chapter Fourteen: The Boiling Rock, Part 1",
+      "Book Three: Fire - Chapter Fifteen: The Boiling Rock, Part 2",
+      "Book Three: Fire - Chapter Sixteen: The Southern Raiders",
+      "Book Three: Fire - Chapter Seventeen: The Ember Island Players",
+      "Book Three: Fire - Chapter Eighteen: Sozin's Comet, Part 1: The Phoenix King",
+      "Book Three: Fire - Chapter Nineteen: Sozin's Comet, Part 2: The Old Masters",
+      "Book Three: Fire - Chapter Twenty: Sozin's Comet, Part 3: Into the Inferno",
+      "Book Three: Fire - Chapter Twenty One: Sozin's Comet, Part 4: Avatar Aang"
+     ],
+     "w": [
+      {
+       "w": "vcMQRmOTkkBhywStIyRlM-Avatar-Season-3--The-Fire-Volume-Season-3",
+       "v": "latino",
+       "y": "movies321"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "korra",
+   "t": "La leyenda de Korra",
+   "k": "serie",
+   "tt": "tt1695360",
+   "p": "https://images.metahub.space/poster/medium/tt1695360/img",
+   "b": "https://images.metahub.space/background/medium/tt1695360/img",
+   "h": "https://img.cuevana4br.com/cover/20220226/1645844820944_44e2576c2d3dde2e06529c312e0d18c09DAktguN8NPShHO8bw8MCFnYVpz.jpg",
+   "s": "Avatar Korra lucha para mantener la Ciudad República a salvo de las fuerzas malignas, tanto del mundo físico como del espiritual. La sucesora de Aang debe dominar los cuatro elementos, enfrentar amenazas que ponen en riesgo el equilibrio del mundo y encontrar su propio camino como Avatar en una era moderna.",
+   "a": 2012,
+   "f": 2014,
+   "r": 8.3,
+   "g": [
+    "Acción",
+    "Aventura",
+    "Animación",
+    "Comedia",
+    "Drama",
+    "Familiares",
+    "Fantasía",
+    "Ciencia ficción"
+   ],
+   "em": 0,
+   "al": "The Legend of Korra",
+   "e": [
+    {
+     "n": 1,
+     "q": 12,
+     "x": [
+      "Welcome to Republic City",
+      "A Leaf in the Wind",
+      "The Revelation",
+      "The Voice in the Night",
+      "The Spirit of Competition",
+      "And the Winner is...",
+      "The Aftermath",
+      "When Extremes Meet",
+      "Out of the Past",
+      "Turning the Tides",
+      "Skeletons in the Closet",
+      "Endgame"
+     ],
+     "w": [
+      {
+       "w": "hrKBPX876Bxt4JnRNKix5-The-Legend-of-Korra-Season-1",
+       "v": "doblaje",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "ntoQ10CcxlfWotxSXWO8b-The-Legend-of-Korra-Season-1",
+       "v": "sub",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "bDD8DQcFFOR4JAPpfacI9-The-Legend-of-Korra-Season-1",
+       "v": "base",
+       "y": "cuevana4br"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "q": 14,
+     "x": [
+      "Rebel Spirit",
+      "The Southern Lights",
+      "Civil Wars (1)",
+      "Civil Wars (2)",
+      "Peacekeepers",
+      "The Sting",
+      "Beginnings (1)",
+      "Beginnings (2)",
+      "The Guide",
+      "A New Spiritual Age",
+      "Night of a Thousand Stars",
+      "Harmonic Convergence",
+      "Darkness Falls",
+      "Light in the Dark"
+     ],
+     "w": [
+      {
+       "w": "v097ogpaVAhWZzYS9Qeru-The-Legend-of-Korra-Season-2",
+       "v": "latino",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "Ir3pufsVlo20L3vFsMvin-The-Legend-of-Korra-Season-2",
+       "v": "sub",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "sQLvqGG2zlkpFe0xj9QEP-The-Legend-of-Korra-Season-2",
+       "v": "base",
+       "y": "cuevana4br"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "q": 13,
+     "x": [
+      "A Breath of Fresh Air",
+      "Rebirth",
+      "The Earth Queen",
+      "In Harm's Way",
+      "The Metal Clan",
+      "Old Wounds",
+      "Original Airbenders",
+      "The Terror Within",
+      "The Stakeout",
+      "Long Live the Queen",
+      "The Ultimatum",
+      "Enter the Void",
+      "Venom of the Red Lotus"
+     ],
+     "w": [
+      {
+       "w": "irpqxXoLHwrNPYgAILTDO-The-Legend-of-Korra-Season-3",
+       "v": "doblaje",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "hJuOuXzUuVnsBc9qblTVN-The-Legend-of-Korra-Season-3",
+       "v": "sub",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "khuYmUi09GLbqUNTDZMLF-The-Legend-of-Korra-Season-3",
+       "v": "base",
+       "y": "cuevana4br"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "q": 13,
+     "x": [
+      "After All These Years",
+      "Korra Alone",
+      "The Coronation",
+      "The Calling",
+      "Enemy at the Gates",
+      "The Battle of Zaofu",
+      "Reunion",
+      "Remembrances",
+      "Beyond the Wilds",
+      "Operation Beifong",
+      "Kuvira's Gambit",
+      "Day of the Colossus",
+      "The Last Stand"
+     ],
+     "w": [
+      {
+       "w": "DuYETl9Yw3r6swUi7tDKP-The-Legend-of-Korra-Season-4",
+       "v": "doblaje",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "T5rJXbRk7DlJEnoUdGlX5-The-Legend-of-Korra-Season-4",
+       "v": "sub",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "dU27SQQPm0mJKq6yePk6O-The-Legend-of-Korra-Season-4",
+       "v": "base",
+       "y": "cuevana4br"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "avatar-siete-refugios",
+   "t": "Avatar: Los Siete Refugios",
+   "k": "serie",
+   "tt": "tt35854736",
+   "p": "https://img.cuevana4br.com/cover/20261009/1791530844451_ed03f06b280dc9767444d6e2526b5dc402ab000b-4730-48eb-8412-4319189aa8dc.jpg",
+   "b": "https://img.cuevana4br.com/cover/20261009/1791530847331_54391a06dd90489d25ad23d3f82c536ef72125ff-da96-4c0b-9a33-70c2a942873d.jpg",
+   "h": "https://img.cuevana4br.com/cover/20261009/1791530847331_54391a06dd90489d25ad23d3f82c536ef72125ff-da96-4c0b-9a33-70c2a942873d.jpg",
+   "s": "Después de un desastre devastador, una joven maestra tierra descubre que ella es el Avatar post-Korra. Ahora vista como un presagio de fatalidad, ella y sus gemelos corren para salvar los Siete Refugios mientras son perseguidos tanto por humanos como por espíritus.",
+   "a": 2026,
+   "f": null,
+   "r": 9,
+   "g": [
+    "Acción",
+    "Aventura",
+    "Animación"
+   ],
+   "em": 1,
+   "al": "Avatar: Seven Havens",
+   "e": [
+    {
+     "n": 1,
+     "q": 3,
+     "x": [
+      "On the Horizon",
+      "Into the Storm",
+      "The Order",
+      "The Faceless",
+      "The One Left Behind",
+      "Night of the Afflicted",
+      "What Lies Beneath",
+      "The Envoys",
+      "Episode 9",
+      "Ghosts and Spirits",
+      "Battle of the Ruins",
+      "The Dome",
+      "The Root Chakra"
+     ],
+     "w": [
+      {
+       "w": "JWQbtME21KgmBWyV0tLLV-Avatar-Seven-Havens-Season-1",
+       "v": "doblaje",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "A0CUFWLvCfNxXdvmBAGdJ-Avatar-Seven-Havens-Season-1",
+       "v": "sub",
+       "y": "cuevana4br"
+      },
+      {
+       "w": "NdNuM4fWBfVyQlt82bdPW-Avatar-Seven-Havens-Season-1",
+       "v": "base",
+       "y": "cuevana4br"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
