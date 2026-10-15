@@ -16,6 +16,16 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v17/ — las 100 argentas al catálogo remoto
+
+La v17 fusiona las **100 películas argentinas** de la v15 (hasta ahora
+solo bundleadas en el APK) al **catálogo remoto PENC1**: ids idénticos
+al seed (`argento-{okru_id}`, dedupe sin duplicados), póster TMDB +
+backdrop landscape metahub, riel `peliculas` 210→**310** y géneros
+anexados a los rieles canónicos. **510 → 610 títulos.** Llegan por la
+descarga cifrada de siempre — sin rebuild. [`reto-v17/`](reto-v17/)
+documenta el pipeline y la compatibilidad.
+
 ## reto-v16/ — +8 series Marvel/Avatar (lote de fichas del usuario)
 
 La v16 incorpora 8 series nuevas a partir de los links de ficha del
