@@ -16,6 +16,21 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v18/ — el lote de las 98 fichas: +92 títulos jugables
+
+La v18 incorpora el lote de enlaces del usuario (98 fichas sobre los 10
+frentes de la red) recorriendo el **grafo de Hubs** de cada una
+(`seasons[]` × `dubbingList`) vía relay: **92 shows nuevos** (84 series +
+8 pelis) + 4 refrescados que ya estaban con las mismas fuentes (The
+Penguin, Dune: La profecía, Dept. Q, The Continental). Run the World y
+Big Shot fusionan sus dos URLs cada una. **610 → 702 títulos**: 201
+temporadas, 2.060 episodios, 486 websiteParams verificados jugables,
+variantes latino/sub/base (con [Audio Castellano] en Virtual Hero y
+Lucrecia), póster metahub + hero landscape, sinopsis es, años y capítulos
+TVMaze, y las series en emisión marcadas `em=1` (Hollywood Arts, Dragon
+Ball Super: Beerus, Dune: La profecía) para que el actualizador las siga
+cada 9 días. [`reto-v18/`](reto-v18/) documenta el pipeline y el QA.
+
 ## reto-v17/ — las 100 argentas al catálogo remoto
 
 La v17 fusiona las **100 películas argentinas** de la v15 (hasta ahora
