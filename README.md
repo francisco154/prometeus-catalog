@@ -16,6 +16,15 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v20/ — parche del póster de Barbie (2023)
+
+Corrección mínima de un solo campo: el póster vertical `p` de *Barbie*
+(2023) traía el arte de la **Barbie de Toy Story 3** (cover de la red);
+se reemplaza por el teaser oficial en Catbox (`m31ef3.jpg`, verificado por
+el dueño). El hero queda intacto y los otros 872 shows no se tocan.
+**v19 → v20** — llega solo por la descarga cifrada de siempre (TTL 6 h o
+"Actualizar catálogo"). [`reto-v20/`](reto-v20/) documenta el parche.
+
 ## reto-v19/ — el lote de las sagas completas: +171 títulos (sin IMDb)
 
 La v19 incorpora el lote del usuario (102 fichas) y **completa las sagas**
