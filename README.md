@@ -16,6 +16,21 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v19/ — el lote de las sagas completas: +171 títulos (sin IMDb)
+
+La v19 incorpora el lote del usuario (102 fichas) y **completa las sagas**
+con el BFS del grafo de Hubs (`refList` × `dubbingList`): **171 shows
+nuevos** (170 pelis + la serie *¿Quién es el topo?* T1-T2) con **1.036
+fuentes verificadas jugables**. **James Bond completo (las 25)**, Insidious
+6, El conjuro 4, la trilogía 28 días/años después, Destino final 6, Matrix
+4, Bourne 5, Planeta de los simios 4, Alien 4, Mini espías 5, Scary Movie
+6 (con el reboot 2026), Shrek 4, Madagascar 3, Kung Fu Panda 4, Cómo
+entrenar a tu dragón 3, Intensa-mente 2, Zootopía 2, Black Phone 2,
+Resacón 3, Kingsman 3 y más. **702 → 873 títulos.** Con IMDb prohibido: los
+años salen de TMDB web, pósters reales y Heroes horizontales del CDN de la
+red (shows nuevos sin `tt`). Sin rebuild — llega por la descarga cifrada de
+siempre. [`reto-v19/`](reto-v19/) documenta el pipeline, exclusiones y QA.
+
 ## reto-v18/ — el lote de las 98 fichas: +92 títulos jugables
 
 La v18 incorpora el lote de enlaces del usuario (98 fichas sobre los 10
