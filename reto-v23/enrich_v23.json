@@ -1,0 +1,1701 @@
+{
+ "La caída de la casa Usher": {
+  "match": "The Fall of the House of Usher",
+  "titulo_plat": "La caída de la Casa Usher",
+  "anio": 2023,
+  "fin": 2023,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "A Midnight Dreary",
+    "The Masque of the Red Death",
+    "Murder in the Rue Morgue",
+    "The Black Cat",
+    "The Tell-Tale Heart",
+    "Goldbug",
+    "The Pit and the Pendulum",
+    "The Raven"
+   ]
+  },
+  "id_tvmaze": 58166
+ },
+ "A Murder at the End of the World": {
+  "match": "A Murder at the End of the World",
+  "titulo_plat": "Asesinato en el fin del mundo",
+  "anio": 2023,
+  "fin": 2023,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Chapter 1: Homme Fatal",
+    "Chapter 2: The Silver Doe",
+    "Chapter 3: Survivors",
+    "Chapter 4: Family Secrets",
+    "Chapter 5: Crypt",
+    "Chapter 6: Crime Seen",
+    "Chapter 7: Retreat"
+   ]
+  },
+  "id_tvmaze": 56855
+ },
+ "Scott Pilgrim da el salto": {
+  "match": "Scott Pilgrim Takes Off",
+  "titulo_plat": "Scott Pilgrim da el salto",
+  "anio": 2023,
+  "fin": 2023,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Scott Pilgrim's Precious Little Life",
+    "A League of Their Own",
+    "Ramona Rents a Video",
+    "Whatever",
+    "Lights. Camera. Sparks?!",
+    "WHODIDIT",
+    "2 Scott 2 Pilgrim",
+    "The World Vs Scott Pilgrim"
+   ]
+  },
+  "id_tvmaze": 67794
+ },
+ "The Curse": {
+  "match": "The Curse",
+  "titulo_plat": "The Curse",
+  "anio": 2023,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Land of Enchantment",
+    "Pressure's Looking Good So Far",
+    "Questa Lane",
+    "Under the Big Tree",
+    "It's a Good Day",
+    "The Fire Burns On",
+    "Self-Exclusion",
+    "Down and Dirty",
+    "Young Hearts",
+    "Green Queen"
+   ]
+  },
+  "id_tvmaze": 46334
+ },
+ "School Spirits": {
+  "match": "School Spirits",
+  "titulo_plat": "Espíritus en la escuela",
+  "anio": 2023,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "My So-Called Death",
+    "The Fault in Our Scars",
+    "Dead and Confused",
+    "Ghoul Intentions",
+    "The Twilight End Zone",
+    "Grave the Last Dance",
+    "Séance Anything",
+    "Madison's Body"
+   ],
+   "2": [
+    "Whatever Happened to Maddie Nears?",
+    "Field of Screams",
+    "Can't Hauntly Wait",
+    "A Walk-In to Remember",
+    "Ghost Who's Coming to Dinner",
+    "Ghost Pointe Blank",
+    "Anatomy of a Fallout Shelter",
+    "Fire, Talk to Me"
+   ],
+   "3": [
+    "It's a Wonderful Afterlife",
+    "Mean Ghouls",
+    "The Halls Have Eyes",
+    "The Bereftest Club",
+    "Raiders of the Lost Scar",
+    "Children of the Scorned",
+    "Midsomester",
+    "Dawn of the Deb"
+   ]
+  },
+  "id_tvmaze": 62556
+ },
+ "The Irrational": {
+  "match": "The Irrational",
+  "titulo_plat": "The Irrational",
+  "anio": 2023,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Dead Woman Walking",
+    "The Barnum Effect",
+    "Zero Sum",
+    "Lucky Charms",
+    "Point and Shoot",
+    "The Real Deal",
+    "Scorched Earth",
+    "Cheating Life",
+    "Bombshell",
+    "Reciprocity"
+   ],
+   "2": [
+    "Collateral Damage",
+    "A Kick in the Teeth",
+    "Bad Blood",
+    "Formal Ties",
+    "Anatomy of a Fall",
+    "The Wrong Side of Maybe",
+    "Stan by Me",
+    "Lost Souls",
+    "Another Man's Treasure",
+    "Now You Don't",
+    "Ghost Ship",
+    "Straight From the Heart",
+    "Murder She Rode",
+    "The Milgram Experiment",
+    "Conversation Games",
+    "The Overview Effect",
+    "Suddenly Alec",
+    "The Exchange"
+   ]
+  },
+  "id_tvmaze": 61623
+ },
+ "Obliterated": {
+  "match": "Obliterated",
+  "titulo_plat": "Hechos polvo",
+  "anio": 2023,
+  "fin": 2023,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Real American Heroes",
+    "Born in the U.S.S.R.",
+    "Craps",
+    "Walks of Shame",
+    "Shots! Shots! Shots!",
+    "From Vegas with Love",
+    "Make It Rain",
+    "Last Call"
+   ]
+  },
+  "id_tvmaze": 61892
+ },
+ "Found": {
+  "match": "Found",
+  "titulo_plat": "Found",
+  "anio": 2023,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Missing While Sinning",
+    "Missing While Widowed",
+    "Missing While a Pawn",
+    "Missing While Undocumented",
+    "Missing While Addicted",
+    "Missing While Indigenous",
+    "Missing While Homeless",
+    "Missing While Scamming",
+    "Missing While Indoctrinated",
+    "Missing While Interracial",
+    "Missing While Eccentric",
+    "Missing While Forgotten"
+   ],
+   "2": [
+    "Missing While Bait",
+    "Missing While Difficult",
+    "Missing While Lonely",
+    "Missing While Perfect",
+    "Missing While Presumed Dead",
+    "Missing While Gabi Mosely",
+    "Missing While Hated",
+    "Missing While Haunted",
+    "Missing While Targeted",
+    "Missing While Outed",
+    "Missing While Misunderstood",
+    "Missing While Misidentified",
+    "Missing While Grieving",
+    "Missing While Matched",
+    "Missing While Seeking Asylum",
+    "Missing While Witnessed",
+    "Missing While Manipulated",
+    "Missing While Heather",
+    "Missing While a Casualty",
+    "Missing While Independent",
+    "Missing While a Family",
+    "Missing While Dying"
+   ]
+  },
+  "id_tvmaze": 59956
+ },
+ "Rabbit Hole": {
+  "match": "Rabbit Hole",
+  "titulo_plat": "Rabbit Hole",
+  "anio": 2023,
+  "fin": 2023,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "At Any Given Moment",
+    "The Algorithms of Control",
+    "The Person In Your Ear",
+    "Tom",
+    "The Playbook",
+    "Gilgamesh",
+    "Ace in the Hole"
+   ]
+  },
+  "id_tvmaze": 60285
+ },
+ "Samurái de ojos azules (Blue Eye Samurai)": {
+  "match": "Blue Eye Samurai",
+  "titulo_plat": "Samurái de ojos azules",
+  "anio": 2023,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Hammerscale",
+    "An Unexpected Element",
+    "A Fixed Number of Paths",
+    "Peculiarities",
+    "The Tale of the Ronin and the Bride",
+    "All Evil Dreams and Angry Words",
+    "Nothing Broken",
+    "The Great Fire of 1657"
+   ]
+  },
+  "id_tvmaze": 51112
+ },
+ "The Brothers Sun": {
+  "match": "The Brothers Sun",
+  "titulo_plat": "The Brothers Sun[Audio Latino]",
+  "anio": 2024,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Favor for a Favor",
+    "Whatever You Want",
+    "Square",
+    "The Rolodex",
+    "Country Boy",
+    "Gymkata",
+    "Protect the Family"
+   ]
+  },
+  "id_tvmaze": 60515
+ },
+ "Mr. & Mrs. Smith": {
+  "match": "Mr. & Mrs. Smith",
+  "titulo_plat": "Mr. & Mrs. Smith",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "First Date",
+    "Second Date",
+    "First Vacation",
+    "Double Date",
+    "Do You Want Kids?",
+    "Couples Therapy (Naked & Afraid)",
+    "Infidelity",
+    "A Breakup"
+   ]
+  },
+  "id_tvmaze": 53541
+ },
+ "The Acolyte": {
+  "match": "The Acolyte",
+  "titulo_plat": "The Acolyte[Audio Latino]",
+  "anio": 2024,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Lost / Found",
+    "Revenge / Justice",
+    "Destiny",
+    "Day",
+    "Night",
+    "Teach / Corrupt",
+    "Choice",
+    "The Acolyte"
+   ]
+  },
+  "id_tvmaze": 52339
+ },
+ "Will Trent": {
+  "match": "Will Trent",
+  "titulo_plat": "Will Trent: Agente Especial",
+  "anio": 2023,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "I'm a Pretty Observant Guy",
+    "Don't Let It Happen Again",
+    "My Stupid Detective Brain",
+    "The Look Out",
+    "Should I Go Get My Tin Foil Hat?",
+    "Unable to Locate",
+    "Two Hundred Dollars and a Bus Pass",
+    "Manhunt",
+    "Pterodactyls Can Fly",
+    "Bill Black",
+    "Nothing Changed Except for Everything",
+    "A Bad Temper and a Hard Heart"
+   ],
+   "2": [
+    "Me Llamo Will Trent",
+    "It's the Work I Signed Up For",
+    "You Don't Have to Understand",
+    "It's Easier to Handcuff a Human Being",
+    "Capt. Duke Wagner's Daughter",
+    "We Are Family",
+    "Have You Never Been to a Wedding?",
+    "Why Is Jack's Arm Bleeding?",
+    "Residente o Visitante",
+    "Do You See the Vision?"
+   ],
+   "3": [
+    "I'm a Guest Here",
+    "Sunny-Side Up",
+    "Find a New Pond",
+    "Floor Is Lava",
+    "Breathe with Me",
+    "No Faith in Second Chances",
+    "Mariachi Shelly's Frankenstein",
+    "Abigail B.",
+    "This Kid's Gonna Be Alright",
+    "Regarding the Death of Whitney McAdams",
+    "Best of Your Recollection",
+    "You're the Worst Person in the World",
+    "One of Us Now",
+    "A Funeral Fit for a Quartermaine",
+    "The Most Beautiful, Fierce, Smart, Powerful Creature in the Entire World",
+    "Push, Jump, Fall",
+    "Why Hello, Sheriff",
+    "Listening to a Heartbeat"
+   ],
+   "4": [
+    "... Speaking of Sharks",
+    "Love Takes Time",
+    "Studio 4B",
+    "The Man from Nowhere",
+    "Nice to Meet You, Malcolm",
+    "You're Not That Person Anymore",
+    "Call Paul",
+    "We're Looking for a Vampire",
+    "It Was a Meat Cute",
+    "You're Only as Sick as Your Secrets",
+    "He Lives!",
+    "I Hear It Now, I Was Good",
+    "Did I Screw This Up?",
+    "A Flag in the Mud",
+    "The Blank Expanse of Nothing",
+    "Our Last Dance",
+    "Where'd You Come From, Little Angel?",
+    "Be of Service"
+   ]
+  },
+  "id_tvmaze": 61740
+ },
+ "The Walking Dead: Dead City": {
+  "match": "The Walking Dead: Dead City",
+  "titulo_plat": "The Walking Dead: Dead City",
+  "anio": 2023,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "Old Acquaintances",
+    "Who's There?",
+    "People Are a Resource",
+    "Everybody Wins a Prize",
+    "Stories We Tell Ourselves",
+    "Doma Smo"
+   ],
+   "2": [
+    "Power Equals Power",
+    "Another Shitty Lesson",
+    "Why Did the Mainlanders Cross the River?",
+    "Feisty Friendly",
+    "The Bird Always Knows",
+    "Bridge Partners Are Hard to Come By These Days",
+    "Novi Dan, Novi Početak",
+    "If History Were a Conflagration"
+   ],
+   "3": [
+    "Trillium",
+    "Haven",
+    "Emigrants",
+    "Found / Lost",
+    "Imperialis",
+    "Genesis",
+    "Hourglass",
+    "Tenebrae"
+   ]
+  },
+  "id_tvmaze": 60879
+ },
+ "Avatar: La leyenda de Aang (adaptación live-action)": {
+  "match": "Avatar: The Last Airbender",
+  "titulo_plat": "Avatar: La leyenda de Aang",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Aang",
+    "Warriors",
+    "Omashu",
+    "Into the Dark",
+    "Spirited Away",
+    "Masks",
+    "The North",
+    "Legends"
+   ],
+   "2": [
+    "Somewhere Safe",
+    "A Fight, Once Begun",
+    "City of Walls and Secrets",
+    "The Water Falls, the Stones Emerge",
+    "Ten Thousand Things",
+    "The Parable of the Two Dragons",
+    "Something Broken"
+   ]
+  },
+  "id_tvmaze": 38753
+ },
+ "Star Wars: Skeleton Crew": {
+  "match": "Star Wars: Skeleton Crew",
+  "titulo_plat": "Tripulación perdida",
+  "anio": 2024,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "This Could Be a Real Adventure",
+    "Way, Way Out Past the Barrier",
+    "Very Interesting, as an Astrogration Problem",
+    "Can't Say I Remember No At Attin",
+    "You Have a Lot to Learn About Pirates",
+    "Zero Friends Again",
+    "We're Gonna Be in So Much Trouble",
+    "The Real Good Guys"
+   ]
+  },
+  "id_tvmaze": 62271
+ },
+ "Matlock": {
+  "match": "Matlock",
+  "titulo_plat": "Matlock",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Rome, in a Day",
+    "A Guy Named Greg",
+    "The Rabbit and the Hawk",
+    "Claws",
+    "Sixteen Steps",
+    "Belly of the Beast",
+    "No, No Monsters",
+    "Friends",
+    "Crash Helmets On",
+    "A Traitor in Thine Own House",
+    "This Is That Moment",
+    "Pregame",
+    "Game Day",
+    "Game Face",
+    "The Johnson Case",
+    "I Was That, Too",
+    "Tricks of the Trade – Part One",
+    "Tricks of the Trade – Part Two"
+   ],
+   "2": [
+    "The Before Times",
+    "Another Matlock",
+    "Tomorrow Is Still Tomorrow",
+    "Piece of My Heart",
+    "Mousetrap",
+    "Harm Reduction",
+    "Prior Bad Acts",
+    "Call It a Christmas Gift",
+    "Collateral",
+    "The Greater Good",
+    "Tail Lights",
+    "The Cavalry Isn't Coming",
+    "The Future Is Nigh",
+    "Day One",
+    "Who Are You?",
+    "Matty Matlock"
+   ]
+  },
+  "id_tvmaze": 66872
+ },
+ "High Potential": {
+  "match": "High Potential",
+  "titulo_plat": "High Potential",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Dancers in the Dark",
+    "Dirty Rotten Scoundrel",
+    "Survival Mode",
+    "Croaked",
+    "Hangover",
+    "One of Us",
+    "Obsessed",
+    "The RAMs",
+    "Chutes and Murders",
+    "The Sauna at the End of the Stairs",
+    "Partners",
+    "Let's Play"
+   ],
+   "2": [
+    "Pawns",
+    "Checkmate",
+    "Eleven Minutes",
+    "Behind the Music",
+    "Content Warning",
+    "Chasing Ghosts",
+    "The One That Got Away",
+    "The One That Got Away: Part Two",
+    "Under the Rug",
+    "Grounded",
+    "NPC",
+    "The Faust and the Furious",
+    "In the Driver's Seat",
+    "If You Come for the Queen",
+    "Pie in the Sky",
+    "Turn, Up the Heat",
+    "Second Sunday",
+    "Family Tree"
+   ],
+   "3": [
+    "TBA"
+   ]
+  },
+  "id_tvmaze": 68752
+ },
+ "Goosebumps": {
+  "match": "Goosebumps",
+  "titulo_plat": "Goosebumps[Audio Latino]",
+  "anio": 2023,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Say Cheese and Die!",
+    "The Haunted Mask",
+    "The Cuckoo Clock of Doom",
+    "Go Eat Worms",
+    "Reader Beware",
+    "Night of the Living Dummy",
+    "Give Yourself Goosebumps",
+    "You Can't Scare Me",
+    "Night of the Living Dummy: Part 2",
+    "Welcome to Horrorland"
+   ],
+   "2": [
+    "Stay Out of the Basement, Part I",
+    "Stay Out of the Basement, Part II",
+    "The Haunted Car",
+    "Monster Blood",
+    "The Boy Who Cried Monster",
+    "The Girl Next Door",
+    "Welcome to Camp Nightmare",
+    "Invasion of the Body Squeezers"
+   ]
+  },
+  "id_tvmaze": 60343
+ },
+ "X-Men '97": {
+  "match": "X-Men '97",
+  "titulo_plat": "X-man",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "To Me, My X-Men",
+    "Mutant Liberation Begins",
+    "Fire Made Flesh",
+    "Motendo / Lifedeath - Part 1",
+    "Remember It",
+    "Lifedeath - Part 2",
+    "Bright Eyes",
+    "Tolerance is Extinction - Part 1",
+    "Tolerance is Extinction - Part 2",
+    "Tolerance is Extinction - Part 3"
+   ],
+   "2": [
+    "Days of Past Future",
+    "A Force to be Reckoned With",
+    "Rise of Apocalypse – Part 1",
+    "Rise of Apocalypse – Part 2",
+    "Weapon X, Lies, and DVDs",
+    "Danger.exe",
+    "Strange Land, Savage Heart",
+    "The Dead Man's Hand",
+    "Survival of the Fittest"
+   ]
+  },
+  "id_tvmaze": 58951
+ },
+ "Tracker": {
+  "match": "Tracker",
+  "titulo_plat": "Tracker",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Klamath Falls",
+    "Missoula",
+    "Springland",
+    "Mt. Shasta",
+    "St. Louis",
+    "Lexington",
+    "Chicago",
+    "Camden",
+    "Aurora",
+    "Into the Wild",
+    "Beyond the Campus Walls",
+    "Off the Books",
+    "The Storm"
+   ],
+   "2": [
+    "Out of the Past",
+    "Ontological Shock",
+    "Bloodlines",
+    "Noble Rot",
+    "Preternatural",
+    "Trust Fall",
+    "Man's Best Friend",
+    "The Night Movers",
+    "The Disciple",
+    "Nightingale",
+    "Shades of Gray",
+    "Monster",
+    "Neptune",
+    "Exodus",
+    "The Grey Goose",
+    "The Mercy Seat",
+    "Memories",
+    "Collision",
+    "Rules of the Game",
+    "Echo Ridge"
+   ],
+   "3": [
+    "The Process",
+    "Leverage",
+    "First Fire",
+    "No Man's Land",
+    "The Old Ways",
+    "Angel",
+    "Eat the Rich",
+    "Eurydice",
+    "Good Trouble",
+    "The Fallout",
+    "To the Bone",
+    "Do No Harm",
+    "Breakaway",
+    "The Field Trip",
+    "No Good Deed",
+    "Struck",
+    "Daughters",
+    "Alaskan Wild",
+    "Chain of Custody",
+    "Reclamation",
+    "Chrono Stasis",
+    "The Best Ones"
+   ],
+   "4": [
+    "Safe Harbor",
+    "Switchback",
+    "Original Parts",
+    "Purification",
+    "Need to Know",
+    "Blind Spot",
+    "TBA",
+    "TBA"
+   ]
+  },
+  "id_tvmaze": 63192
+ },
+ "The Walking Dead: Daryl Dixon": {
+  "match": "The Walking Dead: Daryl Dixon",
+  "titulo_plat": "The Walking Dead: Daryl Dixon",
+  "anio": 2023,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "L'âme Perdue",
+    "Alouette",
+    "Paris Sera Toujours Paris",
+    "La Dame de Fer",
+    "Deux Amours",
+    "Coming Home"
+   ],
+   "2": [
+    "La Gentillesse Des Étrangers",
+    "Moulin Rouge",
+    "L'Invisible",
+    "Le Paradis Pour Toi",
+    "Vouloir, C'est Pouvoir",
+    "Au Revoir Les Enfants"
+   ],
+   "3": [
+    "Costa Da Morte",
+    "La Ofrenda",
+    "El Sacrificio",
+    "La Justicia Fronteriza",
+    "Limbo",
+    "Contrabando",
+    "Solaz Del Mar"
+   ]
+  },
+  "id_tvmaze": 64501
+ },
+ "The Vince Staples Show": {
+  "match": "The Vince Staples Show",
+  "titulo_plat": "The Vince Staples Show[Audio Latino]",
+  "anio": 2024,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pink House",
+    "Black Business",
+    "Brown Family",
+    "Red Door",
+    "White Boy"
+   ],
+   "2": [
+    "Country Mane",
+    "Petting Zoo",
+    "God's Will",
+    "Anti-Social",
+    "Mr. Baldwin",
+    "Uncle James is Dead."
+   ]
+  },
+  "id_tvmaze": 71586
+ },
+ "Senna": {
+  "match": "Senna",
+  "titulo_plat": "Senna[Audio Latino]",
+  "anio": 2024,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Calling",
+    "Belonging",
+    "Ambition",
+    "Passion",
+    "Hero",
+    "Time"
+   ]
+  },
+  "id_tvmaze": 50165
+ },
+ "Elsbeth": {
+  "match": "Elsbeth",
+  "titulo_plat": "Elsbeth",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "A Classic New York Character",
+    "Reality Shock",
+    "Love Knocked Off",
+    "Ball Girl",
+    "An Ear for an Ear",
+    "Something Blue",
+    "Artificial Genius",
+    "Sweet Justice",
+    "A Fitting Finale"
+   ],
+   "2": [
+    "Subscription to Murder",
+    "The Wrong Stuff",
+    "Devil's Night",
+    "Diamonds Are for Elsbeth",
+    "Elsbeth Flips the Bird",
+    "Gold, Frankincense, and Murder",
+    "One Angry Woman",
+    "Toil and Trouble",
+    "Unalive and Well",
+    "Finance Bros",
+    "Tiny Town",
+    "Foiled Again",
+    "Tearjerker",
+    "Scenes From an Italian Restaurant",
+    "I See... Murder",
+    "Hot Tub Crime Machine",
+    "Four Body Problem",
+    "I Know What You Did Thirty-Three Summers Ago",
+    "I've Got a Little List",
+    "Ramen Holiday"
+   ],
+   "3": [
+    "Yes, And…",
+    "Doll Day Afternoon",
+    "Good Grief",
+    "Ick, A Bod",
+    "Poetic Justice",
+    "Bunker Down",
+    "And Then There Were Nuns",
+    "Basket Case",
+    "Glamazons",
+    "A Hard Nut to Crack",
+    "Ol' Man Liver",
+    "All's Hair",
+    "Murder Six Across",
+    "Deadutante",
+    "Otherwise Enraged",
+    "Murder, He Wrote",
+    "High Class Problems",
+    "Murder From Scratch",
+    "Catch and Kill",
+    "That's All"
+   ],
+   "4": [
+    "Crazy in Love",
+    "Death of a Playwright",
+    "Consciously Unsistered",
+    "A Bad Lie",
+    "All About Eats",
+    "Lean Girls"
+   ]
+  },
+  "id_tvmaze": 66869
+ },
+ "Cruel Intentions": {
+  "match": "Cruel Intentions",
+  "titulo_plat": "Juegos sexuales",
+  "anio": 2024,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Alpha",
+    "Beta",
+    "Gamma",
+    "Delta",
+    "Epsilon",
+    "Zeta",
+    "Eta",
+    "Theta"
+   ]
+  },
+  "id_tvmaze": 67928
+ },
+ "The Residence": {
+  "match": "The Residence",
+  "titulo_plat": "La residencia",
+  "anio": 2025,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "The Fall of the House of Usher",
+    "Dial M for Murder",
+    "Knives Out",
+    "The Last of Sheila",
+    "The Trouble with Harry",
+    "The Third Man",
+    "The Adventure of the Engineer's Thumb",
+    "The Mystery of the Yellow Room"
+   ]
+  },
+  "id_tvmaze": 60888
+ },
+ "The Madness": {
+  "match": "The Madness",
+  "titulo_plat": "La locura",
+  "anio": 2024,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Djibouti",
+    "Discord",
+    "Radioactive",
+    "Icarus",
+    "Loco",
+    "DNA",
+    "No More Madness"
+   ]
+  },
+  "id_tvmaze": 67315
+ },
+ "Forever": {
+  "match": "Forever",
+  "titulo_plat": "Forever",
+  "anio": 2014,
+  "fin": 2015,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Look Before You Leap",
+    "Fountain of Youth",
+    "The Art of Murder",
+    "The Pugilist Break",
+    "The Frustrating Thing About Psychopaths",
+    "New York Kids",
+    "The Ecstasy of Agony",
+    "6 A.M.",
+    "The Man in the Killer Suit",
+    "Skinny Dipper",
+    "The Wolves of Deep Brooklyn",
+    "Diamonds Are Forever",
+    "Hitler on the Half-Shell",
+    "The King of Columbus Circle",
+    "Memories of Murder",
+    "Social Engineering",
+    "Dead Men Tell Long Tales",
+    "Punk is Dead",
+    "Best Foot Forward",
+    "The Night in Question",
+    "The Last Death of Henry Morgan"
+   ]
+  },
+  "id_tvmaze": 46
+ },
+ "Mi vida con los chicos Walter": {
+  "match": "My Life With the Walter Boys",
+  "titulo_plat": "My Life With the Walter Boys",
+  "anio": 2023,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Welcome to Colorado",
+    "Live a Little",
+    "The Cole Effect",
+    "Nineteen",
+    "Thanksgiving",
+    "Baggage",
+    "Small Town Rumors",
+    "Spinning Out",
+    "Revolutions",
+    "Happily Ever After"
+   ],
+   "2": [
+    "Start Fresh",
+    "My Life Without the Walter Boys",
+    "Girls Just Wanna have Fundraisers",
+    "No-look Pass",
+    "A Night to Remember",
+    "After the Dance",
+    "Saddle Up",
+    "Gear Shifts",
+    "Allhallowtide",
+    "Showdowns and Sparkles"
+   ],
+   "3": [
+    "Homecoming",
+    "Split Focus",
+    "Fever Pitch",
+    "Screeching Tires and True Love",
+    "The Jackie and Cole Effect",
+    "Wide Open Spaces",
+    "Washout",
+    "Everybody’s Fine",
+    "Ghosts",
+    "The Beautiful and the Damned"
+   ]
+  },
+  "id_tvmaze": 60523
+ },
+ "Tires": {
+  "match": "Tires",
+  "titulo_plat": "Tires[Audio Latino]",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "The Initiative",
+    "Windows of Opportunity",
+    "Sales Contest",
+    "The Rumor Mill",
+    "Bikini Car Wash",
+    "Dad"
+   ],
+   "2": [
+    "Bonus Money",
+    "HR",
+    "Inspection",
+    "Shiny New Thing",
+    "Record High",
+    "The Tri-State Mid Market Tire Expo",
+    "Free Fries",
+    "Retirement",
+    "The Radio Ad",
+    "Patriots and Traitors",
+    "Misery Has Company",
+    "At What Cost"
+   ],
+   "3": [
+    "It Often Rhymes",
+    "Secret Shopper",
+    "Women's Business",
+    "What's That Like",
+    "Wings",
+    "The Locked Room",
+    "Six of Swords",
+    "Volley",
+    "Dog's Out of the Fence",
+    "Tigers at the Circus",
+    "Let's Just See",
+    "It's a Good Day, West Chester"
+   ]
+  },
+  "id_tvmaze": 74979
+ },
+ "Motorheads": {
+  "match": "Motorheads",
+  "titulo_plat": "Motorheads",
+  "anio": 2025,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Glow",
+    "Assessment",
+    "Disassemble",
+    "Value",
+    "Reassemble",
+    "Red, Green, Blue",
+    "Wiring",
+    "Ignition",
+    "Redbird"
+   ]
+  },
+  "id_tvmaze": 72864
+ },
+ "Watson": {
+  "match": "Watson",
+  "titulo_plat": "Watson",
+  "anio": 2025,
+  "fin": 2026,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Redcoat",
+    "Wait for the Punchline",
+    "Patient Question Mark",
+    "The Man with the Glowing Chest",
+    "The Camgirl Inquiry",
+    "Teeth Marks",
+    "A Variant of Unknown Significance",
+    "Take a Family History",
+    "The Man with the Alien Hand",
+    "The Dark Day Deduction",
+    "Your Life's Work, Part 1",
+    "Your Life's Work, Part 2"
+   ],
+   "2": [
+    "A Son in the Oven",
+    "Back from the Dead",
+    "Expletive Deleted",
+    "Happy When It Rains",
+    "Lucky",
+    "Buying Time",
+    "Giant Steps",
+    "Livvy Sees The Doctor",
+    "Shannon Says Bex Loves Micah",
+    "Never Been CRISPR'd",
+    "The Tunnel Under the Elms",
+    "A Family Meal",
+    "For a Limited Time Only",
+    "Wrongful Life",
+    "A Third Act Surprise",
+    "Respect the Process. Respect the Quirks",
+    "Unsolved Mysteries",
+    "Sic Semper Tyrannis",
+    "The Rule of Three",
+    "The Cobalt Fissure"
+   ]
+  },
+  "id_tvmaze": 64507
+ },
+ "Butterfly": {
+  "match": "Butterfly",
+  "titulo_plat": "Butterfly",
+  "anio": 2025,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Daegu",
+    "Busan",
+    "Pohang",
+    "Seoul",
+    "Annyeong"
+   ]
+  },
+  "id_tvmaze": 68899
+ },
+ "The Better Sister": {
+  "match": "The Better Sister",
+  "titulo_plat": "La mejor hermana",
+  "anio": 2025,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "She's My Sister",
+    "Lotta Sky",
+    "Incoming Widow",
+    "Gazpacho",
+    "Just Ask",
+    "Steadying Hand",
+    "Back from Red",
+    "They're In Their World"
+   ]
+  },
+  "id_tvmaze": 76555
+ },
+ "The Terminal List: Dark Wolf": {
+  "match": "The Terminal List: Dark Wolf",
+  "titulo_plat": "La lista terminal: Lobo negro",
+  "anio": 2025,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "Inherent Resolve",
+    "The Audition",
+    "What's Past Is Prologue",
+    "The Sound of Guns",
+    "E & E",
+    "Pawns & Kings",
+    "The Wolf You Feed"
+   ]
+  },
+  "id_tvmaze": 74127
+ },
+ "Hotel Costiera": {
+  "match": "Hotel Costiera",
+  "titulo_plat": "Hotel Costiera",
+  "anio": 2025,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Sheryl",
+    "Richard",
+    "April",
+    "Hassan",
+    "Bruno",
+    "Alice"
+   ]
+  },
+  "id_tvmaze": 74996
+ },
+ "The Hunting Party": {
+  "match": "The Hunting Party",
+  "titulo_plat": "The Hunting Party",
+  "anio": 2025,
+  "fin": 2026,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Richard Harris",
+    "Clayton Jessup",
+    "Lowe",
+    "Doctor Ezekiel Malak",
+    "Roy Barber",
+    "Arlo Brandt",
+    "Mark Marsden",
+    "Denise Glenn",
+    "Tom Beecher",
+    "Jenna Wells"
+   ],
+   "2": [
+    "Ron Simms",
+    "Adrian Gallo",
+    "Zack Lang",
+    "Amanda Weiss",
+    "Noah Cyrus",
+    "Lou Kaplan",
+    "Sidney Fairfax",
+    "Elliot Carr",
+    "Colette Akins",
+    "Byron May",
+    "Dylan Miles",
+    "Nancy Albright",
+    "Xander Wax"
+   ]
+  },
+  "id_tvmaze": 75025
+ },
+ "The Bondsman": {
+  "match": "The Bondsman",
+  "titulo_plat": "The Bondsman",
+  "anio": 2025,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pot O’Gold",
+    "Valacor",
+    "Marphos",
+    "Erdos",
+    "Slypharis",
+    "Revelations",
+    "Pyralis",
+    "Lilith"
+   ]
+  },
+  "id_tvmaze": 69605
+ },
+ "Lazarus": {
+  "match": "Lazarus",
+  "titulo_plat": "Lazarus",
+  "anio": 2025,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Goodbye Cruel World",
+    "Life in the Fast Lane",
+    "Long Way from Home",
+    "Don't Stop the Dance",
+    "Pretty Vacant",
+    "Heaven Is a Place on Earth",
+    "Almost Blue",
+    "Unforgettable Fire",
+    "Death on Two Legs",
+    "I Can't Tell You Why",
+    "Runnin' With the Devil",
+    "Close to the Edge",
+    "The World Is Yours"
+   ]
+  },
+  "id_tvmaze": 70005
+ },
+ "The Girlfriend": {
+  "match": "The Girlfriend",
+  "titulo_plat": "The Girlfriend",
+  "anio": 2025,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "Episode 1",
+    "Episode 2",
+    "Episode 3",
+    "Episode 4",
+    "Episode 5",
+    "Episode 6"
+   ]
+  },
+  "id_tvmaze": 76565
+ },
+ "Sakamoto Days": {
+  "match": "Sakamoto Days",
+  "titulo_plat": "Sakamoto Days",
+  "anio": 2025,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "The Legendary Hit Man",
+    "Vs. Son Hee and Bacho",
+    "Welcome to Sugar Park",
+    "Hard-Boiled",
+    "Source of Strength",
+    "Heisuke Mashimo",
+    "Jurassic Bastard",
+    "Sakamoto's vs. the Lab",
+    "All Aboard",
+    "Bathhouse Roughhouse",
+    "Casino Battle",
+    "Overload",
+    "Just Desserts",
+    "Strong Assault",
+    "Round and Round the Tower",
+    "Slice Slice Dance",
+    "Have a nice flight",
+    "Kanaguri",
+    "Exam: Stage Three",
+    "Mutual Fans",
+    "Hard Mode",
+    "Each One's Mission"
+   ]
+  },
+  "id_tvmaze": 77383
+ },
+ "Kaiju No. 8": {
+  "match": "Kaiju No. 8",
+  "titulo_plat": "Kaiju No. 8",
+  "anio": 2024,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "The Man Who Became a Kaiju",
+    "The Kaiju Who Defeats Kaiju",
+    "Revenge Match",
+    "Fortitude 9.8",
+    "Joining Up!",
+    "Sagamihara Neutralization Operation At Daybreak",
+    "Kaiju No. 9",
+    "Welcome to the Defense Force",
+    "Attack on Tachikawa Base",
+    "Secret Revealed",
+    "Kaiju No. 8 Captured",
+    "Kafka Hibino"
+   ],
+   "2": [
+    "Kaiju Weapon",
+    "The Next Generation's Trial",
+    "The Strongest Division",
+    "The Man Called Isao Shinomiya",
+    "I Want to Be Strong",
+    "Compatible User",
+    "Wall",
+    "Destiny",
+    "Omen",
+    "Cataclysms",
+    "Second Wave"
+   ],
+   "3": [
+    "TBA"
+   ]
+  },
+  "id_tvmaze": 73362
+ },
+ "Dandadan": {
+  "match": "Dandadan",
+  "titulo_plat": "Dandadan",
+  "anio": 2024,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "That's How Love Starts, Ya Know?",
+    "That's A Space Alien, Ain't It?!",
+    "It's A Granny Vs. Granny Clash!",
+    "Kicking Turbo Granny's Ass",
+    "Like, Where Are Your Balls?!",
+    "A Dangerous Woman Arrives",
+    "To a Kinder World",
+    "I've Got This Funny Feeling",
+    "Merge! Serpo Dover Demon Nessie!",
+    "Have You Ever Seen a Cattle Mutilation?",
+    "First Love",
+    "Let's Go to the Cursed House"
+   ],
+   "2": [
+    "Like, This Is the Legend of the Giant Snake",
+    "The Evil Eye",
+    "You Won't Get Away With This!",
+    "That's, Like, Way Deadly!",
+    "We Can All Stay There Together!",
+    "We Became a Family",
+    "Feeling Kinda Gloomy",
+    "You Can Do It, Okarun!",
+    "I Want to Rebuild the House",
+    "The Secret Art of Being Attractive",
+    "Hey, it's a Kaiju",
+    "Clash! Space Kaiju vs. Giant Robot!"
+   ]
+  },
+  "id_tvmaze": 73023
+ },
+ "Spy × Family": {
+  "match": "Spy×Family",
+  "titulo_plat": "Spy x Family",
+  "anio": 2022,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "Operation Strix",
+    "Secure a Wife",
+    "Prepare for the Interview",
+    "The Prestigious School's Interview",
+    "Will They Pass Or Fail?",
+    "The Friendship Scheme",
+    "The Target's Second Son",
+    "The Counter-Secret Police Cover Operation",
+    "Show Off How In Love You Are",
+    "The Great Dodgeball Plan",
+    "Stella",
+    "Penguin Park",
+    "Project Apple",
+    "Disarm the Time Bomb",
+    "A New Family Member",
+    "Yor's Kitchen / The Informant's Great Romance Plan",
+    "Carry Out the Griffin Plan / Fullmetal Lady / Omelet Rice♡",
+    "Uncle the Private Tutor / Daybreak",
+    "A Revenge Plot Against Desmond / Mama Becomes the Wind",
+    "Investigate the General Hospital / Decipher the Perplexing Code",
+    "Nightfall / First Fit of Jealousy",
+    "The Underground Tennis Tournament: The Campbelldon",
+    "The Unwavering Path",
+    "The Role of a Mother and Wife / Shopping With Friends",
+    "First Contact"
+   ],
+   "2": [
+    "Follow Papa and Mama",
+    "Bond's Strategy to Stay Alive / Damian's Field Research Trip",
+    "Mission and Family / The Elegant Bondman / The Heart of a Child/Waking Up",
+    "The Pastry of Knowledge / The Informant's Great Romance Plan II",
+    "Plan to Cross the Border",
+    "The Fearsome Luxury Cruise Ship",
+    "Who Is This Mission For?",
+    "The Symphony Upon the Ship / Sis's Herb Tea",
+    "The Hand That Connects to the Future",
+    "Enjoy the Resort to the Fullest / Bragging About Vacation",
+    "Berlint in Love / Nightfall's Daily Life",
+    "Part of the Family"
+   ],
+   "3": [
+    "Berlint Panic | The Informant and Nightfall",
+    "Avoid Getting Tonitrus Bolts | ■■■■'s Memories I",
+    "■■■■'s Memories II",
+    "Behind the Scandal | The Path to an Imperial Scholar",
+    "The Mommy-Friends Scheme",
+    "White Jealousy | The Eden College Busjacking Incident",
+    "The Red Circus",
+    "Take Down the Busjacker",
+    "Anya's Era Has Come",
+    "Austin's Troubles | A Normal Mixer | Moon Landing",
+    "Extreme Level 3 Situation",
+    "Battle to the Death in the Sewers",
+    "A World Where We Cannot Survive"
+   ]
+  },
+  "id_tvmaze": 59698
+ },
+ "F Is for Family": {
+  "match": "F is for Family",
+  "titulo_plat": "F Is for Family",
+  "anio": 2015,
+  "fin": 2021,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "The Bleedin' in Sweden",
+    "Saturday Bloody Saturday",
+    "The Through",
+    "'F' is for Halloween",
+    "Bill Murphy's Day Off",
+    "O Holy Moly Night"
+   ],
+   "2": [
+    "Heavy Sledding",
+    "A Girl Named Sue",
+    "The Liar's Club",
+    "Night Shift",
+    "Breaking Bill",
+    "This is Not Good",
+    "Fight Night",
+    "F is for Fixing It",
+    "Pray Away",
+    "Landing the Plane"
+   ],
+   "3": [
+    "Are You Ready for the Summer?",
+    "Paul Lynde to Block",
+    "The Stinger",
+    "Mr. Murphy's Wild Ride",
+    "Battle of the Sexes",
+    "Punch Drunk",
+    "Summer Vacation",
+    "It's in His Blood",
+    "Frank the Father",
+    "Bill Murphy's Night Off"
+   ],
+   "4": [
+    "Father Confessor",
+    "Nothing is Impossible",
+    "Bring Me a Tooth",
+    "The 'B' Word",
+    "Just Breathe",
+    "Come to Papa",
+    "R is for Rosie",
+    "Murphy and Son",
+    "Land Ho!",
+    "Baby, Baby, Baby"
+   ],
+   "5": [
+    "The Mahogany Fortress",
+    "The Rustvale Massacre",
+    "Blind Alley",
+    "Thank You So Much",
+    "The Searchers",
+    "Screw Ups",
+    "A Very Merry F***ing Christmas",
+    "Bye Bye, Frankie"
+   ]
+  },
+  "id_tvmaze": 6209
+ },
+ "Bastard!!": {
+  "match": "Bastard‼ Heavy Metal, Dark Fantasy",
+  "titulo_plat": "Bastard!!",
+  "anio": 2022,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "The Arrival",
+    "Rampage",
+    "Abduction",
+    "Invasion",
+    "Showdown",
+    "Destiny",
+    "The Demon Beast",
+    "The Progenitor",
+    "Blue Nail",
+    "The Goddess of Thunder",
+    "Prophecy",
+    "Life or Death",
+    "Wavering",
+    "Moved to Tears",
+    "Triumphant Return",
+    "Incantation",
+    "Ring",
+    "Secrets of the Sword",
+    "Empress of Thunder",
+    "Tyranny",
+    "Fierce Battle",
+    "Conclusion",
+    "Annihilation",
+    "End"
+   ],
+   "2": [
+    "Rebellion",
+    "Fate",
+    "Blue Storm",
+    "Dawn",
+    "Ice and Snow",
+    "Departure",
+    "Teleportation",
+    "Magic Land",
+    "Legend",
+    "Distant Thunder",
+    "Holy War I",
+    "Holy War II",
+    "Holy War III",
+    "Holy War IV",
+    "Gathering"
+   ]
+  },
+  "id_tvmaze": 61213
+ },
+ "Only Murders in the Building": {
+  "match": "Only Murders in the Building",
+  "titulo_plat": "Only Murders in the Building",
+  "anio": 2021,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "True Crime",
+    "Who Is Tim Kono?",
+    "How Well Do You Know Your Neighbors?",
+    "The Sting",
+    "Twist",
+    "To Protect and Serve",
+    "The Boy from 6B",
+    "Fan Fiction",
+    "Double Time",
+    "Open and Shut"
+   ],
+   "2": [
+    "Persons of Interest",
+    "Framed",
+    "The Last Day of Bunny Folger",
+    "Here's Looking at You",
+    "The Tell",
+    "Performance Review",
+    "Flipping the Pieces",
+    "Hello, Darkness",
+    "Sparring Partners",
+    "I Know Who Did It"
+   ],
+   "3": [
+    "The Show Must...",
+    "The Beat Goes On",
+    "Grab Your Hankies",
+    "The White Room",
+    "Ah, Love!",
+    "Ghost Light",
+    "CoBro",
+    "Sitzprobe",
+    "Thirty",
+    "Opening Night"
+   ],
+   "4": [
+    "Once Upon a Time in the West",
+    "Gates of Heaven",
+    "Two for the Road",
+    "The Stunt Man",
+    "Adaptation",
+    "Blow-Up",
+    "Valley of the Dolls",
+    "Lifeboat",
+    "Escape From Planet Klongo",
+    "My Best Friend's Wedding"
+   ],
+   "5": [
+    "Nail in the Coffin",
+    "After You",
+    "Rigor",
+    "Dirty Birds",
+    "Tongue Tied",
+    "Flatbush",
+    "Silver Alert",
+    "Cuckoo Chicks",
+    "LESTR",
+    "The House Always..."
+   ],
+   "6": [
+    "TBA",
+    "TBA",
+    "TBA",
+    "TBA",
+    "TBA",
+    "TBA",
+    "TBA",
+    "TBA",
+    "TBA",
+    "TBA"
+   ]
+  },
+  "id_tvmaze": 48830
+ }
+}

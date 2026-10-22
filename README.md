@@ -16,6 +16,15 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v23/ — 49 series nuevas (873 → 922)
+
+Ingreso incremental de la lista del dueño (54 con URL, 5 duplicadas
+descartadas): temporadas × variantes de audio paseadas por los hubs de la
+URL, póster/hero/sinopsis/géneros/score de la fuente, años + estado +
+nombres de episodios vía TVMaze (sin IMDb). 88 temporadas, 224 fuentes,
+98/98 URLs de arte verificadas. Rail `enEmision` 175 → 199 (24 nuevas).
+[`reto-v23/`](reto-v23/) tiene el detalle.
+
 ## reto-v22/ — capítulos y temporadas nuevas (22/10/2026)
 
 Paseo de las **175 series en emisión** contra su URL fuente: **12 series
