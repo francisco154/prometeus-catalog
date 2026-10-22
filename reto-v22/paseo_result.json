@@ -1,0 +1,1846 @@
+{
+ "total": 175,
+ "con_caps_nuevos": 12,
+ "caps_nuevos_total": 34,
+ "con_temps_nuevas": 3,
+ "sin_cambios": 160,
+ "fallos": 0,
+ "detalle": [
+  {
+   "id": "black-mirror",
+   "t": "Black Mirror",
+   "estado": "ok",
+   "ultima_n": 7,
+   "sitio": "pelicula",
+   "wp": "ykhecXa7JShKcwVXObXPZ-Black-Mirror-Season-7",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "off-campus",
+   "t": "Off Campus",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "playspelis",
+   "wp": "H32gToFwgL7EPvsrih2UU-Off-Campus-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "moria",
+   "t": "Moria",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "mKFEYGDQrTVQmmp5dTkbP-Moria",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "from",
+   "t": "From",
+   "estado": "ok",
+   "ultima_n": 4,
+   "sitio": "playspelis",
+   "wp": "8JsoLCi6DNWXexKol4WnR-From-Season-4",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "1899",
+   "t": "1899",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "JICbdT00YNUyvwuKqt8K2-1899",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "devs",
+   "t": "Devs",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "5BFPBxAGC52ITvmb9suDy-Devs",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "bodies",
+   "t": "Bodies",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "dramas",
+   "wp": "glKKY6cg9qarJnDkRX2xn-Bodies",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "invincible",
+   "t": "Invincible",
+   "estado": "ok",
+   "ultima_n": 4,
+   "sitio": "peliculaplay",
+   "wp": "LSuYaY94V8ckwkNMA3VlM-Invincible-Season-4",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "fallout",
+   "t": "Fallout",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "pelicula",
+   "wp": "iJjzGMKdLe55nxC40ngCz-Fallout-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "cia",
+   "t": "CIA",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "OUZOY7twVU6v9MMSSkjyF-CIA",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "serial-experiments-lain",
+   "t": "Serial Experiments Lain",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "eYEz6R4fu47yUB0l1KKj2-Serial-Experiments-Lain",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "9-1-1",
+   "t": "9-1-1",
+   "estado": "ok",
+   "ultima_n": 9,
+   "sitio": "sololatino",
+   "wp": "aHoOD8qe87JYhVQWgCX5z-9-1-1-Season-9",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-last-of-us",
+   "t": "The Last of Us",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "sololatino",
+   "wp": "CloMo23Rze5APJ9dbNslP-The-Last-of-Us-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "true-detective",
+   "t": "True Detective",
+   "estado": "ok",
+   "ultima_n": 4,
+   "sitio": "sololatino",
+   "wp": "RlFKFnhfsvGvOnRyyX72A-True-Detective-Season-4",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "ley-y-orden-uve",
+   "t": "Ley y Orden: UVE",
+   "estado": "ok",
+   "ultima_n": 27,
+   "sitio": "cuevana4br",
+   "wp": "wWsCvE4BzF7u53SFjT4P5-Law--Order-Special-Victims-Unit-Season-27",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "un-show-mas-las-cintas-perdidas",
+   "t": "Un Show Más: Las Cintas Perdidas",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "eMVHM2XEzoDfTKAFnO8LH-Regular-Show-The-Lost-Tapes",
+   "caps_nuevos": 1,
+   "temps_nuevas": [],
+   "q_catalogo": 17,
+   "q_real": 18
+  },
+  {
+   "id": "merlina",
+   "t": "Merlina",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "flms",
+   "wp": "FVqzMPmIYwWY73zxsWbr8-Wednesday-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "bridgerton",
+   "t": "Bridgerton",
+   "estado": "ok",
+   "ultima_n": 4,
+   "sitio": "flms",
+   "wp": "2OhrHa8Dw67WWyeI7gcQg-Bridgerton-Season-4",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-pitt",
+   "t": "The Pitt",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "flms",
+   "wp": "ZyAjrTvSChViBu3tPsvlE-The-Pitt-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "monster-antologia-ryan-murphy",
+   "t": "Monster (antología Ryan Murphy)",
+   "estado": "ok",
+   "ultima_n": 4,
+   "sitio": "cuevana19",
+   "wp": "CYXmJefoh5ZOpOe2RnboS-Monster-The-Lizzie-Borden-Story",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "a-knight-of-the-seven-kingdoms",
+   "t": "A Knight of the Seven Kingdoms",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "rPSBbtEDQKUtDVvm0e67f-A-Knight-of-the-Seven-Kingdoms-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-rehearsal",
+   "t": "The Rehearsal",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "dramas",
+   "wp": "hI5PN0NX9nvMEVmR6qqf7-The-Rehearsal-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-gilded-age",
+   "t": "The Gilded Age",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "flms",
+   "wp": "fyubL6gVbItntzrrcjLi7-The-Gilded-Age-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "dtf-st-louis",
+   "t": "DTF St. Louis",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "mjozIRTCAStAPIlZsa69X-DTF-St-Louis",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "stuart-fails-to-save-the-universe",
+   "t": "Stuart Fails to Save the Universe",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "UOBhKV0hLeD2pM3zl5uKa-Stuart-Fails-To-Save-The-Universe",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-white-lotus",
+   "t": "The White Lotus",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "peliculaplay",
+   "wp": "PjTMn1zP7qoKyzPCiLzl4-The-White-Lotus-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "lanterns",
+   "t": "Lanterns",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "playspelis",
+   "wp": "68W2b8GVy6EmV6lqGSiYx-Lanterns",
+   "caps_nuevos": 1,
+   "temps_nuevas": [],
+   "q_catalogo": 7,
+   "q_real": 8
+  },
+  {
+   "id": "rooster",
+   "t": "Rooster",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "YiO48vnGfqrXimofIyVrU-Untitled-College-Project",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "outlander-blood-of-my-blood",
+   "t": "Outlander: Blood of My Blood",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "cuevana19",
+   "wp": "gHopJHTHkAO2tlLZ7PCBC-Outlander-Blood-of-My-Blood-Season-2",
+   "caps_nuevos": 3,
+   "temps_nuevas": [],
+   "q_catalogo": 2,
+   "q_real": 5
+  },
+  {
+   "id": "house-of-the-dragon",
+   "t": "House of the Dragon",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "cuevana4br",
+   "wp": "0PURR9m5B4VGlh5oZ0H6J-House-of-the-Dragon-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "mis-muertos-tristes",
+   "t": "Mis Muertos Tristes",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "JaHhy0hYxHMvcATBGtyLz-My-Sad-Dead",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "p-valley",
+   "t": "P-Valley",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "pelicula",
+   "wp": "VvKSMxh5BKIQSiyQSLNj2-P-Valley-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-hunting-wives",
+   "t": "The Hunting Wives",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "booCOj5zFvg2Wd3LxfNR1-The-Hunting-Wives",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "sweetpea",
+   "t": "Sweetpea",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "kwqJil6B8k47aAE00OFQB-Sweetpea",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "paradise",
+   "t": "Paradise",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "pelicula",
+   "wp": "IWujrhSiNTw11LKv1dV30-Paradise-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "pluto",
+   "t": "Pluto",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "playspelis",
+   "wp": "AzoHd30YDil3qgBJ4RBKg-PLUTO",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "good-american-family",
+   "t": "Good American Family",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "f6ixxvliu89RecPwoZJDu-Good-American-Family",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-twisted-tale-of-amanda-knox",
+   "t": "The Twisted Tale of Amanda Knox",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "VYdV1ikfaD98fKoKBt72c-The-Twisted-Tale-of-Amanda-Knox",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "industry",
+   "t": "Industry",
+   "estado": "ok",
+   "ultima_n": 4,
+   "sitio": "flms",
+   "wp": "iyPB1QPdqyWFBEAdCHHAa-Industry-Season-4",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "alien-earth",
+   "t": "Alien: Earth",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "movies321",
+   "wp": "M9ZTUyTPqlwLKVKKKyX6A-Alien-Earth-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "all-s-fair",
+   "t": "All's Fair",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "Mf8I5P34R8HAK3fv0iKDX-Alls-Fair",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-shards",
+   "t": "The Shards",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "HYaf5CrS4iZhzqd6tlO2U-The-Shards",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-beauty",
+   "t": "The Beauty",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "dramas",
+   "wp": "EbQAmjRKv9iFrkAC7sIgY-The-Beauty",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-drop-a-snowfall-saga",
+   "t": "The Drop: A Snowfall Saga",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "playspelis",
+   "wp": "R8iKNKLIpbQ9e1Hh52I4k-The-Drop-A-Snowfall-Saga",
+   "caps_nuevos": 2,
+   "temps_nuevas": [],
+   "q_catalogo": 4,
+   "q_real": 6
+  },
+  {
+   "id": "made-in-korea",
+   "t": "Made in Korea",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "sololatino",
+   "wp": "BkSVggK1NPM2bnWlYcHwv-Made-in-Korea-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "adults",
+   "t": "Adults",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "pelicula",
+   "wp": "crySwntd8BVTlnnuEzzq7-Adults-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-testaments",
+   "t": "The Testaments",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "pelicula",
+   "wp": "jOLVOVvaDnK4a4ELcHLdX-The-Testaments",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "deli-boys",
+   "t": "Deli Boys",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "UVsCdQBWEfTEVu82KNaJ9-Deli-Boys-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "suits-la",
+   "t": "Suits LA",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "F7hp0amQdp0aVgAFq5Zzg-Suits-LA",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "all-her-fault",
+   "t": "All Her Fault",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "qpkJ96dlmu5i3i6Gq4lUG-All-Her-Fault",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-americas",
+   "t": "The Americas",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "zfL0NqAeHvx0ZUjob913E-The-Americas",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-paper",
+   "t": "The Paper",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "dramas",
+   "wp": "cK3yZWrHrCM3CAtPehtST-The-Paper-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "long-bright-river",
+   "t": "Long Bright River",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "Kmam9a7IhTGrTccoIZFnq-Long-Bright-River",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "kipo-y-la-era-de-los-magnimales",
+   "t": "Kipo y la era de los magnimales",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "flms",
+   "wp": "IcCwQOm6ktV0TMTTIjpXU-Kipo-and-the-Age-of-Wonderbeasts-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-miniature-wife",
+   "t": "The Miniature Wife",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "B6WjfwcH14xrL28k17qek-The-Miniature-Wife-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "kiff",
+   "t": "Kiff",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "pelicula",
+   "wp": "uTH0Vt2SvysPOQjjMeMjq-Kiff-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "mas-alla-del-jardin",
+   "t": "Más allá del jardín",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "79x11i9hEagKw1aGWFpec-Over-the-Garden-Wall-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-burbs",
+   "t": "The 'Burbs",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "qRtovrspSsUmWRUARd1C2-The-Burbs",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "scavengers-reign",
+   "t": "Scavengers Reign",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "QHWLUKldpdOHzzx9JYHlb-Scavengers-Reign",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "hazbin-hotel",
+   "t": "Hazbin Hotel",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "sololatino",
+   "wp": "NWGTaqhLt9ZLWn7aQnyCN-Hazbin-Hotel-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "rick-y-morty-el-anime",
+   "t": "Rick y Morty: El anime",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "FD5SSiP5x6zTea23WRtqA-Rick-and-Morty-The-Anime",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "rick-y-morty",
+   "t": "Rick y Morty",
+   "estado": "ok",
+   "ultima_n": 9,
+   "sitio": "cuevana19",
+   "wp": "Y2UYKRgRrJVOqjb22YV2N-Rick-and-Morty-Season-9",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-segundo-mejor-hospital-de-la-galaxia",
+   "t": "El segundo mejor hospital de la galaxia",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "peliculaplay",
+   "wp": "T6Vf58wkwFqXfzSUW0T6R-The-Second-Best-Hospital-In-The-Galaxy-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "creature-commandos",
+   "t": "Creature Commandos",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "MMLZacmYDsg9Y4EgSK3bX-Creature-Commandos",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "delicious-in-dungeon",
+   "t": "Delicious in Dungeon",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "ePbkr0AEkWHpnLdjQB5pq-Delicious-in-Dungeon",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "devil-may-cry",
+   "t": "Devil May Cry",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "dramas",
+   "wp": "i6s73MaD3CRbyRlEfKYuu-Devil-May-Cry-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "1-happy-family-usa",
+   "t": "#1 Happy Family USA",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "CMnSaVuF8mfGJeBlzc6Ha-1-Happy-Family-USA",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "common-side-effects",
+   "t": "Common Side Effects",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "wZUFbhA5HFqLbLOMR2DGY-Common-Side-Effects-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "division-palermo",
+   "t": "División Palermo",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "playspelis",
+   "wp": "c3h2hoLGIUbkWlt1ObPVy-Community-Squad-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "nivel-secreto",
+   "t": "Nivel secreto",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "Lop2Tbcavla5JjnbIW8Bw-Secret-Level",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "la-voz-ausente",
+   "t": "La voz ausente",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "4OxtPzJ6iiOIiWNZMbTqR-La-voz-ausente",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "envidiosa",
+   "t": "Envidiosa",
+   "estado": "ok",
+   "ultima_n": 4,
+   "sitio": "cuevana4br",
+   "wp": "PWfqqp2MTuYhFg24g5v2s-Envious-Season-4",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-eternauta",
+   "t": "El Eternauta",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "Gz14rRkoO81asib8WQKp2-El-Eternauta",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "viudas-negras",
+   "t": "Viudas Negras",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "SUDsfyyxs2efwcfsqbsRp-Black-Widows-Whres--Hustlers",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "atrapados",
+   "t": "Atrapados",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "wAOLsjn41yiPztlXtff1y-Caught[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "en-el-barro",
+   "t": "En el barro",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "playspelis",
+   "wp": "jhFrka0h3v7B4SnpLKibv-In-The-Mud-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "reacher",
+   "t": "Reacher",
+   "estado": "ok",
+   "ultima_n": 4,
+   "sitio": "playspelis",
+   "wp": "tHSfaH0YVuopBufB5zJfH-Reacher-Season-4",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "menem",
+   "t": "Menem",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "QEQDCMaZL22F20uGU2EGc-Menem-The-President-Show",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "vientos-de-agua",
+   "t": "Vientos de agua",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "ToLdafaiLovVL6HV1Vilc-Vientos-de-agua",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "beauty-in-black",
+   "t": "Beauty in Black",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "movies321",
+   "wp": "us27aGtQ6OSV8We7zZFZa-Beauty-in-Black-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-encargado",
+   "t": "El Encargado",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "pelicula",
+   "wp": "sT1EvBAWwtbskAO1BFopH-El-Encargado-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": [
+    {
+     "n": 3,
+     "q": 7,
+     "w": [
+      {
+       "w": "nZwHOuOfRiTHboplvr4bl-The-Boss-Season-3",
+       "v": "latino",
+       "y": "pelicula"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "q": 7,
+     "w": [
+      {
+       "w": "gWj18XYYkIDiXeECYz6BB-The-Boss-Season-4",
+       "v": "latino",
+       "y": "pelicula"
+      },
+      {
+       "w": "ypdjZeBneSSJYOO4VEjMq-The-Boss-Season-4",
+       "v": "base",
+       "y": "pelicula"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "medusa",
+   "t": "Medusa",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "dramas",
+   "wp": "4qkRjWEjjO4hlD5lVDFv5-Medusa-Season 2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "irreplaceable",
+   "t": "Irreplaceable",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "8K0phH3ffgrUK8EStEcEk-Irreplaceable",
+   "caps_nuevos": 11,
+   "temps_nuevas": [],
+   "q_catalogo": 9,
+   "q_real": 20
+  },
+  {
+   "id": "el-joven-sherlock",
+   "t": "El joven Sherlock",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "GXntelQ0MZ1KK5Ol9CAJp-Young-Sherlock",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "te-encontrare",
+   "t": "Te encontraré",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "4r3G7cAYtFONgSS3JrWnT-I-Will-Find-You",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "scarpetta",
+   "t": "Scarpetta",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "a9gYGqacep6Shh7iKWQ0J-Scarpetta-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-y-ella",
+   "t": "Él y ella",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "dramas",
+   "wp": "cFP6wbHcsw7R1uZRm1Z4e-His--Hers",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "ncis-navy-investigacion-criminal",
+   "t": "NCIS / Navy: Investigación criminal",
+   "estado": "ok",
+   "ultima_n": 19,
+   "sitio": "flixlat",
+   "wp": "7vYLjDpOnbYPk4jAhqGrf-NCIS-Naval-Criminal-Investigative-Service-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-rookie",
+   "t": "The Rookie",
+   "estado": "ok",
+   "ultima_n": 8,
+   "sitio": "movies321",
+   "wp": "HBFcmIjHGvzudTs1dP1Qw-The-Rookie-Season-8",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-peso-de-la-justicia",
+   "t": "El peso de la justicia",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "t8QN49CsNpu1PHs4AjQHF-The-Burden-of-Justice",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "mentes-criminales",
+   "t": "Mentes Criminales",
+   "estado": "ok",
+   "ultima_n": 19,
+   "sitio": "dramas",
+   "wp": "3CR4bdIHMdMZYhbD9ioqR-Criminal-Minds-Evolution-Season-19",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "marshals",
+   "t": "Marshals",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "bZYmGgFTVrGaQ9413rnlB-Marshals",
+   "caps_nuevos": 0,
+   "temps_nuevas": [
+    {
+     "n": 2,
+     "q": 3,
+     "w": [
+      {
+       "w": "aI6TycGsO5wuyZ0RE6QqN-Marshals-Season-2",
+       "v": "latino",
+       "y": "peliculaplay"
+      },
+      {
+       "w": "RofFVecd0bjAdqpQvf25s-Marshals-Season-2",
+       "v": "base",
+       "y": "peliculaplay"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-boroughs-jubilacion-rebelde",
+   "t": "The Boroughs: Jubilación rebelde",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "pelicula",
+   "wp": "6fXNBDCGhUAZwbIOKiOG2-The-Boroughs-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "algo-terrible-esta-a-punto-de-suceder",
+   "t": "Algo terrible está a punto de suceder",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "dramas",
+   "wp": "cBb8QFEOuq8D9RjT861fQ-Something-Very-Bad-Is-Going-to-Happen",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "dexter-resurrection",
+   "t": "Dexter: Resurrection",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "eCKfUyhCYPQRRAc3nN3aQ-Dexter-Resurrection",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-hotel-embrujado",
+   "t": "El hotel embrujado",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "dramas",
+   "wp": "bh3UN4FgIxsd4B94KXdle-Haunted-Hotel",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "coven-academy",
+   "t": "Coven Academy",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "Xys7uqCI7sKLQiA2AQkyV-Coven-Academy",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-robo",
+   "t": "El robo",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "KAAIDv0Rn9M8xS3J6lIpU-Steal",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "i-m-looking-for-zombie",
+   "t": "#I'm Looking For Zombie",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "IC64V1Okqb1JJdN08fmeb-Im-Looking-For-a-Zombie",
+   "caps_nuevos": 2,
+   "temps_nuevas": [],
+   "q_catalogo": 1,
+   "q_real": 3
+  },
+  {
+   "id": "the-terror",
+   "t": "The Terror",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "sololatino",
+   "wp": "OXLVi6MUjc3g9pghwQIf2-The-Terror-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "cochinas",
+   "t": "Cochinas",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "HajFtOVswZPfTTPZmAFtJ-Naughty-Business",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "how-to-get-to-heaven-from-belfast",
+   "t": "How to Get to Heaven from Belfast",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "BioNoOVe3AY1huM6kxJWn-How-to-Get-to-Heaven-from-Belfast",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-hawk",
+   "t": "The Hawk",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "Ow6OQqefqgRr2zzL2cWaI-The-Hawk-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "malcolm-de-mal-en-peor",
+   "t": "Malcolm: De mal en peor",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "JWcEDH5fS7vSoRekOnjIF-Malcolm-in-the-Middle-Lifes-Still-Unfair",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-cineclub",
+   "t": "El Cineclub",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "pelicula",
+   "wp": "Kwk7xEorhoODTf23O6tkV-Film-Club",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "scrubs",
+   "t": "Scrubs",
+   "estado": "ok",
+   "ultima_n": 10,
+   "sitio": "dramas",
+   "wp": "zztEiSFprRjQLfNJ2uLDD-Scrubs-Season-10",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "smiling-friends",
+   "t": "Smiling Friends",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "sololatino",
+   "wp": "Bv5hs6uxVpGV7tzDfdcpt-Smiling-Friends-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "carrie",
+   "t": "Carrie",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "2cTdE1mz208uHDe9dzjRK-Carrie",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "east-of-eden",
+   "t": "Al este del Edén",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "2zc4e9ONLiC5RkOncwEMO-East-of-Eden",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "machosalfa",
+   "t": "Machosalfa",
+   "estado": "ok",
+   "ultima_n": 5,
+   "sitio": "sololatino",
+   "wp": "ibFzuJKTCnDwxfTLRIbin-Alpha-Males-Season-5",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "vampirina",
+   "t": "Vampirina: Una Vampirina adolescente",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "flms",
+   "wp": "2HTBWMSogdB7pi6YBlWQV-Vampirina-Teenage-Vampire-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "nadie-quiere-esto",
+   "t": "Nadie quiere esto",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "flixlat",
+   "wp": "7QsiCKEgWkrgghEU6ffgn-Nobody-Wants-This-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "american-horror-story",
+   "t": "American Horror Story",
+   "estado": "ok",
+   "ultima_n": 13,
+   "sitio": "cuevana19",
+   "wp": "0Y83Hpow6HrMYEYzXLpZO-American-Horror-Story-Season-13",
+   "caps_nuevos": 2,
+   "temps_nuevas": [],
+   "q_catalogo": 6,
+   "q_real": 8
+  },
+  {
+   "id": "doctor-of-love",
+   "t": "Doctor of Love",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "CUISlvWgywUCfSbuaBnrg-Doctor-of-Love",
+   "caps_nuevos": 4,
+   "temps_nuevas": [],
+   "q_catalogo": 2,
+   "q_real": 6
+  },
+  {
+   "id": "team-moms",
+   "t": "Las mamás del equipo: Béisbol",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "3xYf0vbXskhrcHEfqKQ8B-Team-Moms-Baseball",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "swat-exiles",
+   "t": "S.W.A.T.: Exiles",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "1acORoVEGXjnVaoa8nAIQ-SWAT-Exiles",
+   "caps_nuevos": 2,
+   "temps_nuevas": [],
+   "q_catalogo": 2,
+   "q_real": 4
+  },
+  {
+   "id": "special-ops-lioness",
+   "t": "Special Ops: Lioness",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "flixlat",
+   "wp": "JatDbSntxBLW635NoFD8P-Lioness-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "it-welcome-to-derry",
+   "t": "It: Bienvenidos a Derry",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "YIbEmf0CEN7cHMhfUqX8W-IT-Welcome-to-Derry-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "percy-jackson",
+   "t": "Percy Jackson y los dioses del Olimpo",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "flixlat",
+   "wp": "Ah13xI2i6v77GEHd8DnG9-Percy-Jackson-and-the-Olympians-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "betty-la-fea-la-historia-continua",
+   "t": "Betty, la fea: la historia continúa",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "dramas",
+   "wp": "IoHBjvsedLo4oWaykwzSI-Betty-la-Fea-The-Story-Continues-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "boku-no-kokoro-no-yabai-yatsu",
+   "t": "Boku no Kokoro no Yabai Yatsu",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "flms",
+   "wp": "quAwogbsB1K0LqJ3eWmQN-The-Dangers-in-My-Heart-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "daredevil-born-again",
+   "t": "Daredevil: Born Again",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "dramas",
+   "wp": "mRM1fTWJ3VIXC3C1H26wV-Daredevil-Born-Again-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "ahsoka",
+   "t": "Ahsoka",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "Noh9gQwLvR4JlFSZ2wShe-Ahsoka[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "barrabrava",
+   "t": "Barrabrava",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "cuevana4br",
+   "wp": "4YVKGSqdohvMvE4voyPXD-Club-Hooligans-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "beef",
+   "t": "Beef",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "cuevana19",
+   "wp": "NVyPBt9gNxAt7xmvP2h5R-Beef-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-chacal",
+   "t": "El Chacal",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "bGB5SSS1hLxWO6a1xQXA8-The-Day-of-the-Jackal[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-problema-de-los-3-cuerpos",
+   "t": "El problema de los 3 cuerpos",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "eZk3ptHxpvK4IAlHB1aIM-3-Body-Problem[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-agente-nocturno",
+   "t": "El agente nocturno",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "peliculaplay",
+   "wp": "kPH0HCpUmaKWUmpU6IK5x-The-Night-Agent-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-presidente",
+   "t": "El presidente",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "cuevana4br",
+   "wp": "gHLZB7SrbMR25W82GVTW4-The-President-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "dept-q",
+   "t": "Department Q",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "nwpvEFc4f4FeZXDkzszFw-Dept-Q",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "dune-la-profecia",
+   "t": "Dune: La profecía",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "pelicula",
+   "wp": "7vDmkTIBxhPdm9DH99oMu-Dune-Prophecy[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-fin-del-amor",
+   "t": "El fin del Amor",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flms",
+   "wp": "eW0zjWTkLZDEIsfBQuAwY-El-fin-del-Amor-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "los-caballeros",
+   "t": "Los caballeros",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "cuevana19",
+   "wp": "SFcxxNvEiSO04Rvz5vKiQ-The-Gentlemen-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "landman",
+   "t": "Landman",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "playspelis",
+   "wp": "FlZew00v8v0ec3YNOAl8y-Landman-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "la-pareja-perfecta",
+   "t": "La pareja perfecta",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "peliculaplay",
+   "wp": "q3rlv3LcZSkJM5STMFpWr-Perfect-Match-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "felices-los-6",
+   "t": "Felices los 6",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "bF139KJjudc86m9dZmwRu-Six-Is-Not-A-Crowd",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "la-diplomatica",
+   "t": "La diplomática",
+   "estado": "ok",
+   "ultima_n": 3,
+   "sitio": "dramas",
+   "wp": "lA1qQUVdfnq2VMwThtG51-The-Diplomat-Season-3",
+   "caps_nuevos": 0,
+   "temps_nuevas": [
+    {
+     "n": 4,
+     "q": 8,
+     "w": [
+      {
+       "w": "G5CEzOjHEHDkK6yCdtiVZ-The-Diplomat-Season-4",
+       "v": "latino",
+       "y": "dramas"
+      },
+      {
+       "w": "KwdL5tBOskClQ2ek2nWw6-The-Diplomat-Season-4",
+       "v": "base",
+       "y": "dramas"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "los-protectores",
+   "t": "Los Protectores",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "movies321",
+   "wp": "X2iPLZPp8CgqPWt7rnl2p-Protectors",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "running-point",
+   "t": "Running Point",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "peliculaplay",
+   "wp": "UZiSypoajNfQ7Wu4tfN2J-Running-Point-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "visionquest",
+   "t": "VisionQuest",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "pxj9uS7n5faOTxTYMsebq-VisionQuest",
+   "caps_nuevos": 2,
+   "temps_nuevas": [],
+   "q_catalogo": 2,
+   "q_real": 4
+  },
+  {
+   "id": "avatar-siete-refugios",
+   "t": "Avatar: Los Siete Refugios",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "JWQbtME21KgmBWyV0tLLV-Avatar-Seven-Havens-Season-1",
+   "caps_nuevos": 3,
+   "temps_nuevas": [],
+   "q_catalogo": 3,
+   "q_real": 6
+  },
+  {
+   "id": "taboo",
+   "t": "Taboo",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "dramas",
+   "wp": "58vF24vztq9ikDzSjZCnP-Taboo-Season-1",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "one-piece",
+   "t": "One Piece",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "MdpUkP2oMneAfFppRBkY4-One-Piece",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "genera-ion",
+   "t": "Genera+ion",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "peq7hjgKUh4OqunzFPb1q-Generation",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "mrs-davis",
+   "t": "Mrs. Davis",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "q3j8b8uJ8rv3KaS8sxdL3-Mrs-Davis",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "the-calling",
+   "t": "The Calling",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "995gQ5pTETUiRo55KCDyg-The-Calling",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "la-mujer-del-viajero-en-el-tiempo",
+   "t": "La mujer del viajero en el tiempo",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "pelicula",
+   "wp": "LVSoZTIbCjnCYPrKIJtqE-The-Time-Travelers-Wife",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "high-fidelity",
+   "t": "High Fidelity",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "movies321",
+   "wp": "yhahuE7AR8OZ7aS9uGrRt-High-Fidelity",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "harley-quinn",
+   "t": "Harley Quinn",
+   "estado": "ok",
+   "ultima_n": 5,
+   "sitio": "dramas",
+   "wp": "RCLGTgXwAubDOxENoa5Xg-Harley-Quinn-Season-5",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "anne-rice-s-mayfair-witches",
+   "t": "Anne Rice's Mayfair Witches",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "movies321",
+   "wp": "iBCGlTFTYoWPeRDOOCWif-Mayfair-Witches-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "a-league-of-their-own",
+   "t": "A League of Their Own",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "B8IXkbZY1hrhJrvrCJJGc-A-League-of-Their-Own[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "now-apocalypse",
+   "t": "Now Apocalypse",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "movies321",
+   "wp": "E3U2jkqRM5392GZyThQKh-Now-Apocalypse",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-simpatizante",
+   "t": "El simpatizante",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "btJIHISCQILpz981q3XEq-The-Sympathizer[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "monsieur-spade",
+   "t": "Monsieur Spade",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "pelicula",
+   "wp": "NAPfqxcauTLjUGI993u4N-Monsieur-Spade",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "virtual-hero",
+   "t": "Virtual Hero",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "peliculaplay",
+   "wp": "xzX6gDH3Ksc9fBAk2uUJ4-Virtual-Hero-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "exploding-kittens",
+   "t": "Exploding Kittens",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "playspelis",
+   "wp": "GMYEPo9SD59Qm2fXrJ2nO-Exploding-Kittens[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "ride-with-norman-reedus",
+   "t": "Ride with Norman Reedus",
+   "estado": "ok",
+   "ultima_n": 5,
+   "sitio": "flms",
+   "wp": "dXnbIf5vJOrQ5dC9FQxmz-Ride-with-Norman-Reedus-Season-5",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "wonder-egg-priority",
+   "t": "Wonder Egg Priority",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "r28T73xWP5bqqIGPlkouO-Wonder-Egg-Priority",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "skull-island",
+   "t": "Skull Island",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "mo4vDvED7HtItXDy7DDv3-Skull-Island[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "captain-fall",
+   "t": "Captain Fall",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "P64HkoGfufsPFq6gkuP8D-Captain-Fall[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "love-is-blind",
+   "t": "Love Is Blind",
+   "estado": "ok",
+   "ultima_n": 10,
+   "sitio": "playspelis",
+   "wp": "CthMBeer7Ux8E5iNFn0GV-Love-Is-Blind-Season-10",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "apples-never-fall",
+   "t": "Apples Never Fall",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "sololatino",
+   "wp": "h9Zfv4JWRikD67p2cMmnq-Apples-Never-Fall",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "fool-me-once",
+   "t": "Fool Me Once",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana4br",
+   "wp": "UGZr08e8NEJnVpItlEALW-Fool-Me-Once[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "mary-george",
+   "t": "Mary & George",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "ueiJ7bjZXs5AWSUYc2KHo-Mary--George",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-tatuador-de-auschwitz",
+   "t": "El tatuador de Auschwitz",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "flixlat",
+   "wp": "THavlOtG2uuJCtIyswm8C-The-Tattooist-of-Auschwitz[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "lucrecia-a-murder-in-madrid",
+   "t": "Lucrecia: A Murder in Madrid",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "dramas",
+   "wp": "MvrBWA40ZP5BkdIWOGVdP-Lucrecia-A-Murder-in-Madrid",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "chino-americano-la-serie",
+   "t": "Chino americano, la serie",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "q0xmfOBbuTRRYHfMgVnW4-American-Born-Chinese[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "el-crossover",
+   "t": "El Crossover",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "pelicula",
+   "wp": "EFEWOpdcf1Mf8K4r7Gt7N-The-Crossover",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "selling-sunset",
+   "t": "Selling Sunset",
+   "estado": "ok",
+   "ultima_n": 9,
+   "sitio": "playspelis",
+   "wp": "PeGji4hxcLrPTGdurAEMS-Selling-Sunset-Season-9",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "un-hombre-infiltrado",
+   "t": "Un hombre infiltrado",
+   "estado": "ok",
+   "ultima_n": 2,
+   "sitio": "cuevana4br",
+   "wp": "dtB17azFrzmrDaljSZSzd-A-Man-on-the-Inside-Season-2",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "dragon-ball-super-beerus",
+   "t": "Dragon Ball Super: Beerus",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "playspelis",
+   "wp": "c6TXu0zCF6a5TJ0QLPVrv-Dragon-Ball-Super-Beerus",
+   "caps_nuevos": 1,
+   "temps_nuevas": [],
+   "q_catalogo": 1,
+   "q_real": 2
+  },
+  {
+   "id": "mucho-mas-que-listos",
+   "t": "Mucho más que listos",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "peliculaplay",
+   "wp": "PWIvngD5Q90DfJZorhAhN-Pretty-Smart-[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "saturday-morning-all-star-hits",
+   "t": "Saturday Morning All Star Hits!",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "VH33fMQk9rEs1AC5Hc0Ta-Saturday-Morning-All-Star-Hits--[Audio-Latino]",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "crystal-lake",
+   "t": "Crystal Lake",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "cuevana19",
+   "wp": "Nexmt2Uq6z7JZrGWxmiDc-Crystal-Lake",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  },
+  {
+   "id": "hollywood-arts",
+   "t": "Hollywood Arts",
+   "estado": "ok",
+   "ultima_n": 1,
+   "sitio": "pelicula",
+   "wp": "hEnR7y4JJF11JIjY2oqtZ-Hollywood-Arts",
+   "caps_nuevos": 0,
+   "temps_nuevas": []
+  }
+ ]
+}

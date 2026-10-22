@@ -1,0 +1,134 @@
+{
+  "caps": [
+    {
+      "t": "Un Show Más: Las Cintas Perdidas",
+      "n": 1,
+      "q_antes": 17,
+      "q_ahora": 18
+    },
+    {
+      "t": "Lanterns",
+      "n": 1,
+      "q_antes": 7,
+      "q_ahora": 8
+    },
+    {
+      "t": "Outlander: Blood of My Blood",
+      "n": 2,
+      "q_antes": 2,
+      "q_ahora": 5
+    },
+    {
+      "t": "The Drop: A Snowfall Saga",
+      "n": 1,
+      "q_antes": 4,
+      "q_ahora": 6
+    },
+    {
+      "t": "Irreplaceable",
+      "n": 1,
+      "q_antes": 9,
+      "q_ahora": 20
+    },
+    {
+      "t": "#I'm Looking For Zombie",
+      "n": 1,
+      "q_antes": 1,
+      "q_ahora": 3
+    },
+    {
+      "t": "American Horror Story",
+      "n": 13,
+      "q_antes": 6,
+      "q_ahora": 8
+    },
+    {
+      "t": "Doctor of Love",
+      "n": 1,
+      "q_antes": 2,
+      "q_ahora": 6
+    },
+    {
+      "t": "S.W.A.T.: Exiles",
+      "n": 1,
+      "q_antes": 2,
+      "q_ahora": 4
+    },
+    {
+      "t": "VisionQuest",
+      "n": 1,
+      "q_antes": 2,
+      "q_ahora": 4
+    },
+    {
+      "t": "Avatar: Los Siete Refugios",
+      "n": 1,
+      "q_antes": 3,
+      "q_ahora": 6
+    },
+    {
+      "t": "Dragon Ball Super: Beerus",
+      "n": 1,
+      "q_antes": 1,
+      "q_ahora": 2
+    }
+  ],
+  "temps": [
+    {
+      "t": "El Encargado",
+      "n": 3,
+      "q": 7,
+      "fuentes": [
+        [
+          "latino",
+          "pelicula"
+        ]
+      ]
+    },
+    {
+      "t": "El Encargado",
+      "n": 4,
+      "q": 7,
+      "fuentes": [
+        [
+          "latino",
+          "pelicula"
+        ],
+        [
+          "base",
+          "pelicula"
+        ]
+      ]
+    },
+    {
+      "t": "Marshals",
+      "n": 2,
+      "q": 3,
+      "fuentes": [
+        [
+          "latino",
+          "peliculaplay"
+        ],
+        [
+          "base",
+          "peliculaplay"
+        ]
+      ]
+    },
+    {
+      "t": "La diplomática",
+      "n": 4,
+      "q": 8,
+      "fuentes": [
+        [
+          "latino",
+          "dramas"
+        ],
+        [
+          "base",
+          "dramas"
+        ]
+      ]
+    }
+  ]
+}

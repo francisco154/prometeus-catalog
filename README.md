@@ -16,6 +16,14 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v22/ — capítulos y temporadas nuevas (22/10/2026)
+
+Paseo de las **175 series en emisión** contra su URL fuente: **12 series
+con +34 capítulos nuevos** y **4 temporadas nuevas** (El Encargado T3+T4,
+Marshals T2, La diplomática T4) horneadas al catálogo. 160 sin cambios,
+0 fallos. Sin shows/em/rieles tocados; `v` 21 → 22.
+[`reto-v22/`](reto-v22/) tiene el detalle completo.
+
 ## reto-v21/ — emisión alineada con la revisión del dueño (175/175)
 
 El dueño revisó las 385 series del catálogo (21/10/2026) y la verificación
