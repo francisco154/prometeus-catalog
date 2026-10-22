@@ -23,6 +23,10 @@ descartadas): temporadas × variantes de audio paseadas por los hubs de la
 URL, póster/hero/sinopsis/géneros/score de la fuente, años + estado +
 nombres de episodios vía TVMaze (sin IMDb). 88 temporadas, 224 fuentes,
 98/98 URLs de arte verificadas. Rail `enEmision` 175 → 199 (24 nuevas).
+**Parche post-publicación:** Bastard!! **S2 completa** (q=15, 3 audios) —
+los wps de esa temporada llevan "‼" y el relay los rechazaba; se resolvió
+saneando el wp (el sitio resuelve por ID) → 89 temporadas, 227 fuentes.
+Sin bump de `v` (parche, como el de la sinopsis de X-Men '97).
 [`reto-v23/`](reto-v23/) tiene el detalle.
 
 ## reto-v22/ — capítulos y temporadas nuevas (22/10/2026)

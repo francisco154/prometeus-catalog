@@ -1,0 +1,30 @@
+{
+ "parche": "bastard-s2",
+ "show": "bastard",
+ "titulo": "Bastard!!",
+ "cambio": "temporada 2 agregada: n=2, q=15, 3 fuentes (latino/sub/base), x=15 nombres TVMaze",
+ "wp_canonico": "…Bastard‼-Heavy-Metal-Dark-Fantasy-Season-2…",
+ "tecnica": "el relay rechaza '‼' (U+203C) en el wp; el sitio resuelve por ID → wp saneado sin '‼' pasa el relay (detalle íntegro + mediaInfoList jugable verificado en ep 1 y 15, 3 variantes)",
+ "fuentes_s2": [
+  {
+   "v": "latino",
+   "w": "JARtvIgTyZ4uAG0LnMHUf-Bastard-Heavy-Metal-Dark-Fantasy-Season-2[Audio-L",
+   "canonico": "JARtvIgTyZ4uAG0LnMHUf-Bastard‼-Heavy-Metal-Dark-Fantasy-Season-2[Audio-L"
+  },
+  {
+   "v": "sub",
+   "w": "ebAaBYfjyMU3NpsegFyaF-Bastard-Heavy-Metal-Dark-Fantasy-Season-2",
+   "canonico": "ebAaBYfjyMU3NpsegFyaF-Bastard‼-Heavy-Metal-Dark-Fantasy-Season-2"
+  },
+  {
+   "v": "base",
+   "w": "d41TjkKwrfmLu8f7e6P8c-Bastard-Heavy-Metal-Dark-Fantasy-Season-2",
+   "canonico": "d41TjkKwrfmLu8f7e6P8c-Bastard‼-Heavy-Metal-Dark-Fantasy-Season-2"
+  }
+ ],
+ "subtitulos": "variante sub con SRT es/en/ar por episodio (subtitles.peliculaplay.com)",
+ "v": 23,
+ "sin_bump": true,
+ "shows": 922,
+ "wps_totales": 4666
+}
