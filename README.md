@@ -16,6 +16,18 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v21/ — emisión alineada con la revisión del dueño (175/175)
+
+El dueño revisó las 385 series del catálogo (21/10/2026) y la verificación
+del actualizador automático encontró **57 series en emisión que no se
+estaban actualizando** (49 sin campo `em`, 8 con `em=0`), **16
+finalizadas/canceladas que seguían paseándose** cada 9 días y el rail
+"En emisión" incompleto (114 con 14 muertas). La v21 alinea el flag `em`
+con la revisión: **175 series en emisión con `em=1`**, demociones
+aplicadas, `em` normalizado a int y rail reconstruido **114 → 175**.
+873 shows, sin shows nuevos, sin rebuild — llega por la descarga cifrada
+de siempre. [`reto-v21/`](reto-v21/) documenta la verificación completa.
+
 ## reto-v20/ — parche del póster de Barbie (2023)
 
 Corrección mínima de un solo campo: el póster vertical `p` de *Barbie*
