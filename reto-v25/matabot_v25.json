@@ -1,0 +1,91 @@
+{
+ "ficha": {
+  "i": "matabot",
+  "t": "Matabot",
+  "al": "Murderbot",
+  "k": "serie",
+  "tt": "tt30444310",
+  "p": "https://images.metahub.space/poster/medium/tt30444310/img",
+  "b": "https://images.metahub.space/background/medium/tt30444310/img",
+  "h": "https://image.tmdb.org/t/p/w1280/if4r7bXrDH50GhNwCo3Bz8F2LOg.jpg",
+  "s": "En un futuro altamente tecnológico, un robot rebelde de seguridad obtiene libre albedrío en secreto. Para que nadie se entere, se une sin muchas ganas a una nueva misión para proteger a unos científicos en un planeta peligroso... pese a que él solo quiere ver sus telenovelas.",
+  "a": 2025,
+  "r": 7.3,
+  "g": [
+   "Comedia",
+   "Drama",
+   "Ciencia ficción"
+  ],
+  "em": 1,
+  "e": [
+   {
+    "n": 1,
+    "q": 10,
+    "x": [
+     "LibreComercio",
+     "Contacto visual",
+     "Evaluación de riesgo",
+     "Protocolo de velocidad de escape",
+     "Las penas infinitas del robot de ataque",
+     "Red de órdenes",
+     "Especie complementaria",
+     "Objeto externo",
+     "Sistemas Críticos",
+     "El perímetro"
+    ],
+    "w": [
+     {
+      "w": "cvne1-serie-matabot-2025",
+      "v": "latino",
+      "y": "cuevanae"
+     }
+    ]
+   }
+  ]
+ },
+ "verificacion": {
+  "fecha": "2026-10-23",
+  "fuente": {
+   "url_dueno": "https://cuevanae.ink/serie/matabot-2025",
+   "api_content": "https://cuevanae.ink/api/rest/v1/content/serie/matabot-2025",
+   "item_id": 19486,
+   "tmdb_id": 241554,
+   "imdb_id_fuente": "tt30444310",
+   "title": "Matabot",
+   "original_title": "Murderbot",
+   "status": "Returning Series",
+   "first_air_date": "2025-05-15",
+   "last_air_date": "2025-07-10",
+   "vote_average": 7.3,
+   "generos_fuente": [
+    "Comedia",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "network": "Apple TV"
+  },
+  "cadena_verificada": {
+   "pasos": [
+    "GET /api/rest/v1/content/serie/matabot-2025 (sin auth) → item + episode_seasons",
+    "GET https://videoapp.mov/e/tv/241554/1/{ep} con Referer https://cuevanae.ink/ → iframe",
+    "GET https://vimeos.net/embed-{file}.html?cf={jwt} con Referer https://videoapp.mov/ → stream pre-resuelto",
+    "stream_urls[0] = master.m3u8 (480p+720p, token en query) — reproducible SIN Referer ni UA"
+   ],
+   "episodios": "10/10 jugables (hosts: s11.vimeos.net, p3-p6/p9.vimeos.zip, vimeos.zip, s8/s13.vimeos.net)",
+   "audio": "latino doblado — verificado por transcripción ASR de segmentos (seg150: 'O sea, yo no confiaría en mí...')",
+   "subtitulos": "sin subs quemados (verificado por inspección visual de fotogramas) ni externos"
+  },
+  "apps_que_lo_soportan": {
+   "tv": "3.30.39 (release v3.30.39, prometeus-prime-3.28.15)",
+   "movil": "1.0.8 (release v1.0.8, prometeus-prime-mobil)",
+   "nota": "en versiones anteriores la ficha aparece pero el play falla (sitio('cuevanae') no existía)"
+  },
+  "qa": {
+   "shows_previos": "955 byte-identical",
+   "total": 956,
+   "ids_unicos": 956,
+   "wp_nuevo_sin_colision": true,
+   "rails": "enEmision 205→206 (matabot al frente) · generos +1 en Comedia/Drama/Ciencia ficción"
+  }
+ }
+}

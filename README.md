@@ -16,6 +16,21 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v25/ — CuevanaE.ink en la red Pandora: Matabot (955 → 956)
+
+**El reto de la v25**: sumar `cuevanae.ink/serie/matabot-2025` a la red.
+Requería soporte de app nueva (la plataforma es videoapi.la, distinta de la
+red de dramas): **TV 3.30.39 + Móvil 1.0.8** la integran como sitio
+sintético "cuevanae" (patrón argento — API REST + player en cascada
+videoapp → vimeos → m3u8 con token, reproducible por ExoPlayer sin
+headers). El catálogo trae ***Matabot* (Murderbot 2025)**: T1 completa
+(10/10 jugables verificados), **audio latino doblado** (verificado por
+transcripción ASR), episodios es-LatAm de la fuente, `em=1` (Returning
+Series: el actualizador detectará la S2 solo). Rail `enEmision` 205 → 206,
+géneros Comedia/Drama/Ciencia ficción. `v` 24 → 25, los 955 previos
+byte-identical. [`reto-v25/`](reto-v25/) tiene la técnica y la
+verificación completa.
+
 ## reto-v24/ — 33 shows nuevos: 32 series + 1 película (922 → 955)
 
 Ingreso incremental de la lista del dueño (47 URLs): 12 duplicados
