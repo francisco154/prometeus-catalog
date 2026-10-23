@@ -1,0 +1,984 @@
+{
+ "cuevanae": [
+  {
+   "id": "silo",
+   "sitio": "cuevanae",
+   "slug": "silo-2023",
+   "titulo_fuente": "Silo",
+   "titulo_orig": "Silo",
+   "tmdb_id": 125988,
+   "tt_fuente": "tt14688458",
+   "status": "Returning Series",
+   "first_air": "2023-05-04",
+   "last_air": "2026-09-03",
+   "vote_average": 8.22,
+   "generos_fuente": [
+    {
+     "slug": "drama",
+     "title": "Drama",
+     "type": "genre",
+     "url": "/genero/drama"
+    },
+    {
+     "slug": "sci-fi-fantasy",
+     "title": "Sci-Fi & Fantasy",
+     "type": "genre",
+     "url": "/genero/sci-fi-fantasy"
+    }
+   ],
+   "networks": [
+    null
+   ],
+   "sinopsis_fuente": "En un futuro arruinado y tóxico, existe una comunidad en un enorme silo subterráneo cientos de pisos bajo tierra. Ahí, hombres y mujeres viven en una sociedad llena de reglas que creen que están hechas para protegerlos.",
+   "poster_path": "/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+   "backdrop_path": "/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+   "temporadas": [
+    {
+     "n": 1,
+     "q": 10,
+     "playable_count": 10,
+     "titulos": [
+      "Día de la libertad",
+      "La elección de Holston",
+      "Máquinas",
+      "Verdad",
+      "El hijo del conserje",
+      "La reliquia",
+      "Los guardianes de la flama",
+      "Hanna",
+      "El escape",
+      "Exterior"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2023-05-04",
+      "2023-05-04",
+      "2023-05-11",
+      "2023-05-18",
+      "2023-05-25",
+      "2023-06-01",
+      "2023-06-08",
+      "2023-06-15",
+      "2023-06-22",
+      "2023-06-29"
+     ],
+     "wp": "cvne1-serie-silo-2023"
+    },
+    {
+     "n": 2,
+     "q": 10,
+     "playable_count": 10,
+     "titulos": [
+      "La ingeniera",
+      "El Orden",
+      "Solo",
+      "El armonio",
+      "Descenso",
+      "Barricadas",
+      "Bajo el agua",
+      "El libro de Quinn",
+      "La salvaguardia",
+      "Dentro del fuego"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2024-11-14",
+      "2024-11-21",
+      "2024-11-26",
+      "2024-12-05",
+      "2024-12-12",
+      "2024-12-19",
+      "2024-12-26",
+      "2025-01-02",
+      "2025-01-09",
+      "2025-01-16"
+     ],
+     "wp": "cvne2-serie-silo-2023"
+    },
+    {
+     "n": 3,
+     "q": 10,
+     "playable_count": 10,
+     "titulos": [
+      "¿Quién eres tú?",
+      "Todo está bien",
+      "Una web oscura",
+      "Hagas lo que hagas, no vayas a casa",
+      "Memoria",
+      "El disco duro",
+      "Radio",
+      "Masa gris",
+      "Despedida",
+      "Troy"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2026-07-02",
+      "2026-07-09",
+      "2026-07-16",
+      "2026-07-23",
+      "2026-07-30",
+      "2026-08-06",
+      "2026-08-13",
+      "2026-08-20",
+      "2026-08-27",
+      "2026-09-03"
+     ],
+     "wp": "cvne3-serie-silo-2023"
+    }
+   ]
+  },
+  {
+   "id": "ted-lasso",
+   "sitio": "cuevanae",
+   "slug": "ted-lasso-2020",
+   "titulo_fuente": "Ted Lasso",
+   "titulo_orig": "Ted Lasso",
+   "tmdb_id": 97546,
+   "tt_fuente": "tt10986410",
+   "status": "Returning Series",
+   "first_air": "2020-08-14",
+   "last_air": "2026-09-15",
+   "vote_average": 8.4,
+   "generos_fuente": [
+    {
+     "slug": "comedia",
+     "title": "Comedia",
+     "type": "genre",
+     "url": "/genero/comedia"
+    },
+    {
+     "slug": "drama",
+     "title": "Drama",
+     "type": "genre",
+     "url": "/genero/drama"
+    }
+   ],
+   "networks": [
+    null
+   ],
+   "sinopsis_fuente": "Ted Lasso, un ingenuo entrenador de fútbol americano que decide probar suerte en un club de fútbol inglés aunque no tiene idea de ese deporte. Su inexperiencia despierta recelo y desdén entre jugadores y aficionados. Con un equipo y una ciudad que lo mira con sospecha, ¿Logrará tener éxito?",
+   "poster_path": "/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+   "backdrop_path": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+   "temporadas": [
+    {
+     "n": 1,
+     "q": 10,
+     "playable_count": 10,
+     "titulos": [
+      "Piloto",
+      "Bollos",
+      "Trent Crimm: The Independent",
+      "Por los niños",
+      "Líneas de bronceado",
+      "Dos ases",
+      "El resurgir de Rebecca",
+      "Los perros maravilla",
+      "Las disculpas",
+      "La esperanza mata"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2020-08-14",
+      "2020-08-14",
+      "2020-08-14",
+      "2020-08-21",
+      "2020-08-28",
+      "2020-09-04",
+      "2020-09-11",
+      "2020-09-18",
+      "2020-09-25",
+      "2020-10-02"
+     ],
+     "wp": "cvne1-serie-ted-lasso-2020"
+    },
+    {
+     "n": 2,
+     "q": 12,
+     "playable_count": 12,
+     "titulos": [
+      "Adiós, Earl",
+      "Lavanda",
+      "Haz lo correcto",
+      "Carol of the Bells",
+      "Arcoíris",
+      "La señal",
+      "Estado mental",
+      "Man City",
+      "Beard después de hora",
+      "Cero bodas y un funeral",
+      "Tren de medianoche a Royston",
+      "Pirámide del éxito invertida"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2021-07-23",
+      "2021-07-30",
+      "2021-08-06",
+      "2021-08-13",
+      "2021-08-20",
+      "2021-08-27",
+      "2021-09-03",
+      "2021-09-10",
+      "2021-09-17",
+      "2021-09-24",
+      "2021-10-01",
+      "2021-10-08"
+     ],
+     "wp": "cvne2-serie-ted-lasso-2020"
+    },
+    {
+     "n": 3,
+     "q": 12,
+     "playable_count": 12,
+     "titulos": [
+      "El espíritu de la burla",
+      "(No quiero ir a) Chelsea",
+      "4-5-1",
+      "Semana importante",
+      "Señales",
+      "Girasoles",
+      "Las cuerdas que nos atan",
+      "Jamás tendremos París",
+      "El vestidor aux folles",
+      "Internacionales",
+      "Mamanchester City",
+      "Adiós, nos vemos"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2023-03-14",
+      "2023-03-21",
+      "2023-03-28",
+      "2023-04-04",
+      "2023-04-11",
+      "2023-04-18",
+      "2023-04-25",
+      "2023-05-02",
+      "2023-05-09",
+      "2023-05-16",
+      "2023-05-23",
+      "2023-05-30"
+     ],
+     "wp": "cvne3-serie-ted-lasso-2020"
+    },
+    {
+     "n": 4,
+     "q": 10,
+     "playable_count": 10,
+     "titulos": [
+      "Hogar",
+      "Curioso y más curioso",
+      "Jugando por un sueño",
+      "Galgos expertas en diversión",
+      "La riqueza en la vergüenza",
+      "Ya no saltes mucho",
+      "Sí, y nena",
+      "Sigue el enojo",
+      "Mae va en el autobús",
+      "Vivir la vida"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2026-08-04",
+      "2026-08-11",
+      "2026-08-18",
+      "2026-08-25",
+      "2026-09-01",
+      "2026-09-08",
+      "2026-09-15",
+      "2026-09-22",
+      "2026-09-29",
+      "2026-10-06"
+     ],
+     "wp": "cvne4-serie-ted-lasso-2020"
+    }
+   ]
+  },
+  {
+   "id": "terapia-alternativa",
+   "sitio": "cuevanae",
+   "slug": "terapia-alternativa-2021",
+   "titulo_fuente": "Terapia alternativa",
+   "titulo_orig": "Terapia alternativa",
+   "tmdb_id": 127942,
+   "tt_fuente": "tt15350022",
+   "status": "Ended",
+   "first_air": "2021-09-24",
+   "last_air": "2024-03-06",
+   "vote_average": 6.0,
+   "generos_fuente": [
+    {
+     "slug": "comedia",
+     "title": "Comedia",
+     "type": "genre",
+     "url": "/genero/comedia"
+    },
+    {
+     "slug": "drama",
+     "title": "Drama",
+     "type": "genre",
+     "url": "/genero/drama"
+    }
+   ],
+   "networks": [
+    null
+   ],
+   "sinopsis_fuente": "En esta comedia, una pareja de amantes pide ayuda a una terapeuta joven y poco convencional para separarse. A partir de entonces, los tres se ven envueltos en una terapia insólita que traspasa todos los límites éticos y profesionales, todo con el fin de acabar con las mentiras a sus familias.",
+   "poster_path": "/kWete6wKQJB90idzRN5MLon1Pd8.jpg",
+   "backdrop_path": "/vW7YFbpHDSkKLHwEbgPMCohbVLz.jpg",
+   "temporadas": [
+    {
+     "n": 1,
+     "q": 10,
+     "playable_count": 10,
+     "titulos": [
+      "La pareja perfecta",
+      "Marcelo fútbol",
+      "Cómo hacer que tu vida no sea tan mierda",
+      "Yo nunca",
+      "La tía Evelyn",
+      "La casa de mi amante",
+      "La última cena",
+      "Miedo es otra cosa",
+      "Selva",
+      "Querer lo que se desea"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2021-09-24",
+      "2021-09-24",
+      "2021-09-24",
+      "2021-09-24",
+      "2021-09-24",
+      "2021-09-24",
+      "2021-09-24",
+      "2021-09-24",
+      "2021-09-24",
+      "2021-09-24"
+     ],
+     "wp": "cvne1-serie-terapia-alternativa-2021"
+    }
+   ]
+  },
+  {
+   "id": "terapia-sin-filtro",
+   "sitio": "cuevanae",
+   "slug": "terapia-sin-filtro-2023",
+   "titulo_fuente": "Terapia sin filtro",
+   "titulo_orig": "Shrinking",
+   "tmdb_id": 136311,
+   "tt_fuente": "tt15677150",
+   "status": "Returning Series",
+   "first_air": "2023-01-26",
+   "last_air": "2026-04-07",
+   "vote_average": 7.84,
+   "generos_fuente": [
+    {
+     "slug": "comedia",
+     "title": "Comedia",
+     "type": "genre",
+     "url": "/genero/comedia"
+    },
+    {
+     "slug": "drama",
+     "title": "Drama",
+     "type": "genre",
+     "url": "/genero/drama"
+    }
+   ],
+   "networks": [
+    null
+   ],
+   "sinopsis_fuente": "Jimmy tiene problemas para sobrellevar la muerte de su esposa al ser padre, amigo y terapeuta. Decide tener un método nuevo con todas las personas que se le crucen: completa sinceridad sin filtros. ¿Hará que las cosas mejoren... o se desatará un caos turbulento?",
+   "poster_path": "/1paLVdoniAR45emRMlOTGnZG0F7.jpg",
+   "backdrop_path": "/hI9z1UuNhBthvkm3iJ8m3zv43Pf.jpg",
+   "temporadas": [
+    {
+     "n": 1,
+     "q": 10,
+     "playable_count": 10,
+     "titulos": [
+      "Quién sea primero",
+      "Fortaleza de la soledad",
+      "Di-vor-cio",
+      "Papas",
+      "Woof",
+      "Síndrome del impostor",
+      "Día de disculpas",
+      "Boop",
+      "Avanzando",
+      "Pasar la página"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2023-01-26",
+      "2023-01-26",
+      "2023-02-02",
+      "2023-02-09",
+      "2023-02-16",
+      "2023-02-23",
+      "2023-03-02",
+      "2023-03-09",
+      "2023-03-16",
+      "2023-03-23"
+     ],
+     "wp": "cvne1-serie-terapia-sin-filtro-2023"
+    },
+    {
+     "n": 2,
+     "q": 12,
+     "playable_count": 12,
+     "titulos": [
+      "Jimmydeces",
+      "Adoro el dolor",
+      "Algoísmo psicológico",
+      "Te hice dudar",
+      "Época sincera",
+      "Sentirse solo",
+      "A zambullirse",
+      "Un último trago",
+      "Una cara de hombre adulto",
+      "A cambiar los patrones",
+      "Las drogas no funcionan",
+      "Última Acción de Gracias"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2024-10-15",
+      "2024-10-15",
+      "2024-10-22",
+      "2024-10-29",
+      "2024-11-05",
+      "2024-11-12",
+      "2024-11-19",
+      "2024-11-26",
+      "2024-12-03",
+      "2024-12-10",
+      "2024-12-17",
+      "2024-12-23"
+     ],
+     "wp": "cvne2-serie-terapia-sin-filtro-2023"
+    },
+    {
+     "n": 3,
+     "q": 11,
+     "playable_count": 11,
+     "titulos": [
+      "Mi culpa",
+      "Misión de alegría",
+      "Día P",
+      "El campo",
+      "No es carrera",
+      "Los Dereks no mueren",
+      "Seré uvagnífico",
+      "Dieta de depresión",
+      "Problemas con papi",
+      "El guardián de la tristeza",
+      "Y el tiempo se acabó"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2026-01-27",
+      "2026-02-03",
+      "2026-02-10",
+      "2026-02-17",
+      "2026-02-24",
+      "2026-03-03",
+      "2026-03-10",
+      "2026-03-17",
+      "2026-03-24",
+      "2026-03-31",
+      "2026-04-07"
+     ],
+     "wp": "cvne3-serie-terapia-sin-filtro-2023"
+    }
+   ]
+  },
+  {
+   "id": "prefiero-la-muerte",
+   "sitio": "cuevanae",
+   "slug": "prefiero-la-muerte-2026",
+   "titulo_fuente": "Prefiero la muerte",
+   "titulo_orig": "Prefiero la muerte",
+   "tmdb_id": 335227,
+   "tt_fuente": "tt31841438",
+   "status": "Returning Series",
+   "first_air": "2026-10-02",
+   "last_air": "2026-10-02",
+   "vote_average": 7.9,
+   "generos_fuente": [],
+   "networks": [
+    null
+   ],
+   "sinopsis_fuente": "Archie, el perdedor oficial de su escuela, es mordido por un zombi, desencadenando una divertida y caótica misión para salvar la ciudad de Mendoza del apocalipsis.",
+   "poster_path": "/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
+   "backdrop_path": "/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+   "temporadas": [
+    {
+     "n": 1,
+     "q": 8,
+     "playable_count": 8,
+     "titulos": [
+      "Bolillo",
+      "Rojo 40",
+      "No se tiene plagio",
+      "Gotas de Fuego",
+      "No digas \"Zombie\"",
+      "¿Es Monstruo o Mounstro?",
+      "Las Minas de Moria",
+      "Krakatoa"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2026-10-02",
+      "2026-10-02",
+      "2026-10-02",
+      "2026-10-02",
+      "2026-10-02",
+      "2026-10-02",
+      "2026-09-02",
+      "2026-10-02"
+     ],
+     "wp": "cvne1-serie-prefiero-la-muerte-2026"
+    }
+   ]
+  },
+  {
+   "id": "maldicion-widows-bay",
+   "sitio": "cuevanae",
+   "slug": "la-maldicion-de-widow-s-bay-2026",
+   "titulo_fuente": "La maldición de Widow's Bay",
+   "titulo_orig": "Widow's Bay",
+   "tmdb_id": 270476,
+   "tt_fuente": "tt33332385",
+   "status": "Returning Series",
+   "first_air": "2026-04-28",
+   "last_air": "2026-06-16",
+   "vote_average": 8.05,
+   "generos_fuente": [
+    {
+     "slug": "comedia",
+     "title": "Comedia",
+     "type": "genre",
+     "url": "/genero/comedia"
+    },
+    {
+     "slug": "drama",
+     "title": "Drama",
+     "type": "genre",
+     "url": "/genero/drama"
+    },
+    {
+     "slug": "misterio",
+     "title": "Misterio",
+     "type": "genre",
+     "url": "/genero/misterio"
+    }
+   ],
+   "networks": [
+    null
+   ],
+   "sinopsis_fuente": "El alcalde de un pueblo en una isla de Nueva Inglaterra decide convertirla en la próxima sensación turística, a pesar de las advertencias locales de que está maldita.",
+   "poster_path": "/iShZxbbZ5tBrYMNXWNuHcr9uBna.jpg",
+   "backdrop_path": "/6h23WrCtrojF92ZgU2MhWcyqBMy.jpg",
+   "temporadas": [
+    {
+     "n": 1,
+     "q": 10,
+     "playable_count": 10,
+     "titulos": [
+      "¡Bienvenidos a Widow's Bay!",
+      "Hospedaje",
+      "El chapuzón inaugural",
+      "Lecturas en la playa",
+      "¿Qué esperar en tu viaje?",
+      "Nuestra historia",
+      "Mareo en el mar",
+      "Tu equipaje",
+      "Refugio de emergencia",
+      "Esperamos que hayas disfrutado tu estancia"
+     ],
+     "playable_flags": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+     ],
+     "airs": [
+      "2026-04-28",
+      "2026-04-28",
+      "2026-05-05",
+      "2026-05-12",
+      "2026-05-19",
+      "2026-05-26",
+      "2026-05-26",
+      "2026-06-02",
+      "2026-06-09",
+      "2026-06-16"
+     ],
+     "wp": "cvne1-serie-la-maldicion-de-widow-s-bay-2026"
+    }
+   ]
+  }
+ ],
+ "flms": [
+  {
+   "id": "rooster",
+   "sitio": "flms",
+   "wp_seed": "YiO48vnGfqrXimofIyVrU-Untitled-College-Project",
+   "titulo_plat": "Rooster",
+   "sinopsis": "Un aclamado escritor llamado Greg Russo se ve arrastrado al mundo académico por su hija adulta Katie, profesora en una universidad de élite cuyo marido la engaña. Él intenta apoyarla sin sobrepasarse, tratando de lidiar con esta complicada y cambiante relación, al tiempo que transita un nuevo entorno que siente fuera de su alcance.",
+   "poster": "https://img.123flmsfree.com/cover/20260313/1773387422490_03160b40c6a201932deb9e776aa52aa8yy.webp",
+   "hero": "https://img.123flmsfree.com/cover/20260313/1773387425469_af11dd75cdfed61b3bca62f5587b1b43hb.webp",
+   "score": 7.2,
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
+   "dubbing_names": [
+    "Rooster",
+    "Rooster"
+   ],
+   "temporadas": [
+    {
+     "n": 1,
+     "q": 10,
+     "fuentes": [
+      {
+       "w": "YiO48vnGfqrXimofIyVrU-Untitled-College-Project",
+       "v": "latino",
+       "y": "flms"
+      },
+      {
+       "w": "qMUjjN50jzAPd0MU4Uoqo-Untitled-College-Project",
+       "v": "base",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 10,
+      "base": 10
+     }
+    }
+   ],
+   "nodos": 2,
+   "errores": [],
+   "nombres_nodos": [
+    "Rooster"
+   ]
+  },
+  {
+   "id": "the-blacklist",
+   "sitio": "flms",
+   "wp_seed": "7Gp5N7vshXyE6MV6mq31q-The-Blacklist-Season-1",
+   "titulo_plat": "The Blacklist Season 1",
+   "sinopsis": "Un hombre de negocios muy articulado, erudito e inteligente, \"Red\" Reddington, supuestamente ha estado en la \"Lista más buscada\" de varios organismos encargados de hacer cumplir la ley de los Estados Unidos durante más de 20 años. La leyenda es que el rojo es tan esquivo, ya que es inteligente, controlando un laberinto de empresas creativas, junto con la extraña habilidad para reunir y la información de la delicadeza en la caída de un sombrero. El primer día en el FBI para un nuevo perfilador femenino de Quantico, Rojo se ofrece a Bandy Wits con el FBI. Red promete entregar varios delincuentes y parcelas previamente desconocidas para cualquier rama de la aplicación de la ley ... y todas las solicitudes rojas a cambio es elegir su musa.",
+   "poster": "https://img.123flmsfree.com/cover/20211116/1637041962469_24ddec07e4017c88216ae228fd0ad708uFBuEHAyryxsaeRpvq33j2H4xzt.jpg",
+   "hero": "https://img.123flmsfree.com/cover/20211116/1637041971434_bb21fc267b671da3b61a630b53c81069uFBuEHAyryxsaeRpvq33j2H4xzt.jpg",
+   "score": 8,
+   "generos": [
+    "Crimen",
+    "Drama",
+    "Suspense",
+    "Thriller"
+   ],
+   "dubbing_names": [],
+   "temporadas": [
+    {
+     "n": 1,
+     "q": 22,
+     "fuentes": [
+      {
+       "w": "7Gp5N7vshXyE6MV6mq31q-The-Blacklist-Season-1",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 22
+     }
+    },
+    {
+     "n": 2,
+     "q": 22,
+     "fuentes": [
+      {
+       "w": "Iy4MO2976S0C4Nv3ujar5-The-Blacklist-Season-2",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 22
+     }
+    },
+    {
+     "n": 3,
+     "q": 23,
+     "fuentes": [
+      {
+       "w": "4MgFQPOObUgqELltMVxBh-The-Blacklist-Season-3",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 23
+     }
+    },
+    {
+     "n": 4,
+     "q": 22,
+     "fuentes": [
+      {
+       "w": "QVeWFuytDVcdceX3zZ2Hu-The-Blacklist-Season-4",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 22
+     }
+    },
+    {
+     "n": 5,
+     "q": 22,
+     "fuentes": [
+      {
+       "w": "xVtP4twY6Y53lNkbF0Ud0-The-Blacklist-Season-5",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 22
+     }
+    },
+    {
+     "n": 6,
+     "q": 22,
+     "fuentes": [
+      {
+       "w": "S6CtTFEbZshc9hMeypCAF-The-Blacklist-Season-6",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 22
+     }
+    },
+    {
+     "n": 7,
+     "q": 19,
+     "fuentes": [
+      {
+       "w": "8J5WHlAc7zh0tpY0IvSBJ-The-Blacklist-Season-7",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 19
+     }
+    },
+    {
+     "n": 8,
+     "q": 22,
+     "fuentes": [
+      {
+       "w": "EBzXhU7vU8000vDHW3dNI-The-Blacklist-Season-8",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 22
+     }
+    },
+    {
+     "n": 9,
+     "q": 22,
+     "fuentes": [
+      {
+       "w": "8iNBSkM07bPmro0XuwqFB-The-Blacklist-Season-9",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 22
+     }
+    },
+    {
+     "n": 10,
+     "q": 22,
+     "fuentes": [
+      {
+       "w": "YjFR93eVQ41t2RugJADWd-The-Blacklist-Season-10",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "variantes": {
+      "latino": 22
+     }
+    }
+   ],
+   "nodos": 10,
+   "errores": [],
+   "nombres_nodos": [
+    "The Blacklist",
+    "The Blacklist Season 1",
+    "The Blacklist Season 10",
+    "The Blacklist Season 7",
+    "The Blacklist Season 8",
+    "The Blacklist Season 9"
+   ]
+  }
+ ]
+}

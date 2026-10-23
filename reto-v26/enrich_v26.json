@@ -1,0 +1,491 @@
+{
+ "cuevanae": [
+  {
+   "id": "silo",
+   "tt": "tt14688458",
+   "tvmaze": {
+    "id": 38052,
+    "name": "Silo",
+    "premiered": "2023-05-05",
+    "ended": null,
+    "status": "Running",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 403245,
+     "imdb": "tt14688458"
+    },
+    "genres": [
+     "Drama",
+     "Science-Fiction",
+     "Mystery"
+    ]
+   },
+   "anios": [
+    "2023",
+    null
+   ],
+   "em": 1,
+   "fuente_status": "Returning Series",
+   "fuente_first_air": "2023-05-04",
+   "fuente_last_air": "2026-09-03",
+   "x_fonte_ok": true,
+   "sin_x": []
+  },
+  {
+   "id": "ted-lasso",
+   "tt": "tt10986410",
+   "tvmaze": {
+    "id": 44458,
+    "name": "Ted Lasso",
+    "premiered": "2020-08-14",
+    "ended": null,
+    "status": "To Be Determined",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 383203,
+     "imdb": "tt10986410"
+    },
+    "genres": [
+     "Drama",
+     "Comedy",
+     "Sports"
+    ]
+   },
+   "anios": [
+    "2020",
+    null
+   ],
+   "em": 1,
+   "fuente_status": "Returning Series",
+   "fuente_first_air": "2020-08-14",
+   "fuente_last_air": "2026-09-15",
+   "x_fonte_ok": true,
+   "sin_x": []
+  },
+  {
+   "id": "terapia-alternativa",
+   "tt": "tt15350022",
+   "tvmaze": {
+    "id": 57812,
+    "name": "Terapia Alternativa",
+    "premiered": "2021-09-24",
+    "ended": null,
+    "status": "To Be Determined",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 409477,
+     "imdb": "tt15350022"
+    },
+    "genres": [
+     "Drama"
+    ]
+   },
+   "anios": [
+    "2021",
+    null
+   ],
+   "em": 1,
+   "fuente_status": "Ended",
+   "fuente_first_air": "2021-09-24",
+   "fuente_last_air": "2024-03-06",
+   "x_fonte_ok": true,
+   "sin_x": []
+  },
+  {
+   "id": "terapia-sin-filtro",
+   "tt": "tt15677150",
+   "tvmaze": {
+    "id": 58323,
+    "name": "Shrinking",
+    "premiered": "2023-01-27",
+    "ended": null,
+    "status": "Running",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 411364,
+     "imdb": "tt15677150"
+    },
+    "genres": [
+     "Comedy"
+    ]
+   },
+   "anios": [
+    "2023",
+    null
+   ],
+   "em": 1,
+   "fuente_status": "Returning Series",
+   "fuente_first_air": "2023-01-26",
+   "fuente_last_air": "2026-04-07",
+   "x_fonte_ok": true,
+   "sin_x": []
+  },
+  {
+   "id": "prefiero-la-muerte",
+   "tt": "tt31841438",
+   "tvmaze": {
+    "id": 94761,
+    "name": "Prefiero la Muerte",
+    "premiered": "2026-10-02",
+    "ended": null,
+    "status": "Running",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": null,
+     "imdb": "tt31841438"
+    },
+    "genres": [
+     "Comedy",
+     "Adventure",
+     "Horror"
+    ]
+   },
+   "anios": [
+    "2026",
+    null
+   ],
+   "em": 1,
+   "fuente_status": "Returning Series",
+   "fuente_first_air": "2026-10-02",
+   "fuente_last_air": "2026-10-02",
+   "x_fonte_ok": true,
+   "sin_x": []
+  },
+  {
+   "id": "maldicion-widows-bay",
+   "tt": "tt33332385",
+   "tvmaze": {
+    "id": 79390,
+    "name": "Widow's Bay",
+    "premiered": "2026-04-29",
+    "ended": null,
+    "status": "Running",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 454109,
+     "imdb": "tt33332385"
+    },
+    "genres": [
+     "Comedy",
+     "Horror",
+     "Supernatural"
+    ]
+   },
+   "anios": [
+    "2026",
+    null
+   ],
+   "em": 1,
+   "fuente_status": "Returning Series",
+   "fuente_first_air": "2026-04-28",
+   "fuente_last_air": "2026-06-16",
+   "x_fonte_ok": true,
+   "sin_x": []
+  }
+ ],
+ "flms": [
+  {
+   "id": "the-blacklist",
+   "tt": "tt2741602",
+   "tvmaze": {
+    "id": 69,
+    "name": "The Blacklist",
+    "premiered": "2013-09-23",
+    "ended": "2023-07-13",
+    "status": "Ended",
+    "externals": {
+     "tvrage": 35048,
+     "thetvdb": 266189,
+     "imdb": "tt2741602"
+    }
+   },
+   "anios": [
+    "2013",
+    "2023"
+   ],
+   "em": null,
+   "episodios_tvmaze": {
+    "1": {
+     "1": "Pilot",
+     "2": "The Freelancer (No. 145)",
+     "3": "Wujing (No. 84)",
+     "4": "The Stewmaker (No. 161)",
+     "5": "The Courier (No. 85)",
+     "6": "Gina Zanetakos (No. 152)",
+     "7": "Frederick Barnes (No. 47)",
+     "8": "General Ludd (No. 109)",
+     "9": "Anslo Garrick (No. 16): Part 1",
+     "10": "Anslo Garrick (No. 16): Part 2",
+     "11": "The Good Samaritan (No. 106)",
+     "12": "The Alchemist (No. 101)",
+     "13": "The Cyprus Agency (No. 64)",
+     "14": "Madeline Pratt (No. 73)",
+     "15": "The Judge (No. 57)",
+     "16": "Mako Tanida (No. 83)",
+     "17": "Ivan (No. 88)",
+     "18": "Milton Bobbit (No. 135)",
+     "19": "The Pavlovich Brothers (No. 119-122)",
+     "20": "The Kingmaker (No. 42)",
+     "21": "Berlin (No. 8)",
+     "22": "Berlin (No. 8): Conclusion"
+    },
+    "2": {
+     "1": "Lord Baltimore (No. 104)",
+     "2": "Monarch Douglas Bank (No. 112)",
+     "3": "Dr. James Covington (No. 89)",
+     "4": "Dr. Linus Creel (No. 82)",
+     "5": "The Front (No. 74)",
+     "6": "The Mombasa Cartel (No. 114)",
+     "7": "The Scimitar (No. 22)",
+     "8": "The Decembrist (No. 12)",
+     "9": "Luther Braxton (No. 21)",
+     "10": "Luther Braxton (No. 21): Conclusion",
+     "11": "Ruslan Denisov (No. 67)",
+     "12": "The Kenyon Family (No. 71)",
+     "13": "The Deer Hunter (No. 93)",
+     "14": "T. Earl King VI (No. 94)",
+     "15": "The Major (No. 75)",
+     "16": "Tom Keen (No. 7)",
+     "17": "The Longevity Initiative (No. 97)",
+     "18": "Vanessa Cruz (No. 117)",
+     "19": "Leonard Caul (No. 62)",
+     "20": "Quon Zhang (No. 87)",
+     "21": "Karakurt (No. 55)",
+     "22": "Tom Connolly (No. 11)"
+    },
+    "3": {
+     "1": "The Troll Farmer (No. 38)",
+     "2": "Marvin Gerard (No. 80)",
+     "3": "Eli Matchett (No. 72)",
+     "4": "The Djinn (No. 43)",
+     "5": "Arioch Cain (No. 50)",
+     "6": "Sir Crispin Crandall (No. 86)",
+     "7": "Zal Bin Hasaan (No. 31)",
+     "8": "Kings Of The Highway (No. 108)",
+     "9": "The Director (No. 24)",
+     "10": "The Director (No. 24): Conclusion",
+     "11": "Mr. Gregory Devry (No. 95)",
+     "12": "The Vehm (No. 132)",
+     "13": "Alistair Pitt (No. 103)",
+     "14": "Lady Ambrosia (No. 77)",
+     "15": "Drexel (No. 113)",
+     "16": "The Caretaker (No. 78)",
+     "17": "Mr. Solomon (No. 32)",
+     "18": "Mr. Solomon (No. 32): The Conclusion",
+     "19": "Cape May",
+     "20": "The Artax Network (No. 41)",
+     "21": "Susan Hargrave (No. 18)",
+     "22": "Alexander Kirk (No. 14)",
+     "23": "Alexander Kirk (No. 14): Conclusion"
+    },
+    "4": {
+     "1": "Esteban (No. 79)",
+     "2": "Mato (No. 66)",
+     "3": "Miles McGrath (No. 65)",
+     "4": "Gaia (No. 81)",
+     "5": "The Lindquist Concern (No. 105)",
+     "6": "The Thrushes (No. 53)",
+     "7": "Dr. Adrian Shaw (No. 98)",
+     "8": "Dr. Adrian Shaw (No. 98): Conclusion",
+     "9": "Lipet's Seafood Company (No. 111)",
+     "10": "The Forecaster (No. 163)",
+     "11": "The Harem (No. 102)",
+     "12": "Natalie Luca (No. 184)",
+     "13": "Isabella Stone (No. 34)",
+     "14": "The Architect (No. 107)",
+     "15": "The Apothecary (No. 59)",
+     "16": "Dembe Zuma (No. 10)",
+     "17": "Requiem",
+     "18": "Philomena (No. 61)",
+     "19": "Dr. Bogdan Krilov (No. 29)",
+     "20": "The Debt Collector (No. 46)",
+     "21": "Mr. Kaplan (No. 4)",
+     "22": "Mr. Kaplan (No. 4): Conclusion"
+    },
+    "5": {
+     "1": "Smokey Putnum (No. 30)",
+     "2": "Greyson Blaise (No. 37)",
+     "3": "Miss Rebecca Thrall (No. 76)",
+     "4": "The Endling (No. 44)",
+     "5": "Ilyas Surkov (No. 54)",
+     "6": "The Travel Agency (No. 90)",
+     "7": "The Kilgannon Corporation (No. 48)",
+     "8": "Ian Garvey (No. 13)",
+     "9": "Ruin",
+     "10": "The Informant (No. 118)",
+     "11": "Abraham Stern (No. 100)",
+     "12": "The Cook (No. 56)",
+     "13": "The Invisible Hand (No. 63)",
+     "14": "Mr. Raleigh Sinclair III (No. 51)",
+     "15": "Pattie Sue Edwards (No. 68)",
+     "16": "The Capricorn Killer (No. 19)",
+     "17": "Anna-Gracia Duerte (No. 25)",
+     "18": "Zarak Mosadek (No. 23)",
+     "19": "Ian Garvey (No. 13): Conclusion",
+     "20": "Nicholas T. Moore (No. 110)",
+     "21": "Lawrence Dean Devlin (No. 26)",
+     "22": "Sutton Ross (No. 17)"
+    },
+    "6": {
+     "1": "Dr. Hans Koehler (No. 33)",
+     "2": "The Corsican (No. 20)",
+     "3": "The Pharmacist (No. 124)",
+     "4": "The Pawnbrokers (No. 146/147)",
+     "5": "Alter Ego (No. 131)",
+     "6": "The Ethicist (No. 91)",
+     "7": "General Shiro (No. 116)",
+     "8": "Marko Jankowics (No. 58)",
+     "9": "Minister D (No. 99)",
+     "10": "The Cryptobanker (No. 160)",
+     "11": "Bastien Moreau (No. 20)",
+     "12": "Bastien Moreau (No. 20): Conclusion",
+     "13": "Robert Vesco (No. 9)",
+     "14": "The Osterman Umbrella Company (No.6)",
+     "15": "Olivia Olson (No. 115)",
+     "16": "Lady Luck (No. 69)",
+     "17": "The Third Estate (No. 136)",
+     "18": "The Brockton College Killer (No. 92)",
+     "19": "Rassvet",
+     "20": "Guillermo Rizal (No. 128)",
+     "21": "Anna McMahon (No. 60)",
+     "22": "Robert Diaz (No. 15)"
+    },
+    "7": {
+     "1": "Louis T. Steinhil (No. 27)",
+     "2": "Louis T. Steinhil (No. 27): Conclusion",
+     "3": "Les Fleurs du Mal (No. 151)",
+     "4": "Kuwait",
+     "5": "Norman Devane (No. 138)",
+     "6": "Dr. Lewis Powell (No. 130)",
+     "7": "Hannah Hayes (No. 125)",
+     "8": "The Hawaladar (No. 162)",
+     "9": "Orion Relocation Services (No. 159)",
+     "10": "Katarina Rostova (No. 3)",
+     "11": "Victoria Fenberg (No. 137)",
+     "12": "Cornelius Ruck (No. 155)",
+     "13": "Newton Purcell (No. 144)",
+     "14": "Twamie Ullulaq (No. 126)",
+     "15": "Gordon Kemp (No. 158)",
+     "16": "Nyle Hatcher (No. 149)",
+     "17": "Brothers",
+     "18": "Roy Cain (No. 150)",
+     "19": "The Kazanjian Brothers (No. 156/157)"
+    },
+    "8": {
+     "1": "Roanoke (No. 139)",
+     "2": "Katarina Rostova (No. 3): Conclusion",
+     "3": "16 Ounces",
+     "4": "Elizabeth Keen (No. 1)",
+     "5": "The Fribourg Confidence (No. 140)",
+     "6": "The Wellstone Agency (No. 127)",
+     "7": "Chemical Mary (No. 143)",
+     "8": "Ogden Greeley (No. 40)",
+     "9": "The Cyranoid (No. 35)",
+     "10": "Dr. Laken Perillos (No. 70)",
+     "11": "Captain Kidd (No. 96)",
+     "12": "Rakitin (No. 28)",
+     "13": "Anne",
+     "14": "Misère",
+     "15": "The Russian Knot",
+     "16": "Nicholas Obenrader (No. 133)",
+     "17": "Ivan Stepanov (No. 5)",
+     "18": "The Protean (No. 36)",
+     "19": "Balthazar 'Bino' Baker (No. 129)",
+     "20": "Godwin Page (No. 141)",
+     "21": "Nachalo",
+     "22": "Konets"
+    },
+    "9": {
+     "1": "The Skinner (No. 45)",
+     "2": "The Skinner (No. 45): Conclusion",
+     "3": "The SPK (No. 178)",
+     "4": "The Avenging Angel (No. 49)",
+     "5": "Benjamin T. Okara (No. 183)",
+     "6": "Dr. Roberta Sand, Ph.D. (No. 153)",
+     "7": "Between Sleep and Awake",
+     "8": "Dr. Razmik Maier (No. 168)",
+     "9": "Boukman Baptiste (No. 164)",
+     "10": "Arcane Wireless (No. 154)",
+     "11": "The Conglomerate (No. 142)",
+     "12": "The Chairman (No. 171)",
+     "13": "Genuine Models, Inc. (No. 176)",
+     "14": "Eva Mason (No. 181)",
+     "15": "Andrew Kennison (No. 185)",
+     "16": "Helen Maghi (No. 172)",
+     "17": "El Conejo (No. 177)",
+     "18": "Laszlo Jankowics (No. 180)",
+     "19": "The Bear Mask",
+     "20": "Caelum Bank (No. 169)",
+     "21": "Marvin Gerard (No. 80): Conclusion Pt.1",
+     "22": "Marvin Gerard (No. 80): Conclusion Pt. 2"
+    },
+    "10": {
+     "1": "The Night Owl",
+     "2": "The Whaler (No. 165)",
+     "3": "The Four Guns (No. 199)",
+     "4": "The Hyena (No. 200)",
+     "5": "The Dockery Affair",
+     "6": "Dr. Laken Perillos (No. 70): Conclusion",
+     "7": "The Freelancer (No. 145): Pt. 2",
+     "8": "The Troll Farmer (No. 38): Pt. 2",
+     "9": "The Troll Farmer (No. 38): Pt. 3",
+     "10": "The Postman (No. 173)",
+     "11": "The Man in the Hat",
+     "12": "Dr. Michael Abani (No. 198)",
+     "13": "The Sicilian Error of Color",
+     "14": "The Nowhere Bride (No. 192)",
+     "15": "The Hat Trick",
+     "16": "Blair Foster (No. 39)",
+     "17": "The Morgana Logistics Corporation (No. 167)",
+     "18": "Wormwood (No. 182)",
+     "19": "Room 417",
+     "20": "Arthur Hudson",
+     "21": "Raymond Reddington (No. 00): Pt. 1",
+     "22": "Raymond Reddington (No. 00): Good Night"
+    }
+   },
+   "cobertura_x": {
+    "1": {
+     "con_nombre": 22,
+     "q": 22
+    },
+    "2": {
+     "con_nombre": 22,
+     "q": 22
+    },
+    "3": {
+     "con_nombre": 23,
+     "q": 23
+    },
+    "4": {
+     "con_nombre": 22,
+     "q": 22
+    },
+    "5": {
+     "con_nombre": 22,
+     "q": 22
+    },
+    "6": {
+     "con_nombre": 22,
+     "q": 22
+    },
+    "7": {
+     "con_nombre": 19,
+     "q": 19
+    },
+    "8": {
+     "con_nombre": 22,
+     "q": 22
+    },
+    "9": {
+     "con_nombre": 22,
+     "q": 22
+    },
+    "10": {
+     "con_nombre": 22,
+     "q": 22
+    }
+   }
+  }
+ ]
+}

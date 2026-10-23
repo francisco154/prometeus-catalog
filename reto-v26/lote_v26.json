@@ -1,0 +1,1098 @@
+{
+ "version": 26,
+ "shows_previos": 956,
+ "shows_totales": 963,
+ "fecha": "2026-10-23",
+ "ficha_dueno": {
+  "urls": [
+   "https://cuevanae.ink/serie/silo-2023",
+   "https://cuevanae.ink/serie/ted-lasso-2020",
+   "https://cuevanae.ink/serie/terapia-alternativa-2021",
+   "https://cuevanae.ink/serie/terapia-sin-filtro-2023",
+   "https://ww1.123flmsfree.com/es/detail/drama/YiO48vnGfqrXimofIyVrU-Untitled-College-Project/1",
+   "https://ww1.123flmsfree.com/es/detail/drama/7Gp5N7vshXyE6MV6mq31q-The-Blacklist-Season-1",
+   "https://cuevanae.ink/serie/prefiero-la-muerte-2026",
+   "https://cuevanae.ink/serie/la-maldicion-de-widow-s-bay-2026"
+  ]
+ },
+ "fichas": [
+  {
+   "i": "silo",
+   "t": "Silo",
+   "k": "serie",
+   "tt": "tt14688458",
+   "p": "https://images.metahub.space/poster/medium/tt14688458/img",
+   "b": "https://images.metahub.space/background/medium/tt14688458/img",
+   "h": "https://image.tmdb.org/t/p/w1280/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+   "s": "En un futuro arruinado y tóxico, existe una comunidad en un enorme silo subterráneo cientos de pisos bajo tierra. Ahí, hombres y mujeres viven en una sociedad llena de reglas que creen que están hechas para protegerlos.",
+   "a": 2023,
+   "r": 8.2,
+   "g": [
+    "Drama",
+    "Ciencia ficción"
+   ],
+   "em": 1,
+   "e": [
+    {
+     "n": 1,
+     "q": 10,
+     "x": [
+      "Día de la libertad",
+      "La elección de Holston",
+      "Máquinas",
+      "Verdad",
+      "El hijo del conserje",
+      "La reliquia",
+      "Los guardianes de la flama",
+      "Hanna",
+      "El escape",
+      "Exterior"
+     ],
+     "w": [
+      {
+       "w": "cvne1-serie-silo-2023",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "q": 10,
+     "x": [
+      "La ingeniera",
+      "El Orden",
+      "Solo",
+      "El armonio",
+      "Descenso",
+      "Barricadas",
+      "Bajo el agua",
+      "El libro de Quinn",
+      "La salvaguardia",
+      "Dentro del fuego"
+     ],
+     "w": [
+      {
+       "w": "cvne2-serie-silo-2023",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "q": 10,
+     "x": [
+      "¿Quién eres tú?",
+      "Todo está bien",
+      "Una web oscura",
+      "Hagas lo que hagas, no vayas a casa",
+      "Memoria",
+      "El disco duro",
+      "Radio",
+      "Masa gris",
+      "Despedida",
+      "Troy"
+     ],
+     "w": [
+      {
+       "w": "cvne3-serie-silo-2023",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "ted-lasso",
+   "t": "Ted Lasso",
+   "k": "serie",
+   "tt": "tt10986410",
+   "p": "https://images.metahub.space/poster/medium/tt10986410/img",
+   "b": "https://images.metahub.space/background/medium/tt10986410/img",
+   "h": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+   "s": "Ted Lasso, un ingenuo entrenador de fútbol americano que decide probar suerte en un club de fútbol inglés aunque no tiene idea de ese deporte. Su inexperiencia despierta recelo y desdén entre jugadores y aficionados. Con un equipo y una ciudad que lo mira con sospecha, ¿Logrará tener éxito?",
+   "a": 2020,
+   "r": 8.4,
+   "g": [
+    "Comedia",
+    "Drama"
+   ],
+   "em": 1,
+   "e": [
+    {
+     "n": 1,
+     "q": 10,
+     "x": [
+      "Piloto",
+      "Bollos",
+      "Trent Crimm: The Independent",
+      "Por los niños",
+      "Líneas de bronceado",
+      "Dos ases",
+      "El resurgir de Rebecca",
+      "Los perros maravilla",
+      "Las disculpas",
+      "La esperanza mata"
+     ],
+     "w": [
+      {
+       "w": "cvne1-serie-ted-lasso-2020",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "q": 12,
+     "x": [
+      "Adiós, Earl",
+      "Lavanda",
+      "Haz lo correcto",
+      "Carol of the Bells",
+      "Arcoíris",
+      "La señal",
+      "Estado mental",
+      "Man City",
+      "Beard después de hora",
+      "Cero bodas y un funeral",
+      "Tren de medianoche a Royston",
+      "Pirámide del éxito invertida"
+     ],
+     "w": [
+      {
+       "w": "cvne2-serie-ted-lasso-2020",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "q": 12,
+     "x": [
+      "El espíritu de la burla",
+      "(No quiero ir a) Chelsea",
+      "4-5-1",
+      "Semana importante",
+      "Señales",
+      "Girasoles",
+      "Las cuerdas que nos atan",
+      "Jamás tendremos París",
+      "El vestidor aux folles",
+      "Internacionales",
+      "Mamanchester City",
+      "Adiós, nos vemos"
+     ],
+     "w": [
+      {
+       "w": "cvne3-serie-ted-lasso-2020",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "q": 10,
+     "x": [
+      "Hogar",
+      "Curioso y más curioso",
+      "Jugando por un sueño",
+      "Galgos expertas en diversión",
+      "La riqueza en la vergüenza",
+      "Ya no saltes mucho",
+      "Sí, y nena",
+      "Sigue el enojo",
+      "Mae va en el autobús",
+      "Vivir la vida"
+     ],
+     "w": [
+      {
+       "w": "cvne4-serie-ted-lasso-2020",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "terapia-alternativa",
+   "t": "Terapia alternativa",
+   "k": "serie",
+   "tt": "tt15350022",
+   "p": "https://images.metahub.space/poster/medium/tt15350022/img",
+   "b": "https://images.metahub.space/background/medium/tt15350022/img",
+   "h": "https://image.tmdb.org/t/p/w1280/vW7YFbpHDSkKLHwEbgPMCohbVLz.jpg",
+   "s": "En esta comedia, una pareja de amantes pide ayuda a una terapeuta joven y poco convencional para separarse. A partir de entonces, los tres se ven envueltos en una terapia insólita que traspasa todos los límites éticos y profesionales, todo con el fin de acabar con las mentiras a sus familias.",
+   "a": 2021,
+   "f": 2024,
+   "r": 6.0,
+   "g": [
+    "Comedia",
+    "Drama"
+   ],
+   "e": [
+    {
+     "n": 1,
+     "q": 10,
+     "x": [
+      "La pareja perfecta",
+      "Marcelo fútbol",
+      "Cómo hacer que tu vida no sea tan mierda",
+      "Yo nunca",
+      "La tía Evelyn",
+      "La casa de mi amante",
+      "La última cena",
+      "Miedo es otra cosa",
+      "Selva",
+      "Querer lo que se desea"
+     ],
+     "w": [
+      {
+       "w": "cvne1-serie-terapia-alternativa-2021",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "terapia-sin-filtro",
+   "t": "Terapia sin filtro",
+   "al": "Shrinking",
+   "k": "serie",
+   "tt": "tt15677150",
+   "p": "https://images.metahub.space/poster/medium/tt15677150/img",
+   "b": "https://images.metahub.space/background/medium/tt15677150/img",
+   "h": "https://image.tmdb.org/t/p/w1280/hI9z1UuNhBthvkm3iJ8m3zv43Pf.jpg",
+   "s": "Jimmy tiene problemas para sobrellevar la muerte de su esposa al ser padre, amigo y terapeuta. Decide tener un método nuevo con todas las personas que se le crucen: completa sinceridad sin filtros. ¿Hará que las cosas mejoren... o se desatará un caos turbulento?",
+   "a": 2023,
+   "r": 7.8,
+   "g": [
+    "Comedia",
+    "Drama"
+   ],
+   "em": 1,
+   "e": [
+    {
+     "n": 1,
+     "q": 10,
+     "x": [
+      "Quién sea primero",
+      "Fortaleza de la soledad",
+      "Di-vor-cio",
+      "Papas",
+      "Woof",
+      "Síndrome del impostor",
+      "Día de disculpas",
+      "Boop",
+      "Avanzando",
+      "Pasar la página"
+     ],
+     "w": [
+      {
+       "w": "cvne1-serie-terapia-sin-filtro-2023",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "q": 12,
+     "x": [
+      "Jimmydeces",
+      "Adoro el dolor",
+      "Algoísmo psicológico",
+      "Te hice dudar",
+      "Época sincera",
+      "Sentirse solo",
+      "A zambullirse",
+      "Un último trago",
+      "Una cara de hombre adulto",
+      "A cambiar los patrones",
+      "Las drogas no funcionan",
+      "Última Acción de Gracias"
+     ],
+     "w": [
+      {
+       "w": "cvne2-serie-terapia-sin-filtro-2023",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "q": 11,
+     "x": [
+      "Mi culpa",
+      "Misión de alegría",
+      "Día P",
+      "El campo",
+      "No es carrera",
+      "Los Dereks no mueren",
+      "Seré uvagnífico",
+      "Dieta de depresión",
+      "Problemas con papi",
+      "El guardián de la tristeza",
+      "Y el tiempo se acabó"
+     ],
+     "w": [
+      {
+       "w": "cvne3-serie-terapia-sin-filtro-2023",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "the-blacklist",
+   "t": "The Blacklist",
+   "k": "serie",
+   "tt": "tt2741602",
+   "p": "https://images.metahub.space/poster/medium/tt2741602/img",
+   "b": "https://images.metahub.space/background/medium/tt2741602/img",
+   "h": "https://img.123flmsfree.com/cover/20211116/1637041971434_bb21fc267b671da3b61a630b53c81069uFBuEHAyryxsaeRpvq33j2H4xzt.jpg",
+   "s": "Un hombre de negocios muy articulado, erudito e inteligente, \"Red\" Reddington, supuestamente ha estado en la \"Lista más buscada\" de varios organismos encargados de hacer cumplir la ley de los Estados Unidos durante más de 20 años. La leyenda es que el rojo es tan esquivo, ya que es inteligente, controlando un laberinto de empresas creativas, junto con la extraña habilidad para reunir y la información de la delicadeza en la caída de un sombrero. El primer día en el FBI para un nuevo perfilador femenino de Quantico, Rojo se ofrece a Bandy Wits con el FBI. Red promete entregar varios delincuentes y parcelas previamente desconocidas para cualquier rama de la aplicación de la ley ... y todas las solicitudes rojas a cambio es elegir su musa.",
+   "a": 2013,
+   "f": 2023,
+   "r": 8,
+   "g": [
+    "Crimen",
+    "Drama",
+    "Suspense",
+    "Thriller"
+   ],
+   "e": [
+    {
+     "n": 1,
+     "q": 22,
+     "w": [
+      {
+       "w": "7Gp5N7vshXyE6MV6mq31q-The-Blacklist-Season-1",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "Pilot",
+      "The Freelancer (No. 145)",
+      "Wujing (No. 84)",
+      "The Stewmaker (No. 161)",
+      "The Courier (No. 85)",
+      "Gina Zanetakos (No. 152)",
+      "Frederick Barnes (No. 47)",
+      "General Ludd (No. 109)",
+      "Anslo Garrick (No. 16): Part 1",
+      "Anslo Garrick (No. 16): Part 2",
+      "The Good Samaritan (No. 106)",
+      "The Alchemist (No. 101)",
+      "The Cyprus Agency (No. 64)",
+      "Madeline Pratt (No. 73)",
+      "The Judge (No. 57)",
+      "Mako Tanida (No. 83)",
+      "Ivan (No. 88)",
+      "Milton Bobbit (No. 135)",
+      "The Pavlovich Brothers (No. 119-122)",
+      "The Kingmaker (No. 42)",
+      "Berlin (No. 8)",
+      "Berlin (No. 8): Conclusion"
+     ]
+    },
+    {
+     "n": 2,
+     "q": 22,
+     "w": [
+      {
+       "w": "Iy4MO2976S0C4Nv3ujar5-The-Blacklist-Season-2",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "Lord Baltimore (No. 104)",
+      "Monarch Douglas Bank (No. 112)",
+      "Dr. James Covington (No. 89)",
+      "Dr. Linus Creel (No. 82)",
+      "The Front (No. 74)",
+      "The Mombasa Cartel (No. 114)",
+      "The Scimitar (No. 22)",
+      "The Decembrist (No. 12)",
+      "Luther Braxton (No. 21)",
+      "Luther Braxton (No. 21): Conclusion",
+      "Ruslan Denisov (No. 67)",
+      "The Kenyon Family (No. 71)",
+      "The Deer Hunter (No. 93)",
+      "T. Earl King VI (No. 94)",
+      "The Major (No. 75)",
+      "Tom Keen (No. 7)",
+      "The Longevity Initiative (No. 97)",
+      "Vanessa Cruz (No. 117)",
+      "Leonard Caul (No. 62)",
+      "Quon Zhang (No. 87)",
+      "Karakurt (No. 55)",
+      "Tom Connolly (No. 11)"
+     ]
+    },
+    {
+     "n": 3,
+     "q": 23,
+     "w": [
+      {
+       "w": "4MgFQPOObUgqELltMVxBh-The-Blacklist-Season-3",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "The Troll Farmer (No. 38)",
+      "Marvin Gerard (No. 80)",
+      "Eli Matchett (No. 72)",
+      "The Djinn (No. 43)",
+      "Arioch Cain (No. 50)",
+      "Sir Crispin Crandall (No. 86)",
+      "Zal Bin Hasaan (No. 31)",
+      "Kings Of The Highway (No. 108)",
+      "The Director (No. 24)",
+      "The Director (No. 24): Conclusion",
+      "Mr. Gregory Devry (No. 95)",
+      "The Vehm (No. 132)",
+      "Alistair Pitt (No. 103)",
+      "Lady Ambrosia (No. 77)",
+      "Drexel (No. 113)",
+      "The Caretaker (No. 78)",
+      "Mr. Solomon (No. 32)",
+      "Mr. Solomon (No. 32): The Conclusion",
+      "Cape May",
+      "The Artax Network (No. 41)",
+      "Susan Hargrave (No. 18)",
+      "Alexander Kirk (No. 14)",
+      "Alexander Kirk (No. 14): Conclusion"
+     ]
+    },
+    {
+     "n": 4,
+     "q": 22,
+     "w": [
+      {
+       "w": "QVeWFuytDVcdceX3zZ2Hu-The-Blacklist-Season-4",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "Esteban (No. 79)",
+      "Mato (No. 66)",
+      "Miles McGrath (No. 65)",
+      "Gaia (No. 81)",
+      "The Lindquist Concern (No. 105)",
+      "The Thrushes (No. 53)",
+      "Dr. Adrian Shaw (No. 98)",
+      "Dr. Adrian Shaw (No. 98): Conclusion",
+      "Lipet's Seafood Company (No. 111)",
+      "The Forecaster (No. 163)",
+      "The Harem (No. 102)",
+      "Natalie Luca (No. 184)",
+      "Isabella Stone (No. 34)",
+      "The Architect (No. 107)",
+      "The Apothecary (No. 59)",
+      "Dembe Zuma (No. 10)",
+      "Requiem",
+      "Philomena (No. 61)",
+      "Dr. Bogdan Krilov (No. 29)",
+      "The Debt Collector (No. 46)",
+      "Mr. Kaplan (No. 4)",
+      "Mr. Kaplan (No. 4): Conclusion"
+     ]
+    },
+    {
+     "n": 5,
+     "q": 22,
+     "w": [
+      {
+       "w": "xVtP4twY6Y53lNkbF0Ud0-The-Blacklist-Season-5",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "Smokey Putnum (No. 30)",
+      "Greyson Blaise (No. 37)",
+      "Miss Rebecca Thrall (No. 76)",
+      "The Endling (No. 44)",
+      "Ilyas Surkov (No. 54)",
+      "The Travel Agency (No. 90)",
+      "The Kilgannon Corporation (No. 48)",
+      "Ian Garvey (No. 13)",
+      "Ruin",
+      "The Informant (No. 118)",
+      "Abraham Stern (No. 100)",
+      "The Cook (No. 56)",
+      "The Invisible Hand (No. 63)",
+      "Mr. Raleigh Sinclair III (No. 51)",
+      "Pattie Sue Edwards (No. 68)",
+      "The Capricorn Killer (No. 19)",
+      "Anna-Gracia Duerte (No. 25)",
+      "Zarak Mosadek (No. 23)",
+      "Ian Garvey (No. 13): Conclusion",
+      "Nicholas T. Moore (No. 110)",
+      "Lawrence Dean Devlin (No. 26)",
+      "Sutton Ross (No. 17)"
+     ]
+    },
+    {
+     "n": 6,
+     "q": 22,
+     "w": [
+      {
+       "w": "S6CtTFEbZshc9hMeypCAF-The-Blacklist-Season-6",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "Dr. Hans Koehler (No. 33)",
+      "The Corsican (No. 20)",
+      "The Pharmacist (No. 124)",
+      "The Pawnbrokers (No. 146/147)",
+      "Alter Ego (No. 131)",
+      "The Ethicist (No. 91)",
+      "General Shiro (No. 116)",
+      "Marko Jankowics (No. 58)",
+      "Minister D (No. 99)",
+      "The Cryptobanker (No. 160)",
+      "Bastien Moreau (No. 20)",
+      "Bastien Moreau (No. 20): Conclusion",
+      "Robert Vesco (No. 9)",
+      "The Osterman Umbrella Company (No.6)",
+      "Olivia Olson (No. 115)",
+      "Lady Luck (No. 69)",
+      "The Third Estate (No. 136)",
+      "The Brockton College Killer (No. 92)",
+      "Rassvet",
+      "Guillermo Rizal (No. 128)",
+      "Anna McMahon (No. 60)",
+      "Robert Diaz (No. 15)"
+     ]
+    },
+    {
+     "n": 7,
+     "q": 19,
+     "w": [
+      {
+       "w": "8J5WHlAc7zh0tpY0IvSBJ-The-Blacklist-Season-7",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "Louis T. Steinhil (No. 27)",
+      "Louis T. Steinhil (No. 27): Conclusion",
+      "Les Fleurs du Mal (No. 151)",
+      "Kuwait",
+      "Norman Devane (No. 138)",
+      "Dr. Lewis Powell (No. 130)",
+      "Hannah Hayes (No. 125)",
+      "The Hawaladar (No. 162)",
+      "Orion Relocation Services (No. 159)",
+      "Katarina Rostova (No. 3)",
+      "Victoria Fenberg (No. 137)",
+      "Cornelius Ruck (No. 155)",
+      "Newton Purcell (No. 144)",
+      "Twamie Ullulaq (No. 126)",
+      "Gordon Kemp (No. 158)",
+      "Nyle Hatcher (No. 149)",
+      "Brothers",
+      "Roy Cain (No. 150)",
+      "The Kazanjian Brothers (No. 156/157)"
+     ]
+    },
+    {
+     "n": 8,
+     "q": 22,
+     "w": [
+      {
+       "w": "EBzXhU7vU8000vDHW3dNI-The-Blacklist-Season-8",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "Roanoke (No. 139)",
+      "Katarina Rostova (No. 3): Conclusion",
+      "16 Ounces",
+      "Elizabeth Keen (No. 1)",
+      "The Fribourg Confidence (No. 140)",
+      "The Wellstone Agency (No. 127)",
+      "Chemical Mary (No. 143)",
+      "Ogden Greeley (No. 40)",
+      "The Cyranoid (No. 35)",
+      "Dr. Laken Perillos (No. 70)",
+      "Captain Kidd (No. 96)",
+      "Rakitin (No. 28)",
+      "Anne",
+      "Misère",
+      "The Russian Knot",
+      "Nicholas Obenrader (No. 133)",
+      "Ivan Stepanov (No. 5)",
+      "The Protean (No. 36)",
+      "Balthazar 'Bino' Baker (No. 129)",
+      "Godwin Page (No. 141)",
+      "Nachalo",
+      "Konets"
+     ]
+    },
+    {
+     "n": 9,
+     "q": 22,
+     "w": [
+      {
+       "w": "8iNBSkM07bPmro0XuwqFB-The-Blacklist-Season-9",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "The Skinner (No. 45)",
+      "The Skinner (No. 45): Conclusion",
+      "The SPK (No. 178)",
+      "The Avenging Angel (No. 49)",
+      "Benjamin T. Okara (No. 183)",
+      "Dr. Roberta Sand, Ph.D. (No. 153)",
+      "Between Sleep and Awake",
+      "Dr. Razmik Maier (No. 168)",
+      "Boukman Baptiste (No. 164)",
+      "Arcane Wireless (No. 154)",
+      "The Conglomerate (No. 142)",
+      "The Chairman (No. 171)",
+      "Genuine Models, Inc. (No. 176)",
+      "Eva Mason (No. 181)",
+      "Andrew Kennison (No. 185)",
+      "Helen Maghi (No. 172)",
+      "El Conejo (No. 177)",
+      "Laszlo Jankowics (No. 180)",
+      "The Bear Mask",
+      "Caelum Bank (No. 169)",
+      "Marvin Gerard (No. 80): Conclusion Pt.1",
+      "Marvin Gerard (No. 80): Conclusion Pt. 2"
+     ]
+    },
+    {
+     "n": 10,
+     "q": 22,
+     "w": [
+      {
+       "w": "YjFR93eVQ41t2RugJADWd-The-Blacklist-Season-10",
+       "v": "latino",
+       "y": "flms"
+      }
+     ],
+     "x": [
+      "The Night Owl",
+      "The Whaler (No. 165)",
+      "The Four Guns (No. 199)",
+      "The Hyena (No. 200)",
+      "The Dockery Affair",
+      "Dr. Laken Perillos (No. 70): Conclusion",
+      "The Freelancer (No. 145): Pt. 2",
+      "The Troll Farmer (No. 38): Pt. 2",
+      "The Troll Farmer (No. 38): Pt. 3",
+      "The Postman (No. 173)",
+      "The Man in the Hat",
+      "Dr. Michael Abani (No. 198)",
+      "The Sicilian Error of Color",
+      "The Nowhere Bride (No. 192)",
+      "The Hat Trick",
+      "Blair Foster (No. 39)",
+      "The Morgana Logistics Corporation (No. 167)",
+      "Wormwood (No. 182)",
+      "Room 417",
+      "Arthur Hudson",
+      "Raymond Reddington (No. 00): Pt. 1",
+      "Raymond Reddington (No. 00): Good Night"
+     ]
+    }
+   ]
+  },
+  {
+   "i": "prefiero-la-muerte",
+   "t": "Prefiero la muerte",
+   "k": "serie",
+   "tt": "tt31841438",
+   "p": "https://images.metahub.space/poster/medium/tt31841438/img",
+   "b": "https://images.metahub.space/background/medium/tt31841438/img",
+   "h": "https://image.tmdb.org/t/p/w1280/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+   "s": "Archie, el perdedor oficial de su escuela, es mordido por un zombi, desencadenando una divertida y caótica misión para salvar la ciudad de Mendoza del apocalipsis.",
+   "a": 2026,
+   "r": 7.9,
+   "g": [
+    "Comedia",
+    "Aventura",
+    "Horror"
+   ],
+   "em": 1,
+   "e": [
+    {
+     "n": 1,
+     "q": 8,
+     "x": [
+      "Bolillo",
+      "Rojo 40",
+      "No se tiene plagio",
+      "Gotas de Fuego",
+      "No digas \"Zombie\"",
+      "¿Es Monstruo o Mounstro?",
+      "Las Minas de Moria",
+      "Krakatoa"
+     ],
+     "w": [
+      {
+       "w": "cvne1-serie-prefiero-la-muerte-2026",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "maldicion-widows-bay",
+   "t": "La maldición de Widow's Bay",
+   "al": "Widow's Bay",
+   "k": "serie",
+   "tt": "tt33332385",
+   "p": "https://images.metahub.space/poster/medium/tt33332385/img",
+   "b": "https://images.metahub.space/background/medium/tt33332385/img",
+   "h": "https://image.tmdb.org/t/p/w1280/6h23WrCtrojF92ZgU2MhWcyqBMy.jpg",
+   "s": "El alcalde de un pueblo en una isla de Nueva Inglaterra decide convertirla en la próxima sensación turística, a pesar de las advertencias locales de que está maldita.",
+   "a": 2026,
+   "r": 8.1,
+   "g": [
+    "Comedia",
+    "Drama",
+    "Misterio"
+   ],
+   "em": 1,
+   "e": [
+    {
+     "n": 1,
+     "q": 10,
+     "x": [
+      "¡Bienvenidos a Widow's Bay!",
+      "Hospedaje",
+      "El chapuzón inaugural",
+      "Lecturas en la playa",
+      "¿Qué esperar en tu viaje?",
+      "Nuestra historia",
+      "Mareo en el mar",
+      "Tu equipaje",
+      "Refugio de emergencia",
+      "Esperamos que hayas disfrutado tu estancia"
+     ],
+     "w": [
+      {
+       "w": "cvne1-serie-la-maldicion-de-widow-s-bay-2026",
+       "v": "latino",
+       "y": "cuevanae"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "duplicados": [
+  {
+   "i": "rooster",
+   "motivo": "ya en catálogo con el mismo wp (YiO48vnGfqrXimofIyVrU-Untitled-College-Project), T1 q=10 latino+base — walk sin cambios"
+  }
+ ],
+ "limitaciones": [
+  {
+   "show": "terapia-alternativa",
+   "nota": "T2 real (2024, 7 eps según Cinemeta) NO está hospedada en cuevanae.ink — solo T1 (10 eps). El actualizador detectará cvne2-serie-terapia-alternativa-2021 si la suben."
+  }
+ ],
+ "enriquecimiento": {
+  "cuevanae": [
+   {
+    "id": "silo",
+    "tt": "tt14688458",
+    "em": 1,
+    "tvmaze": {
+     "id": 38052,
+     "name": "Silo",
+     "premiered": "2023-05-05",
+     "ended": null,
+     "status": "Running",
+     "externals": {
+      "tvrage": null,
+      "thetvdb": 403245,
+      "imdb": "tt14688458"
+     },
+     "genres": [
+      "Drama",
+      "Science-Fiction",
+      "Mystery"
+     ]
+    },
+    "anios": [
+     "2023",
+     null
+    ]
+   },
+   {
+    "id": "ted-lasso",
+    "tt": "tt10986410",
+    "em": 1,
+    "tvmaze": {
+     "id": 44458,
+     "name": "Ted Lasso",
+     "premiered": "2020-08-14",
+     "ended": null,
+     "status": "To Be Determined",
+     "externals": {
+      "tvrage": null,
+      "thetvdb": 383203,
+      "imdb": "tt10986410"
+     },
+     "genres": [
+      "Drama",
+      "Comedy",
+      "Sports"
+     ]
+    },
+    "anios": [
+     "2020",
+     null
+    ]
+   },
+   {
+    "id": "terapia-alternativa",
+    "tt": "tt15350022",
+    "em": 1,
+    "tvmaze": {
+     "id": 57812,
+     "name": "Terapia Alternativa",
+     "premiered": "2021-09-24",
+     "ended": null,
+     "status": "To Be Determined",
+     "externals": {
+      "tvrage": null,
+      "thetvdb": 409477,
+      "imdb": "tt15350022"
+     },
+     "genres": [
+      "Drama"
+     ]
+    },
+    "anios": [
+     "2021",
+     null
+    ]
+   },
+   {
+    "id": "terapia-sin-filtro",
+    "tt": "tt15677150",
+    "em": 1,
+    "tvmaze": {
+     "id": 58323,
+     "name": "Shrinking",
+     "premiered": "2023-01-27",
+     "ended": null,
+     "status": "Running",
+     "externals": {
+      "tvrage": null,
+      "thetvdb": 411364,
+      "imdb": "tt15677150"
+     },
+     "genres": [
+      "Comedy"
+     ]
+    },
+    "anios": [
+     "2023",
+     null
+    ]
+   },
+   {
+    "id": "prefiero-la-muerte",
+    "tt": "tt31841438",
+    "em": 1,
+    "tvmaze": {
+     "id": 94761,
+     "name": "Prefiero la Muerte",
+     "premiered": "2026-10-02",
+     "ended": null,
+     "status": "Running",
+     "externals": {
+      "tvrage": null,
+      "thetvdb": null,
+      "imdb": "tt31841438"
+     },
+     "genres": [
+      "Comedy",
+      "Adventure",
+      "Horror"
+     ]
+    },
+    "anios": [
+     "2026",
+     null
+    ]
+   },
+   {
+    "id": "maldicion-widows-bay",
+    "tt": "tt33332385",
+    "em": 1,
+    "tvmaze": {
+     "id": 79390,
+     "name": "Widow's Bay",
+     "premiered": "2026-04-29",
+     "ended": null,
+     "status": "Running",
+     "externals": {
+      "tvrage": null,
+      "thetvdb": 454109,
+      "imdb": "tt33332385"
+     },
+     "genres": [
+      "Comedy",
+      "Horror",
+      "Supernatural"
+     ]
+    },
+    "anios": [
+     "2026",
+     null
+    ]
+   }
+  ],
+  "flms": [
+   {
+    "id": "the-blacklist",
+    "tt": "tt2741602",
+    "anios": [
+     "2013",
+     "2023"
+    ],
+    "cobertura_x": {
+     "1": {
+      "con_nombre": 22,
+      "q": 22
+     },
+     "2": {
+      "con_nombre": 22,
+      "q": 22
+     },
+     "3": {
+      "con_nombre": 23,
+      "q": 23
+     },
+     "4": {
+      "con_nombre": 22,
+      "q": 22
+     },
+     "5": {
+      "con_nombre": 22,
+      "q": 22
+     },
+     "6": {
+      "con_nombre": 22,
+      "q": 22
+     },
+     "7": {
+      "con_nombre": 19,
+      "q": 19
+     },
+     "8": {
+      "con_nombre": 22,
+      "q": 22
+     },
+     "9": {
+      "con_nombre": 22,
+      "q": 22
+     },
+     "10": {
+      "con_nombre": 22,
+      "q": 22
+     }
+    }
+   }
+  ],
+  "cinemeta_verificaciones": {
+   "terapia-alternativa": {
+    "name": "Alternative Therapy",
+    "releaseInfo": "2021–2024",
+    "status": "Ended",
+    "temps_reales": [
+     1,
+     2
+    ],
+    "eps_reales": 17
+   },
+   "the-blacklist": {
+    "releaseInfo": "2013–2023",
+    "status": "Ended",
+    "temps_reales": 10
+   }
+  },
+  "nota": "tt de la propia fuente (cuevanae external_ids) o de TVMaze externals (Blacklist) — habilitan carátulas de capítulos in-app (TvmazeArts). Sin imdb.com como fuente."
+ },
+ "verificacion": {
+  "cvne_eps": {
+   "total": 135,
+   "ok": 135,
+   "fallos": []
+  },
+  "cvne_por_show": {
+   "silo": [
+    30,
+    0
+   ],
+   "ted-lasso": [
+    44,
+    0
+   ],
+   "terapia-alternativa": [
+    10,
+    0
+   ],
+   "terapia-sin-filtro": [
+    33,
+    0
+   ],
+   "prefiero-la-muerte": [
+    8,
+    0
+   ],
+   "maldicion-widows-bay": [
+    10,
+    0
+   ]
+  },
+  "blacklist": {
+   "temps_ok": 10
+  },
+  "arte": {
+   "ok": 21,
+   "fallos": 0
+  }
+ },
+ "qa": {
+  "shows_previos": "956 byte-identical (dict equality)",
+  "total": 963,
+  "ids_unicos": 963,
+  "wps_sin_colision": true,
+  "wps_ascii": true,
+  "x_menor_q": true,
+  "rails": "enEmision 206→211 (5 nuevas al frente) · estrenos2026 79→81 (2 nuevas al frente) · generos append-only (9 géneros existentes, sin claves nuevas)"
+ }
+}

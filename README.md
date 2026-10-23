@@ -16,6 +16,21 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v26/ — 7 shows nuevos: 6 de cuevanae.ink + The Blacklist (956 → 963)
+
+Séptimo ingreso incremental: **Silo** (T1-T3), **Ted Lasso** (T1-T4, la de
+2026 incluida), **Terapia sin filtro**/*Shrinking* (T1-T3), **The Blacklist**
+(T1-T10, 218 eps, frente `flms`), **Prefiero la muerte** (2026, en emisión) y
+**La maldición de Widow's Bay** (2026) — técnica v25 multi-temporada
+(`cvne{n}-serie-{slug}`), más **Terapia alternativa** (T1, comedia española).
+*Rooster* descartado por duplicado (mismo wp, walk sin cambios). 23
+temporadas, 353 episodios con nombre, **jugabilidad verificada 135/135 en
+cuevanae + 10/10 temporadas de Blacklist**, arte 21/21. Enriquecimiento
+TVMaze/Cinemeta sin imdb.com: años, estado, 218 nombres (Blacklist), tt para
+las carátulas de capítulos in-app. Rails: `enEmision` 206→211,
+`estrenos2026` 79→81. `v` 25 → 26, los 956 previos byte-identical.
+[`reto-v26/`](reto-v26/) tiene la técnica y la verificación completa.
+
 ## reto-v25/ — CuevanaE.ink en la red Pandora: Matabot (955 → 956)
 
 **El reto de la v25**: sumar `cuevanae.ink/serie/matabot-2025` a la red.
