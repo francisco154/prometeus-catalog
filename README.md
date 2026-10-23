@@ -16,6 +16,24 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v27/ — 5 series + 5 pelis de la red: 963 → 973
+
+Octavo ingreso incremental, 11 URLs del dueño (todas frentes de la red de
+dramas): **La peor vuelta al mundo** (Disney+/Juanpa Zurita, em=1 renovada
+S2), **Bajo la superficie**/*Below* (Netflix 2026, Josh Hartnett,
+latino+sub+base), **City of Stars** (tailandesa 2024), **Yaga** (HBO Max,
+estreno 23/10 en emisión), **Dead End** (polaca Netflix, latino+base) +
+pelis **Honey, la reina del baile** (2003, latino+base), **Honey Don't!**
+(latino+sub+base), **El descendiente**, **The Man with the Black Umbrella**
+y **The Man with the Answers**. *The Boroughs* duplicado (wp ya en
+catálogo). **Pósters latinos del CDN de la fuente** (pedido del dueño),
+doblajes completos por walk de dubbingList. Enriquecimiento SIN imdb.com:
+TVMaze + Cinemeta meta (su search está roto — documentado) + Wikipedia +
+Wikidata SPARQL para los tt (10/10). Jugabilidad 10/10 y arte 30/30
+verificados en vivo. Rails: `enEmision` 211→214, `estrenos2026` 81→83,
+`peliculas` +5. `v` 26 → 27, los 963 previos byte-identical.
+[`reto-v27/`](reto-v27/) tiene la técnica y la verificación completa.
+
 ## reto-v26/ — 7 shows nuevos: 6 de cuevanae.ink + The Blacklist (956 → 963)
 
 Séptimo ingreso incremental: **Silo** (T1-T3), **Ted Lasso** (T1-T4, la de

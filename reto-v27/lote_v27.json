@@ -1,0 +1,597 @@
+{
+ "version": 27,
+ "shows_previos": 963,
+ "shows_totales": 973,
+ "fecha": "2026-10-23",
+ "ficha_dueno": {
+  "urls": [
+   "https://flixlat.com/es/detail/drama/4gDlfqEjUTBsVIvBeZmJU-The-Worst-Trip-Around-the-World/1",
+   "https://peliculaplay.com/es/detail/drama/YjnyefPqCHRzXnIakAY2N-Below/1",
+   "https://ver.123pelicula.com/es/detail/drama/6fXNBDCGhUAZwbIOKiOG2-The-Boroughs-Season-1/1",
+   "https://latino.solo-latino.com/es/detail/drama/D5SSHsCUXowdD5p7AhRJZ-City-Of-Stars/1",
+   "https://es.cuevana4br.com/es/detail/drama/kWwQX54uGXaK9er48XcJq-Yaga/1",
+   "https://peliculaplay.com/es/detail/drama/jHUsNz0J9XpGd83X3V1aX-Dead-End%5BAudio-Latino%5D/1",
+   "https://ww1.123flmsfree.com/es/detail/movie/lZVcCW3D66KsI3YjxmfND-Honey",
+   "https://video.playspelis.com/es/detail/movie/cNVyRJsdpdbFcS9BghBzc-Honey-Dont",
+   "https://es.cuevana4br.com/es/detail/movie/3uXNmxZr1zanVGD5YLKlV-Descendent",
+   "https://www3.dramasfree.com/es/detail/movie/vItuhCEaX7f20oBElcJbw-The-Man-with-the-Black-Umbrella",
+   "https://latino.solo-latino.com/es/detail/movie/IXDe7IyA5pM2VkMbpy475-The-Man-with-the-Answers"
+  ]
+ },
+ "fichas": [
+  {
+   "i": "la-peor-vuelta-al-mundo",
+   "t": "La peor vuelta al mundo",
+   "al": "The Worst Trip: Around the World",
+   "k": "serie",
+   "tt": "tt38776685",
+   "p": "https://img.flixlat.com/cover/20251113/1763004478595_936e9f5d833de2e6f6cd54480886cb771.png",
+   "b": "https://images.metahub.space/background/medium/tt38776685/img",
+   "h": "https://img.flixlat.com/cover/20251113/1763004481939_978bfa0c762102d7e348468ebd4556cc2.png",
+   "s": "Sin tener idea de lo que implica volar alrededor del mundo, el creador Juanpa Zurita convence a Disney+ de que puede lograrlo en una avioneta monomotor junto a Matt Guthmiller, el piloto más joven en haber dado la vuelta al planeta. Sin baño a bordo y con millones de fans mirando, cada escala trae una mala decisión, un invitado distinto y una cultura nueva: casarse en Las Vegas, perderse en Costa Rica, congelarse en Islandia y terminar hospitalizado en Rumania. Un docu-reality de comedia sobre el peor viaje alrededor del mundo que nadie planearía jamás.",
+   "a": 2025,
+   "r": 7.9,
+   "g": [
+    "Reality show"
+   ],
+   "em": 1,
+   "e": [
+    {
+     "n": 1,
+     "q": 8,
+     "w": [
+      {
+       "w": "4gDlfqEjUTBsVIvBeZmJU-The-Worst-Trip-Around-the-World",
+       "v": "sub",
+       "y": "flixlat"
+      }
+     ],
+     "x": [
+      "Married in VEGAS Ft. Chingu Amiga",
+      "Put to Shame in CUBA Ft. Facudo",
+      "Lost in COSTA RICA Ft. Lele Pons",
+      "Frozen in ICELAND Ft. Esen Alva",
+      "Injured in MOROCCO Ft. Daniela Rodrice",
+      "Hospitalized in RUMANIA Ft. Jair Sánchez",
+      "Drowned in VIETNAM Ft. Harold Azuara",
+      "Beaten Up in JAPAN Ft. Daniel Sosa"
+     ]
+    }
+   ]
+  },
+  {
+   "i": "bajo-la-superficie",
+   "t": "Bajo la superficie",
+   "al": "Below",
+   "k": "serie",
+   "tt": "tt35934755",
+   "p": "https://img.peliculaplay.com/cover/20260921/1789969660301_qadm9To9UfMVenVzGVLt0m0iuxv.jpg",
+   "b": "https://images.metahub.space/background/medium/tt35934755/img",
+   "h": "https://img.peliculaplay.com/cover/20260921/1789969703521_4182ebe3a95039ff94c73241b2a2d01bcn0feYcDvVzVjUDoXa1O8sRgzz.webp",
+   "s": "Cuando una misteriosa criatura marina aterroriza a un pueblo costero canadiense, un recio pescador y su familia luchan por proteger a su comunidad.",
+   "a": 2026,
+   "f": 2026,
+   "r": 7.6,
+   "g": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "e": [
+    {
+     "n": 1,
+     "q": 6,
+     "w": [
+      {
+       "w": "YjnyefPqCHRzXnIakAY2N-Below",
+       "v": "latino",
+       "y": "peliculaplay"
+      },
+      {
+       "w": "jBQrGJMCcsXnCnLdtnWUh-Below",
+       "v": "sub",
+       "y": "peliculaplay"
+      },
+      {
+       "w": "NIcYHODPxlKnN7J53O3sZ-Below",
+       "v": "base",
+       "y": "peliculaplay"
+      }
+     ],
+     "x": [
+      "Come Home Year",
+      "Crown and Anchor",
+      "Sir John Franklin",
+      "The Ocean Will Have Us All",
+      "Little Pot Rock",
+      "The Unfathering Deep"
+     ]
+    }
+   ]
+  },
+  {
+   "i": "city-of-stars",
+   "t": "City of Stars",
+   "k": "serie",
+   "tt": "tt32159578",
+   "p": "https://img.solo-latino.com/cover/20240206/1707184271079_661ec6bae18bbb4b2f3aee6acf65bb38City Of Stars1.jpg",
+   "b": "https://images.metahub.space/background/medium/tt32159578/img",
+   "h": "https://img.solo-latino.com/cover/20240206/1707184363983_badc5e02ad1fc9d5a88004a31ebf82d4City Of Stars.jpg",
+   "s": "¿Alguna vez has oído hablar de la aplicación \"Zendaya\"? Es una aplicación de redes sociales que gobierna cada publicación para contener solo contenido positivo. Esta limitación del concepto de aplicación lo hizo menos popular hasta el villano más popular de Tailandia, 'Fueangnakorn', registrado y publicó el primer mensaje que decía: \"Pasemos la energía positiva entre sí\". Zendaya es atacado por muchos usuarios tailandeses e inmediatamente se generaliza ... hasta el punto de que sacudir la pequeña oficina de Zendaya en Silicon Valley. arriba, y cuida la aplicación que de repente se vuelve popular. Además ... ¿quién hubiera pensado que la causa del caos, como Fueangnakorn, tocaba la campana frente a su casa y pediría las comidas cocinadas por su madre?",
+   "a": 2024,
+   "f": 2024,
+   "r": 9.0,
+   "g": [
+    "Drama",
+    "LGBTQ"
+   ],
+   "e": [
+    {
+     "n": 1,
+     "q": 12,
+     "w": [
+      {
+       "w": "D5SSHsCUXowdD5p7AhRJZ-City-Of-Stars",
+       "v": "sub",
+       "y": "sololatino"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "yaga",
+   "t": "Yaga",
+   "k": "serie",
+   "tt": "tt39980704",
+   "p": "https://img.cuevana4br.com/cover/20261023/1792748552682_aCC9QOYLFsvsZrlaUkTJi7RIWEb.jpg",
+   "b": "https://images.metahub.space/background/medium/tt39980704/img",
+   "h": "https://img.cuevana4br.com/cover/20261023/1792748576164_eff7239ce09399e26b6642a3b3afe6d0bCO97neKyNqk1Ppcu3jM7GGhxEc.webp",
+   "s": "Sigue a un investigador privado que investiga la desaparición de un joven heredero de la pesca, y se encuentra en desacuerdo con un detective local, un profesor carismático y un laberinto de sospechosos enigmáticos y magia antigua.",
+   "a": 2026,
+   "r": 9.0,
+   "g": [
+    "Horror",
+    "Thriller"
+   ],
+   "em": 1,
+   "e": [
+    {
+     "n": 1,
+     "q": 2,
+     "w": [
+      {
+       "w": "kWwQX54uGXaK9er48XcJq-Yaga",
+       "v": "sub",
+       "y": "cuevana4br"
+      }
+     ],
+     "x": [
+      "The Burning Man",
+      "Dark Solstice"
+     ]
+    }
+   ]
+  },
+  {
+   "i": "dead-end",
+   "t": "Dead End",
+   "k": "serie",
+   "tt": "tt19723990",
+   "p": "https://img.peliculaplay.com/cover/20221205/1670207443309_ed7370b5d84676fa6c1a05e4dbe24824j4yasPJg4bZLKv18lYZNc30xZM3.jpg",
+   "b": "https://images.metahub.space/background/medium/tt19723990/img",
+   "h": "https://img.peliculaplay.com/cover/20221205/1670207448486_213ef35fea358a1cf70527b5f7e5a2a1eFkaDLCP2GJiAp54kwPqKnkELU5.jpg",
+   "s": "Un grupo de extraños que accidentalmente se alejan en un automóvil con dos millones de zlotys, provenientes de un atraco bancario.",
+   "a": 2022,
+   "r": 6.3,
+   "g": [
+    "Comedia",
+    "Crimen",
+    "Drama",
+    "Thriller"
+   ],
+   "em": 1,
+   "e": [
+    {
+     "n": 1,
+     "q": 6,
+     "w": [
+      {
+       "w": "jHUsNz0J9XpGd83X3V1aX-Dead-End[Audio-Latino]",
+       "v": "latino",
+       "y": "peliculaplay"
+      },
+      {
+       "w": "u0WFPuB9YIUQiQghTjnQT-Dead-End",
+       "v": "base",
+       "y": "peliculaplay"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "i": "honey-la-reina-del-baile",
+   "t": "Honey, la reina del baile",
+   "al": "Honey",
+   "k": "peli",
+   "tt": "tt0322589",
+   "p": "https://img.123flmsfree.com/cover/20250320/1742435898777_f8755f59fa1589b6b3e5fc9be68e63b0q3cpTKhVOQ2b1PDN9BobvQAulec.jpg",
+   "b": "https://images.metahub.space/background/medium/tt0322589/img",
+   "h": "https://img.123flmsfree.com/cover/20250320/1742435904193_f84d6ae31c196df8d04230b7aebdc96eq3cpTKhVOQ2b1PDN9BobvQAulec.jpg",
+   "s": "Honey es una coreógrafa de videos musicales sexy y dura que cambia su vida luego de que su mentor le da un ultimátum: acostarse con él o ser incluida en la lista negra de la industria.",
+   "a": 2003,
+   "r": 5.3,
+   "g": [
+    "Drama",
+    "Música",
+    "Romance"
+   ],
+   "e": [],
+   "w": [
+    {
+     "w": "lZVcCW3D66KsI3YjxmfND-Honey",
+     "v": "latino",
+     "y": "flms"
+    },
+    {
+     "w": "koBRTG4gTpeYQSCIBHOMB-Honey",
+     "v": "base",
+     "y": "flms"
+    }
+   ]
+  },
+  {
+   "i": "honey-dont",
+   "t": "Honey Don't!",
+   "k": "peli",
+   "tt": "tt30645201",
+   "p": "https://img.playspelis.com/cover/20250922/1758532509184_39e3781dc15c7e5b447da3aaae7fa92c1756283957651_12d5aa822b6da8554a23c119b8acf2d41.png",
+   "b": "https://images.metahub.space/background/medium/tt30645201/img",
+   "h": "https://img.playspelis.com/cover/20250922/1758532621102_7f3645eae315e47e4f922ac79b5e47571756280954278_764495fa9208407fc5ef9fee94f51d8b2.png",
+   "s": "Una comedia oscura sobre la investigadora privada de la pequeña ciudad, Honey O'Donahue, que profundiza en una serie de muertes extrañas vinculadas a una misteriosa iglesia.",
+   "a": 2025,
+   "r": 5.7,
+   "g": [
+    "Comedia",
+    "Crimen",
+    "Suspense",
+    "Thriller"
+   ],
+   "e": [],
+   "w": [
+    {
+     "w": "cNVyRJsdpdbFcS9BghBzc-Honey-Dont",
+     "v": "latino",
+     "y": "playspelis"
+    },
+    {
+     "w": "BCAuMpbeZBwcS77fmg4SQ-Honey-Dont",
+     "v": "sub",
+     "y": "playspelis"
+    },
+    {
+     "w": "ywcU7WXaFQbcETSFlBkXA-Honey-Dont",
+     "v": "base",
+     "y": "playspelis"
+    }
+   ]
+  },
+  {
+   "i": "el-descendiente",
+   "t": "El descendiente",
+   "al": "Descendent",
+   "k": "peli",
+   "tt": "tt35521703",
+   "p": "https://img.cuevana4br.com/cover/20260428/1777360853564_aa3a0c29543f08e454432a1a6b8f29b73tO8SSlRxrZrJStbX2nPr5u7dCQ.webp",
+   "b": "https://images.metahub.space/background/medium/tt35521703/img",
+   "h": "https://img.cuevana4br.com/cover/20260428/1777360862608_c73ca478de9116c9b76a9ff9c403da72asO6UtEqDB9bdJzDDjnSzNZf3vY.webp",
+   "s": "Un problemático guardia de la escuela de Los Ángeles, atormentado por la tragedia familiar, experimenta visiones extrañas después de que aparece una luz misteriosa en el cielo. A medida que se acerca la fecha de vencimiento de su esposa, corre para enfrentar a sus demonios antes de que su creciente obsesión lo consuma.",
+   "a": 2025,
+   "r": 4.9,
+   "g": [
+    "Drama",
+    "Fantasía",
+    "Horror",
+    "Ciencia ficción",
+    "Thriller"
+   ],
+   "e": [],
+   "w": [
+    {
+     "w": "3uXNmxZr1zanVGD5YLKlV-Descendent",
+     "v": "latino",
+     "y": "cuevana4br"
+    },
+    {
+     "w": "iZYOH8lDDtDjilfrLEHZK-Descendent",
+     "v": "sub",
+     "y": "cuevana4br"
+    }
+   ]
+  },
+  {
+   "i": "the-man-with-the-black-umbrella",
+   "t": "The Man with the Black Umbrella",
+   "k": "peli",
+   "tt": "tt38106016",
+   "p": "https://img.dramasfree.com/cover/20251230/1767088560011_32e3dd2b794c429bb1f9e95344dfd88e英竖.webp",
+   "b": "https://images.metahub.space/background/medium/tt38106016/img",
+   "h": "https://img.dramasfree.com/cover/20251230/1767088563328_707decd3451b0a33d251f6a80b62118f英横.webp",
+   "s": "El 8 de enero de 2015, un hombre con un paraguas negro irrumpió en el número 818 de Hilltop Drive a las 3:38 a. m. y cometió un doble asesinato. La investigación resultante demostró que algunos asesinatos no deben resolverse.",
+   "a": 2025,
+   "r": 4.3,
+   "g": [
+    "Horror"
+   ],
+   "e": [],
+   "w": [
+    {
+     "w": "vItuhCEaX7f20oBElcJbw-The-Man-with-the-Black-Umbrella",
+     "v": "sub",
+     "y": "dramas"
+    }
+   ]
+  },
+  {
+   "i": "the-man-with-the-answers",
+   "t": "The Man with the Answers",
+   "k": "peli",
+   "tt": "tt9320140",
+   "p": "https://img.solo-latino.com/cover/20260713/1783913871016_000f4e7aadefd3283172d6f373243d40x.png",
+   "b": "https://images.metahub.space/background/medium/tt9320140/img",
+   "h": "https://img.solo-latino.com/cover/20220715/1657855363299_673a063c54f2f43340d69cf1569c77e36.jpg",
+   "s": "Víctor es un ex campeón de buceo de veintitantos años que ahora trabaja en una fábrica de muebles y vive con su abuela enferma en un pueblo costero de Grecia. Angustiado por su muerte, decide desempolvar su viejo auto y viajar a Alemania para visitar a su madre separada. En el ferry a Italia, conoce a Matthias, un joven alemán hablador e inquisitivo que regresa a casa. Matthias persuade a Víctor para que lo lleve con él y, mientras conducen hacia el norte, la personalidad tensa y represiva de Víctor choca con el espíritu más libre de Matthias. Pero pronto encuentran un terreno emocional común cuando su viaje de verano por carretera toma giros inesperados. Una tierna historia de autodescubrimiento, amor y familia, en sus múltiples formas",
+   "a": 2021,
+   "r": 6.8,
+   "g": [
+    "Drama",
+    "Romance",
+    "LGBTQ"
+   ],
+   "e": [],
+   "w": [
+    {
+     "w": "IXDe7IyA5pM2VkMbpy475-The-Man-with-the-Answers",
+     "v": "latino",
+     "y": "sololatino"
+    }
+   ]
+  }
+ ],
+ "duplicados": [
+  {
+   "i": "the-boroughs",
+   "motivo": "wp 6fXNBDCGhUAZwbIOKiOG2-The-Boroughs-Season-1 ya en catálogo"
+  }
+ ],
+ "enriquecimiento": [
+  {
+   "id": "the-worst-trip",
+   "tt": "tt38776685",
+   "tt_src": "tvmaze",
+   "anios": [
+    2025,
+    null
+   ],
+   "em": 1,
+   "tvmaze": {
+    "id": 87964,
+    "name": "La Peor Vuelta al Mundo",
+    "premiered": "2025-11-07",
+    "ended": null,
+    "status": "Running",
+    "network": "Disney+",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": null,
+     "imdb": "tt38776685"
+    },
+    "genres": [
+     "Adventure",
+     "Travel"
+    ]
+   },
+   "x_fuentes": "cinemeta"
+  },
+  {
+   "id": "below",
+   "tt": "tt35934755",
+   "tt_src": "tvmaze",
+   "anios": [
+    2026,
+    2026
+   ],
+   "em": null,
+   "tvmaze": {
+    "id": 93115,
+    "name": "Below",
+    "premiered": "2026-10-08",
+    "ended": "2026-10-08",
+    "status": "Ended",
+    "network": "Netflix",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 480205,
+     "imdb": "tt35934755"
+    },
+    "genres": [
+     "Thriller",
+     "Mystery",
+     "Supernatural"
+    ]
+   },
+   "x_fuentes": "tvmaze"
+  },
+  {
+   "id": "city-of-stars",
+   "tt": "tt32159578",
+   "tt_src": "cinemeta-verify (websearch candidate)",
+   "anios": [
+    2024,
+    2024
+   ],
+   "em": null,
+   "tvmaze": {
+    "id": 74171,
+    "name": "City of Stars",
+    "premiered": "2024-02-02",
+    "ended": "2024-05-10",
+    "status": "Ended",
+    "network": "One31",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 445565,
+     "imdb": null
+    },
+    "genres": [
+     "Drama",
+     "Romance"
+    ]
+   },
+   "x_fuentes": "tvmaze"
+  },
+  {
+   "id": "yaga",
+   "tt": "tt39980704",
+   "tt_src": "tvmaze",
+   "anios": [
+    2026,
+    null
+   ],
+   "em": 1,
+   "tvmaze": {
+    "id": 93263,
+    "name": "Yaga",
+    "premiered": "2026-10-23",
+    "ended": null,
+    "status": "Running",
+    "network": "Crave",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 464467,
+     "imdb": "tt39980704"
+    },
+    "genres": [
+     "Thriller",
+     "Mystery",
+     "Supernatural"
+    ]
+   },
+   "x_fuentes": "tvmaze"
+  },
+  {
+   "id": "dead-end",
+   "tt": "tt19723990",
+   "tt_src": "tvmaze",
+   "anios": [
+    2022,
+    null
+   ],
+   "em": 1,
+   "tvmaze": {
+    "id": 65365,
+    "name": "Pewnego razu na krajowej jedynce",
+    "premiered": "2022-12-01",
+    "ended": null,
+    "status": "To Be Determined",
+    "network": "Netflix",
+    "externals": {
+     "tvrage": null,
+     "thetvdb": 418929,
+     "imdb": "tt19723990"
+    },
+    "genres": [
+     "Drama",
+     "Comedy",
+     "Crime"
+    ]
+   },
+   "x_fuentes": "tvmaze"
+  },
+  {
+   "id": "honey",
+   "tt": "tt0322589",
+   "tt_src": "wikipedia:es",
+   "anios": [
+    2003,
+    null
+   ],
+   "em": null,
+   "tvmaze": null,
+   "x_fuentes": null
+  },
+  {
+   "id": "honey-dont",
+   "tt": "tt30645201",
+   "tt_src": "wikipedia:en",
+   "anios": [
+    2025,
+    null
+   ],
+   "em": null,
+   "tvmaze": null,
+   "x_fuentes": null
+  },
+  {
+   "id": "descendent",
+   "tt": "tt35521703",
+   "tt_src": "wikidata P345 (2025)",
+   "anios": [
+    2025,
+    null
+   ],
+   "em": null,
+   "tvmaze": null,
+   "x_fuentes": null
+  },
+  {
+   "id": "man-black-umbrella",
+   "tt": "tt38106016",
+   "tt_src": "cinemeta-verify (websearch candidate)",
+   "anios": [
+    2025,
+    null
+   ],
+   "em": null,
+   "tvmaze": null,
+   "x_fuentes": null
+  },
+  {
+   "id": "man-with-answers",
+   "tt": "tt9320140",
+   "tt_src": "wikidata P345",
+   "anios": [
+    2021,
+    null
+   ],
+   "em": null,
+   "tvmaze": null,
+   "x_fuentes": null
+  }
+ ],
+ "verificacion": {
+  "series": {
+   "ok": 5,
+   "fallos": 0
+  },
+  "pelis": {
+   "ok": 5,
+   "fallos": 0
+  },
+  "arte": {
+   "ok": 30,
+   "fallos": 0
+  }
+ },
+ "qa": {
+  "shows_previos": "963 byte-identical (dict equality)",
+  "total": 973,
+  "ids_unicos": 973,
+  "wps_sin_colision": true,
+  "wps_ascii": true,
+  "x_menor_q": true,
+  "rails": "enEmision 211→214 (3 nuevas al frente) · estrenos2026 81→83 (2 nuevas al frente) · peliculas 489→494 (+5) · generos append-only (12 géneros existentes, sin claves nuevas)",
+  "posters": "p/h = CDN de la fuente (LATINO, pedido del dueño), b = metahub por tt"
+ }
+}

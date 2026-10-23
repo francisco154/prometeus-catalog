@@ -1,0 +1,335 @@
+[
+ {
+  "id": "the-worst-trip",
+  "tipo": "serie",
+  "curado": {
+   "t_es": "La peor vuelta al mundo",
+   "a": 2025,
+   "em": 1,
+   "nota": "Disney+ docu-reality Juanpa Zurita; renovada S2 (Deadline 16/12/25); TVMaze «La Peor Vuelta al Mundo» 2025-11-07"
+  },
+  "tt": "tt38776685",
+  "tt_src": "tvmaze",
+  "tvmaze": {
+   "id": 87964,
+   "name": "La Peor Vuelta al Mundo",
+   "premiered": "2025-11-07",
+   "ended": null,
+   "status": "Running",
+   "network": "Disney+",
+   "externals": {
+    "tvrage": null,
+    "thetvdb": null,
+    "imdb": "tt38776685"
+   },
+   "genres": [
+    "Adventure",
+    "Travel"
+   ]
+  },
+  "anios": [
+   2025,
+   null
+  ],
+  "em": 1,
+  "episodios_tvmaze": {
+   "1": {
+    "1": "Episode 1",
+    "2": "Episode 2",
+    "3": "Episode 3",
+    "4": "Episode 4",
+    "5": "Episode 5",
+    "6": "Episode 6",
+    "7": "Episode 7",
+    "8": "Episode 8"
+   }
+  },
+  "episodios_cinemeta": {
+   "1": {
+    "1": "Married in VEGAS Ft. Chingu Amiga",
+    "2": "Put to Shame in CUBA Ft. Facudo",
+    "3": "Lost in COSTA RICA Ft. Lele Pons",
+    "4": "Frozen in ICELAND Ft. Esen Alva",
+    "5": "Injured in MOROCCO Ft. Daniela Rodrice",
+    "6": "Hospitalized in RUMANIA Ft. Jair Sánchez",
+    "7": "Drowned in VIETNAM Ft. Harold Azuara",
+    "8": "Beaten Up in JAPAN Ft. Daniel Sosa"
+   }
+  }
+ },
+ {
+  "id": "below",
+  "tipo": "serie",
+  "curado": {
+   "t_es": "Bajo la superficie",
+   "a": 2026,
+   "nota": "Miniserie Netflix 08/10/2026, Josh Hartnett, 6 eps; TVMaze premiered 2026-10-08"
+  },
+  "tt": "tt35934755",
+  "tt_src": "tvmaze",
+  "tvmaze": {
+   "id": 93115,
+   "name": "Below",
+   "premiered": "2026-10-08",
+   "ended": "2026-10-08",
+   "status": "Ended",
+   "network": "Netflix",
+   "externals": {
+    "tvrage": null,
+    "thetvdb": 480205,
+    "imdb": "tt35934755"
+   },
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Supernatural"
+   ]
+  },
+  "anios": [
+   2026,
+   2026
+  ],
+  "em": null,
+  "episodios_tvmaze": {
+   "1": {
+    "1": "Come Home Year",
+    "2": "Crown and Anchor",
+    "3": "Sir John Franklin",
+    "4": "The Ocean Will Have Us All",
+    "5": "Little Pot Rock",
+    "6": "The Unfathering Deep"
+   }
+  }
+ },
+ {
+  "id": "city-of-stars",
+  "tipo": "serie",
+  "curado": {
+   "t_es": "City of Stars",
+   "a": 2024,
+   "f": 2024,
+   "nota": "Tailandi BL iQiyi/One31, 12 eps, feb-abr 2024 (mydramalist)"
+  },
+  "tt": "tt32159578",
+  "tt_src": "cinemeta-verify (websearch candidate)",
+  "tvmaze": {
+   "id": 74171,
+   "name": "City of Stars",
+   "premiered": "2024-02-02",
+   "ended": "2024-05-10",
+   "status": "Ended",
+   "network": "One31",
+   "externals": {
+    "tvrage": null,
+    "thetvdb": 445565,
+    "imdb": null
+   },
+   "genres": [
+    "Drama",
+    "Romance"
+   ]
+  },
+  "anios": [
+   2024,
+   2024
+  ],
+  "em": null,
+  "episodios_tvmaze": {
+   "1": {
+    "1": "Episode 1",
+    "2": "Episode 2",
+    "3": "Episode 3",
+    "4": "Episode 4",
+    "5": "Episode 5",
+    "6": "Episode 6",
+    "7": "Episode 7",
+    "8": "Episode 8",
+    "9": "Episode 9",
+    "10": "Episode 10",
+    "11": "Episode 11",
+    "12": "Episode 12"
+   }
+  }
+ },
+ {
+  "id": "yaga",
+  "tipo": "serie",
+  "curado": {
+   "t_es": "Yaga",
+   "a": 2026,
+   "em": 1,
+   "nota": "HBO Max/AMC+ 23/10/2026, mito Baba Yaga; fuente updateStatus=2 updatePeriod=[5]"
+  },
+  "tt": "tt39980704",
+  "tt_src": "tvmaze",
+  "tvmaze": {
+   "id": 93263,
+   "name": "Yaga",
+   "premiered": "2026-10-23",
+   "ended": null,
+   "status": "Running",
+   "network": "Crave",
+   "externals": {
+    "tvrage": null,
+    "thetvdb": 464467,
+    "imdb": "tt39980704"
+   },
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Supernatural"
+   ]
+  },
+  "anios": [
+   2026,
+   null
+  ],
+  "em": 1,
+  "episodios_tvmaze": {
+   "1": {
+    "1": "The Burning Man",
+    "2": "Dark Solstice",
+    "3": "Holier Than Thou",
+    "4": "Reach Out I'll Be There",
+    "5": "TBA",
+    "6": "TBA",
+    "7": "TBA",
+    "8": "TBA"
+   }
+  }
+ },
+ {
+  "id": "dead-end",
+  "tipo": "serie",
+  "curado": {
+   "t_es": "Dead End",
+   "a": 2022,
+   "nota": "Polaca Netflix («Pewnego razu na krajowej jedynce»), 6 eps; TVMaze tt19723990"
+  },
+  "tt": "tt19723990",
+  "tt_src": "tvmaze",
+  "tvmaze": {
+   "id": 65365,
+   "name": "Pewnego razu na krajowej jedynce",
+   "premiered": "2022-12-01",
+   "ended": null,
+   "status": "To Be Determined",
+   "network": "Netflix",
+   "externals": {
+    "tvrage": null,
+    "thetvdb": 418929,
+    "imdb": "tt19723990"
+   },
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  "anios": [
+   2022,
+   null
+  ],
+  "em": 1,
+  "episodios_tvmaze": {
+   "1": {
+    "1": "Odcinek 1",
+    "2": "Odcinek 2",
+    "3": "Odcinek 3",
+    "4": "Odcinek 4",
+    "5": "Odcinek 5",
+    "6": "Odcinek 6"
+   }
+  }
+ },
+ {
+  "id": "honey",
+  "tipo": "peli",
+  "curado": {
+   "t_es": "Honey: La reina del baile",
+   "a": 2003,
+   "nota": "Jessica Alba; es-LatAm «Honey, la reina del baile» (es.wikipedia)"
+  },
+  "tt": "tt0322589",
+  "tt_src": "wikipedia:es",
+  "tvmaze": null,
+  "anios": [
+   2003,
+   null
+  ],
+  "em": null,
+  "episodios_tvmaze": null
+ },
+ {
+  "id": "honey-dont",
+  "tipo": "peli",
+  "curado": {
+   "t_es": "Honey Don't!",
+   "a": 2025,
+   "nota": "Ethan Coen, Margaret Qualley"
+  },
+  "tt": "tt30645201",
+  "tt_src": "wikipedia:en",
+  "tvmaze": null,
+  "anios": [
+   2025,
+   null
+  ],
+  "em": null,
+  "episodios_tvmaze": null
+ },
+ {
+  "id": "descendent",
+  "tipo": "peli",
+  "curado": {
+   "t_es": "El descendiente",
+   "a": 2025,
+   "nota": "OVNI/abducción LA (abandomoviez «El Descendiente» 2025)"
+  },
+  "tt": "tt35521703",
+  "tt_src": "wikidata P345 (2025)",
+  "tvmaze": null,
+  "anios": [
+   2025,
+   null
+  ],
+  "em": null,
+  "episodios_tvmaze": null
+ },
+ {
+  "id": "man-black-umbrella",
+  "tipo": "peli",
+  "curado": {
+   "t_es": "The Man with the Black Umbrella",
+   "a": 2025,
+   "nota": "Ricky Umberger, hechos reales 08/01/2015 (filmaffinity)"
+  },
+  "tt": "tt38106016",
+  "tt_src": "cinemeta-verify (websearch candidate)",
+  "tvmaze": null,
+  "anios": [
+   2025,
+   null
+  ],
+  "em": null,
+  "episodios_tvmaze": null
+ },
+ {
+  "id": "man-with-answers",
+  "tipo": "peli",
+  "curado": {
+   "t_es": "The Man with the Answers",
+   "a": 2021,
+   "nota": "Griega, Stelios Kammitsis, road movie LGBTQ"
+  },
+  "tt": "tt9320140",
+  "tt_src": "wikidata P345",
+  "tvmaze": null,
+  "anios": [
+   2021,
+   null
+  ],
+  "em": null,
+  "episodios_tvmaze": null
+ }
+]
