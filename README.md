@@ -16,6 +16,20 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v24/ — 33 shows nuevos: 32 series + 1 película (922 → 955)
+
+Ingreso incremental de la lista del dueño (47 URLs): 12 duplicados
+descartados (ya en catálogo), *Murderbot* excluido (cuevanae.ink no
+pertenece a la red Pandora), **Doctor Who con las 13 temporadas de la
+revival 2005-2022** (40 fuentes; la segunda URL del dueño resultó ser la
+T1 mal etiquetada y se descartó verificándolo por subtítulos), la película
+*Invasión* (2024, España) con wp saneado por ID, y limpieza de cross-links
+de la red (la T4 de Snowpiercer era LOTR: Anillos de Poder S2; la fuente
+base de Day of the Dead era otra serie). 77 temporadas, 192 fuentes,
+99/99 arte verificado, 20/20 m3u8 jugables. Rails: `enEmision` 199 → 205
+(6 nuevas), `peliculas` 488 → 489. `v` 23 → 24, sin tocar lo existente.
+[`reto-v24/`](reto-v24/) tiene el detalle completo.
+
 ## reto-v23/ — 49 series nuevas (873 → 922)
 
 Ingreso incremental de la lista del dueño (54 con URL, 5 duplicadas

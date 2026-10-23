@@ -1,0 +1,866 @@
+{
+ "nuevos": [
+  {
+   "i": "the-twilight-zone",
+   "t": "The Twilight Zone",
+   "em": 0,
+   "a": 2019,
+   "fin": 2020,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     2,
+     10
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "another-life",
+   "t": "Another Life",
+   "em": 0,
+   "a": 2019,
+   "fin": 2021,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10
+    ],
+    [
+     2,
+     10,
+     3,
+     10
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-mandalorian",
+   "t": "The Mandalorian",
+   "em": 0,
+   "a": 2019,
+   "fin": 2023,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8
+    ],
+    [
+     2,
+     8,
+     3,
+     8
+    ],
+    [
+     3,
+     8,
+     3,
+     8
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-umbrella-academy",
+   "t": "The Umbrella Academy",
+   "em": 0,
+   "a": 2019,
+   "fin": 2024,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10
+    ],
+    [
+     2,
+     10,
+     3,
+     10
+    ],
+    [
+     3,
+     10,
+     3,
+     10
+    ],
+    [
+     4,
+     6,
+     3,
+     6
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "doom-patrol",
+   "t": "Doom Patrol",
+   "em": 0,
+   "a": 2019,
+   "fin": 2023,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     15,
+     3,
+     15
+    ],
+    [
+     2,
+     9,
+     3,
+     9
+    ],
+    [
+     3,
+     10,
+     3,
+     10
+    ],
+    [
+     4,
+     7,
+     3,
+     7
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "ojitos-de-huevo",
+   "t": "Ojitos de huevo",
+   "em": 1,
+   "a": 2023,
+   "fin": null,
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     8,
+     1,
+     8
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "vagrant-queen",
+   "t": "Vagrant Queen",
+   "em": 0,
+   "a": 2020,
+   "fin": 2020,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     1,
+     10
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "raised-by-wolves",
+   "t": "Raised by Wolves",
+   "em": 0,
+   "a": 2020,
+   "fin": 2022,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10
+    ],
+    [
+     2,
+     8,
+     3,
+     8
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "brave-new-world",
+   "t": "Brave New World",
+   "em": 0,
+   "a": 2020,
+   "fin": 2020,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     9,
+     1,
+     9
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "snowpiercer",
+   "t": "Snowpiercer",
+   "em": 0,
+   "a": 2020,
+   "fin": 2024,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10
+    ],
+    [
+     2,
+     10,
+     3,
+     10
+    ],
+    [
+     3,
+     10,
+     2,
+     10
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "warrior-nun",
+   "t": "Warrior Nun",
+   "em": 0,
+   "a": 2020,
+   "fin": 2022,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10
+    ],
+    [
+     2,
+     8,
+     3,
+     8
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "sweet-home",
+   "t": "Sweet Home",
+   "em": 0,
+   "a": 2020,
+   "fin": 2024,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10
+    ],
+    [
+     2,
+     8,
+     3,
+     8
+    ],
+    [
+     3,
+     8,
+     3,
+     8
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-stand",
+   "t": "The Stand",
+   "em": 0,
+   "a": 2020,
+   "fin": 2021,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "alice-in-borderland",
+   "t": "Alice in Borderland",
+   "em": 0,
+   "a": 2020,
+   "fin": 2025,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8
+    ],
+    [
+     2,
+     8,
+     3,
+     8
+    ],
+    [
+     3,
+     6,
+     3,
+     6
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "day-of-the-dead",
+   "t": "Day of the Dead",
+   "em": 0,
+   "a": 2021,
+   "fin": 2021,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     2,
+     10
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "surrealestate",
+   "t": "SurrealEstate",
+   "em": 0,
+   "a": 2021,
+   "fin": 2025,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     2,
+     10
+    ],
+    [
+     2,
+     10,
+     2,
+     10
+    ],
+    [
+     3,
+     10,
+     1,
+     10
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "pa-quererte",
+   "t": "Pa' Quererte",
+   "em": 0,
+   "a": 2020,
+   "fin": null,
+   "status": null,
+   "temps": [
+    [
+     1,
+     56,
+     1,
+     0
+    ],
+    [
+     2,
+     81,
+     1,
+     0
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "invasion",
+   "t": "Invasión",
+   "k": "peli",
+   "a": 2024,
+   "fuentes": [
+    [
+     "sub",
+     "sololatino"
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "la-brea",
+   "t": "La Brea",
+   "em": 0,
+   "a": 2021,
+   "fin": 2024,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10
+    ],
+    [
+     2,
+     14,
+     2,
+     14
+    ],
+    [
+     3,
+     6,
+     3,
+     6
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "georgie-y-mandy-su-primer-matrimonio",
+   "t": "Georgie y Mandy: Su primer matrimonio",
+   "em": 1,
+   "a": 2024,
+   "fin": null,
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     22,
+     3,
+     22
+    ],
+    [
+     2,
+     10,
+     3,
+     10
+    ],
+    [
+     3,
+     2,
+     1,
+     2
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "la-rueda-del-tiempo",
+   "t": "La rueda del tiempo",
+   "em": 0,
+   "a": 2021,
+   "fin": 2025,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8
+    ],
+    [
+     2,
+     8,
+     3,
+     8
+    ],
+    [
+     3,
+     8,
+     3,
+     8
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "astrid-lilly-save-the-world",
+   "t": "Astrid & Lilly Save the World",
+   "em": 0,
+   "a": 2022,
+   "fin": 2022,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     1,
+     10
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "reginald-the-vampire",
+   "t": "Reginald the Vampire",
+   "em": 0,
+   "a": 2022,
+   "fin": 2024,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     1,
+     10
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-peripheral",
+   "t": "The Peripheral",
+   "em": 0,
+   "a": 2022,
+   "fin": 2022,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "la-primera-vez",
+   "t": "La primera vez",
+   "em": 0,
+   "a": 2023,
+   "fin": 2026,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     13,
+     2,
+     13
+    ],
+    [
+     2,
+     10,
+     2,
+     10
+    ],
+    [
+     3,
+     10,
+     1,
+     10
+    ],
+    [
+     4,
+     12,
+     1,
+     12
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-sandman",
+   "t": "The Sandman",
+   "em": 0,
+   "a": 2022,
+   "fin": 2025,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     11,
+     3,
+     10
+    ],
+    [
+     2,
+     12,
+     3,
+     11
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-devils-hour",
+   "t": "The Devil's Hour",
+   "em": 1,
+   "a": 2022,
+   "fin": null,
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     6,
+     2,
+     6
+    ],
+    [
+     2,
+     5,
+     3,
+     5
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-ark",
+   "t": "The Ark",
+   "em": 1,
+   "a": 2023,
+   "fin": null,
+   "status": "To Be Determined",
+   "temps": [
+    [
+     1,
+     12,
+     2,
+     12
+    ],
+    [
+     2,
+     12,
+     2,
+     12
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "twisted-metal",
+   "t": "Twisted Metal",
+   "em": 1,
+   "a": 2023,
+   "fin": null,
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     9,
+     3,
+     9
+    ],
+    [
+     2,
+     12,
+     3,
+     12
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "moving",
+   "t": "Moving",
+   "em": 1,
+   "a": 2023,
+   "fin": null,
+   "status": "To Be Determined",
+   "temps": [
+    [
+     1,
+     20,
+     2,
+     20
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "parasyte-the-grey",
+   "t": "Parasyte: The Grey",
+   "em": 0,
+   "a": 2024,
+   "fin": 2024,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     2,
+     6
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "doctor-who",
+   "t": "Doctor Who",
+   "em": 0,
+   "a": 2005,
+   "fin": 2022,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     13,
+     3,
+     13
+    ],
+    [
+     2,
+     13,
+     3,
+     13
+    ],
+    [
+     3,
+     13,
+     3,
+     13
+    ],
+    [
+     4,
+     13,
+     3,
+     13
+    ],
+    [
+     5,
+     13,
+     3,
+     13
+    ],
+    [
+     6,
+     13,
+     3,
+     13
+    ],
+    [
+     7,
+     15,
+     3,
+     13
+    ],
+    [
+     8,
+     12,
+     3,
+     12
+    ],
+    [
+     9,
+     13,
+     3,
+     12
+    ],
+    [
+     10,
+     12,
+     3,
+     12
+    ],
+    [
+     11,
+     11,
+     3,
+     10
+    ],
+    [
+     12,
+     10,
+     2,
+     10
+    ],
+    [
+     13,
+     7,
+     1,
+     6
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "revival",
+   "t": "Revival",
+   "em": 0,
+   "a": 2025,
+   "fin": 2025,
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     9,
+     3,
+     9
+    ]
+   ],
+   "sinopsis_es": true
+  }
+ ],
+ "em_nuevas": [
+  "ojitos-de-huevo",
+  "georgie-y-mandy-su-primer-matrimonio",
+  "the-devils-hour",
+  "the-ark",
+  "twisted-metal",
+  "moving"
+ ],
+ "generos_added": {
+  "Drama": 22,
+  "Suspense": 9,
+  "Aventura": 11,
+  "Ciencia ficción": 21,
+  "Thriller": 13,
+  "Acción": 11,
+  "Comedia": 7,
+  "Fantasía": 11,
+  "Horror": 5,
+  "Romance": 3,
+  "Familiares": 1
+ },
+ "excluidos": {
+  "walk_s14_mislabeled": [
+   "Doctor Who"
+  ],
+  "fuentes_junk": [
+   "QczWEBtpD0e0lbrkRarpu-Day-of-the-Dead"
+  ],
+  "temps_drop": [
+   [
+    "Snowpiercer (2020)",
+    4
+   ]
+  ]
+ }
+}

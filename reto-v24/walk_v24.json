@@ -1,0 +1,2865 @@
+[
+ {
+  "titulo_txt": "The Twilight Zone (2019)",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "LT3huQAYQLQWRbNbauvGl-The-Twilight-Zone-Season-1",
+  "titulo_plat": "The Twilight Zone Temporada 1",
+  "sinopsis": "The Twilight Zone, la serie original de CBS de 1959, el primer reboot de CBS de 1985, el segundo reboot de UPN de 2002, y CBS han dicho hoy que están planeando reiniciar la serie una vez más. Esta versión de «The Twilight Zone» está escrita y producida por Marco Ramírez.",
+  "poster": "https://img.flixlat.com/cover/20250721/1753085743037_7334a4ae88ee002c2a622e147937a215k2FIZ8z1xOhi2WKT2TCXdUslNWn.webp",
+  "hero": "https://img.flixlat.com/cover/20250721/1753085749220_c0efa2caec86dd9b59fc343fee24030ek2FIZ8z1xOhi2WKT2TCXdUslNWn.webp",
+  "score": 5.8,
+  "generos": [
+   "Drama",
+   "Suspense"
+  ],
+  "dubbing_names": [
+   "The Twilight Zone Temporada 1",
+   "The Twilight Zone Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "LT3huQAYQLQWRbNbauvGl-The-Twilight-Zone-Season-1",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "MwatAVQW2lZkE6FVyeRqP-The-Twilight-Zone-Season-1",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "The Twilight Zone Temporada 1"
+  ]
+ },
+ {
+  "titulo_txt": "Another Life (2019)",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "eMG9Jft4qHQiaoGD0ufFS-Another-Life-Season-1[Audio-Latino]",
+  "titulo_plat": "Otra vida",
+  "sinopsis": "El astronauta Niko Breckenridge y su joven tripulación se enfrentan a un peligro inimaginable mientras continúan con una misión de alto riesgo para explorar la génesis de un artefacto alienígena.",
+  "poster": "https://img.cuevana4br.com/cover/20211109/1636436475091_a904a84def99d5e3bc8e67bd3ee2085ahtazQ0cPoloL5SJ2bqOCKh9UTcc.jpg",
+  "hero": "https://img.cuevana4br.com/cover/20211109/1636436476539_3c803d6d8be63708808b54f38ea1c4bdx02sHzB3esGcGRLBhMsP8DOSSlC.jpg",
+  "score": 5,
+  "generos": [
+   "Aventura",
+   "Drama",
+   "Suspense",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Otra vida",
+   "Otra vida",
+   "Otra vida",
+   "Otra vida"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "eMG9Jft4qHQiaoGD0ufFS-Another-Life-Season-1[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "KLXAg7L5PQhbmxb4Uy04c-Another-Life-Season-1",
+      "v": "sub",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "nhbGwUz7obbU4NCjmfQJb-Another-Life-Season-1",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "rBOOBHtCsALJ63Uip04lI-Another-Life-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "J085kYhlbDwoHfD979gDh-Another-Life-Season-2",
+      "v": "sub",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "uRGYFcz4VetwzLoeo1YxY-Another-Life-Season-2",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   }
+  ],
+  "nodos": 8,
+  "errores": [],
+  "nombres_nodos": [
+   "Otra vida"
+  ]
+ },
+ {
+  "titulo_txt": "The Mandalorian (2019)",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "gFPlICXqArxrEKUjgjdlL-The-Mandalorian-Season-1-[Audio-Latino]",
+  "titulo_plat": "The Mandalorian Temporada 1",
+  "sinopsis": "Los viajes de un cazarrecompensas solitario en los alrededores exteriores de la galaxia, lejos de la autoridad de la Nueva República.",
+  "poster": "https://img.cuevana4br.com/cover/20211105/1636106793529_42cc5d012cea7574f181de69cacb50a6AhifyrSNkRVFMJ94CEMfBv1FaMz.jpg",
+  "hero": "https://img.cuevana4br.com/cover/20211105/1636106826982_c4d4684713caebeec92383fb9d89364eo7qi2v4uWQ8bZ1tW3KI0Ztn2epk.jpg",
+  "score": 8.8,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "The Mandalorian Temporada 1",
+   "The Mandalorian Temporada 1",
+   "The Mandalorian Temporada 1",
+   "The Mandalorian Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "gFPlICXqArxrEKUjgjdlL-The-Mandalorian-Season-1-[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "OduulARhAkYtf2ILs64D3-The-Mandalorian-Season-1",
+      "v": "sub",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "xuB3gqjQH5DFlT8KBrWlL-The-Mandalorian-Season-1",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "6LCH2SsmsFzwdrWa9JZs0-The-Mandalorian-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "MNxQPsuFZDvdaqwjNUoq8-The-Mandalorian-Season-2",
+      "v": "sub",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "BeLFUVIYg4JLpU2RlIor7-The-Mandalorian-Season-2",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 3,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "kapHgr9m13rtcFXkvO9MR-The-Mandalorian-Season-3-[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "KkXacXAJdvjqeGDro1OlN-The-Mandalorian-Season-3",
+      "v": "sub",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "dsmBezRegefeEdJ2zEUOe-The-Mandalorian-Season-3",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 12,
+  "errores": [],
+  "nombres_nodos": [
+   "The Mandalorian Temporada 1",
+   "The Mandalorian Temporada 2",
+   "The Mandalorian Temporada 3"
+  ]
+ },
+ {
+  "titulo_txt": "The Umbrella Academy (2019)",
+  "site": "sololatino",
+  "tipo": "serie",
+  "wp_seed": "i0Pa4XTY6s5X0PA6olnP9-The-Umbrella-Academy-Season-1",
+  "titulo_plat": "The Umbrella Academy Temporada 1",
+  "sinopsis": "Se tuvo que morir el padre para que se vuelvan a reunir. Cabe destacar que entre superhéroes el vínculo familiar es una de las mayores causas de apocalipsis prematuro.",
+  "poster": "https://img.solo-latino.com/cover/20221202/1669968448621_bd0c66719b77f75265338a6f9072f2d1伞1 竖.jpg",
+  "hero": "https://img.solo-latino.com/cover/20221202/1669968449043_b2d79dab7a51ccc1d59feb746a454038伞1 横.jpg",
+  "score": 7.9,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Comedia",
+   "Drama",
+   "Fantasía",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "The Umbrella Academy Season 1",
+   "The Umbrella Academy Temporada 1",
+   "The Umbrella Academy Temporada 1",
+   "A Academia Umbrella"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "i0Pa4XTY6s5X0PA6olnP9-The-Umbrella-Academy-Season-1",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "0NsbFXCeGAKPFcq9MBpiv-The-Umbrella-Academy-Season-1",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "aS4xKgbf86vvIhZT1s7Kn-The-Umbrella-Academy-Season-1[Audio-pt-BR]",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "cR5HLWwMKW56B4VYAh6IO-The-Umbrella-Academy-Season-2",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "Xl3Wq3t1t8OUrvk94b3A7-The-Umbrella-Academy-Season-2",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "wTn9vMuFQIe3KxtipfILE-The-Umbrella-Academy-Season-2",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "UY2N4a05WVM8M8ibYgM2o-The-Umbrella-Academy-Season-3",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "BTF95CLDnxhlOGKP7pPWW-The-Umbrella-Academy-Season-3",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "rv3cimsMPZLxyKR5Aqqpl-The-Umbrella-Academy-Season-3",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 4,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "9Gd3nxzuvX5x0C1dmQSkz-The-Umbrella-Academy-Season-4",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "qwSjGrgx4UXABS4HrONCl-The-Umbrella-Academy-Season-4",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "UYfvWlgSOnQgdG3upjk9n-The-Umbrella-Academy-Season-4",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "base": 6,
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 16,
+  "errores": [],
+  "nombres_nodos": [
+   "A Academia Umbrella",
+   "The Umbrella Academy Season 1",
+   "The Umbrella Academy Season 2",
+   "The Umbrella Academy Season 3",
+   "The Umbrella Academy Season 4",
+   "The Umbrella Academy Temporada 1",
+   "The Umbrella Academy Temporada 2",
+   "The Umbrella Academy Temporada 3",
+   "The Umbrella Academy Temporada 4"
+  ]
+ },
+ {
+  "titulo_txt": "Doom Patrol (2019",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "MTmsPViaqQHDm0qCskvmr-Doom-Patrol-Season-1[Audio-Latino]",
+  "titulo_plat": "Doom Patrol",
+  "sinopsis": "Las aventuras de un científico loco idealista y su equipo de campo de los marginados superpot.",
+  "poster": "https://img.dramasfree.com/cover/20211014/1634179879662_1e40a22f43a3d9c8d0e4e016b40a724fnclcURTdlqVbDr6HPmrHC5X4qUu.jpg",
+  "hero": "https://img.dramasfree.com/cover/20210910/o_1631265452767.png",
+  "score": 7.9,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Comedia",
+   "Drama",
+   "Suspense",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Doom Patrol",
+   "Doom Patrol",
+   "Doom Patrol Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 15,
+    "fuentes": [
+     {
+      "w": "MTmsPViaqQHDm0qCskvmr-Doom-Patrol-Season-1[Audio-Latino]",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "pKcvk1tbfWS8u5OHmAnDr-Doom-Patrol-Season-1",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "acDBEc6LK9AkNOcDjZVq9-Doom-Patrol-Season-1",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 15,
+     "sub": 15,
+     "base": 15
+    }
+   },
+   {
+    "n": 2,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "MnwDnNKEbUUMWA9f35cE8-Doom-Patrol-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "PT1SJ5w6oVxLZ29y3cDAa-Doom-Patrol-Season-2",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "m462jl9u3XvS6gUHibWHN-Doom-Patrol-Season-2",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 9,
+     "sub": 9,
+     "base": 9
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "mn9yTwstPQsFIeCQU3J79-Doom-Patrol-Season-3[Audio-Latino]",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "g43njovHiBqsCUj0CWEqN-Doom-Patrol-Season-3",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "NuubYvMSvdOD6SizpTxCZ-Doom-Patrol-Season-3",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 4,
+    "q": 7,
+    "fuentes": [
+     {
+      "w": "O5LQfj0iM2pCF1oIljp6j-Doom-Patrol-Season-4[Audio-Latino]",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "dGWoybZEIiE7mHeoYZ7Zl-Doom-Patrol-Season-4",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "mL5yTm4MUV107Wg4eDyaV-Doom-Patrol-Season-4",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 7,
+     "sub": 12,
+     "base": 12
+    }
+   }
+  ],
+  "nodos": 12,
+  "errores": [],
+  "nombres_nodos": [
+   "Doom Patrol",
+   "Doom Patrol Season 2",
+   "Doom Patrol Season 2[Audio Latino]",
+   "Doom Patrol Season 3",
+   "Doom Patrol Season 3[Audio Latino]",
+   "Doom Patrol Temporada 1",
+   "Doom Patrol Temporada 2",
+   "Doom Patrol Temporada 3",
+   "La patrulla condenada",
+   "La patrulla condenada Temporada 4"
+  ]
+ },
+ {
+  "titulo_txt": "Ojitos de Huevo",
+  "site": "pelicula",
+  "tipo": "serie",
+  "wp_seed": "ZFYJayFuxS2lA3tY2UfeM-Nothing-to-See-Here",
+  "titulo_plat": "Ojitos de Huevo",
+  "sinopsis": "Alexis, un joven ciego, se muda a la Ciudad de México para ser independiente de sus padres y convertirse en un artista de pie con la ayuda de su mejor amigo, Charlie, que tiene parálisis cerebral.",
+  "poster": "https://img.123pelicula.com/cover/20231124/1700814471360_b9688d0cb90a222a0c6087903cd958261b8piHiTrF1IIXKYhtRkttDsJ2I.jpg",
+  "hero": "https://img.123pelicula.com/cover/20231124/1700814478630_bdb291a9f185d38f01d9094183f57d58bG6dZPYjXn8OFWSl1lNMRSW216N.jpg",
+  "score": 7.5,
+  "generos": [
+   "Comedia",
+   "Drama"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "ZFYJayFuxS2lA3tY2UfeM-Nothing-to-See-Here",
+      "v": "sub",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Ojitos de Huevo"
+  ]
+ },
+ {
+  "titulo_txt": "Vagrant Queen (2020) — SYFY",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "fTXBB4OfqJDAzNRaULu2B-The-FugitiveVagrant-Queen",
+  "titulo_plat": "Vagrant Queen",
+  "sinopsis": "Cuando la ex reina Elida, Isaac y Amae huyen del ejército de Lazaro, se llevan a una peligrosa aventura a través de la galaxia.",
+  "poster": "https://img.cuevana19.com/cover/20250828/1756361271030_d45d422d08c6cdcc37010aa415e7c7181.png",
+  "hero": "https://img.cuevana19.com/cover/20250828/1756361273577_63ced343d16a32597e5678abbf0b06b52.png",
+  "score": 5.4,
+  "generos": [
+   "Aventura",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Vagrant Queen"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "fTXBB4OfqJDAzNRaULu2B-The-FugitiveVagrant-Queen",
+      "v": "latino",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 10
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Vagrant Queen"
+  ]
+ },
+ {
+  "titulo_txt": "Raised by Wolves (2020)",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "TU1HSLQeHVPxRqcUbUp4J-Raised-by-Wolves[Audio-Latino]",
+  "titulo_plat": "Raised by Wolves[Audio Latino]",
+  "sinopsis": "Después de que la Tierra está destrozada por las diferencias religiosas y las tormas de raza humana al borde de la extinción, un arquitecto Android ateo envía dos creaciones: madre y padre: para comenzar una colonia pacífica y sin Dios en el planeta Kepler-22B. Del productor ejecutivo, Ridley Scott, criado por los lobos, sigue a la madre y al Padre, ya que intentan criar a los niños humanos en esta misteriosa tierra virgen, una tarea traicionera y difícil que está en peligro por la llegada del mitraico, una orden religiosa de los humanos sobrevivientes profundamente devotos. A medida que los Androids hacen contacto con esta gente celosa y peligrosa, luchan por controlar las creencias de sus hijos ferozmente autodeterminantes.",
+  "poster": "https://img.321moviesfree.com/cover/20211221/1640054585846_a4383dbb45e461845426a01d07652376mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20211221/1640054590688_581fcde917f00bd084b345f87e72c165na2xUduK8HviOFT97TiFG2MkJmY.jpg",
+  "score": 7.5,
+  "generos": [
+   "Drama",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Raised by Wolves[Audio Latino]",
+   "Raised by Wolves Temporada 1",
+   "Raised by Wolves"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "TU1HSLQeHVPxRqcUbUp4J-Raised-by-Wolves[Audio-Latino]",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "U0X8NLqXtUiX5nX8FVQl8-Raised-by-Wolves",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "U0r1dkaICVN6GJL5AGKPO-Raised-by-Wolves",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "Zfkk5PtE8qJHrlhMfBeyH-Raised-by-Wolves-Season-2",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "PDpeJqcWLduajLDWBXqxH-Raised-by-Wolves-Season-2",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "z6odXN2f06huXhTNm16QP-Raised-by-Wolves-Season-2",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "sub": 8,
+     "base": 6
+    }
+   }
+  ],
+  "nodos": 6,
+  "errores": [],
+  "nombres_nodos": [
+   "Raised by Wolves",
+   "Raised by Wolves Season 2",
+   "Raised by Wolves Temporada 1",
+   "Raised by Wolves Temporada 2",
+   "Raised by Wolves[Audio Latino]"
+  ]
+ },
+ {
+  "titulo_txt": "Brave New World (2020)",
+  "site": "flms",
+  "tipo": "serie",
+  "wp_seed": "LOC0kk1hbDojZNfZdLven-Brave-New-World",
+  "titulo_plat": "Brave New World",
+  "sinopsis": "En una utopía cuya perfección depende del control de la monogamia y la privacidad, los miembros del colectivo comienzan a cuestionar las reglas, poniendo a su sociedad regimentada en un curso de colisión con amor prohibido y revolución.",
+  "poster": "https://img.123flmsfree.com/cover/20211229/1640744401382_176b08cfe847875cec23727fc4d2a3efvPl7hAY0vt0OPhIflRb5IXrssBv.jpg",
+  "hero": "https://img.123flmsfree.com/cover/20211229/1640744408552_3a92061c484acd13b6390c7070c91a2erMSyjnX3rJtw2aCm1q9ktNjhAjo.jpg",
+  "score": 7.1,
+  "generos": [
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Brave New World"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "LOC0kk1hbDojZNfZdLven-Brave-New-World",
+      "v": "sub",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "sub": 9
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Brave New World"
+  ]
+ },
+ {
+  "titulo_txt": "Snowpiercer (2020)",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "zYXeQJJQBqA0lRJUGgYfP-Snowpiercer-Season-1--[Audio-Latino]",
+  "titulo_plat": "Snowpiercer: Rompenieves",
+  "sinopsis": "Establezca siete años después de que el mundo se haya convertido en un terreno congelado, los centros de nieve en los restos de la humanidad, que habitan en un tren gigantesco, perpetuamente en movimiento que rodea al globo. La guerra de clases, la injusticia social y la política de supervivencia se cuestionan en esta adaptación de televisión de remaches.",
+  "poster": "https://img.playspelis.com/cover/20220120/1642668336376_f5acb4c7f6390fc9dbb92cc369e2f19f7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg",
+  "hero": "https://img.playspelis.com/cover/20220120/1642668340869_d0a05b2d7ffacb92b31afb63497887cfdJBKKbrQIqcQ9EUbdM48dM8mso6.jpg",
+  "score": 6.9,
+  "generos": [
+   "Acción",
+   "Drama",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Snowpiercer: Rompenieves",
+   "Snowpiercer: Rompenieves",
+   "Snowpiercer: Rompenieves",
+   "Snowpiercer: Rompenieves"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "zYXeQJJQBqA0lRJUGgYfP-Snowpiercer-Season-1--[Audio-Latino]",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "JSaNswGuk1qqvxVcNjlvp-Snowpiercer-Season-1",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "5Tw8RnQix991WnOt0IgLh-Snowpiercer-Season-1",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "daIgvegfU8mCT8FtCuwLe-Snowpiercer-Season-2-[Audio-Latino]",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "pBGfrgh6C2FAaILdizZwB-Snowpiercer-Season-2",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "G0MoXhPMnGcXMHoFVcEe2-Snowpiercer-Season-2",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "uM1XW0LikIFOCnswsLhqk-Snowpiercer-Season-3---[Audio-Latino]",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "z5xlG9dJ9t3Nv3PQ8Q9yS-Snowpiercer-Season-3",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 4,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "nV7iK7AdLBW5HbvlNdx8n-Snowpiercer-Season-4",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "3jkQX579j8J8oWMSe14qG-Snowpiercer-Season-4[AR-SUB]",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "sub": 10,
+     "base": 10
+    }
+   }
+  ],
+  "nodos": 16,
+  "errores": [],
+  "nombres_nodos": [
+   "El Senyor dels Anells: Els anells de poder 2",
+   "Snowpiercer Season 3",
+   "Snowpiercer Season 3   [Audio Latino]",
+   "Snowpiercer Season 4",
+   "Snowpiercer: Rompenieves",
+   "Snowpiercer: Rompenieves Temporada 4"
+  ]
+ },
+ {
+  "titulo_txt": "Warrior Nun (2020)",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "hvSpEBAaGqhHEQIhlTmvL-Warrior-Nun-Season-1",
+  "titulo_plat": "Warrior Nun Temporada 1",
+  "sinopsis": "Una adolescente huérfana despierta en una morgue y descubre que una secta secreta de monjas cazademonios le ha conferido superpoderes y la ha elegido para portar el Halo.",
+  "poster": "https://img.flixlat.com/cover/20221114/1668406834422_d4fa24c09bf6cc68fdfa37dd083629c1修女1 竖.jpg",
+  "hero": "https://img.flixlat.com/cover/20221114/1668406837247_d653566aec84d61f30936c41ba3176c5修女1 横.jpg",
+  "score": 6.9,
+  "generos": [
+   "Acción",
+   "Drama",
+   "Fantasía"
+  ],
+  "dubbing_names": [
+   "Warrior Nun Season 1",
+   "Warrior Nun Temporada 1",
+   "La monja guerrera",
+   "La monja guerrera"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "hvSpEBAaGqhHEQIhlTmvL-Warrior-Nun-Season-1",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "JEYH4HlPWOFV8V3ApfYfD-Warrior-Nun-Season-1",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "c3AKFpW9bd59RuwS9s8Lv-Warrior-Nun-Season-1",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "EN7lsSActHNd1G1GpYuoc-Warrior-Nun-Season-2",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "zLhX5NuMWphsCUtSIbHcm-Warrior-Nun-Season-2",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "hardBupPIuLuUHlnP3qcd-Warrior-Nun-Season-2",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 8,
+  "errores": [],
+  "nombres_nodos": [
+   "La monja guerrera",
+   "Warrior Nun Season 1",
+   "Warrior Nun Season 2",
+   "Warrior Nun Temporada 1",
+   "Warrior Nun Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Sweet Home (2020)",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "GHunY8ZFWhnemPoKWmbgv-Sweet-Home",
+  "titulo_plat": "Dulce hogar Temporada 1",
+  "sinopsis": "Cuando los humanos se transforman en monstruos feroces y siembran el terror, un adolescente atormentado y sus vecinos luchan por sobrevivir... y aferrarse a su humanidad.",
+  "poster": "https://img.cuevana19.com/cover/20221118/1668757874833_5fd04c4b6833dfbaeec8bfce180ed5db家园 竖.jpg",
+  "hero": "https://img.cuevana19.com/cover/20221118/1668757877893_77cb18ba073e74d2b360583811926745家园 横.jpg",
+  "score": 7.3,
+  "generos": [
+   "Drama",
+   "Fantasía",
+   "Horror",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Dulce Hogar",
+   "Dulce Hogar",
+   "Dulce hogar Temporada 1",
+   "Dulce Hogar"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "GHunY8ZFWhnemPoKWmbgv-Sweet-Home",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "pL2EXF7ikLPBGSUhtwmjX-Sweet-Home",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "b3PXrKc5Ad5NUy6dFpLN8-Sweet-Home",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "g3ADdXmBbQhI5gIjwvt5c-Sweet-Home-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "BOdX4XV8WhQq7C5AYhAoV-Sweet-Home-Season-2",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "b0N46YYlLVIGKNUnr27yN-Sweet-Home-Season-2",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 3,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "Inwl8nwdnw9019Fk4d7Rf-Sweet-Home-Season-3[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "OQfQaPbU2Ia7PkMwwnLES-Sweet-Home-Season-3",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "FlSVDgZSW6eOR6Fd1hkrM-Sweet-Home-Season-3",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 12,
+  "errores": [],
+  "nombres_nodos": [
+   "Dulce Hogar",
+   "Dulce hogar Temporada 1",
+   "Sweet Home Season 2",
+   "Sweet Home Season 3"
+  ]
+ },
+ {
+  "titulo_txt": "The Stand (2020)",
+  "site": "pelicula",
+  "tipo": "serie",
+  "wp_seed": "b4nHGrvu3jOlq7heSFpYf-The-Stand",
+  "titulo_plat": "The Stand",
+  "sinopsis": "Después de que el mundo está en ruinas debido a una plaga provocada por el hombre, se produce una batalla de proporciones bíblicas entre los supervivientes.",
+  "poster": "https://img.123pelicula.com/cover/20220622/1655878890822_c9edf348073d42e67d328ec922220ccd竖.jpg",
+  "hero": "https://img.123pelicula.com/cover/20220622/1655878894340_10d41bffd47688228c48b1688d2ac279横.jpg",
+  "score": 5.5,
+  "generos": [
+   "Aventura",
+   "Drama",
+   "Fantasía",
+   "Horror",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "The Stand",
+   "The Stand",
+   "The Stand"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "b4nHGrvu3jOlq7heSFpYf-The-Stand",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "8T4UkG4SoNvdhwNiT9uHz-The-Stand",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 9
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "The Stand"
+  ]
+ },
+ {
+  "titulo_txt": "Alice in Borderland (2020)",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "NFHzVs8J9Ff9btGplaEQ9-Alice-in-Borderland--[Audio-Latino]",
+  "titulo_plat": "Alicia en el país de las fronteras",
+  "sinopsis": "Arisu, un joven perezoso y desempleado con una innegable pasión por los videojuegos, se encuentra de pronto con dos de sus amigos en una Tokio alternativa y desierta donde deberán superar sucesivas dificultades para sobrevivir.",
+  "poster": "https://img.peliculaplay.com/cover/20210927/1632740456082_4f0ee0b610ea02794be3be5156a8728120mOwAAPwZ1vLQkw0fvuQHiG7bO.jpg",
+  "hero": "https://img.peliculaplay.com/cover/20210926/1632652870327_0db1a07ef5fc48604a835638cbcb01e6画板 1 拷贝 221.png",
+  "score": 7.7,
+  "generos": [
+   "Acción",
+   "Fantasía",
+   "Suspense",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Alice in Borderland",
+   "Alice in Borderland",
+   "Alicia en el país de las fronteras"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "NFHzVs8J9Ff9btGplaEQ9-Alice-in-Borderland--[Audio-Latino]",
+      "v": "latino",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "ZXZh9AOCCN9fa82NIMJHo-Alice-in-Borderland",
+      "v": "sub",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "uoJ9G1ZiS2fS0hKAhoy8M-Alice-in-Borderland",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "sub": 8,
+     "base": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "rlXK59KCmlwGVI1CwOyv1-Alice-in-Borderland-Season-2--[Audio-Latino]",
+      "v": "latino",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "pWkXOz91RYnKuwJU3wbaS-Alice-in-Borderland-Season-2",
+      "v": "sub",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "gIUQXh6yhqqJBUEHnZHSi-Alice-in-Borderland-Season-2",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 3,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "BSvlHEoKgr0HfajEjU2pL-Alice-in-Borderland-Season-3",
+      "v": "latino",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "xUPWWUfSyfs4E5kjEot9f-Alice-in-Borderland-Season-3",
+      "v": "sub",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "mW3iGs8hyzJZOCfL9aPwn-Alice-in-Borderland-Season-3",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "base": 6,
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 12,
+  "errores": [],
+  "nombres_nodos": [
+   "Alice in Borderland",
+   "Alice in Borderland Season 2",
+   "Alice in Borderland Season 3",
+   "Alice in Borderland Temporada 3",
+   "Alicia en el país de las fronteras"
+  ]
+ },
+ {
+  "titulo_txt": "Day of the Dead (2021) — SYFY",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "fqKQgPPAZ3LLObuUPLetK-Day-of-the-Dead",
+  "titulo_plat": "Day of the Dead",
+  "sinopsis": "Seis extraños tratando de sobrevivir a las primeras 24 horas de una invasión no muerta.",
+  "poster": "https://img.peliculaplay.com/cover/20250708/1751962892234_628da0f3c6a60059d2e457c93e444ad0iBeWa2Ds2uCjTOlMikiBqETsS2X.webp",
+  "hero": "https://img.peliculaplay.com/cover/20250708/1751962895291_f3f9d48d3597a90e1ff07065937a81f2iBeWa2Ds2uCjTOlMikiBqETsS2X.webp",
+  "score": 4.2,
+  "generos": [
+   "Acción",
+   "Drama",
+   "Horror",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Day of the Dead",
+   "Day of the Dead",
+   "Day of the Dead"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "fqKQgPPAZ3LLObuUPLetK-Day-of-the-Dead",
+      "v": "latino",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "3650-Day-of-the-Dead",
+      "v": "sub",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "QczWEBtpD0e0lbrkRarpu-Day-of-the-Dead",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 38
+    }
+   }
+  ],
+  "nodos": 5,
+  "errores": [],
+  "nombres_nodos": [
+   "Day of the Dead",
+   "My top secret career"
+  ]
+ },
+ {
+  "titulo_txt": "SurrealEstate (2021) — SYFY",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "F3GNicm0FtHkkl5KdHXhb-SurrealEstate-Season-1",
+  "titulo_plat": "SurrealEstate Temporada 1",
+  "sinopsis": "El agente inmobiliario Luke Roman y un equipo de especialistas de élite manejan los casos que nadie más puede: embrujadas y poseídas casas que literalmente asustan a los posibles compradores.",
+  "poster": "https://img.flixlat.com/cover/20251012/1760253302850_4d899ab993f517ee0672d4a8e448cf081.png",
+  "hero": "https://img.flixlat.com/cover/20251012/1760253308109_13ead2842eb220aa73a8b417c203a4ee2.png",
+  "score": 7.1,
+  "generos": [
+   "Drama",
+   "Fantasía",
+   "Suspense",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "SurrealEstate Temporada 1",
+   "SurrealEstate"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "F3GNicm0FtHkkl5KdHXhb-SurrealEstate-Season-1",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "A8Y9O4JKNchF4dLzu5RBi-SurrealEstate",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "nNH3qqumnBuxbjXg4dG5E-SurrealEstate-Season-2",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "ljjyRuQcQubPkiARkfeeW-SurrealEstate-Season-2",
+      "v": "sub",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "OIP45PXx4CCigmqzpx7NV-SurrealEstate-Season-3",
+      "v": "latino",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10
+    }
+   }
+  ],
+  "nodos": 5,
+  "errores": [],
+  "nombres_nodos": [
+   "SurrealEstate",
+   "SurrealEstate Season 2",
+   "SurrealEstate Temporada 1",
+   "SurrealEstate Temporada 2",
+   "SurrealEstate Temporada 3"
+  ]
+ },
+ {
+  "titulo_txt": "Pa' Quererte",
+  "site": "pelicula",
+  "tipo": "serie",
+  "wp_seed": "Ea2KPr9WRfEUoiRMshAmV-Pa-Quererte-Season-1",
+  "titulo_plat": "Pa Quererte Temporada 1",
+  "sinopsis": "Mauricio Reina de la Hoz es un reconocido diseñador de modas del país, que es aclamado por las mujeres, cuya vida toma un rumbo inesperado cuando en pleno lanzamiento de su nueva línea de moda, su empresa empieza a quebrar debido a que su socio habría desfalcado todas las finanzas de la misma, y de paso se entera de que tiene una hija, una niña de 8 años llamada Isabel (Hanny Vizcaíno), de ahí en adelante Mauricio debe empezar desde cero con una hija a bordo.",
+  "poster": "https://img.123pelicula.com/cover/20260605/1780652191886_ce6ca503eb5df6721e310a320340f807xy.jpg",
+  "hero": "https://img.123pelicula.com/cover/20260605/1780652195092_d03ef73aee287ba2419caecb3168086chb.jpg",
+  "score": 8.1,
+  "generos": [
+   "Romance"
+  ],
+  "dubbing_names": [
+   "Pa Quererte Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 56,
+    "fuentes": [
+     {
+      "w": "Ea2KPr9WRfEUoiRMshAmV-Pa-Quererte-Season-1",
+      "v": "latino",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 56
+    }
+   },
+   {
+    "n": 2,
+    "q": 81,
+    "fuentes": [
+     {
+      "w": "GGG8MGaL6sEPYSXMsieG7-Pa-Quererte-Season-2",
+      "v": "latino",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 81
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "Pa Quererte Temporada 1",
+   "Pa Quererte Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Invasion (2024) - Película",
+  "site": "sololatino",
+  "tipo": "peli",
+  "wp_seed": "IMlkZGNc9ZuuEEDawNjOo-Invasión",
+  "titulo_plat": "Invasión",
+  "sinopsis": "Los extraterrestres han invadido la Tierra, y como resultado, dos prisioneros de lados opuestos están encerrados en una celda, tres soldados españoles buscan refugio en una fábrica, y una pareja casada de científicos queda sola con un extraterrestre encarcelado.",
+  "poster": "https://img.solo-latino.com/cover/20250911/1757559561687_24313dd6e5d65b51c37ecd0b5fb06149pq3ec68VWN93GQXY7yf5KBGAK1C.webp",
+  "hero": "https://img.solo-latino.com/cover/20250911/1757559568774_752a367536c0a454141c65b8f9963891fagaywgTkMpIdoRLtJF2GvwrqXI.webp",
+  "score": 4.1,
+  "generos": [
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Invasión",
+   "Invasive",
+   "Invasive"
+  ],
+  "temporadas": [],
+  "variantes": [
+   {
+    "w": "IMlkZGNc9ZuuEEDawNjOo-Invasion",
+    "v": "sub",
+    "y": "sololatino"
+   }
+  ],
+  "descartes": [
+   {
+    "wp": "DfCinjujhEBfdpwdTaquK-Invasive",
+    "name": "[Audio en turco]Invasive",
+    "motivo": "contenido distinto (intro/cover no coinciden)"
+   },
+   {
+    "wp": "izW0rxGyiNbS3o5exqvRf-Invasive",
+    "name": "[Sub Español]Invasive",
+    "motivo": "contenido distinto (intro/cover no coinciden)"
+   }
+  ],
+  "errores": [],
+  "nodos": 2
+ },
+ {
+  "titulo_txt": "La Brea (2021)",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "zwaYNDmOMH1bpsVqVTrwe-La-Brea-Season-1",
+  "titulo_plat": "La Brea Temporada 1",
+  "sinopsis": "Un masivo sumidero se abre misteriosamente en Los Ángeles, separando parte de una familia en un mundo primitivo inexplicable, junto con un grupo dispar de extraños.",
+  "poster": "https://img.321moviesfree.com/cover/20250904/1756973954398_fb0cdc6fab46dc1f51fc9eca7aa962cc1633003656809_2cd4d4ee07227a8be50fe063453662f1nsoRsiUEakEO7VMIoa6Jkw4cPHs.png",
+  "hero": "https://img.321moviesfree.com/cover/20250904/1756973957274_006139f0ea97ce087b261bbf515f106a1633003674347_39fb77a2d4bc466502747c72f7f8f1b21HiLMi66dO8Ia7EsPT2D9FwK5tL.png",
+  "score": 5.2,
+  "generos": [
+   "Aventura",
+   "Drama",
+   "Fantasía",
+   "Suspense",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "La Brea Season 1",
+   "La Brea Temporada 1",
+   "La Brea Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "zwaYNDmOMH1bpsVqVTrwe-La-Brea-Season-1",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "PCDqsgFLpYD9ReIOKqv5w-La-Brea-Season-1",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "cYkmroTjD4zhKBzVQNM34-La-Brea-Season-1",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 14,
+    "fuentes": [
+     {
+      "w": "01kUbTA6KyUviu1Mmydly-La-Brea-Season-2",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "7fzZ2Pw4AKt1MMFmfeEVh-La-Brea-Season-2",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 14,
+     "base": 14
+    }
+   },
+   {
+    "n": 3,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "RvKFv0eZRd28VpXMr0tud-La-Brea-Season-3",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "0P11dldh96tpOLEFVimn0-La-Brea-Season-3",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "PyGGD8o0FXnMoL7bgcWy8-La-Brea-Season-3",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "base": 6,
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 10,
+  "errores": [],
+  "nombres_nodos": [
+   "La Brea",
+   "La Brea Season 1",
+   "La Brea Season 3",
+   "La Brea Temporada 1",
+   "La Brea Temporada 2",
+   "La Brea Temporada 3"
+  ]
+ },
+ {
+  "titulo_txt": "Georgie y Mandy - Su primer matrimonio",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "KFq0P4KvJ6wVwhaYmTD01-Georgie--Mandys-First-Marriage",
+  "titulo_plat": "Georgie & Mandy's First Marriage",
+  "sinopsis": "Georgie y Mandy navegan los desafíos de la edad adulta, la crianza y el matrimonio mientras crían a su joven familia en Texas.",
+  "poster": "https://img.playspelis.com/cover/20241018/1729222634910_4d99ca6d590ca6d86e54cf2db946f908eh5UWhLTi5GegcSg0r6NNa1IIL0.jpg",
+  "hero": "https://img.playspelis.com/cover/20241018/1729222641173_018ce6b2c0ef53df764405cfb06196e3mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+  "score": 7.5,
+  "generos": [
+   "Comedia",
+   "Drama",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "Georgie & Mandy's First Marriage",
+   "Georgie e Mandy - Seu Primeiro Casamento",
+   "Georgie & Mandy's First Marriage"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 22,
+    "fuentes": [
+     {
+      "w": "KFq0P4KvJ6wVwhaYmTD01-Georgie--Mandys-First-Marriage",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "u3JqzvKvTbkcDvYExySuk-Georgie--Mandys-First-Marriage",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "keB9vMOUGxdMjxWRoflmn-Georgie--Mandys-First-Marriage",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 22,
+     "sub": 22,
+     "base": 22
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "71OpiASk6T5Jkti5ssguw-Georgie--Mandys-First-Marriage-Season-2",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "tjaaiDpa2ahbGad5pvnFV-Georgie--Mandys-First-Marriage-Season-2",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "4j7RodbjPShVPQCe2V6Ru-Georgie--Mandys-First-Marriage-Season-2",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 22,
+     "base": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 2,
+    "fuentes": [
+     {
+      "w": "HBP3Azl6x1f61buqMYIx3-Georgie--Mandys-First-Marriage-Season-3",
+      "v": "sub",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "sub": 2
+    }
+   }
+  ],
+  "nodos": 7,
+  "errores": [],
+  "nombres_nodos": [
+   "Georgie & Mandy's First Marriage",
+   "Georgie & Mandy’s First Marriage Season 2",
+   "Georgie & Mandy’s First Marriage Season 3",
+   "Georgie & Mandy’s First MarriageTemporada 2",
+   "Georgie e Mandy - Seu Primeiro Casamento"
+  ]
+ },
+ {
+  "titulo_txt": "The Wheel of Time (2021)",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "8z3uemUikxOOgvYqvp6Da-The-Wheel-of-Time-Season-1",
+  "titulo_plat": "La rueda del tiempo",
+  "sinopsis": "Amazon reservó directamente el drama de la poesía y la fantasía \"The Wheel of Time\" adaptado de la novela de Robert Jordan. La versión del episodio fue producida por Rafe Judkins. La serie \"Wheel of Time\" de la novela tiene un total de 14 + una precuela (los tres últimos fueron tomados por Brandon Sanderson debido a la muerte del autor Robert Jordan). Fuerza extremadamente poderosa, y se llaman el maestro de los dos instrumentos. La protagonista de la mujer Moiraine (Rosamund Pike) y cinco hombres y mujeres jóvenes se embarcaron en un peligroso viaje mundial por alguna razón. Al mismo tiempo, la protagonista femenina creía que uno de ellos era un \"dragón reencarnado\". O bien es la clave para salvar al mundo, o destruirá a la humanidad. \n Madeleine Madden jugó Egwene Al'vere, Marcus Rutherford jugó a Perrin Aybara, Barney Harris tocó a Mat Cauthon, Zoë Robins jugó a Nynaeve, y Josha Stradowski jugó a Rand Al'Thor. \n La serie \"Rueda de tiempo\" que ha vendido más de 90 millones de copias se basa en elementos culturales y filosóficos europeos y asiáticos, y tiene las teorías de tiempo mencionadas en el budismo y el hinduismo.",
+  "poster": "https://img.playspelis.com/cover/20211109/1636446412453_4adf3ce9ff2eee08001065fa1c940c70mpgDeLhl8HbhI03XLB7iKO6M6JE.jpg",
+  "hero": "https://img.playspelis.com/cover/20211130/1638262931398_a7bfdc321dd73812064daaf270e067521T8xJKnK0XRHZ7zSvIXIXgkOGJJ.jpg",
+  "score": 7.1,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Drama",
+   "Fantasía"
+  ],
+  "dubbing_names": [
+   "La rueda del tiempo",
+   "La rueda del tiempo",
+   "La rueda del tiempo"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "8z3uemUikxOOgvYqvp6Da-The-Wheel-of-Time-Season-1",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "rqucEDVvLGJJdDb7i2USZ-The-Wheel-of-Time-Season-1",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "TgBo9SH3fwoPdjtPexXrZ-The-Wheel-of-Time-Season-1",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "sub": 8,
+     "base": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "YW6CPL5UqQ4PJRyGoRmuz-The-Wheel-of-Time-Season-2",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "Jdr2dpU6hPfXZZCEodxLN-The-Wheel-of-Time-Season-2",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "Nx1o0N8FVChcfFycLejlL-The-Wheel-of-Time-Season-2",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "sub": 8,
+     "base": 8
+    }
+   },
+   {
+    "n": 3,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "vVmtE1wm9hxFQGr3WBUgM-The-Wheel-of-Time-Season-3",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "IwABsp35RNzqo1xUbAB5w-The-Wheel-of-Time-Season-3",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "KsslTPxdCaMcdMb25KDsJ-The-Wheel-of-Time-Season-3",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "sub": 8,
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 9,
+  "errores": [],
+  "nombres_nodos": [
+   "La rueda del tiempo",
+   "La rueda del tiempo Temporada 3",
+   "The Wheel of Time Season 3"
+  ]
+ },
+ {
+  "titulo_txt": "Astrid & Lilly Save the World (2022) — SYFY",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "0OlspOi9ookzdnUmuH2Sr-Astrid-and-Lilly-Save-the-World",
+  "titulo_plat": "Astrid and Lilly Save the World",
+  "sinopsis": "La escuela secundaria es bastante difícil, pero cuando los BFF de los marginados, Astrid y Lilly, accidentalmente abren un portal a una dimensión monstruosa terriblemente peculiar, depende de ellos salvar al mundo. Es decir, si pueden sobrevivir a los horrores de la escuela secundaria.",
+  "poster": "https://img.peliculaplay.com/cover/20240506/1714989893543_13243159ca174356db7eee15e91214f9dgYFcMUOojIeK7jZEjkjK3tOqTe.jpg",
+  "hero": "https://img.peliculaplay.com/cover/20240506/1714989897674_9447c2c31ac90a1e0cb61adceb36885c5tdBOcx5OAUkNh8TbHJ1wEoWrh.jpg",
+  "score": 5.7,
+  "generos": [
+   "Aventura",
+   "Comedia",
+   "Drama"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "0OlspOi9ookzdnUmuH2Sr-Astrid-and-Lilly-Save-the-World",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "base": 10
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Astrid and Lilly Save the World"
+  ]
+ },
+ {
+  "titulo_txt": "Reginald the Vampire (2022) — SYFY",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "gkHE09JIfV9LKVZSDyAvB-Reginald-the-Vampire",
+  "titulo_plat": "Reginald the Vampire",
+  "sinopsis": "La serie está ambientada en un mundo poblado por vampiros hermosos, en forma y vanidosos. Reginald Baskin (Batalon) se lanza de cabeza como un héroe inverosímil que tendrá que sortear todo tipo de obstáculos: la chica a la que ama pero con la que no puede estar, un jefe matón en el trabajo y el jefe vampiro que lo quiere muerto. Afortunadamente, Reginald descubre que tiene algunos poderes propios no reconocidos. Un nuevo espectáculo con mucho corazón y suficiente sangre, Reginald the Vampire demuestra que la vida de los muertos vivientes es tan complicada como la vida misma.",
+  "poster": "https://img.playspelis.com/cover/20221007/1665132199872_26ee07d6e4d8b989013b1836d661153ed1fEqGYSvEsJmHgYnRmEiRM87w6.jpg",
+  "hero": "https://img.playspelis.com/cover/20221007/1665132205523_2eb381275b6bdc6ebfbdcdab8438ad9d45SFZtJy3v0PAAhd9BLJ05DQjli.jpg",
+  "score": 5.9,
+  "generos": [
+   "Comedia"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "gkHE09JIfV9LKVZSDyAvB-Reginald-the-Vampire",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "base": 10
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Reginald the Vampire"
+  ]
+ },
+ {
+  "titulo_txt": "The Peripheral (2022)",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "xPiIvGazkWe63W8M4Zvd2-The-Peripheral-Season-1[Audio-Latino]",
+  "titulo_plat": "La Periferia Temporada 1",
+  "sinopsis": "Ambientada en el futuro cuando la tecnología ha alterado sutilmente la sociedad, una mujer descubre una conexión secreta con una realidad alternativa, así como un futuro oscuro propio.",
+  "poster": "https://img.flixlat.com/cover/20220927/1664250462430_f972c80c83f50541a2420549896b140b7ViQqlW5WRulcnJAercizmBVw3r.jpg",
+  "hero": "https://img.flixlat.com/cover/20220927/1664250487751_e43f0a66d9007e5e967c7e1a977f0dc26QenFR0cpCjycViJEPI9h5GCtUz.jpg",
+  "score": 8.1,
+  "generos": [
+   "Drama",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "La Periferia Temporada 1",
+   "La Periferia Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "xPiIvGazkWe63W8M4Zvd2-The-Peripheral-Season-1[Audio-Latino]",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "ZLktenEBF0eA5PoptubhY-The-Peripheral-Season-1",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "La Periferia Temporada 1"
+  ]
+ },
+ {
+  "titulo_txt": "La primera vez",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "4eTEY6wxWioWHjdY47Svp-Eva-Lasting",
+  "titulo_plat": "La primera vez",
+  "sinopsis": "Una misteriosa niña adolescente llega a una escuela de todos los boys en Colombia de los años setenta, rompiendo estereotipos, reglas y algunos corazones.",
+  "poster": "https://img.cuevana4br.com/cover/20260320/1773984726382_c1e9b487d7d1411c31b3ab857e0207ed1.webp",
+  "hero": "https://img.cuevana4br.com/cover/20260320/1773984729797_9d751fee4b22931a2ce86b466ed9c8601.webp",
+  "score": 8,
+  "generos": [
+   "Drama",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "La primera vez",
+   "La primera vez Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "4eTEY6wxWioWHjdY47Svp-Eva-Lasting",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "IJgsDe8i4ud3qePhwqbyy-Eva-Lasting-Season-1",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 13,
+     "base": 13
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "0clN0KtgMW9tsP9SbirFH-Eva-Lasting-Season-2",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "ECf9akqAi0imgyoBFVEwZ-Eva-Lasting-Season-2",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "gnaa2g4GxLIm0y6anEfwm-Eva-Lasting-Season-3",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "base": 10
+    }
+   },
+   {
+    "n": 4,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "SkjWQK6ywMVW9f7PghTPH-Eva-Lasting-Season-4",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "base": 12
+    }
+   }
+  ],
+  "nodos": 8,
+  "errores": [],
+  "nombres_nodos": [
+   "Eva Lasting Temporada 3",
+   "Eva Lasting Temporada 4",
+   "La primera vez",
+   "La primera vez Temporada 1",
+   "La primera vez Temporada 2",
+   "La primera vez Temporada 3"
+  ]
+ },
+ {
+  "titulo_txt": "The Sandman (2022)",
+  "site": "sololatino",
+  "tipo": "serie",
+  "wp_seed": "twcG7VQcAVaKhcApKpMl7-The-Sandman",
+  "titulo_plat": "Sandman",
+  "sinopsis": "Luego de años de reclusión, el Rey del Sueño emprende un viaje a través de los mundos para recuperar lo que le robaron y restaurar su poder.",
+  "poster": "https://img.solo-latino.com/cover/20221027/1666838836027_777e2949af5e52527667489742ed2cd9睡魔 竖.jpg",
+  "hero": "https://img.solo-latino.com/cover/20221027/1666838838613_f0baf2f02fd31020efda1a28d4706c85睡魔 横.jpg",
+  "score": 7.7,
+  "generos": [
+   "Drama",
+   "Fantasía",
+   "Horror",
+   "Suspense",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "The Sandman Season 1",
+   "The Sandman",
+   "Sandman",
+   "The Sandman"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 11,
+    "fuentes": [
+     {
+      "w": "twcG7VQcAVaKhcApKpMl7-The-Sandman",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "w72YoEpZTFvuYROAagAzA-The-Sandman",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "bS2I5PxZ96i0GwP1e7w58-The-Sandman-Season-1",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 11,
+     "base": 11,
+     "sub": 11
+    }
+   },
+   {
+    "n": 2,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "gr4KEGles5APNRZUB5y1T-Sandman-Season-2",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "m8SNsGkSxDCZMZJYhe7xL-Sandman-Season-2",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "e6qt2OISXhtyObmytK6oV-The-Sandman-Season-2",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "base": 12,
+     "sub": 12
+    }
+   }
+  ],
+  "nodos": 8,
+  "errores": [],
+  "nombres_nodos": [
+   "Sandman",
+   "Sandman Season 2",
+   "Sandman Temporada 2",
+   "The Sandman",
+   "The Sandman Season 1",
+   "The Sandman Season 2"
+  ]
+ },
+ {
+  "titulo_txt": "The Devil's Hour (2022)",
+  "site": "pelicula",
+  "tipo": "serie",
+  "wp_seed": "WZYwrpfAb87nygqu3L7zw-The-Devils-Hour",
+  "titulo_plat": "Hora del Diablo",
+  "sinopsis": "Una mujer que se despierta todas las noches exactamente a las 3.33AM, en medio de la llamada hora del diablo entre las 3AM y las 4AM.",
+  "poster": "https://img.123pelicula.com/cover/20221028/1666953141473_31241933b44c5150e61458f7011423e4魔鬼 竖.jpg",
+  "hero": "https://img.123pelicula.com/cover/20221028/1666953145431_912a61a61e3d8ad5e5e29d0560cece4e魔鬼 横.jpg",
+  "score": 8.3,
+  "generos": [
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Hora del Diablo Temporada 1",
+   "Hora del Diablo"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "WZYwrpfAb87nygqu3L7zw-The-Devils-Hour",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "Fl4baouu3do31kxpoXyZX-The-Devils-Hour-Season-1",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "base": 6
+    }
+   },
+   {
+    "n": 2,
+    "q": 5,
+    "fuentes": [
+     {
+      "w": "7nbpEMjiIEFOsWtdVjtL3-The-Devils-Hour-Season-2",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "edRRRyb4namzza6a8jSbi-The-Devils-Hour-Season-2",
+      "v": "sub",
+      "y": "pelicula"
+     },
+     {
+      "w": "rxYZkBOnli7qIQLa2Gxg0-The-Devils-Hour-Season-2",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 5,
+     "base": 5,
+     "sub": 5
+    }
+   }
+  ],
+  "nodos": 5,
+  "errores": [],
+  "nombres_nodos": [
+   "Hora del Diablo",
+   "Hora del Diablo Temporada 1",
+   "La hora del diablo",
+   "La hora del diablo Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "The Ark (2023) — SYFY",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "1J4bCWxyFd4W39ez5x2ME-The-Ark-Season-1",
+  "titulo_plat": "El Arca Temporada 1",
+  "sinopsis": "Sigue a la tripulación restante de una nave espacial conocida como Ark One, que debe convertirse en las mejores versiones de sí mismas para mantenerse en curso y sobrevivir después de experimentar un evento catastrófico que causó una destrucción masiva y pérdida de vida.",
+  "poster": "https://img.flixlat.com/cover/20251121/1763703810270_618f35becf3fca3437f162ed6bb2395bgJjLi7qTheqjn2UJHOUlGPxcH7t.webp",
+  "hero": "https://img.flixlat.com/cover/20231211/1702274819421_b405b1b15ca7f5a192ee2c890e9d3946hhOX0B96docACi8Zcz0GujdA11x.jpg",
+  "score": 6.2,
+  "generos": [
+   "Drama",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "El Arca Temporada 1",
+   "El Arca Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "1J4bCWxyFd4W39ez5x2ME-The-Ark-Season-1",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "llyBhBuB6AXmp6e1etWI3-The-Ark-Season-1",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "base": 12
+    }
+   },
+   {
+    "n": 2,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "gsjJIoQWVT3wcJy30TBwb-The-Ark-Season-2",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "p2SXsUk25qKXXKhYwWo99-The-Ark-Season-2",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "base": 12
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "El Arca Temporada 1",
+   "El Arca Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Twisted Metal (2023)",
+  "site": "flms",
+  "tipo": "serie",
+  "wp_seed": "GlgS2LB0gZcAn2Ayurcfv-Twisted-Metal",
+  "titulo_plat": "Twisted Metal",
+  "sinopsis": "A un extraño con boca de motor se le ofrece la oportunidad de una vida mejor, pero solo si puede entregar con éxito un paquete misterioso a través de un páramo post-apocalíptico.",
+  "poster": "https://img.123flmsfree.com/cover/20250722/1753172673998_d28355cd7d7b51295ab1ebb11f13cd451687319503230_99c2d3b22a9abe268d71d3de306d2772战车 竖.png",
+  "hero": "https://img.123flmsfree.com/cover/20250722/1753172677058_3136f2cb93a1771a3f54686b6c4e777d1687319506651_c68e662e633b5b2b7da36998d343bf38战车 横.png",
+  "score": 7.3,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Comedia",
+   "Fantasía",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Twisted Metal",
+   "Twisted Metal",
+   "Twisted Metal"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "GlgS2LB0gZcAn2Ayurcfv-Twisted-Metal",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "udQeyqsdN41wf6UDjbqfl-Twisted-Metal",
+      "v": "sub",
+      "y": "flms"
+     },
+     {
+      "w": "znWFLfA6gYNJfW6vmKxLE-Twisted-Metal",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 9,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "mWdJptI3H4xGQiB6Yw0VM-Twisted-Metal-Season-2",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "9ARbdD9Rjoe2GsfS6ULyg-Twisted-Metal-Season-2",
+      "v": "sub",
+      "y": "flms"
+     },
+     {
+      "w": "muKDbcCRp3J4jFiTJBuWJ-Twisted-Metal-Season-2",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "sub": 12,
+     "base": 12
+    }
+   }
+  ],
+  "nodos": 6,
+  "errores": [],
+  "nombres_nodos": [
+   "Twisted Metal",
+   "Twisted Metal Season 2",
+   "Twisted Metal Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Moving (2023)",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "jeELN8ZxWYOnD1cq5USDs-Moving[Audio-Latino]",
+  "titulo_plat": "Moving",
+  "sinopsis": "Tres adolescentes que ocultan sus superpoderes y sus padres que han vivido con secretos dolorosos que enfrentan un gran peligro durante las generaciones.",
+  "poster": "https://img.flixlat.com/cover/20260724/1784864918469_cd3b5b8855b230652f92e657c3bb0a4bvf9SNXNAFqzKBGksFwrXhkg9cb7.webp",
+  "hero": "https://img.flixlat.com/cover/20260724/1784864932748_5790c663642a691888a05fddbb6485f81689323894825_0dbdf4a4773b128f35103a648d521d32异能 横.png",
+  "score": 8.6,
+  "generos": [
+   "Acción",
+   "Fantasía",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Moving",
+   "Moving"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 20,
+    "fuentes": [
+     {
+      "w": "jeELN8ZxWYOnD1cq5USDs-Moving[Audio-Latino]",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "MFB069UFkFdDV48GkgQu3-Moving",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 20,
+     "base": 20
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "Moving"
+  ]
+ },
+ {
+  "titulo_txt": "Parasyte: The Grey (2024)",
+  "site": "flms",
+  "tipo": "serie",
+  "wp_seed": "0YYqfUuGDv188JPZIXLqA-Parasyte-The-Grey",
+  "titulo_plat": "Parasyte: Los grises",
+  "sinopsis": "Un grupo de humanos libra de la guerra contra el creciente mal de las formas de vida parasitarias no identificadas que viven de los anfitriones humanos y se esfuerzan por aumentar su poder",
+  "poster": "https://img.123flmsfree.com/cover/20240320/1710920747436_a9c5f99d98086fe9443018ff10f0e664p2905866153@2x.png",
+  "hero": "https://img.123flmsfree.com/cover/20240228/1709102627121_d18d1faa3c6945abda88fe5c09441a14p2905038075.jpg",
+  "score": 9,
+  "generos": [
+   "Acción",
+   "Horror",
+   "Suspense",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Parasyte: Los grises",
+   "Parasyte: Los grises",
+   "Parasyte: Los grises",
+   "Parasyte: El Gris"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "0YYqfUuGDv188JPZIXLqA-Parasyte-The-Grey",
+      "v": "sub",
+      "y": "flms"
+     },
+     {
+      "w": "FUNIPuYY8CoflHDiz51r7-Parasyte-The-Grey",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "sub": 6,
+     "base": 6
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Parasyte: El Gris",
+   "Parasyte: Los grises"
+  ]
+ },
+ {
+  "titulo_txt": "Doctor Who",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "vq1zaPe6iDhHHBmOw63xK-Doctor-Who-Season-12",
+  "titulo_plat": "Doctor Who Temporada 1",
+  "sinopsis": "El médico, un señor de la carrera, de la carrera, cuyo planeta del hogar es Gallifrey, viaja a través del tiempo y el espacio en su nave, los Tardis (un acrónimo para el tiempo y la dimensión relativa en el espacio) con numerosos compañeros. De vez en cuando, el médico se regenera a una nueva forma.",
+  "poster": "https://img.dramasfree.com/cover/20250603/1748934557700_ef8bcc52cfacf0be3a9e1906764a17e41638170968244_ef854021a08bc515466a87bd55e264594j0a5GrxrKA3NhpikaNWnQckTER.png",
+  "hero": "https://img.dramasfree.com/cover/20250603/1748934563605_03f5238999973b74548f9a9633c6742c1638170973803_768a78c9a2445c9f60eb72a7dc572c3cnrIob8lrTOhfXS9whlOGX3O8jRq.png",
+  "score": 8.6,
+  "generos": [
+   "Aventura",
+   "Drama",
+   "Familiares",
+   "Suspense",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Doctor Who Season 1",
+   "Doctor Who Temporada 1",
+   "Doctor Who Temporada 1",
+   "Doctor Who Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "VlxqrSqzPMEN1iaDPeP3P-Doctor-Who-Season-1",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "pjnESNrg3fZeTfafCaL8o-Doctor-Who-Season-1",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "XPp5Jon8RuiDqTKQLoVsA-Doctor-Who-Season-1",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 13,
+     "base": 13,
+     "latino": 13
+    }
+   },
+   {
+    "n": 2,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "ygAbEayfOkcCwW1YP10nw-Doctor-Who-Season-2",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "uwoj8OSTkF14wAMS0zn0k-Doctor-Who-Season-2",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "BExRCftvcsacbfPZ2i6GC-Doctor-Who-Season-2",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 13,
+     "base": 13,
+     "latino": 13
+    }
+   },
+   {
+    "n": 3,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "65Esi5WSShQ4QvxoIENIB-Doctor-Who-Season-3",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "fAPQ4lG2mwAIp48VPvWWA-Doctor-Who-Season-3",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "LH4Oh0FEr9OX3gO5vaGx9-Doctor-Who-Season-3",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 14,
+     "base": 13,
+     "latino": 13
+    }
+   },
+   {
+    "n": 4,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "glkuerCBr3CfRiTPyNBNO-Doctor-Who-Season-4",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "QGG9FIiwc9Ul4aF0K08S3-Doctor-Who-Season-4",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "CyzFpMGjEkQlwjiaOasTF-Doctor-Who-Season-4",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 13,
+     "base": 18,
+     "latino": 13
+    }
+   },
+   {
+    "n": 5,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "suxrPx4ern0TbDWIy9rm8-Doctor-Who-Season-5",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "ToPKF8rOUj7YEC8TgdfT7-Doctor-Who-Season-5",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "KbBO4UFTI8xfwqedNa5qy-Doctor-Who-Season-5",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 13,
+     "base": 13,
+     "latino": 13
+    }
+   },
+   {
+    "n": 6,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "lEQPp1BfVkfz1saKK2zNh-Doctor-Who-Season-6",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "ANEE9cnhNc98bBQzLSvND-Doctor-Who-Season-6",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "7JCjVuwPYtc0kI7lTYZ4l-Doctor-Who-Season-6",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 13,
+     "base": 13,
+     "latino": 13
+    }
+   },
+   {
+    "n": 7,
+    "q": 15,
+    "fuentes": [
+     {
+      "w": "asm6lFtAEeDj0VdWPgInS-Doctor-Who-Season-7",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "PZpskFTHms40zeEq2W1Ot-Doctor-Who-Season-7",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "r2L926KNvfrSjKv1JXqEG-Doctor-Who-Season-7",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 13,
+     "base": 16,
+     "latino": 15
+    }
+   },
+   {
+    "n": 8,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "izo8RAwUXEWJ7GLQ8jPXs-Doctor-Who-Season-8",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "R4T3w81dU3IWGjrZBmZR5-Doctor-Who-Season-8",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "6dcF4j0WBHMRheVzhWVrE-Doctor-Who-Season-8",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 13,
+     "base": 13,
+     "latino": 12
+    }
+   },
+   {
+    "n": 9,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "lib0sQwNu7avea9GxkHIS-Doctor-Who-Season-9",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "1AHniKvswZWCKvSHuDhf3-Doctor-Who-Season-9",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "XGFVAlgJqKuz8PXTqJuBR-Doctor-Who-Season-9",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 12,
+     "base": 14,
+     "latino": 13
+    }
+   },
+   {
+    "n": 10,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "Mg41avk0FrGqFjzuakEOg-Doctor-Who-Season-10",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "yRRXNT1IBXIC6wV0QcwNr-Doctor-Who-Season-10",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "RVtR7Ccn7xnxHh7d5jGG8-Doctor-Who-Season-10",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 12,
+     "base": 13,
+     "latino": 12
+    }
+   },
+   {
+    "n": 11,
+    "q": 11,
+    "fuentes": [
+     {
+      "w": "EIFX2JUXhLva5ZvsOGVLg-Doctor-Who-Season-11",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "5ePz3zKG2CQleoCQUIgum-Doctor-Who-Season-11",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "RBlMrTklKExasWY1xhxqI-Doctor-Who-Season-11",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 10,
+     "base": 10,
+     "latino": 11
+    }
+   },
+   {
+    "n": 12,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "vq1zaPe6iDhHHBmOw63xK-Doctor-Who-Season-12",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "EDcMFIOFR0Uc5YkqQyMZC-Doctor-Who-Season-12",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 13,
+    "q": 7,
+    "fuentes": [
+     {
+      "w": "iu9qChV2AGHkAnJP3N0Yp-Doctor-Who-Season-13",
+      "v": "sub",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 7
+    }
+   }
+  ],
+  "nodos": 44,
+  "errores": [],
+  "nombres_nodos": [
+   "Doctor Who Season 1",
+   "Doctor Who Season 10",
+   "Doctor Who Season 11",
+   "Doctor Who Season 12",
+   "Doctor Who Season 13",
+   "Doctor Who Season 1[AR SUB]",
+   "Doctor Who Season 2",
+   "Doctor Who Season 2[AR SUB]",
+   "Doctor Who Season 3",
+   "Doctor Who Season 4",
+   "Doctor Who Season 5",
+   "Doctor Who Season 6",
+   "Doctor Who Season 7",
+   "Doctor Who Season 8",
+   "Doctor Who Season 9",
+   "Doctor Who Temporada 1",
+   "Doctor Who Temporada 10",
+   "Doctor Who Temporada 11",
+   "Doctor Who Temporada 12",
+   "Doctor Who Temporada 2",
+   "Doctor Who Temporada 3",
+   "Doctor Who Temporada 4",
+   "Doctor Who Temporada 5",
+   "Doctor Who Temporada 6",
+   "Doctor Who Temporada 7",
+   "Doctor Who Temporada 8",
+   "Doctor Who Temporada 9"
+  ]
+ },
+ {
+  "titulo_txt": "Doctor Who",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "dkWUuSYhqD7eWE6BQucPs-Doctor-Who-Season-14",
+  "titulo_plat": "Doctor Who Season 14",
+  "sinopsis": "Las más aventuras en el tiempo y el espacio del aventurero alienígena conocido como el Doctor y sus compañeros del planeta Tierra.",
+  "poster": "https://img.dramasfree.com/cover/20231201/1701412974981_4a65f588c403ecc42902aebb96e783c9神秘博士 第十四季.png",
+  "hero": "https://img.dramasfree.com/cover/20231201/1701412982947_94025b468e8d822cb8b62ccbf382b06a神秘博士第十四季 剧照.png",
+  "score": 8,
+  "generos": [
+   "Aventura",
+   "Drama",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "dkWUuSYhqD7eWE6BQucPs-Doctor-Who-Season-14",
+      "v": "sub",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 13
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Doctor Who Season 14"
+  ]
+ },
+ {
+  "titulo_txt": "Revival (2025) — SYFY",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "iUIXwAkArzwgcg7CEPw3E-Revival",
+  "titulo_plat": "Revival",
+  "sinopsis": "Un día milagroso en la zona rural de Wisconsin, el fallecido se eleva de sus tumbas, pero aparece y actúa sin cambios. Y ahora depende de la oficial y la madre soltera Dana Cypress resolver un caso de asesinato donde todos, vivos o no muertos, son sospechosos.",
+  "poster": "https://img.flixlat.com/cover/20250811/1754918928384_ca27e537e857ab9192141109f50f09741749697538472_f9cfd21782e904e17611c7af8e0ad111A7opNmDGfUiwQts17u3qSb5iOlI.png",
+  "hero": "https://img.flixlat.com/cover/20250811/1754918932756_9d12827efe442d53d622f1a628626eec1749697508168_2e85e2ccd32a3f9a3d3e75a456305563tR8GrCjvdpN82TfZLiCh2XDuDXx.png",
+  "score": 9,
+  "generos": [
+   "Drama",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Revival",
+   "Revival",
+   "Revival"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "iUIXwAkArzwgcg7CEPw3E-Revival",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "SLqOpxQHvIjMThs6xUcmM-Revival",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "k4wLYTXnTAG8uGk7CpYG8-Revival",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 9,
+     "base": 10,
+     "sub": 10
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "Revival"
+  ]
+ }
+]

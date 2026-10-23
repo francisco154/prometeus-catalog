@@ -1,0 +1,1465 @@
+{
+ "The Twilight Zone (2019)": {
+  "match": "The Twilight Zone",
+  "titulo_plat": "The Twilight Zone",
+  "anio": 2019,
+  "fin": 2020,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "The Comedian",
+    "Nightmare at 30,000 Feet",
+    "Replay",
+    "A Traveler",
+    "The Wunderkind",
+    "Six Degrees of Freedom",
+    "Not All Men",
+    "Point of Origin",
+    "The Blue Scorpion",
+    "Blurryman"
+   ],
+   "2": [
+    "Meet in the Middle",
+    "Downtime",
+    "The Who of You",
+    "Ovation",
+    "Among the Untrodden",
+    "8",
+    "A Human Face",
+    "A Small Town",
+    "Try, Try",
+    "You Might Also Like"
+   ]
+  },
+  "id_tvmaze": 33153,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 10
+  }
+ },
+ "Another Life (2019)": {
+  "match": "Another Life",
+  "titulo_plat": "Otra vida",
+  "anio": 2019,
+  "fin": 2021,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Across the Universe",
+    "Through the Valley of Shadows",
+    "Nervous Breakdown",
+    "Guilt Trip",
+    "A Mind of Its Own",
+    "I Think We're Alone Now",
+    "Living the Dream",
+    "How the Light Gets Lost",
+    "Heart and Soul",
+    "Hello"
+   ],
+   "2": [
+    "Live to Fight Another Day",
+    "Smoke and Mirrors",
+    "My Own Worst Enemy",
+    "Will to Power",
+    "A Better Earth",
+    "Gift From the Gods",
+    "Never Gonna Give You Up",
+    "Just a Rat in a Cage",
+    "What's Bourne / What's Left Behind",
+    "D-Day"
+   ]
+  },
+  "id_tvmaze": 36471,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 10
+  }
+ },
+ "The Mandalorian (2019)": {
+  "match": "The Mandalorian",
+  "titulo_plat": "The Mandalorian",
+  "anio": 2019,
+  "fin": 2023,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Chapter 1: The Mandalorian",
+    "Chapter 2: The Child",
+    "Chapter 3: The Sin",
+    "Chapter 4: Sanctuary",
+    "Chapter 5: The Gunslinger",
+    "Chapter 6: The Prisoner",
+    "Chapter 7: The Reckoning",
+    "Chapter 8: Redemption"
+   ],
+   "2": [
+    "Chapter 9: The Marshal",
+    "Chapter 10: The Passenger",
+    "Chapter 11: The Heiress",
+    "Chapter 12: The Siege",
+    "Chapter 13: The Jedi",
+    "Chapter 14: The Tragedy",
+    "Chapter 15: The Believer",
+    "Chapter 16: The Rescue"
+   ],
+   "3": [
+    "Chapter 17: The Apostate",
+    "Chapter 18: The Mines of Mandalore",
+    "Chapter 19: The Convert",
+    "Chapter 20: The Foundling",
+    "Chapter 21: The Pirate",
+    "Chapter 22: Guns for Hire",
+    "Chapter 23: The Spies",
+    "Chapter 24: The Return"
+   ]
+  },
+  "id_tvmaze": 38963,
+  "temporadas_tvmaze": {
+   "1": 8,
+   "2": 8,
+   "3": 8
+  }
+ },
+ "The Umbrella Academy (2019)": {
+  "match": "The Umbrella Academy",
+  "titulo_plat": "The Umbrella Academy",
+  "anio": 2019,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "We Only See Each Other at Weddings and Funerals",
+    "Run Boy Run",
+    "Extra Ordinary",
+    "Man on the Moon",
+    "Number Five",
+    "The Day That Wasn't",
+    "The Day That Was",
+    "I Heard a Rumor",
+    "Changes",
+    "The White Violin"
+   ],
+   "2": [
+    "Right Back Where We Started",
+    "The Frankel Footage",
+    "The Swedish Job",
+    "The Majestic 12",
+    "Valhalla",
+    "A Light Supper",
+    "Öga for Öga",
+    "The Seven Stages",
+    "743",
+    "The End of Something"
+   ],
+   "3": [
+    "Meet the Family",
+    "World's Biggest Ball of Twine",
+    "Pocket Full of Lightning",
+    "Kugelblitz",
+    "Kindest Cut",
+    "Marigold",
+    "Auf Wiedersehen",
+    "Wedding at the End of the World",
+    "Seven Bells",
+    "Oblivion"
+   ],
+   "4": [
+    "The Unbearable Tragedy of Getting What You Want",
+    "Jean and Gene",
+    "The Squid and the Girl",
+    "The Cleanse",
+    "Six Years, Five Months, and Two Days",
+    "End of the Beginning"
+   ]
+  },
+  "id_tvmaze": 30386,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 10,
+   "3": 10,
+   "4": 6
+  }
+ },
+ "Doom Patrol (2019": {
+  "match": "Doom Patrol",
+  "titulo_plat": "Doom Patrol",
+  "anio": 2019,
+  "fin": 2023,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Donkey Patrol",
+    "Puppet Patrol",
+    "Cult Patrol",
+    "Paw Patrol",
+    "Doom Patrol Patrol",
+    "Therapy Patrol",
+    "Danny Patrol",
+    "Jane Patrol",
+    "Hair Patrol",
+    "Frances Patrol",
+    "Cyborg Patrol",
+    "Flex Patrol",
+    "Penultimate Patrol",
+    "Ezekiel Patrol"
+   ],
+   "2": [
+    "Fun Size Patrol",
+    "Tyme Patrol",
+    "Pain Patrol",
+    "Sex Patrol",
+    "Finger Patrol",
+    "Space Patrol",
+    "Dumb Patrol",
+    "Dad Patrol",
+    "Wax Patrol"
+   ],
+   "3": [
+    "Possibilities Patrol",
+    "Vacay Patrol",
+    "Dead Patrol",
+    "Undead Patrol",
+    "Dada Patrol",
+    "1917 Patrol",
+    "Bird Patrol",
+    "Subconscious Patrol",
+    "Evil Patrol",
+    "Amends Patrol"
+   ],
+   "4": [
+    "Doom Patrol",
+    "Butt Patrol",
+    "Nostalgia Patrol",
+    "Casey Patrol",
+    "Youth Patrol",
+    "Hope Patrol",
+    "Orqwith Patrol",
+    "Fame Patrol",
+    "Immortimas Patrol",
+    "Tomb Patrol",
+    "Portal Patrol",
+    "Done Patrol"
+   ]
+  },
+  "id_tvmaze": 36745,
+  "temporadas_tvmaze": {
+   "1": 15,
+   "2": 9,
+   "3": 10,
+   "4": 12
+  }
+ },
+ "Ojitos de Huevo": {
+  "match": "Ojitos de huevo",
+  "titulo_plat": "Ojitos de Huevo",
+  "anio": 2023,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "Ojitos de huevo",
+    "Eres una inspiración",
+    "Tú no puedes",
+    "Solo quiero ser alguien normal",
+    "¿Tienes un nombre artístico?",
+    "Un ciego debe hacer lo que un ciego debe hacer",
+    "El perro que alcanzó el coche",
+    "Una pieza de menos"
+   ],
+   "2": [
+    "Puedo ser cualquier cosa",
+    "Eres un peligro para los niños",
+    "El sonido más lindo de este mundo",
+    "Ahora tengo una familia",
+    "Es hora de que persigas tus sueños",
+    "Dobbie",
+    "Si tú puedes yo puedo",
+    "Puedo ver con el corazón"
+   ]
+  },
+  "id_tvmaze": 72197,
+  "temporadas_tvmaze": {
+   "1": 8,
+   "2": 8
+  }
+ },
+ "Vagrant Queen (2020) — SYFY": {
+  "match": "Vagrant Queen",
+  "titulo_plat": "Vagrant Queen",
+  "anio": 2020,
+  "fin": 2020,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "A Royal Ass-Kicking",
+    "Yippee Ki Yay",
+    "Nobody's Queen",
+    "In a Sticky Spot",
+    "Temple of Doom",
+    "Requiem for Republic",
+    "Sunshine Express Yourself",
+    "No Clue",
+    "All Old Things Must Pass - Part 1",
+    "All Old Things Must Pass - Part 2"
+   ]
+  },
+  "id_tvmaze": 42267,
+  "temporadas_tvmaze": {
+   "1": 10
+  }
+ },
+ "Raised by Wolves (2020)": {
+  "match": "Raised by Wolves",
+  "titulo_plat": "Raised by Wolves[Audio Latino]",
+  "anio": 2020,
+  "fin": 2022,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Raised by Wolves",
+    "Pentagram",
+    "Virtual Faith",
+    "Nature's Course",
+    "Infected Memory",
+    "Lost Paradise",
+    "Faces",
+    "Mass",
+    "Umbilical",
+    "The Beginning"
+   ],
+   "2": [
+    "The Collective",
+    "Seven",
+    "Good Creatures",
+    "Control",
+    "King",
+    "The Tree",
+    "Feeding",
+    "Happiness"
+   ]
+  },
+  "id_tvmaze": 39013,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 8
+  }
+ },
+ "Brave New World (2020)": {
+  "match": "Brave New World",
+  "titulo_plat": "Brave New World",
+  "anio": 2020,
+  "fin": 2020,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Want and Consequence",
+    "Everybody Happy Now!",
+    "Swallow",
+    "Firefall",
+    "In the Dirt",
+    "Monogamy and Futility: Part 1",
+    "Monogamy and Futility: Part 2",
+    "Soma Red"
+   ]
+  },
+  "id_tvmaze": 40980,
+  "temporadas_tvmaze": {
+   "1": 9
+  }
+ },
+ "Snowpiercer (2020)": {
+  "match": "Snowpiercer",
+  "titulo_plat": "Snowpiercer: Rompenieves",
+  "anio": 2020,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "First, the Weather Changed",
+    "Prepare to Brace",
+    "Access Is Power",
+    "Without Their Maker",
+    "Justice Never Boarded",
+    "Trouble Comes Sideways",
+    "The Universe Is Indifferent",
+    "These Are His Revolutions",
+    "The Train Demanded Blood",
+    "994 Cars Long"
+   ],
+   "2": [
+    "The Time of Two Engines",
+    "Smolder to Life",
+    "A Great Odyssey",
+    "A Single Trade",
+    "Keep Hope Alive",
+    "Many Miles from Snowpiercer",
+    "Our Answer for Everything",
+    "The Eternal Engineer",
+    "The Show Must Go On",
+    "Into the White"
+   ],
+   "3": [
+    "The Tortoise and the Hare",
+    "The Last to Go",
+    "The First Blow",
+    "Bound by One Track",
+    "A New Life",
+    "Born to Bleed",
+    "Ouroboros",
+    "Setting Itself Right",
+    "A Beacon for Us All",
+    "The Original Sinners"
+   ],
+   "4": [
+    "Snakes in the Garden",
+    "The Sting of Survival",
+    "Life Source",
+    "North Star",
+    "The Engineer",
+    "Bell the Cat",
+    "A Moth to a Flame",
+    "By Weeping Cross",
+    "Dominant Traits",
+    "Last Stop"
+   ]
+  },
+  "id_tvmaze": 23030,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 10,
+   "3": 10,
+   "4": 10
+  }
+ },
+ "Warrior Nun (2020)": {
+  "match": "Warrior Nun",
+  "titulo_plat": "Warrior Nun",
+  "anio": 2020,
+  "fin": 2022,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Psalm 46:5",
+    "Proverbs 31:25",
+    "Ephesians 6:11",
+    "Ecclesiasticus 26:9-10",
+    "Matthew 7:13",
+    "Isaiah 30:20-21",
+    "Ephesians 4:22-24",
+    "Proverbs 14:1",
+    "2 Corinthians 10:4",
+    "Revelation 2:10"
+   ],
+   "2": [
+    "Galatians 6:4-5",
+    "Colossians 3:9-10",
+    "Luke 8:17",
+    "Corinthians 10:20-21",
+    "Mark 10:45",
+    "Isaiah 40:31",
+    "Psalms 116:15",
+    "Jeremiah 29:13"
+   ]
+  },
+  "id_tvmaze": 38913,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 8
+  }
+ },
+ "Sweet Home (2020)": {
+  "match": "Sweet Home",
+  "titulo_plat": "Dulce hogar",
+  "anio": 2020,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Episode 1",
+    "Episode 2",
+    "Episode 3",
+    "Episode 4",
+    "Episode 5",
+    "Episode 6",
+    "Episode 7",
+    "Episode 8",
+    "Episode 9",
+    "Episode 10"
+   ],
+   "2": [
+    "Episode 1",
+    "Episode 2",
+    "Episode 3",
+    "Episode 4",
+    "Episode 5",
+    "Episode 6",
+    "Episode 7",
+    "Episode 8"
+   ],
+   "3": [
+    "Episode 1",
+    "Episode 2",
+    "Episode 3",
+    "Episode 4",
+    "Episode 5",
+    "Episode 6",
+    "Episode 7",
+    "Episode 8"
+   ]
+  },
+  "id_tvmaze": 46570,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 8,
+   "3": 8
+  }
+ },
+ "The Stand (2020)": {
+  "match": "The Stand",
+  "titulo_plat": "The Stand",
+  "anio": 2020,
+  "fin": 2021,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "The End",
+    "Pocket Savior",
+    "Blank Page",
+    "The House of the Dead",
+    "Fear and Loathing in New Vegas",
+    "The Vigil",
+    "The Walk",
+    "The Stand",
+    "The Circle Closes"
+   ]
+  },
+  "id_tvmaze": 35790,
+  "temporadas_tvmaze": {
+   "1": 9
+  }
+ },
+ "Alice in Borderland (2020)": {
+  "match": "Alice in Borderland",
+  "titulo_plat": "Alicia en el país de las fronteras",
+  "anio": 2020,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Episode 1",
+    "Episode 2",
+    "Episode 3",
+    "Episode 4",
+    "Episode 5",
+    "Episode 6",
+    "Episode 7",
+    "Episode 8"
+   ],
+   "2": [
+    "Episode 1",
+    "Episode 2",
+    "Episode 3",
+    "Episode 4",
+    "Episode 5",
+    "Episode 6",
+    "Episode 7",
+    "Episode 8"
+   ],
+   "3": [
+    "Episode 1",
+    "Episode 2",
+    "Episode 3",
+    "Episode 4",
+    "Episode 5",
+    "Episode 6"
+   ]
+  },
+  "id_tvmaze": 50036,
+  "temporadas_tvmaze": {
+   "1": 8,
+   "2": 8,
+   "3": 6
+  }
+ },
+ "Day of the Dead (2021) — SYFY": {
+  "match": "Day of the Dead",
+  "titulo_plat": "Day of the Dead",
+  "anio": 2021,
+  "fin": 2021,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "The Thing in the Hole",
+    "Chum",
+    "The Grey Mile",
+    "Forest of the Damned",
+    "'Til the Dead Do Us Part",
+    "The Lady Birders of Nepa",
+    "Their Evil Was Our Evil",
+    "To Anyone Who Can Hear My Voice",
+    "Death Comes to Paymart",
+    "Choke on 'Em!"
+   ]
+  },
+  "id_tvmaze": 46469,
+  "temporadas_tvmaze": {
+   "1": 10
+  }
+ },
+ "SurrealEstate (2021) — SYFY": {
+  "match": "SurrealEstate",
+  "titulo_plat": "SurrealEstate",
+  "anio": 2021,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "The Harvey",
+    "For Sale by Owner",
+    "A House Is Not a Home",
+    "Ft. Ghost Child",
+    "Roman's Six",
+    "Quarantine",
+    "Baba O'Reilly",
+    "White Wedding",
+    "The House Always Wins"
+   ],
+   "2": [
+    "Trust the Process",
+    "Truth in Advertising",
+    "The Butler Didn't",
+    "I Put a Spell on You",
+    "Art & Science",
+    "Set Your Flag on Fire",
+    "God & Monsters",
+    "Let Sleeping Dogs Lie",
+    "Dearly Departed",
+    "Letting Go"
+   ],
+   "3": [
+    "Buckaroo",
+    "Night Terrors",
+    "Death Does a Refi",
+    "A Family Thing",
+    "The Gardener",
+    "Battleground",
+    "A Slice of Afterlife",
+    "Perchance to Dream",
+    "Grave Matters",
+    "The Elephant in the Room"
+   ]
+  },
+  "id_tvmaze": 46470,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 10,
+   "3": 10
+  }
+ },
+ "Pa' Quererte": {
+  "match": null,
+  "titulo_plat": "Pa Quererte"
+ },
+ "Invasion (2024) - Película": {
+  "match": null,
+  "titulo_plat": "Invasión",
+  "peli": true
+ },
+ "La Brea (2021)": {
+  "match": "La Brea",
+  "titulo_plat": "La Brea",
+  "anio": 2021,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Day Two",
+    "The Hunt",
+    "The New Arrival",
+    "The Fort",
+    "The Way Home",
+    "The Storm",
+    "Origins",
+    "Father and Son",
+    "Topanga"
+   ],
+   "2": [
+    "The Next Day",
+    "The Cave",
+    "The Great Escape",
+    "The Fog",
+    "The Heist",
+    "Lazarus",
+    "1988",
+    "Stampede",
+    "Murder in the Clearing",
+    "The Return",
+    "The Wedding",
+    "The Swarm",
+    "The Journey (1)",
+    "The Journey (2)"
+   ],
+   "3": [
+    "Sierra",
+    "Don't Look Up",
+    "Maya",
+    "Fire Storm",
+    "The Road Home, Part 1",
+    "The Road Home, Part 2"
+   ]
+  },
+  "id_tvmaze": 45856,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 14,
+   "3": 6
+  }
+ },
+ "Georgie y Mandy - Su primer matrimonio": {
+  "match": "Georgie & Mandy's First Marriage",
+  "titulo_plat": "Georgie & Mandy's First Marriage",
+  "anio": 2024,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "The 6:10 to Lubbock",
+    "Some New York Nonsense",
+    "Secrets, Lies and a Chunk of Change",
+    "Todd's Mom",
+    "Thanksgiving",
+    "A Regular Samaritan",
+    "An Old Mustang",
+    "Diet Crap",
+    "A Tire Convention and the Moral High Ground",
+    "A House Divided",
+    "Working for the Enemy",
+    "Typhoid Georgie",
+    "McAllister Auto Loves the Ladies",
+    "A Sportsbook and a Breakup",
+    "Goddess of the Music Store",
+    "Baby Fight",
+    "Two Idiots on a Dirt Bike",
+    "TV Money",
+    "Snitch v. Deadbeat",
+    "Ladies Love Brunch",
+    "Guilt Boots",
+    "Big Decisions"
+   ],
+   "2": [
+    "A Tie Breaker and a Huge Mistake",
+    "Fan Mail and Old-Timey Organ Music",
+    "A Will and a Dead Man's Wife",
+    "Dirty Hands and a Barbed-Wire Fence",
+    "A Pregnancy Test and an Old Man's Gallbladder",
+    "Heartbreak and the Refuge of the Downtrodden",
+    "A Bus Bench And Faith Out The Wazoo",
+    "Bitin', Spankin' and a Load of Yankee Psychobabble",
+    "Payback and a Partial Shebang",
+    "Miami Beach and a Magical Family Christmas",
+    "A New Hobby, a Pervert and a Part-Time Job",
+    "The G Word and a Blaspheming Bimbo",
+    "A Big Birthday and Tequila Shots",
+    "Three Angry Women and a Prophylactic",
+    "A Stuffed Monkey and an Ex-Girlfriend",
+    "Alpha Males and the Power of Prayer",
+    "A Country Club, a Yokel and a New Boss",
+    "A New Scoreboard and a Horse's You Know What",
+    "A Little Schmoozin' and a Nose for the News",
+    "Splurges and Secrets",
+    "Funky Chili and Friends Who Take Their Clothes Off",
+    "A New Beau and Someone Else's Mom's House"
+   ],
+   "3": [
+    "Feminine Wiles and Some Tire Thing in Lubbock",
+    "A Serious Journalist and Your Brain on Drugs",
+    "A Germ Factory and a Good Mother",
+    "The Devil's Interval and a British Stripper",
+    "A Snotty Attitude and a Party on a School Night"
+   ]
+  },
+  "id_tvmaze": 76566,
+  "temporadas_tvmaze": {
+   "1": 22,
+   "2": 22,
+   "3": 5
+  }
+ },
+ "The Wheel of Time (2021)": {
+  "match": "The Wheel of Time",
+  "titulo_plat": "La rueda del tiempo",
+  "anio": 2021,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Leavetaking",
+    "Shadow's Waiting",
+    "A Place of Safety",
+    "The Dragon Reborn",
+    "Blood Calls Blood",
+    "The Flame of Tar Valon",
+    "The Dark Along the Ways",
+    "The Eye of the World"
+   ],
+   "2": [
+    "A Taste of Solitude",
+    "Strangers and Friends",
+    "What Might Be",
+    "Daughter of the Night",
+    "Damane",
+    "Eyes Without Pity",
+    "Daes Dae'Mar",
+    "What Was Meant To Be"
+   ],
+   "3": [
+    "To Race The Shadow",
+    "A Question of Crimson",
+    "Seeds of Shadow",
+    "The Road to the Spear",
+    "Tel'aran'rhiod",
+    "The Shadow in the Night",
+    "Goldeneyes",
+    "He Who Comes With The Dawn"
+   ]
+  },
+  "id_tvmaze": 35083,
+  "temporadas_tvmaze": {
+   "1": 8,
+   "2": 8,
+   "3": 8
+  }
+ },
+ "Astrid & Lilly Save the World (2022) — SYFY": {
+  "match": "Astrid & Lilly Save the World",
+  "titulo_plat": "Astrid and Lilly Save the World",
+  "anio": 2022,
+  "fin": 2022,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Tontoom",
+    "Teeth",
+    "Amygdala",
+    "One Rib",
+    "A-borg",
+    "Toenail",
+    "Lips",
+    "Hair",
+    "Doppelkopfel",
+    "Guts"
+   ]
+  },
+  "id_tvmaze": 57368,
+  "temporadas_tvmaze": {
+   "1": 10
+  }
+ },
+ "Reginald the Vampire (2022) — SYFY": {
+  "match": "Reginald the Vampire",
+  "titulo_plat": "Reginald the Vampire",
+  "anio": 2022,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Dead Weight",
+    "The Hunger",
+    "Hypnos",
+    "All the Time in the World",
+    "Fools in Love",
+    "Halfway to a Threeway",
+    "The Last Day of Our Acquaintance",
+    "The Odyssey",
+    "No One Dies for Failing the SATs",
+    "Reginald Andres Beyond Thunderdome"
+   ],
+   "2": [
+    "The Pompatus of Love",
+    "30 Days",
+    "The Truth About the Truth",
+    "Watch the Sunrise",
+    "Undead Bedfellows",
+    "Blood, Sweat, and Glitter",
+    "Terminal Eternity",
+    "We Can Be Heroes (Just for One Day)",
+    "The Final Countdown",
+    "Just Like Heaven"
+   ]
+  },
+  "id_tvmaze": 59925,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 10
+  }
+ },
+ "The Peripheral (2022)": {
+  "match": "The Peripheral",
+  "titulo_plat": "La Periferia",
+  "anio": 2022,
+  "fin": 2022,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Pilot",
+    "Empathy Bonus",
+    "Haptic Drift",
+    "Jackpot",
+    "What About Bob?",
+    "Fuck You and Eat Shit",
+    "The Doodad",
+    "The Creation of a Thousand Forests"
+   ]
+  },
+  "id_tvmaze": 37781,
+  "temporadas_tvmaze": {
+   "1": 8
+  }
+ },
+ "La primera vez": {
+  "match": "La primera vez",
+  "titulo_plat": "La primera vez",
+  "anio": 2023,
+  "fin": 2026,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Lisístrata",
+    "La dama de las camelias",
+    "Retrato del artista adolescente",
+    "Una habitación propia",
+    "La letra escarlata",
+    "Siddhartha",
+    "Tess d'Urbervilles",
+    "Las penas de amor del joven Werther",
+    "Así habló Zaratustra",
+    "Las enseñanzas de don Juan",
+    "De profundis",
+    "Jungla de asfalto",
+    "El guardián entre el centeno"
+   ],
+   "2": [
+    "Cartas a un joven poeta",
+    "El segundo sexo",
+    "Cartas a un niño que nunca nació",
+    "Los viajes de Gulliver",
+    "Cuando Dios era mujer",
+    "La revolución sexual",
+    "Doña flor y sus dos maridos",
+    "¡Que viva la música!",
+    "El orígen de la familia, la propiedad privada y el estado",
+    "Crímen y castigo"
+   ],
+   "3": [
+    "Jane Eyre",
+    "Un tranvía llamado Deseo",
+    "Sobre la fotografía",
+    "La increíble y triste historia de la cándida Eréndira y su abuela desalmada",
+    "El señor de las moscas",
+    "El Kamasutra",
+    "Lolita",
+    "Siempre",
+    "El diario de Ana Frank",
+    "La peste"
+   ],
+   "4": [
+    "La primera mujer",
+    "Ideario feminista",
+    "Vainas y otros poemas",
+    "La señorita Julia",
+    "México y el viaje al país de los Tarahumaras",
+    "El teatro y su doble",
+    "Crítica de la economía política del signo",
+    "Delta de Venus",
+    "Seis personajes en busca de un autor",
+    "La Biblia",
+    "Sobre la educación",
+    "El atravesado"
+   ]
+  },
+  "id_tvmaze": 66923,
+  "temporadas_tvmaze": {
+   "1": 13,
+   "2": 10,
+   "3": 10,
+   "4": 12
+  }
+ },
+ "The Sandman (2022)": {
+  "match": "The Sandman",
+  "titulo_plat": "Sandman",
+  "anio": 2022,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Chapter 1: Sleep of the Just",
+    "Chapter 2: Imperfect Hosts",
+    "Chapter 3: Dream a Little Dream of Me",
+    "Chapter 4: A Hope in Hell",
+    "Chapter 5: 24/7",
+    "Chapter 6: The Sound of Her Wings",
+    "Chapter 7: The Doll's House",
+    "Chapter 8: Playing House",
+    "Chapter 9: Collectors",
+    "Chapter 10: Lost Hearts"
+   ],
+   "2": [
+    "Chapter 11: Season of Mists",
+    "Chapter 12: The Ruler of Hell",
+    "Chapter 13: More Devils Than Vast Hell Can Hold",
+    "Chapter 14: Brief Lives",
+    "Chapter 15: The Song of Orpheus",
+    "Chapter 16: Family Blood",
+    "Chapter 17: Time and Night",
+    "Chapter 18: Fuel for the Fire",
+    "Chapter 19: The Kindly Ones",
+    "Chapter 20: Long Live the King",
+    "Chapter 21: A Tale of Graceful Ends"
+   ]
+  },
+  "id_tvmaze": 42827,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 11
+  }
+ },
+ "The Devil's Hour (2022)": {
+  "match": "The Devil's Hour",
+  "titulo_plat": "Hora del Diablo",
+  "anio": 2022,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "3.33",
+    "The Velveteen Rabbit",
+    "Tchaikovsky",
+    "After the Storm",
+    "The Half of Ourselves We Have Lost",
+    "Amor Fati"
+   ],
+   "2": [
+    "DI Chambers",
+    "Red Lines",
+    "Something Beginning With D",
+    "Far Away",
+    "Birth of a Tragedy"
+   ]
+  },
+  "id_tvmaze": 53882,
+  "temporadas_tvmaze": {
+   "1": 6,
+   "2": 5
+  }
+ },
+ "The Ark (2023) — SYFY": {
+  "match": "The Ark",
+  "titulo_plat": "El Arca",
+  "anio": 2023,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "Everyone Wanted to Be on This Ship",
+    "Like It Touched the Sun",
+    "Get Out and Push",
+    "We Weren't Supposed to Be Awake",
+    "One Step Forward, Two Steps Back",
+    "Two by Two",
+    "A Slow Death Is Worse",
+    "Every Single Person Matters",
+    "The Painful Way",
+    "Hoping for Forever",
+    "The Last Thing You Ever Do",
+    "Everybody Wins"
+   ],
+   "2": [
+    "Failed Experiment",
+    "Kill or Be Killed",
+    "Anomaly",
+    "The Other You",
+    "Museum of Death",
+    "Pretty Big Deal",
+    "It Can't Be True",
+    "We Don't Kill Our Own",
+    "Cycle of Violence",
+    "It Should Have Been You",
+    "It Will Be Over Soon",
+    "Fortunate"
+   ],
+   "3": [
+    "I Told You Not to Come",
+    "It Won't Hurt Too Much",
+    "The One",
+    "Hiding in Plain Sight",
+    "It All Happened So Fast",
+    "Deja Vu",
+    "I Have Nightmares",
+    "By Any Means Necessary",
+    "Critical Failure",
+    "The Lucky Ones",
+    "A Pretty Nasty One",
+    "We Can't Save Everyone"
+   ]
+  },
+  "id_tvmaze": 60153,
+  "temporadas_tvmaze": {
+   "1": 12,
+   "2": 12,
+   "3": 12
+  }
+ },
+ "Twisted Metal (2023)": {
+  "match": "Twisted Metal",
+  "titulo_plat": "Twisted Metal",
+  "anio": 2023,
+  "fin": null,
+  "status": "Running",
+  "episodios": {
+   "1": [
+    "WLUDRV",
+    "3RNCRCS",
+    "NTHLAW1",
+    "WHZDARE",
+    "CRZSRDS",
+    "DRVTHRU",
+    "NUTH0UZ",
+    "EV3L1N",
+    "R04DK11",
+    "SHNGRLA"
+   ],
+   "2": [
+    "PRSRPNT",
+    "DOLF4C3",
+    "T3STDRV",
+    "LZGTBZY",
+    "ONURMRK",
+    "MKAW1SH",
+    "H1TNRVN",
+    "SDDNDTH",
+    "VAVAVUM",
+    "M4YH3M",
+    "OHLYNTE",
+    "NUY3ARZ"
+   ]
+  },
+  "id_tvmaze": 60743,
+  "temporadas_tvmaze": {
+   "1": 10,
+   "2": 12
+  }
+ },
+ "Moving (2023)": {
+  "match": "Moving",
+  "titulo_plat": "Moving",
+  "anio": 2023,
+  "fin": null,
+  "status": "To Be Determined",
+  "episodios": {
+   "1": [
+    "Senior Year",
+    "Booyang: Family Support, Levitation",
+    "1+1",
+    "The Secret",
+    "Recall",
+    "Bungaeman",
+    "The Stranger",
+    "Black",
+    "Humanists",
+    "The Monster",
+    "Romanticist",
+    "Partners",
+    "Jang Juwon",
+    "The Idiot",
+    "N.T.D.P.",
+    "The Man Between",
+    "Awakening",
+    "South and North",
+    "Final Battle",
+    "Graduation Day"
+   ]
+  },
+  "id_tvmaze": 64111,
+  "temporadas_tvmaze": {
+   "1": 20
+  }
+ },
+ "Parasyte: The Grey (2024)": {
+  "match": "Parasyte: The Grey",
+  "titulo_plat": "Parasyte: Los grises",
+  "anio": 2024,
+  "fin": 2024,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Episode 1",
+    "Episode 2",
+    "Episode 3",
+    "Episode 4",
+    "Episode 5",
+    "Episode 6"
+   ]
+  },
+  "id_tvmaze": 63701,
+  "temporadas_tvmaze": {
+   "1": 6
+  }
+ },
+ "Doctor Who": {
+  "match": "Doctor Who",
+  "titulo_plat": "Doctor Who",
+  "anio": 2005,
+  "fin": 2022,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Rose",
+    "The End of the World",
+    "The Unquiet Dead",
+    "Aliens of London",
+    "World War Three",
+    "Dalek",
+    "The Long Game",
+    "Father's Day",
+    "The Empty Child",
+    "The Doctor Dances",
+    "Boom Town",
+    "Bad Wolf",
+    "The Parting of the Ways"
+   ],
+   "2": [
+    "New Earth",
+    "Tooth and Claw",
+    "School Reunion",
+    "The Girl in the Fireplace",
+    "Rise of the Cybermen",
+    "The Age of Steel",
+    "The Idiot's Lantern",
+    "The Impossible Planet",
+    "The Satan Pit",
+    "Love & Monsters",
+    "Fear Her",
+    "Army of Ghosts",
+    "Doomsday"
+   ],
+   "3": [
+    "Smith and Jones",
+    "The Shakespeare Code",
+    "Gridlock",
+    "Daleks in Manhattan",
+    "Evolution of the Daleks",
+    "The Lazarus Experiment",
+    "42",
+    "Human Nature",
+    "The Family of Blood",
+    "Blink",
+    "Utopia",
+    "The Sound of Drums",
+    "Last of the Time Lords"
+   ],
+   "4": [
+    "Partners in Crime",
+    "The Fires of Pompeii",
+    "Planet of the Ood",
+    "The Sontaran Stratagem",
+    "The Poison Sky",
+    "The Doctor's Daughter",
+    "The Unicorn and the Wasp",
+    "Silence in the Library",
+    "Forest of the Dead",
+    "Midnight",
+    "Turn Left",
+    "The Stolen Earth",
+    "Journey's End"
+   ],
+   "5": [
+    "The Eleventh Hour",
+    "The Beast Below",
+    "Victory of the Daleks",
+    "The Time of Angels",
+    "Flesh and Stone",
+    "The Vampires of Venice",
+    "Amy's Choice",
+    "The Hungry Earth",
+    "Cold Blood",
+    "Vincent and the Doctor",
+    "The Lodger",
+    "The Pandorica Opens",
+    "The Big Bang"
+   ],
+   "6": [
+    "The Impossible Astronaut",
+    "Day of the Moon",
+    "The Curse of the Black Spot",
+    "The Doctor's Wife",
+    "The Rebel Flesh",
+    "The Almost People",
+    "A Good Man Goes to War",
+    "Let's Kill Hitler",
+    "Night Terrors",
+    "The Girl Who Waited",
+    "The God Complex",
+    "Closing Time",
+    "The Wedding of River Song"
+   ],
+   "7": [
+    "Asylum of the Daleks",
+    "Dinosaurs on a Spaceship",
+    "A Town Called Mercy",
+    "The Power of Three",
+    "The Angels Take Manhattan",
+    "The Bells of Saint John",
+    "The Rings of Akhaten",
+    "Cold War",
+    "Hide",
+    "Journey to the Centre of the TARDIS",
+    "The Crimson Horror",
+    "Nightmare in Silver",
+    "The Name of the Doctor"
+   ],
+   "8": [
+    "Deep Breath",
+    "Into the Dalek",
+    "Robot of Sherwood",
+    "Listen",
+    "Time Heist",
+    "The Caretaker",
+    "Kill the Moon",
+    "Mummy on the Orient Express",
+    "Flatline",
+    "In the Forest of the Night",
+    "Dark Water",
+    "Death in Heaven"
+   ],
+   "9": [
+    "The Magician's Apprentice",
+    "The Witch's Familiar",
+    "Under the Lake",
+    "Before the Flood",
+    "The Girl Who Died",
+    "The Woman Who Lived",
+    "The Zygon Invasion",
+    "The Zygon Inversion",
+    "Sleep No More",
+    "Face The Raven",
+    "Heaven Sent",
+    "Hell Bent"
+   ],
+   "10": [
+    "The Pilot",
+    "Smile",
+    "Thin Ice",
+    "Knock Knock",
+    "Oxygen",
+    "Extremis",
+    "The Pyramid at the End of the World",
+    "The Lie of the Land",
+    "Empress of Mars",
+    "The Eaters of Light",
+    "World Enough and Time",
+    "The Doctor Falls"
+   ],
+   "11": [
+    "The Woman Who Fell to Earth",
+    "The Ghost Monument",
+    "Rosa",
+    "Arachnids in the UK",
+    "The Tsuranga Conundrum",
+    "Demons of the Punjab",
+    "Kerblam!",
+    "The Witchfinders",
+    "It Takes You Away",
+    "The Battle of Ranskoor Av Kolos"
+   ],
+   "12": [
+    "Spyfall, Part 1",
+    "Spyfall, Part 2",
+    "Orphan 55",
+    "Nikola Tesla's Night of Terror",
+    "Fugitive of the Judoon",
+    "Praxeus",
+    "Can You Hear Me?",
+    "The Haunting of Villa Diodati",
+    "Ascension of the Cybermen",
+    "The Timeless Children"
+   ],
+   "13": [
+    "Chapter One: The Halloween Apocalypse",
+    "Chapter Two: War of the Sontarans",
+    "Chapter Three: Once, Upon Time",
+    "Chapter Four: Village of the Angels",
+    "Chapter Five: Survivors of the Flux",
+    "Chapter Six: The Vanquishers"
+   ]
+  },
+  "id_tvmaze": 210,
+  "temporadas_tvmaze": {
+   "1": 13,
+   "2": 13,
+   "3": 13,
+   "4": 13,
+   "5": 13,
+   "6": 13,
+   "7": 13,
+   "8": 12,
+   "9": 12,
+   "10": 12,
+   "11": 10,
+   "12": 10,
+   "13": 6
+  }
+ },
+ "Revival (2025) — SYFY": {
+  "match": "Revival",
+  "titulo_plat": "Revival",
+  "anio": 2025,
+  "fin": 2025,
+  "status": "Ended",
+  "episodios": {
+   "1": [
+    "Don't Tell Dad",
+    "Keeping Up Appearances",
+    "Reality Check",
+    "Run Along Little Lamb",
+    "Triage",
+    "Bloodlines",
+    "Too Many Secrets",
+    "A Rose and a Thorn",
+    "Mother of Babylon",
+    "Rend the Veil"
+   ]
+  },
+  "id_tvmaze": 76854,
+  "temporadas_tvmaze": {
+   "1": 10
+  }
+ },
+ "__doctor_who_2023__": {
+  "match": "Doctor Who (2023)",
+  "status": "To Be Determined",
+  "episodios_lineales": [
+   "Space Babies",
+   "The Devil's Chord",
+   "Boom",
+   "73 Yards",
+   "Dot and Bubble",
+   "Rogue",
+   "The Legend of Ruby Sunday",
+   "Empire of Death",
+   "The Robot Revolution",
+   "Lux",
+   "The Well",
+   "Lucky Day",
+   "The Story & the Engine",
+   "The Interstellar Song Contest",
+   "Wish World",
+   "The Reality War"
+  ],
+  "id_tvmaze": 72724
+ }
+}
