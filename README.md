@@ -16,6 +16,22 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v29/ — Prefiero la Muerte: servidor 123 Película + póster latino + subtítulos ES propios (v 28 → 29)
+
+Mudanza completa del show pedido por el dueño: la serie pasa de **cuevanae**
+al frente **pelicula** (123 Película, `UINycRxjfab5o7S547Enc-…`, la URL
+exacta entregada — walk 8/8 eps, m3u8 verificado), `p` pasa al **póster
+latino** del CDN de la fuente (verificado visualmente: título en español,
+mismo key art) y **los subtítulos en español que el dueño tradujo entran
+al ecosistema sin tocar las apps**: los 8 SRT viven en
+[`subs/prefiero-la-muerte/`](subs/prefiero-la-muerte/) servidos por
+raw.githubusercontent, y una **hermana sintética** `sub` del catálogo hace
+que el relay (Render v1.10 + worker CF v2) sirva el detalle con la pista ES
+— la app la toma sola por el mecanismo de subtítulos compartidos (3.30.1)
+y **la enciende automáticamente**. **973 shows, 972 byte-identical, 1 show
+con 2 campos cambiados.** [`reto-v29/`](reto-v29/) tiene la técnica
+completa (por qué el wp sintético, rollout, QA).
+
 ## reto-v28/ — Parche del póster de Day of the Dead (973, v 27 → 28)
 
 **El único póster vacío del catálogo, resuelto.** *Day of the Dead* (serie

@@ -1,0 +1,141 @@
+{
+ "show": "prefiero-la-muerte",
+ "v": {
+  "antes": 28,
+  "despues": 29
+ },
+ "campos_cambiados": [
+  "p",
+  "e[0].w"
+ ],
+ "antes": {
+  "i": "prefiero-la-muerte",
+  "t": "Prefiero la muerte",
+  "k": "serie",
+  "tt": "tt31841438",
+  "p": "https://images.metahub.space/poster/medium/tt31841438/img",
+  "b": "https://images.metahub.space/background/medium/tt31841438/img",
+  "h": "https://image.tmdb.org/t/p/w1280/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+  "s": "Archie, el perdedor oficial de su escuela, es mordido por un zombi, desencadenando una divertida y caótica misión para salvar la ciudad de Mendoza del apocalipsis.",
+  "a": 2026,
+  "r": 7.9,
+  "g": [
+   "Comedia",
+   "Aventura",
+   "Horror"
+  ],
+  "em": 1,
+  "e": [
+   {
+    "n": 1,
+    "q": 8,
+    "x": [
+     "Bolillo",
+     "Rojo 40",
+     "No se tiene plagio",
+     "Gotas de Fuego",
+     "No digas \"Zombie\"",
+     "¿Es Monstruo o Mounstro?",
+     "Las Minas de Moria",
+     "Krakatoa"
+    ],
+    "w": [
+     {
+      "w": "cvne1-serie-prefiero-la-muerte-2026",
+      "v": "latino",
+      "y": "cuevanae"
+     }
+    ]
+   }
+  ]
+ },
+ "despues": {
+  "i": "prefiero-la-muerte",
+  "t": "Prefiero la muerte",
+  "k": "serie",
+  "tt": "tt31841438",
+  "p": "https://img.123pelicula.com/cover/20261008/1791439718195_d7e1008387db0e17e8b08cecab1d985d693nWyAysWVy6Wt8X2B4e8BrydZ.webp",
+  "b": "https://images.metahub.space/background/medium/tt31841438/img",
+  "h": "https://image.tmdb.org/t/p/w1280/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+  "s": "Archie, el perdedor oficial de su escuela, es mordido por un zombi, desencadenando una divertida y caótica misión para salvar la ciudad de Mendoza del apocalipsis.",
+  "a": 2026,
+  "r": 7.9,
+  "g": [
+   "Comedia",
+   "Aventura",
+   "Horror"
+  ],
+  "em": 1,
+  "e": [
+   {
+    "n": 1,
+    "q": 8,
+    "x": [
+     "Bolillo",
+     "Rojo 40",
+     "No se tiene plagio",
+     "Gotas de Fuego",
+     "No digas \"Zombie\"",
+     "¿Es Monstruo o Mounstro?",
+     "Las Minas de Moria",
+     "Krakatoa"
+    ],
+    "w": [
+     {
+      "w": "UINycRxjfab5o7S547Enc-I-Would-Rather-Die",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "PLMSUBES0001-Prefiero-La-Muerte",
+      "v": "sub",
+      "y": "pelicula"
+     }
+    ]
+   }
+  ]
+ },
+ "nota_subs": "PLMSUBES0001-Prefiero-La-Muerte es un wp SINTETICO (no existe en el sitio): el relay (Render v1.10 + worker CF v2) sirve un clon del detalle real con subtitlingList ES por episodio apuntando a subs/prefiero-la-muerte/S01Enn.es.srt de este repo. La app lo resuelve sola via conSubsDeHermanaSub (3.30.1): prestamo -> subsCompartidas -> autoSubEs.",
+ "srt": {
+  "S01E01": {
+   "cues": 372,
+   "bytes": 25404,
+   "url": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/S01E01.es.srt"
+  },
+  "S01E02": {
+   "cues": 467,
+   "bytes": 32982,
+   "url": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/S01E02.es.srt"
+  },
+  "S01E03": {
+   "cues": 492,
+   "bytes": 35271,
+   "url": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/S01E03.es.srt"
+  },
+  "S01E04": {
+   "cues": 389,
+   "bytes": 27052,
+   "url": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/S01E04.es.srt"
+  },
+  "S01E05": {
+   "cues": 374,
+   "bytes": 26451,
+   "url": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/S01E05.es.srt"
+  },
+  "S01E06": {
+   "cues": 441,
+   "bytes": 31715,
+   "url": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/S01E06.es.srt"
+  },
+  "S01E07": {
+   "cues": 461,
+   "bytes": 32788,
+   "url": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/S01E07.es.srt"
+  },
+  "S01E08": {
+   "cues": 346,
+   "bytes": 24624,
+   "url": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/S01E08.es.srt"
+  }
+ }
+}
