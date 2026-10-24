@@ -16,6 +16,18 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v28/ — Parche del póster de Day of the Dead (973, v 27 → 28)
+
+**El único póster vacío del catálogo, resuelto.** *Day of the Dead* (serie
+2021 Syfy) usaba una carátula que la fuente subió **en blanco** el
+2025-07-08 (PNG varianza 0 — placeholder vacío replicado en toda la red).
+`p` pasa al **póster oficial vía metahub** (`tt12052892`, verificado por
+TVMaze y visualmente: mismo key art — manos de zombi + cielo naranja — que
+el backdrop que ya estaba, así quedan a juego). `b`/`h` y TODO lo demás
+intacto: **972 shows byte-identical**, 1 diff de 1 campo. `v` 27 → 28 para
+que la actualización se propague sola (la app re-fusiona cada 6 h solo si
+`v` sube). [`reto-v28/`](reto-v28/) tiene el diagnóstico y la verificación.
+
 ## reto-v27/ — 5 series + 5 pelis de la red: 963 → 973
 
 Octavo ingreso incremental, 11 URLs del dueño (todas frentes de la red de

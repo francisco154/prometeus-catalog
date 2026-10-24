@@ -1,0 +1,28 @@
+{
+  "fecha": "2026-10-24",
+  "tipo": "parche-metadata (1 show)",
+  "v": {
+    "de": 27,
+    "a": 28
+  },
+  "cambio": {
+    "id": "day-of-the-dead",
+    "campo": "p",
+    "viejo": "https://img.peliculaplay.com/cover/20250708/1751962892234_628da0f3c6a60059d2e457c93e444ad0iBeWa2Ds2uCjTOlMikiBqETsS2X.webp",
+    "nuevo": "https://images.metahub.space/poster/medium/tt12052892/img",
+    "motivo": "la imagen vieja era un placeholder 100% vacío (varianza de píxeles 0); el nuevo es el póster oficial 2021 (metahub, tt verificado por TVMaze 46469)"
+  },
+  "intactos": [
+    "b",
+    "h",
+    "s",
+    "g",
+    "r",
+    "a",
+    "f",
+    "e",
+    "w",
+    "rails",
+    "otros 972 shows"
+  ]
+}
