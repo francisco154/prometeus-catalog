@@ -16,6 +16,26 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v31/ — 66 series nuevas: 973 → 1039
+
+Noveno ingreso incremental (TXT de Filemail del dueño, 78 fichas): +66
+series · 125 temporadas · 288 fuentes con sus **doblajes por temporada**
+(sub español / audio latino / doblaje / base — los hubs de cada página),
+pósters + **hero landscape**, **sinopsis ES (16 re-escritas a mano donde la
+traducción del sitio venía rota)** y nombres de capítulos. **Novedad v31:**
+todos los shows nuevos llevan `tt` (de TVMaze/Cinemeta, IMDb nunca
+consultado) + título buscable → la app matchea TVMaze 100 % y carga sola el
+**still de cada capítulo, la sinopsis de capítulo y el reparto con fotos**.
+Topes `m` automáticos cuando una variante hospeda menos caps que la
+temporada (Fire Country, Shining Vale, Bleach T3/T4…). Cross-links limpiados
+(Afterparty→Party Down fuera); **Big Mouth entró como el animado de Netflix
+que ES su URL** (no el coreano Big Mouse); Slow Horses quedó afuera (sin
+URL y el buscador de la red caído). 12 duplicados descartados, 973 previos
+byte-identical, `enEmision` 213→226. Severance por la API de cuevanae (S1+S2
+completas, audio dual ES/EN, caps con nombre en español). Spot-checks:
+arte 132/132, jugabilidad 26/26 + Severance 3/3. [`reto-v31/`](reto-v31/)
+trae el walk, el enriquecimiento y el QA completo.
+
 ## reto-v30/ — Apples Never Fall: versión Sub Español + tope de audio parcial (v 29 → 30)
 
 Reemplazo completo pedido por el dueño: la versión **latino** de *Apples

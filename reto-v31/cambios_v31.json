@@ -1,0 +1,2125 @@
+{
+ "nuevos": [
+  {
+   "i": "the-lord-of-the-rings-the-rings-of-power",
+   "t": "The Lord of the Rings: The Rings of Power",
+   "al": "El Señor de los Anillos: los Anillos de Poder",
+   "em": 1,
+   "a": 2022,
+   "tt": "tt7631058",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-bear",
+   "t": "The Bear",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt14452776",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     4,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     5,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "moon-knight",
+   "t": "Moon Knight",
+   "al": "Caballero Luna",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt10234724",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     2,
+     6,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "heartstopper",
+   "t": "Heartstopper",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt10638036",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "cyberpunk-edgerunners",
+   "t": "Cyberpunk: Edgerunners",
+   "al": null,
+   "em": 1,
+   "a": 2022,
+   "tt": "tt12590266",
+   "status": "To Be Determined",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "all-of-us-are-dead",
+   "t": "All of Us Are Dead",
+   "al": "Estamos muertos",
+   "em": 1,
+   "a": 2022,
+   "tt": "tt14169960",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "chainsaw-man",
+   "t": "Chainsaw Man",
+   "al": null,
+   "em": 1,
+   "a": 2022,
+   "tt": "tt13616990",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "bleach-thousand-year-blood-war",
+   "t": "Bleach: Thousand-Year Blood War",
+   "al": null,
+   "em": 1,
+   "a": 2022,
+   "tt": "tt14986406",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     13,
+     3,
+     13,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     13,
+     3,
+     13,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     14,
+     3,
+     14,
+     [
+      null,
+      11,
+      null
+     ]
+    ],
+    [
+     4,
+     9,
+     3,
+     9,
+     [
+      8,
+      null,
+      8
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-offer",
+   "t": "The Offer",
+   "al": "La oferta",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13111040",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     2,
+     10,
+     [
+      9,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "tokyo-vice",
+   "t": "Tokyo Vice",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt2887954",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "1923",
+   "t": "1923",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt18335752",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     7,
+     3,
+     7,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "halo",
+   "t": "Halo",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt2934286",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     9,
+     3,
+     9,
+     [
+      null,
+      8,
+      8
+     ]
+    ],
+    [
+     2,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "winning-time-the-rise-of-the-lakers-dynasty",
+   "t": "Winning Time: The Rise of the Lakers Dynasty",
+   "al": "Tiempo de victoria: la dinastía de los Lakers",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt10244600",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     7,
+     3,
+     7,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "extraordinary-attorney-woo",
+   "t": "Extraordinary Attorney Woo",
+   "al": "Woo, una abogada extraordinaria",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt20869502",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     16,
+     3,
+     16,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-legend-of-vox-machina",
+   "t": "The Legend of Vox Machina",
+   "al": "La leyenda de Vox Machina",
+   "em": 1,
+   "a": 2022,
+   "tt": "tt11247158",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     4,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "tulsa-king",
+   "t": "Tulsa King",
+   "al": "Rey Tulsa",
+   "em": 1,
+   "a": 2022,
+   "tt": "tt16358384",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     9,
+     3,
+     9,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      9
+     ]
+    ],
+    [
+     4,
+     2,
+     3,
+     2,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-terminal-list",
+   "t": "The Terminal List",
+   "al": "La lista final",
+   "em": 1,
+   "a": 2022,
+   "tt": "tt11743610",
+   "status": "To Be Determined",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "star-wars-tales-of-the-jedi",
+   "t": "Star Wars: Tales of the Jedi",
+   "al": "Historias de los Jedi",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt20723374",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     3,
+     6,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "pantheon",
+   "t": "Pantheon",
+   "al": "Panteón",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt11680642",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     2,
+     8,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "this-is-going-to-hurt",
+   "t": "This Is Going to Hurt",
+   "al": "Esto te va a doler",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt8681148",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     7,
+     1,
+     7,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "big-boys",
+   "t": "Big Boys",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13683866",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     1,
+     6,
+     [
+      null
+     ]
+    ],
+    [
+     2,
+     6,
+     1,
+     6,
+     [
+      null
+     ]
+    ],
+    [
+     3,
+     6,
+     1,
+     6,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-cleaning-lady",
+   "t": "The Cleaning Lady",
+   "al": "La chica de la limpieza",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt11188682",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     4,
+     12,
+     3,
+     12,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-summer-i-turned-pretty",
+   "t": "The Summer I Turned Pretty",
+   "al": "El verano en que me enamoré",
+   "em": 1,
+   "a": 2022,
+   "tt": "tt14016500",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     7,
+     3,
+     7,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     11,
+     3,
+     11,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "star-trek-strange-new-worlds",
+   "t": "Star Trek: Strange New Worlds",
+   "al": null,
+   "em": 1,
+   "a": 2022,
+   "tt": "tt12327578",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     4,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "42-dias-en-la-oscuridad",
+   "t": "42 días en la oscuridad",
+   "al": "42 Days of Darkness",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt15090462",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     1,
+     6,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "alchemy-of-souls",
+   "t": "Alchemy of Souls",
+   "al": "Alquimia de almas",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt20859920",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     20,
+     3,
+     20,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "bad-prosecutor",
+   "t": "Bad Prosecutor",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt22353836",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     12,
+     1,
+     12,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "under-the-queens-umbrella",
+   "t": "Under the Queen's Umbrella",
+   "al": "Bajo el paraguas de la reina",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt22265394",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     16,
+     3,
+     16,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "bel-air",
+   "t": "Bel-Air",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt12878838",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "bienvenidos-a-eden",
+   "t": "Bienvenidos a Edén",
+   "al": "Welcome to Eden",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13457822",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "big-mouth",
+   "t": "Big Mouth",
+   "al": null,
+   "em": 0,
+   "a": 2017,
+   "tt": "tt6524350",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     11,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     4,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     5,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     6,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     7,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     8,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "blockbuster",
+   "t": "Blockbuster",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt16124614",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     1,
+     10,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "cheer-up",
+   "t": "Cheer Up",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt22789182",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     16,
+     2,
+     16,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "guillermo-del-toros-cabinet-of-curiosities",
+   "t": "Guillermo del Toro's Cabinet of Curiosities",
+   "al": "El gabinete de curiosidades de Guillermo del Toro",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt8415836",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-bastard-son-the-devil-himself",
+   "t": "The Bastard Son & The Devil Himself",
+   "al": "El hijo bastardo y el mismísimo diablo",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13649396",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-patient",
+   "t": "The Patient",
+   "al": "El paciente",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt15574312",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "el-primero-de-nosotros",
+   "t": "El primero de nosotros",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt14680796",
+   "status": null,
+   "temps": [
+    [
+     1,
+     59,
+     1,
+     0,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "el-rey-vicente-fernandez",
+   "t": "El rey, Vicente Fernández",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt16442864",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     36,
+     1,
+     36,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "el-secreto-de-la-familia-greco",
+   "t": "El secreto de la familia Greco",
+   "al": "The Secret of the Greco Family",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt22646840",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     9,
+     1,
+     9,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-sound-of-magic",
+   "t": "The Sound of Magic",
+   "al": "El sonido de la magia",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt14460684",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     3,
+     6,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "entrevias",
+   "t": "Entrevías",
+   "al": "Wrong Side of the Tracks",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13980362",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ],
+    [
+     3,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ],
+    [
+     4,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "feria-la-luz-mas-oscura",
+   "t": "Feria: la luz más oscura",
+   "al": "Feria: The Darkest Light",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13323004",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "fire-country",
+   "t": "Fire Country",
+   "al": null,
+   "em": 1,
+   "a": 2022,
+   "tt": "tt16098700",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     22,
+     2,
+     22,
+     [
+      14,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     20,
+     2,
+     20,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     4,
+     20,
+     1,
+     20,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "ghost-doctor",
+   "t": "Ghost Doctor",
+   "al": "Médico fantasma",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt16493854",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     16,
+     1,
+     16,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "how-i-met-your-father",
+   "t": "How I Met Your Father",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt14500082",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     2,
+     10,
+     [
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     20,
+     2,
+     20,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "inventing-anna",
+   "t": "Inventing Anna",
+   "al": "Inventando a Anna",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt8740976",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     9,
+     2,
+     9,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "island",
+   "t": "Island",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt14166656",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     1,
+     6,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "we-own-this-city",
+   "t": "We Own This City",
+   "al": "La ciudad es nuestra",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt14192504",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     1,
+     6,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-staircase",
+   "t": "The Staircase",
+   "al": "La escalera",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt11324406",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8,
+     [
+      null,
+      4
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-glory",
+   "t": "The Glory",
+   "al": "La gloria",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt21344706",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     16,
+     3,
+     16,
+     [
+      null,
+      8,
+      8
+     ]
+    ],
+    [
+     2,
+     8,
+     3,
+     0,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "las-de-la-ultima-fila",
+   "t": "Las de la última fila",
+   "al": "The Girls at the Back",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt15394254",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     1,
+     6,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-lincoln-lawyer",
+   "t": "The Lincoln Lawyer",
+   "al": "El abogado del Lincoln",
+   "em": 1,
+   "a": 2022,
+   "tt": "tt13833978",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     3,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     4,
+     10,
+     3,
+     10,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "man-vs-bee",
+   "t": "Man vs Bee",
+   "al": "El hombre contra la abeja",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13640670",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     9,
+     2,
+     9,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "my-liberation-notes",
+   "t": "My Liberation Notes",
+   "al": "Mi diario de liberación",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt15146130",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     16,
+     2,
+     16,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "narco-saints",
+   "t": "Narco-Saints",
+   "al": "Narcosantos",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt14518692",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     3,
+     6,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "obi-wan-kenobi",
+   "t": "Obi-Wan Kenobi",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt8466564",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     3,
+     6,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "pam-tommy",
+   "t": "Pam & Tommy",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13659418",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "paper-girls",
+   "t": "Paper Girls",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt10623646",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     2,
+     8,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "pistol",
+   "t": "Pistol",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13823494",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     6,
+     1,
+     6,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "santa-evita",
+   "t": "Santa Evita",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt11563256",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     7,
+     2,
+     7,
+     [
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "shining-vale",
+   "t": "Shining Vale",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt7908756",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     3,
+     8,
+     [
+      6,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     3,
+     8,
+     [
+      7,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-afterparty",
+   "t": "The Afterparty",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt12614214",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     1,
+     10,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-dropout",
+   "t": "The Dropout",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt10166622",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     8,
+     1,
+     8,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-first-lady",
+   "t": "The First Lady",
+   "al": "La primera dama",
+   "em": 0,
+   "a": 2022,
+   "tt": "tt13223570",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     10,
+     1,
+     10,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "the-old-man",
+   "t": "The Old Man",
+   "al": null,
+   "em": 0,
+   "a": 2022,
+   "tt": "tt5645432",
+   "status": "Ended",
+   "temps": [
+    [
+     1,
+     7,
+     3,
+     7,
+     [
+      null,
+      null,
+      null
+     ]
+    ],
+    [
+     2,
+     8,
+     3,
+     8,
+     [
+      null,
+      null,
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true
+  },
+  {
+   "i": "severance",
+   "t": "Severance",
+   "al": "Separación",
+   "em": 1,
+   "a": 2022,
+   "tt": "tt11280740",
+   "status": "Running",
+   "temps": [
+    [
+     1,
+     9,
+     1,
+     9,
+     [
+      null
+     ]
+    ],
+    [
+     2,
+     10,
+     1,
+     10,
+     [
+      null
+     ]
+    ]
+   ],
+   "sinopsis_es": true,
+   "sitio": "cuevanae"
+  }
+ ],
+ "em_nuevas": [
+  "the-lord-of-the-rings-the-rings-of-power",
+  "cyberpunk-edgerunners",
+  "all-of-us-are-dead",
+  "chainsaw-man",
+  "bleach-thousand-year-blood-war",
+  "the-legend-of-vox-machina",
+  "tulsa-king",
+  "the-terminal-list",
+  "the-summer-i-turned-pretty",
+  "star-trek-strange-new-worlds",
+  "fire-country",
+  "the-lincoln-lawyer",
+  "severance"
+ ],
+ "generos_added": {
+  "Acción": 19,
+  "Aventura": 8,
+  "Drama": 48,
+  "Fantasía": 15,
+  "Comedia": 16,
+  "Horror": 7,
+  "Ciencia ficción": 10,
+  "Romance": 9,
+  "LGBTQ": 2,
+  "Animación": 7,
+  "Crimen": 10,
+  "Thriller": 18,
+  "Biografía": 10,
+  "Occidentales": 1,
+  "Bélicas": 1,
+  "Deporte": 1,
+  "Sketch": 2,
+  "Suspense": 6,
+  "Historia": 2,
+  "De época": 1,
+  "Música": 3,
+  "Familiares": 1,
+  "Misterio": 1
+ }
+}

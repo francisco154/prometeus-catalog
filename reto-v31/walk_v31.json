@@ -1,0 +1,4641 @@
+[
+ {
+  "titulo_txt": "The Lord of the Rings: The Rings of Power",
+  "site": "sololatino",
+  "tipo": "serie",
+  "wp_seed": "OQI1PJgZLOi0ZZ53NTLa7-The-Lord-of-the-Rings-The-Rings-of-Power-Season-1[",
+  "titulo_plat": "El Señor de los Anillos: los Anillos de Poder",
+  "sinopsis": "Ambientada miles de años antes de los eventos de El Hobbit y El Señor de los Anillos, la serie se basa en la historia de la Tierra Media del autor J. R. R. Tolkien. Comienza durante una época de relativa paz y cubre todos los eventos principales de la Segunda Edad de la Tierra Media: la forja de los Anillos de Poder, el surgimiento del Señor Oscuro Sauron, la historia del reino insular de Númenor y la última alianza entre Elfos y Hombres. Estos eventos tienen lugar durante miles de años en las historias originales de Tolkien, pero se condensan para la serie.",
+  "poster": "https://img.solo-latino.com/cover/20231123/1700710635351_ad81ccdcd11edba5748cdd9b40bbe8d6mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
+  "hero": "https://img.solo-latino.com/cover/20220721/1658390940330_90704ee86e15586acde996db6bb78bb1uVukvj5r9jEMva78IfaGWMNwGe.jpg",
+  "score": 6.6,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Drama",
+   "Fantasía"
+  ],
+  "dubbing_names": [
+   "El Señor de los Anillos: los Anillos de Poder",
+   "El Señor de los Anillos: los Anillos de Poder",
+   "El Señor de los Anillos: los Anillos de Poder",
+   "El Señor de los Anillos: los Anillos de Poder"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "OQI1PJgZLOi0ZZ53NTLa7-The-Lord-of-the-Rings-The-Rings-of-Power-Season-1[",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "OtGPU5xeYl03eMW1DBW17-The-Lord-of-the-Rings-The-Rings-of-Power-Season-1",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "SgNzmsHfkpIdELEmwgHSA-The-Lord-of-the-Rings-The-Rings-of-Power-Season-1",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "d4yMOY1C5BPkRHV2s46M8-The-Lord-of-the-Rings-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "29mOTMfeQe9uFsX0HfMZi-The-Lord-of-the-Rings-Season-2",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "lDS9pcTZLs5gOh2imtgfE-The-Lord-of-the-Rings-Season-2",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 8,
+  "errores": [],
+  "nombres_nodos": [
+   "El Senyor dels Anells: Els anells de poder 2",
+   "El Senyor dels Anells: Els anells de poder Temporada 2",
+   "El Señor de los Anillos: los Anillos de Poder"
+  ]
+ },
+ {
+  "titulo_txt": "The Bear",
+  "site": "pelicula",
+  "tipo": "serie",
+  "wp_seed": "rO3La9v5SpAOfAIHwcf0N-The-Bear-Season-1[Audio-Latino]",
+  "titulo_plat": "The Bear Season 1[Audio Latino]",
+  "sinopsis": "Un joven chef del mundo de la alta cocina regresa a Chicago para dirigir la tienda de sándwiches de su familia.",
+  "poster": "https://img.123pelicula.com/cover/20220921/1663755478256_db08761ce01aa9fae64b823eddb24df4熊家餐馆 剧集 22151竖版.png",
+  "hero": "https://img.123pelicula.com/cover/20220921/1663755482214_5a8d0527e6ffa480b965aac7fc619595熊家餐馆 剧集 22151横版.png",
+  "score": 8.5,
+  "generos": [
+   "Comedia",
+   "Drama"
+  ],
+  "dubbing_names": [
+   "The Bear Season 1",
+   "The Bear Season 1",
+   "The Bear Season 1[Audio pt-BR]",
+   "The Bear Season 1[Audio Latino]"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "rO3La9v5SpAOfAIHwcf0N-The-Bear-Season-1[Audio-Latino]",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "pz4foTy9FzhrboEzEYl78-The-Bear-Season-1",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "cKY51PIkqlpJRW1DNxgwM-The-Bear-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "EbhqwpW7PBWUbvptnZId3-The-Bear-Season-2",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "myPTFd157cHGg8lyXQe4r-The-Bear-Season-3[Audio-Latino]",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "KshcfCua5q2UG7dIHB4lB-The-Bear-Season-3",
+      "v": "sub",
+      "y": "pelicula"
+     },
+     {
+      "w": "XGbWRifeudPayWCfnGTcl-The-Bear-Season-3",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 4,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "27yR0D42j3ASLgrWGQ84U-The-Bear-Season-4",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "2P7TlL8gwUOXxIPqxHdIA-The-Bear-Season-4",
+      "v": "sub",
+      "y": "pelicula"
+     },
+     {
+      "w": "JseTKPFHIUKCW8JVcPn1T-The-Bear-Season-4",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 5,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "DGVjdInwfhMy7bVubozDB-The-Bear-Season-5",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "LG1l3VwpJCCCBP8vLPAhx-The-Bear-Season-5",
+      "v": "sub",
+      "y": "pelicula"
+     },
+     {
+      "w": "sC9Pu6K9Vcc6wK8cjC0FV-The-Bear-Season-5",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 21,
+  "errores": [],
+  "nombres_nodos": [
+   "El Oso Temporada 5",
+   "El oso Temporada 4",
+   "The Bear Season 1",
+   "The Bear Season 1[Audio Latino]",
+   "The Bear Season 1[Audio pt-BR]",
+   "The Bear Season 2",
+   "The Bear Season 2[Audio Latino]",
+   "The Bear Season 2[Audio pt-BR]",
+   "The Bear Season 3",
+   "The Bear Season 3[AR SUB]",
+   "The Bear Season 3[Audio Latino]",
+   "The Bear Season 3[Audio pt-BR]",
+   "The Bear Season 4",
+   "The Bear Season 5"
+  ]
+ },
+ {
+  "titulo_txt": "Moon Knight (Caballero Luna)",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "UwhWWJR1B5MRG53KdjheI-Moon-Knight-[Audio-Latino]",
+  "titulo_plat": "Caballero Luna",
+  "sinopsis": "La serie sigue Steven Grant, un empleado de tiendas de regalos de educado, que se pone plagado de apagones y recuerdos de otra vida. Steven descubre que tiene un trastorno de identidad disociativo y comparte un cuerpo con Mercenario Marc Spector. Como los enemigos de Steven / Marc convergen con ellos, deben navegar por sus complejas identidades mientras se empujan a un misterio mortal entre los dioses poderosos de Egipto.",
+  "poster": "https://img.cuevana19.com/cover/20231113/1699866140268_98bb6da41f565a5f3d3c78d576536495YksR65as1ppF2N48TJAh2PLamX.jpg",
+  "hero": "https://img.cuevana19.com/cover/20220330/1648631414855_3a4c9db865a895bd202a8212f6d7727e月光骑士.png",
+  "score": 7.6,
+  "generos": [
+   "Acción",
+   "Drama",
+   "Fantasía",
+   "Horror",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Caballero Luna",
+   "Caballero Luna"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "UwhWWJR1B5MRG53KdjheI-Moon-Knight-[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "VYOAeruWULFAiY31Lh9PS-Moon-Knight",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "base": 6
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "Caballero Luna"
+  ]
+ },
+ {
+  "titulo_txt": "Heartstopper",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "bKPESQo5JFNMNCcBYMxEK-Heartstopper",
+  "titulo_plat": "Heartstopper Temporada 1",
+  "sinopsis": "La historia de dos adolescentes británicos, Nick Nelson y Charlie Spring, en una escuela de gramática de todos los niños. Charlie, un exceso de húmedo, abiertamente gay, y Nick, un jugador de rugby alegre y de buen corazón, un día se sientan juntos en clase. Su amistad se convierte rápidamente en algo más para que Charlie gay abiertamente, pero inicialmente no cree que tenga una oportunidad con Nick. Pero el amor trabaja en formas sorprendentes, y Nick está más interesado en Charlie que cualquiera de ellos se dio cuenta. El corazón es sobre el amor, la amistad, la lealtad y la enfermedad mental. Abarca todas las historias pequeñas de las vidas de Nick y Charlie que juntas hacen algo más grande.",
+  "poster": "https://img.playspelis.com/cover/20220415/1649992625479_541f1f0aa3b0620f4b2cde155facf129A9lLwds9PExI5sjOpMaGXLZqwti.jpg",
+  "hero": "https://img.playspelis.com/cover/20220422/1650615258862_9012f28e5954d3872d3afcef1716e13d心跳.png",
+  "score": 8.7,
+  "generos": [
+   "Drama",
+   "Romance",
+   "LGBTQ"
+  ],
+  "dubbing_names": [
+   "Heartstopper",
+   "Heartstopper",
+   "Heartstopper Temporada 1",
+   "Heartstopper Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "bKPESQo5JFNMNCcBYMxEK-Heartstopper",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "Bw3FcJ6ewRcTCjbt886vb-Heartstopper",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "c0DNOg57AGAWan9KNvvyX-Heartstopper",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "g4jNIluM5cABzuLpOJ4TW-Heartstopper-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "B0TdfitHEwAM1jh6nGLiR-Heartstopper-Season-2",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "jxA9NVXTMCBR0nH6vOIPc-Heartstopper-Season-2",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 3,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "u7wsU6nhUuTleIFEw3jhY-Heartstopper-Season-3[Audio-Latino]",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "r1DafMlaxZC7oI27aw7hn-Heartstopper-Season-3",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "A0pNpfqOBmdILwP8yJeOp-Heartstopper-Season-3",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 12,
+  "errores": [],
+  "nombres_nodos": [
+   "Heartstopper",
+   "Heartstopper Season 2",
+   "Heartstopper Season 3",
+   "Heartstopper Season 3[Audio Latino]",
+   "Heartstopper Temporada 1",
+   "Heartstopper Temporada 2",
+   "Heartstopper Temporada 3"
+  ]
+ },
+ {
+  "titulo_txt": "Cyberpunk: Edgerunners",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "2oL0H86P8SmpfdtouajNE-Cyberpunk-Edgerunners",
+  "titulo_plat": "Cyberpunk: Edgerunners",
+  "sinopsis": "En una realidad distópica repleta de corrupción e implantes cibernéticos, un joven talentoso e impulsivo intenta convertirse en un mercenario.",
+  "poster": "https://img.peliculaplay.com/cover/20260603/1780475775578_9bc3325945f82923fcd74df8f1dcbdfclqcDVZ8pyk08AVftMBildDR3QUK.webp",
+  "hero": "https://img.peliculaplay.com/cover/20260603/1780475792535_63dd7614cdbcdb4e92caa123766e79abobzl1uYiC8gevu2YZIifw42hRt5.webp",
+  "score": 8.4,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Animación",
+   "Crimen",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Cyberpunk: Edgerunners",
+   "Cyberpunk: Edgerunners",
+   "Cyberpunk: Edgerunners"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "2oL0H86P8SmpfdtouajNE-Cyberpunk-Edgerunners",
+      "v": "latino",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "mfOpnsd6zqwPvrm8S1hO4-Cyberpunk-Edgerunners",
+      "v": "sub",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "uz3w95M25qjEPFjwLINT5-Cyberpunk-Edgerunners",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "x1oRLkrmucStmgxNZluAz-Cyberpunk-Edgerunners-Season-2",
+      "v": "latino",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "iZm6R4ABdAJ6GbD4pNGXv-Cyberpunk-Edgerunners-Season-2",
+      "v": "sub",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "AdwGi7kRPTmnbib8GW9ps-Cyberpunk-Edgerunners-Season-2",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   }
+  ],
+  "nodos": 6,
+  "errores": [],
+  "nombres_nodos": [
+   "Cyberpunk: Edgerunners",
+   "Cyberpunk: Edgerunners Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "All of Us Are Dead (Estamos muertos)",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "u53JNv8F1FAZcoNWUUSe9-All-of-Us-Are-Dead",
+  "titulo_plat": "Estamos muertos",
+  "sinopsis": "Un grupo de estudiantes de secundaria están atrapados en su escuela durante un brote de virus zombie. Los estudiantes intentan desesperadamente evitar convertirse en zombis y escapar de su escuela.",
+  "poster": "https://img.cuevana4br.com/cover/20260515/1778812919616_7f4f6c4c5a705b417cfb910f66e7b335ESTAMOS MUERTOS.jpg",
+  "hero": "https://img.cuevana4br.com/cover/20250724/1753349046533_85ccdfc5ba7345bf4e679215aaf259891666061909398_c38f33c3fd2bfe60f573656e6cdc53f5僵尸 横.png",
+  "score": 7.5,
+  "generos": [
+   "Acción",
+   "Drama",
+   "Fantasía",
+   "Horror",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Estamos muertos",
+   "Estamos muertos",
+   "Estamos muertos",
+   "Estamos muertos",
+   "Estamos muertos"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "u53JNv8F1FAZcoNWUUSe9-All-of-Us-Are-Dead",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "fzzDyeVLNrTCC8LYyerMj-All-of-Us-Are-Dead",
+      "v": "sub",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "LeclXdcd4L3ixAQvokIkg-All-of-Us-Are-Dead",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "sub": 12,
+     "base": 12
+    }
+   }
+  ],
+  "nodos": 5,
+  "errores": [],
+  "nombres_nodos": [
+   "Estamos muertos"
+  ]
+ },
+ {
+  "titulo_txt": "Chainsaw Man",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "HFJYl5VAKn9s38CVNMVXe-Chainsaw-Man",
+  "titulo_plat": "Chainsaw Man",
+  "sinopsis": "Cuando murió su padre, Denji estaba atrapado con una enorme deuda y no tenía forma de devolverla. Gracias a un perro del diablo que salvó llamado Pochita, puede sobrevivir a través de trabajos extraños y matar a los demonios para el Yakuza. Los poderes de motosierra de Pochita son útiles contra estos poderosos demonios. Cuando el Yakuza lo traiciona y es asesinado por el diablo zombie, Pochita se sacrifica para salvar a su ex maestro. Ahora Denji ha renacido como una especie de extraño híbrido de diablo humano. ¡Ahora es un hombre de motosierra!",
+  "poster": "https://img.flixlat.com/cover/20251015/1760514665224_14870fdaeedafd01fe832dfea8ff78a2npdB6eFzizki0WaZ1OvKcJrWe97.webp",
+  "hero": "https://img.flixlat.com/cover/20260522/1779429825853_669c389a180c3ea4fc99f7dcedb257251663749698494_97d28281d4df52818b3c2a559d22c6db14V2f3C7YK4UfBh9pYMDOZJVFM1.png",
+  "score": 8.8,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Animación",
+   "Comedia",
+   "Fantasía",
+   "Horror",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Chainsaw Man",
+   "Chainsaw Man",
+   "Chainsaw Man",
+   "Chainsaw Man"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "HFJYl5VAKn9s38CVNMVXe-Chainsaw-Man",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "Wy8KHZFnN7Tab86M4zNbh-Chainsaw-Man",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "5a3YGIGDRFqPLEOGb5rkf-Chainsaw-Man",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "base": 12,
+     "sub": 12
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Chainsaw Man"
+  ]
+ },
+ {
+  "titulo_txt": "Bleach: Thousand-Year Blood War",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "9YDOiDnRzpIfVcbrqbaDA-Bleach-Thousand-Year-Blood-War",
+  "titulo_plat": "Bleach: Thousand Year Blood War Temporada 1",
+  "sinopsis": "La paz se rompe repentinamente al advertir las sirenas a través de la sociedad del alma. Residentes, desaparecen sin dejar rastro y nadie sabe quién está detrás de él. Mientras tanto, una sombra oscura también se extiende hacia Ichigo y sus amigos en la ciudad de Karakura.",
+  "poster": "https://img.cuevana19.com/cover/20221014/1665741832665_d48c6c520eaef84e357dff285940ffd6死神 千年血战篇 剧集 25481竖版.png",
+  "hero": "https://img.cuevana19.com/cover/20221014/1665741835045_3fccbb414352a98dfdd544ee68d11c84死神 千年血战篇 剧集 25481横版.png",
+  "score": 9,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Animación",
+   "Fantasía"
+  ],
+  "dubbing_names": [
+   "Bleach: Thousand-Year Blood War\tTemporada 1",
+   "Bleach: Thousand Year Blood War",
+   "Bleach: Thousand Year Blood War Temporada 1",
+   "Bleach: Thousand Year Blood War",
+   "Bleach: Thousand Year Blood War Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "9YDOiDnRzpIfVcbrqbaDA-Bleach-Thousand-Year-Blood-War",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "ZEATo9ZLEniK7CjRXTcYU-Bleach-Thousand-Year-Blood-War",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "N4gSmx6DsFJoI3iMUMyFb-Bleach-Thousand-Year-Blood-War",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 13,
+     "base": 13,
+     "sub": 13
+    }
+   },
+   {
+    "n": 2,
+    "q": 13,
+    "fuentes": [
+     {
+      "w": "qdWT7eVL65b42sCKl4EjY-Bleach-Thousand-Year-Blood-War---The-Separation",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "34693-Bleach-Thousand-Year-Blood-War---The-Separation",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "Uy9nJXUPSKbGFb8tasBx9-Bleach-Thousand-Year-Blood-War---The-Separation",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 13,
+     "base": 13,
+     "sub": 13
+    }
+   },
+   {
+    "n": 3,
+    "q": 14,
+    "fuentes": [
+     {
+      "w": "txIHdO9sdmn7sLl8mLr9J-Bleach-Thousand-Year-Blood-War---Part-3-The-Confli",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "nxsR30WNYP5V0qpNkJgLw-Bleach-Thousand-Year-Blood-War---Part-3-The-Confli",
+      "v": "sub",
+      "y": "cuevana19",
+      "m": 11
+     },
+     {
+      "w": "fiTmt1jumxYaUYRYc8ShH-Bleach-Thousand-Year-Blood-War---Part-3-The-Confli",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 14,
+     "base": 14,
+     "sub": 11
+    }
+   },
+   {
+    "n": 4,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "I6pKZhrJF6riZdj2l5bAr-Bleach-Thousand-Year-Blood-War---The-Calamity",
+      "v": "latino",
+      "y": "cuevana19",
+      "m": 8
+     },
+     {
+      "w": "6tFsbtug88RsM8ObcVPHF-Bleach-Thousand-Year-Blood-War---The-Calamity",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "CQ2egjoh9h2dpDo1qLwvs-Bleach-Thousand-Year-Blood-War---The-Calamity",
+      "v": "base",
+      "y": "cuevana19",
+      "m": 8
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 9
+    }
+   }
+  ],
+  "nodos": 20,
+  "errores": [],
+  "nombres_nodos": [
+   "Bleach: Thousand Year Blood War",
+   "Bleach: Thousand Year Blood War Temporada 1",
+   "Bleach: Thousand-Year Blood War\tTemporada 1",
+   "Bleach: Thousand-Year Blood War - Part 3: The Conflict",
+   "Bleach: Thousand-Year Blood War - Part 3: The Conflict[SUB Latino]",
+   "Bleach: Thousand-Year Blood War - Part 3: The Conflict[SUB pt-BR]",
+   "Bleach: Thousand-Year Blood War - The Calamity",
+   "Bleach: Thousand-Year Blood War - The Separation",
+   "Bleach: Thousand-Year Blood War 2"
+  ]
+ },
+ {
+  "titulo_txt": "The Offer",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "iuw13rsE969S1oTW2VYv4-The-Offer",
+  "titulo_plat": "The Offer",
+  "sinopsis": "Las experiencias nunca antes del productor de Oscar Albert S. Ruddy nunca antes reveladas de hacer el Padrino",
+  "poster": "https://img.dramasfree.com/cover/20250812/1754982637952_d7481e10580c06c5468953ae059163c3yy.webp",
+  "hero": "https://img.dramasfree.com/cover/20250812/1754982643182_59103337f820b88159084b5bf6fba976hb.webp",
+  "score": 8.7,
+  "generos": [
+   "Biografía",
+   "Drama"
+  ],
+  "dubbing_names": [
+   "The Offer",
+   "The Offer"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "iuw13rsE969S1oTW2VYv4-The-Offer",
+      "v": "latino",
+      "y": "dramas",
+      "m": 9
+     },
+     {
+      "w": "sX11jPsDr3IcswnVoAY81-The-Offer",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 9,
+     "base": 10
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "The Offer"
+  ]
+ },
+ {
+  "titulo_txt": "Tokyo Vice",
+  "site": "flms",
+  "tipo": "serie",
+  "wp_seed": "lfFl4LCYiLPJjYa4yuiK9-Tokyo-Vice-Season-1[Audio-Latino]",
+  "titulo_plat": "Tokyo Vice Season 1[Audio Latino]",
+  "sinopsis": "en 1993, cuando fue contratado como reportero de novatos para Yomiuri Shimbun. Como cadete, describe que se toma bajo el ala de Sekiguchi, un detective más antiguo. Adelstein se asignó inicialmente a Saitama \"pegajoso\", y la Memoria cubre sus próximos 12 años como empleados para el documento, describiendo semanas de trabajo de 80 horas, dificultades de relaciones y las interacciones entre los reporteros del crimen y la policía. Los casos específicos involucran la búsqueda del asesino de Lucie Blackman, y la MEMOIR también detalla las amenazas de muerte después de haber publicado un exposición en Tadamasa Goto. También descubrió que la prefectura de Saitama estaba alterando los datos científicos sobre la contaminación de la dioxina.",
+  "poster": "https://img.123flmsfree.com/cover/20220330/1648627329190_e027e07da91eb97ce0338eb1810023afza5QWRfCLwgRLLVXUkx3NUSAm6G.jpg",
+  "hero": "https://img.123flmsfree.com/cover/20220330/1648627333552_e075510d1b03bc29584a5163adf7cb66knbNvXLYeSyE1BJfFiIMJTktMkS.jpg",
+  "score": 8,
+  "generos": [
+   "Crimen",
+   "Drama",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Tokyo Vice Temporada 1",
+   "Tokyo Vice Season 1",
+   "Tokyo Vice Season 1[Audio Latino]"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "lfFl4LCYiLPJjYa4yuiK9-Tokyo-Vice-Season-1[Audio-Latino]",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "Pv8THiw1yRvEo5k5Fp7K1-Tokyo-Vice-Season-1",
+      "v": "sub",
+      "y": "flms"
+     },
+     {
+      "w": "lfzOOByGGEsQbZ0B6aHmm-Tokyo-Vice-Season-1",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "q6uH8UWBItrjFEtSmKYVf-Tokyo-Vice-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "TE1q9nIIlxf0e8xpnUD2G-Tokyo-Vice-Season-2",
+      "v": "sub",
+      "y": "flms"
+     },
+     {
+      "w": "ncCwh4VBf5hr2erJiNPyu-Tokyo-Vice-Season-2",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   }
+  ],
+  "nodos": 6,
+  "errores": [],
+  "nombres_nodos": [
+   "Tokyo Vice Season 1",
+   "Tokyo Vice Season 1[Audio Latino]",
+   "Tokyo Vice Season 2",
+   "Tokyo Vice Season 2[Audio Latino]",
+   "Tokyo Vice Temporada 1",
+   "Tokyo Vice Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "1923",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "dyIdUp4voNuZ5bxbO9WV7-1923-Season-1",
+  "titulo_plat": "1923 Temporada 1",
+  "sinopsis": "La siguiente entrega de la historia del origen de Yellowstone presenta a una nueva generación de la familia Dutton y explora el comienzo del siglo XX, cuando las pandemias, la sequía histórica, el final de la Ley Seca y la Gran Depresión asolan el Oeste montañoso y a los Dutton que lo llaman hogar.",
+  "poster": "https://img.flixlat.com/cover/20221220/1671523304302_197d14da7216195ae4172f53d7382c66zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+  "hero": "https://img.flixlat.com/cover/20221220/1671523306611_17dbb919ad45380e305739693c2d6fbbarUFFruTjdd3MnyaqwQfm6R53JK.jpg",
+  "score": 8.4,
+  "generos": [
+   "Drama",
+   "Occidentales"
+  ],
+  "dubbing_names": [
+   "1923 Temporada 1",
+   "1923 Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "dyIdUp4voNuZ5bxbO9WV7-1923-Season-1",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "g7gNCxWLjJwUXSnyg8Wjj-1923-Season-1",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 7,
+    "fuentes": [
+     {
+      "w": "Xc3osBDzK4ORRW0BjWvlp-1923-Season-2",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "DrVwDqLLcai082odAconK-1923-Season-2",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "1qAydquam9Hi5E2sVpuCx-1923-Season-2",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 7,
+     "sub": 7,
+     "base": 7
+    }
+   }
+  ],
+  "nodos": 6,
+  "errores": [],
+  "nombres_nodos": [
+   "1923 Season 2",
+   "1923 Temporada 1",
+   "1923 Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Halo",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "ip2H8vUOyg1IyktZpQKQI-Halo-Season-1",
+  "titulo_plat": "Halo",
+  "sinopsis": "Los alienígenas amenazan la existencia humana en un enfrentamiento épico del siglo XX. Serie de TV basada en el videojuego 'Halo'.",
+  "poster": "https://img.321moviesfree.com/cover/20220221/1645439061674_7d03bc5ea62fc7667bde64e16eaa3fa4kZ4WEkyWG0XJL71PIEpYdbDHOuz.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20220324/1648110515505_abc89f9686da9b8634d2e5722b0774d3光环世界.png",
+  "score": 7,
+  "generos": [
+   "Acción",
+   "Ciencia ficción",
+   "Thriller",
+   "Bélicas"
+  ],
+  "dubbing_names": [
+   "Halo"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "ip2H8vUOyg1IyktZpQKQI-Halo-Season-1",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "abezHP40pCweFTWFJo0CW-Halo-Season-2",
+      "v": "sub",
+      "y": "movies321",
+      "m": 8
+     },
+     {
+      "w": "PlHCHI8nzBPLOQDZI6Zu1-Halo-Season-2",
+      "v": "base",
+      "y": "movies321",
+      "m": 8
+     }
+    ],
+    "variantes": {
+     "latino": 9,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "DQufWfe8lhvnuG556F7kP-Halo-Season-2",
+      "v": "latino",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 8
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Halo",
+   "Halo Season 2",
+   "Halo Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Winning Time: The Rise of the Lakers Dynasty",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "SAhLdsgarlqQJDHZoHGK1-Winning-Time-The-Rise-Of-The-Lakers-Dynasty-Season",
+  "titulo_plat": "Tiempo de victoria: La dinastía de Los Lakers",
+  "sinopsis": "La vida profesional y personal de los 1980 Los Angeles Lakers, una de las dinastías más veneradas y dominantes de los deportes, un equipo que definió una era, tanto dentro como fuera de la cancha.",
+  "poster": "https://img.cuevana19.com/cover/20231124/1700814959449_24fa17c43f891e9d62dbe10f584fa2d281bZ2vP3C15x6NZJJUjUsesv3OP.jpg",
+  "hero": "https://img.cuevana19.com/cover/20231124/1700814972072_0dfe708455a14abd933a204b756b8653Avl8fHtx4QUfdv15grQTHK8ACvr.jpg",
+  "score": 8.3,
+  "generos": [
+   "Biografía",
+   "Drama",
+   "Deporte"
+  ],
+  "dubbing_names": [
+   "Tiempo de victoria: La dinastía de Los Lakers Temporada 1",
+   "Tiempo de victoria: La dinastía de Los Lakers",
+   "Tiempo de victoria: La dinastía de Los Lakers"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "SAhLdsgarlqQJDHZoHGK1-Winning-Time-The-Rise-Of-The-Lakers-Dynasty-Season",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "c7Zrj9AnTOPtMHAsvs9Ty-Winning-Time-The-Rise-Of-The-Lakers-Dynasty-Season",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "KDWluV0NeVwD6XmpayCYR-Winning-Time-The-Rise-Of-The-Lakers-Dynasty-Season",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 7,
+    "fuentes": [
+     {
+      "w": "EXrgqGWglevjTq4PRsnc1-Winning-Time-The-Rise-Of-The-Lakers-Dynasty-Season",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "GIrI7qbkhDyuDll8hQVaA-Winning-Time-The-Rise-Of-The-Lakers-Dynasty-Season",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "3GiRXXqQw4SYeyPQcZ9Gx-Winning-Time-The-Rise-Of-The-Lakers-Dynasty-Season",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 7,
+     "base": 7,
+     "sub": 7
+    }
+   }
+  ],
+  "nodos": 6,
+  "errores": [],
+  "nombres_nodos": [
+   "Tiempo de victoria: La dinastía de Los Lakers",
+   "Tiempo de victoria: La dinastía de Los Lakers Temporada 1",
+   "Tiempo de victoria: La dinastía de Los Lakers Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Extraordinary Attorney Woo (Woo, abogada extraordinaria)",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "VqemZi49sUm4Dzqcg6Lcu-Extraordinary-Attorney-Woo",
+  "titulo_plat": "Woo, una abogada extraordinaria",
+  "sinopsis": "Cuenta la historia de Woo Young-woo, una abogada que padece de Trastorno del Espectro Autista, que trabaja en un gran bufete. Tiene un alto coeficiente intelectual, de 164, una memoria sobresaliente y una forma creativa de pensar, y es la abogada más inteligente de Corea del Sur. Sin embargo, sus habilidades sociales son algo débiles.",
+  "poster": "https://img.dramasfree.com/cover/20250902/1756795149661_7aa57d9211264f06a08e4136887a6675u81ZZJ1hQdyNtF1NsxmhQVDj6xK.webp",
+  "hero": "https://img.dramasfree.com/cover/20250902/1756795152433_68b6fcd23c3da46c867cee4677fb7fd11665655736671_e9ea0973d90516ccf4959a3c4e514521奇怪律师 横.png",
+  "score": 9.6,
+  "generos": [
+   "Drama"
+  ],
+  "dubbing_names": [
+   "Woo, una abogada extraordinaria",
+   "Woo, una abogada extraordinaria",
+   "Woo, una abogada extraordinaria",
+   "Woo, una abogada extraordinaria"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 16,
+    "fuentes": [
+     {
+      "w": "VqemZi49sUm4Dzqcg6Lcu-Extraordinary-Attorney-Woo",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "2ElQLt5Fj1XBUoYDEMSrU-Extraordinary-Attorney-Woo",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "x5cXrZCFhpLPdUTIdrLGk-Extraordinary-Attorney-Woo",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 16,
+     "base": 16,
+     "sub": 16
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Woo, una abogada extraordinaria"
+  ]
+ },
+ {
+  "titulo_txt": "The Legend of Vox Machina",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "SP9KeylSBoscxDOuOp3UQ-The-Legend-of-Vox-Machina-Season-1[Audio-Latino]",
+  "titulo_plat": "La leyenda de Vox Machina",
+  "sinopsis": "Son ruidosos, andrajosos, son inadaptados convertidos en mercenarios a sueldo. Vox Machina está más interesada en el dinero fácil y la cerveza barata que en proteger el reino. Pero cuando el reino se ve amenazado por el mal, esta bulliciosa tripulación se da cuenta de que son los únicos capaces de restaurar la justicia. Lo que comenzó como un simple día de pago ahora es la historia de origen detrás de los nuevos héroes de Exandria.",
+  "poster": "https://img.dramasfree.com/cover/20220905/1662364385087_503bc6619b0c3de1b9a58eb5f178e32d4fqfhmVNOHe2nLcligiVMtMnfeM.jpg",
+  "hero": "https://img.dramasfree.com/cover/20220905/1662364388744_b133bd8514c39506d497cb792d71fc17msbstmBaPz8bCtWosfs6QWQHHwo.jpg",
+  "score": 8.4,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Animación",
+   "Comedia",
+   "Fantasía"
+  ],
+  "dubbing_names": [
+   "La leyenda de Vox Machina",
+   "La leyenda de Vox Machina",
+   "La leyenda de Vox Machina"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "SP9KeylSBoscxDOuOp3UQ-The-Legend-of-Vox-Machina-Season-1[Audio-Latino]",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "Vn3XeUvqEe4tJJVIpjBm3-The-Legend-of-Vox-Machina-Season-1",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "TFIejzOiH4KV8votTASqB-The-Legend-of-Vox-Machina-Season-1[Audio-pt-BR]",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "sub": 12,
+     "base": 12
+    }
+   },
+   {
+    "n": 2,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "1cqgeARvwizNkdTa4lY4T-The-Legend-of-Vox-Machina-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "m26hi9NrHmLUTXxoA304Y-The-Legend-of-Vox-Machina-Season-2",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "6gr3wErarWp0per5WbfBw-The-Legend-of-Vox-Machina-Season-2[Audio-pt-BR]",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "sub": 12,
+     "base": 12
+    }
+   },
+   {
+    "n": 3,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "194wPT1G4ElG7u3CGGJ8j-The-Legend-of-Vox-Machina-Season-3[Audio-Latino]",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "vwjAdgqOAYQqSVHHcHBv2-The-Legend-of-Vox-Machina-Season-3",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "ns7YVXSyRxL6skjjVdgKF-The-Legend-of-Vox-Machina-Season-3[Audio-pt-BR]",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "sub": 12,
+     "base": 12
+    }
+   },
+   {
+    "n": 4,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "VM5d4fxEjZIw6cRP28cmr-The-Legend-of-Vox-Machina-Season-4",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "UYd7JPLyvA1kQF4ogliO3-The-Legend-of-Vox-Machina-Season-4",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "2x0IBQR3sdtDwnoNmbyOC-The-Legend-of-Vox-Machina-Season-4",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "sub": 12,
+     "base": 12
+    }
+   }
+  ],
+  "nodos": 12,
+  "errores": [],
+  "nombres_nodos": [
+   "La leyenda de Vox Machina",
+   "La leyenda de Vox Machina Temporada 4"
+  ]
+ },
+ {
+  "titulo_txt": "Tulsa King",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "9fay3uL5UHYBZ1CxLf9uF-Tulsa-King-Season-1",
+  "titulo_plat": "Rey Tulsa Temporada 1",
+  "sinopsis": "Sigue al capo de la mafia de Nueva York \"The General\" Manfredi, justo después de ser liberado de prisión después de 25 años y exiliado sin ceremonias por su jefe para montar una tienda en Tulsa, Okla. Al darse cuenta de que su familia de la mafia puede no tener en mente sus mejores intereses, Dwight construye lentamente un \"cre\" a partir de un grupo de personajes improbables, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él también podría ser otro planeta.",
+  "poster": "https://img.321moviesfree.com/cover/20221114/1668406170660_e764b6ab33641397854afbeafcbf962b61awv7LKi61E98E3VBEje0AkdYR.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20221114/1668406173497_7bad81298939a651408a8df38b9cbcc3mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+  "score": 8.4,
+  "generos": [
+   "Crimen",
+   "Drama"
+  ],
+  "dubbing_names": [
+   "Rey Tulsa",
+   "Tulsa King",
+   "Rey Tulsa Temporada 1",
+   "Rey Tulsa Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "9fay3uL5UHYBZ1CxLf9uF-Tulsa-King-Season-1",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "wMZRCKMr4JHxsU6QiXzw8-Tulsa-King",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "EROIwEhk3TS3juD0g51tg-Tulsa-King[Audio-pt-BR]",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 9,
+     "sub": 9,
+     "base": 9
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "yPWEKLISjdM3DcIxZpodH-Tulsa-King-Season-2",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "MwJIOHxswZCA3uczdBwVC-Tulsa-King-Season-2",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "3Q2gKyzRcEETZR8WQkZCm-Tulsa-King-Season-2",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "5Z3PPBegYdg9vawTz90A6-Tulsa-King-Season-3",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "EWsy4H0BNcSzD8NVgOrjy-Tulsa-King-Season-3",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "cJ7eCuFVQ6kDXukwfVZvg-Tulsa-King-Season-3",
+      "v": "base",
+      "y": "movies321",
+      "m": 9
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 9
+    }
+   },
+   {
+    "n": 4,
+    "q": 2,
+    "fuentes": [
+     {
+      "w": "N421zVQCYyc0Y9C1532tI-Tulsa-King-Season-4",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "UL5NaGJcqtjmzc338PDBq-Tulsa-King-Season-4",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "30xrE70w0DGrkmgT4RI77-Tulsa-King-Season-4",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 2,
+     "base": 2,
+     "sub": 2
+    }
+   }
+  ],
+  "nodos": 14,
+  "errores": [],
+  "nombres_nodos": [
+   "Rey Tulsa",
+   "Rey Tulsa Temporada 1",
+   "Tulsa King",
+   "Tulsa King Season 2",
+   "Tulsa King Season 3",
+   "Tulsa King Season 4",
+   "Tulsa King Temporada 2",
+   "Tulsa King Temporada 3",
+   "Tulsa King Temporada 4"
+  ]
+ },
+ {
+  "titulo_txt": "The Terminal List (La lista final)",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "HlGdXeLD7D0McFC8TViLy-The-Terminal-List",
+  "titulo_plat": "La lista final",
+  "sinopsis": "Chris Pratt regresa a la televisión para la nueva serie \"The Terminal List\". La serie está dirigida por Anthony Fuqua, basada en la novela más vendida de Jack Carr y escrita por David DiGilio (\"El viajero\"). Este thriller cuenta la historia de todo el equipo SEAL en una emboscada durante una misión encubierta de alto riesgo. Reese (Pratt) regresa a casa con recuerdos contradictorios de esa misión y preguntas sobre su propia culpabilidad. Sin embargo, a medida que surgen nuevas pruebas, Reese descubre que fuerzas oscuras trabajan en su contra.",
+  "poster": "https://img.dramasfree.com/cover/20251120/1763628783368_7e7bc8eac147033472bf14fdb9ea622890mQFRWXolU8wS2kCqYvO3LIbHX.webp",
+  "hero": "https://img.dramasfree.com/cover/20220623/1655952735850_44be9b8917e6d4c042a99fbef0eb9dd85jVmBLVzg0DqKXHJbDqwhGjSTnO.jpg",
+  "score": 8.6,
+  "generos": [
+   "Acción",
+   "Drama",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "La lista final",
+   "La lista final"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "HlGdXeLD7D0McFC8TViLy-The-Terminal-List",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "G2qaI7ETzi5No4PEd3EAK-The-Terminal-List",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "9jUytH6klOc1kXzR7UzeD-The-Terminal-List",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "aWMamJBb6ZcliTaUmxWIa-The-Terminal-List-Season-2",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "tSHqzTDWqznLzsimzBZ0D-The-Terminal-List-Season-2",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "zEsLfflH6KYrtaeVFslAs-The-Terminal-List-Season-2",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "sub": 8,
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 7,
+  "errores": [],
+  "nombres_nodos": [
+   "LA LISTA FINAL Temporada 2",
+   "La lista final",
+   "La lista final Temporada 2",
+   "The Terminal List Season 2"
+  ]
+ },
+ {
+  "titulo_txt": "Star Wars: Tales of the Jedi",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "be0AXTFiI10V46r0Q3dmK-Tales-of-the-Jedi[Audio-Latino]",
+  "titulo_plat": "Historias de los Jedi",
+  "sinopsis": "Viaja a las vidas de dos Jedis absolutamente diferentes de la era de la precuela: Ahsoka Tano y Conde Dooku. Cada uno de ellos será puesto a prueba mientras toma decisiones que definirán sus destinos.",
+  "poster": "https://img.cuevana4br.com/cover/20221026/1666768891415_2509f21bfe4a0160832d953adf999cd4星际 竖.jpg",
+  "hero": "https://img.cuevana4br.com/cover/20221026/1666768891565_6ff204ca06f2d61a867de62bb7e1a964星际 横.jpg",
+  "score": 8.2,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Animación",
+   "Drama",
+   "Fantasía",
+   "Ciencia ficción",
+   "Sketch"
+  ],
+  "dubbing_names": [
+   "Historias de los Jedi",
+   "Historias de los Jedi",
+   "Historias de los Jedi"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "be0AXTFiI10V46r0Q3dmK-Tales-of-the-Jedi[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "HtUW3o9JKdchMiXdUMmIH-Tales-of-the-Jedi",
+      "v": "sub",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "gpCrR0iDEf4Y21DH94QDp-Tales-of-the-Jedi",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "sub": 6,
+     "base": 6
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "Historias de los Jedi"
+  ]
+ },
+ {
+  "titulo_txt": "Pantheon",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "O71Sqmc2DiJfsFb1citG5-Pantheon-Season-1",
+  "titulo_plat": "Panteón Temporada 1",
+  "sinopsis": "Una mujer joven comienza a recibir mensajes de un número desconocido que afirma ser su padre fallecido. Tratando de descubrir la verdad, se topa con una conspiración más grande que involucra la singularidad.",
+  "poster": "https://img.321moviesfree.com/cover/20250624/1750759436259_8d2585fe0dcaf84bc4e2ee1c4958ab19yy.webp",
+  "hero": "https://img.321moviesfree.com/cover/20250624/1750759439578_1efc33459794ce2fe1b59e0e3341e54ahb.webp",
+  "score": 7.5,
+  "generos": [
+   "Animación",
+   "Drama",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Pantheon Season 1",
+   "Panteón Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "O71Sqmc2DiJfsFb1citG5-Pantheon-Season-1",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "BWwno6Wk7xSQiWCe4YmLz-Pantheon-Season-1",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "5wNDUWspoWleAiraWJugV-Pantheon-Season-2",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "gJIwIBDfbYUmOTRLkWiHs-Pantheon-Season-2",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Panteón Temporada 1",
+   "Panteón Temporada 2",
+   "Pantheon Season 1",
+   "Pantheon Season 2"
+  ]
+ },
+ {
+  "titulo_txt": "This Is Going to Hurt (Esto te va a doler)",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "X5pYIQXi5ud2eYfHr7qxr-This-Is-Going-to-Hurt",
+  "titulo_plat": "Esto te va a doler",
+  "sinopsis": "Configure la sala de mano de obra con toda su hilaridad y altos de elevación de corazón, pero también sus mínimos de desgarrador, el espectáculo ofrece una representación brutalmente honesta de la vida como un médico junior en las salas, y el peaje puede tomar el trabajo. Volver a casa.",
+  "poster": "https://img.cuevana19.com/cover/20220126/1643186624870_217d84e986085a5289a89eca1bdc5646微信截图_20220126164040.png",
+  "hero": "https://img.cuevana19.com/cover/20220126/1643186631868_a63c90ed327c5042a46a4509a6585b1f微信截图_20220126164040.png",
+  "score": 8.5,
+  "generos": [
+   "Comedia"
+  ],
+  "dubbing_names": [
+   "Esto te va a doler"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 7,
+    "fuentes": [
+     {
+      "w": "X5pYIQXi5ud2eYfHr7qxr-This-Is-Going-to-Hurt",
+      "v": "latino",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 7
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Esto te va a doler"
+  ]
+ },
+ {
+  "titulo_txt": "Big Boys",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "KNVCVDYVTrcpTPp4brV3D-Big-Boys-Season-1",
+  "titulo_plat": "Big Boys Season 1",
+  "sinopsis": "Jack tímido y encerrado ha pasado el año pasado llorando por su padre en casa con su madre. Pero ha llegado el momento de que él tome su lugar en Uni.",
+  "poster": "https://img.playspelis.com/cover/20240702/1719904283926_b3bb312534a73398a461c9008bca99909trLkiQsNc5m4D7KHnndz72OVRZ.jpg",
+  "hero": "https://img.playspelis.com/cover/20240702/1719904269166_abe5cdf74f6a7416cf62c65e7fad0d25xQIcHdir1OaUVS3iDNOrt5UYgT0.jpg",
+  "score": 8.4,
+  "generos": [
+   "Comedia",
+   "Drama",
+   "Romance",
+   "LGBTQ"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "KNVCVDYVTrcpTPp4brV3D-Big-Boys-Season-1",
+      "v": "sub",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "sub": 6
+    }
+   },
+   {
+    "n": 2,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "myFNIAJSNsrQZCHbOvRGO-Big-Boys-Season-2",
+      "v": "sub",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "sub": 6
+    }
+   },
+   {
+    "n": 3,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "7M4l2rf5rdgBgyfRXGF8l-Big-Boys-Season-3",
+      "v": "sub",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "Big Boys Season 1",
+   "Big Boys Season 2",
+   "Big Boys Season 3"
+  ]
+ },
+ {
+  "titulo_txt": "The Cleaning Lady (La chica de la limpieza)",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "IK9BwafxuKgZCJdffln49-The-Cleaning-Lady",
+  "titulo_plat": "The Cleaning Lady Temporada 1",
+  "sinopsis": "Un médico, un médico camboyano de látigo, llega a los EE.UU. para un tratamiento médico para salvar a su hijo, pero cuando el sistema falla y la empuja para esconderse, ella usa su astucia e inteligencia para luchar, rompiendo la ley por todas las razones correctas.",
+  "poster": "https://img.321moviesfree.com/cover/20220104/1641275167673_0a4fb8c37470d4321121b25be7a7acd1qY1RClT1j0Ry7ZG6vzaZDOWCMAN.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20220104/1641275169958_f4870a8062273aea6d61d10c4788bf0e8r1NdcCM7yUzRPfu1QpQ7Hylgj7.jpg",
+  "score": 7.1,
+  "generos": [
+   "Crimen",
+   "Drama",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "The Cleaning Lady Temporada 1",
+   "The Cleaning Lady Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "IK9BwafxuKgZCJdffln49-The-Cleaning-Lady",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "O1rPEiwG8IZBzkpyoo3hU-The-Cleaning-Lady",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "JZRjCgoavCFIresLNWdgW-The-Cleaning-Lady",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "DJtsO1wMcoWtYFZERFGk8-The-Cleaning-Lady-Season-2",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "4TwteFqrTeTsZfgczgL8L-The-Cleaning-Lady-Season-2",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "m9qsiVIWDKAoqVqnv2nts-The-Cleaning-Lady-Season-2",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "base": 12,
+     "sub": 12
+    }
+   },
+   {
+    "n": 3,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "e8C9A8EBCBmA38CSGwwbZ-The-Cleaning-Lady-Season-3",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "rWpgUGZ7B4apXUTa9B8fx-The-Cleaning-Lady-Season-3",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "dpoPM2bvD24qNFXVH3YL0-The-Cleaning-Lady-Season-3",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "base": 12,
+     "sub": 12
+    }
+   },
+   {
+    "n": 4,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "kGKxraTX8vHRlvO8xeynt-The-Cleaning-Lady-Season-4",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "ki1K5pNs9eyOrxWKgSr3q-The-Cleaning-Lady-Season-4",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "Hm1ZFxbYprkqbrek9g6Wf-The-Cleaning-Lady-Season-4",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 12,
+     "base": 12,
+     "sub": 12
+    }
+   }
+  ],
+  "nodos": 12,
+  "errores": [],
+  "nombres_nodos": [
+   "La chica de la limpieza",
+   "The Cleaning Lady",
+   "The Cleaning Lady Season 2",
+   "The Cleaning Lady Temporada 1",
+   "The Cleaning Lady Temporada 2",
+   "The Cleaning Lady Temporada 3",
+   "The Cleaning Lady Temporada 4"
+  ]
+ },
+ {
+  "titulo_txt": "The Summer I Turned Pretty (El verano en que me enamoré)",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "kfoeDlFifj6q2MpqKMAEd-The-Summer-I-Turned-Pretty[Audio-Latino]",
+  "titulo_plat": "The Summer I Turned Pretty Temporada 1",
+  "sinopsis": "Un triángulo amoroso entre una niña y dos hermanos. Una historia sobre First Love, First Heartbreak y la magia de ese verano perfecto.",
+  "poster": "https://img.playspelis.com/cover/20251011/1760150159106_ca109a6f516d03e83c5c3b74597f30aa1652087690739_c831ac17bd47d948c996ae6128610be7a8x9tynN9kcwhSHLMbuj1nl2mM7.png",
+  "hero": "https://img.playspelis.com/cover/20251011/1760150167438_3316df67fbc20b9b2a1bde3ea87367341655469254868_2bc4997cbdfdbf1cf1c3179fc33754e1我.jpeg",
+  "score": 8.3,
+  "generos": [
+   "Drama",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "The Summer I Turned Pretty",
+   "The Summer I Turned Pretty Temporada 1",
+   "The Summer I Turned Pretty Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 7,
+    "fuentes": [
+     {
+      "w": "kfoeDlFifj6q2MpqKMAEd-The-Summer-I-Turned-Pretty[Audio-Latino]",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "bEliCc5kuugp77UAvycCN-The-Summer-I-Turned-Pretty",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "Cj7R8kWijtxaN4e168fB0-The-Summer-I-Turned-Pretty-Season-1",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 7,
+     "sub": 7,
+     "base": 7
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "4NooXM2U8LthVZerQt1yx-The-Summer-I-Turned-Pretty-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "34759-The-Summer-I-Turned-Pretty-Season-2",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "EJ5CmeUlwc77DKUGTIbLT-The-Summer-I-Turned-Pretty-Season-2",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "sub": 8,
+     "base": 8
+    }
+   },
+   {
+    "n": 3,
+    "q": 11,
+    "fuentes": [
+     {
+      "w": "3D2bouScT4IFwISnkbYXr-The-Summer-I-Turned-Pretty-Season-3",
+      "v": "latino",
+      "y": "playspelis"
+     },
+     {
+      "w": "91nwFmUzltJwBIC2zt8n6-The-Summer-I-Turned-Pretty-Season-3",
+      "v": "sub",
+      "y": "playspelis"
+     },
+     {
+      "w": "KFg6GLP1gZJcMdTc34N52-The-Summer-I-Turned-Pretty-Season-3",
+      "v": "base",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 11,
+     "sub": 11,
+     "base": 11
+    }
+   }
+  ],
+  "nodos": 9,
+  "errores": [],
+  "nombres_nodos": [
+   "El verano en que me enamoré",
+   "El verano en que me enamoré Temporada 1",
+   "El verano en que me enamoré Temporada 3",
+   "The Summer I Turned Pretty",
+   "The Summer I Turned Pretty Temporada 1",
+   "The Summer I Turned Pretty Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Star Trek: Strange New Worlds",
+  "site": "flms",
+  "tipo": "serie",
+  "wp_seed": "CES8eX9CYZGifibpArr3A-Star-Trek-Strange-New-Worlds-Season-1",
+  "titulo_plat": "Star Trek: Strange New Worlds Season 1",
+  "sinopsis": "Una precuela de Star Trek: The Original Series, el programa seguirá a la tripulación del USS Enterprise bajo el Capitán Christopher Pike.",
+  "poster": "https://img.123flmsfree.com/cover/20221227/1672122958784_c00e82cb937f934d4d515312950595fciwIdajr5Y4zq2ibvq75VnDAJBr.jpg",
+  "hero": "https://img.123flmsfree.com/cover/20221227/1672122961717_13e863e180ef6bd64934e859a35ac2b7rzAzvWJoZSwVSswvWsKx1lqT63m.jpg",
+  "score": 8.2,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Star Trek: Strange New Worlds Season 1",
+   "Star Trek: Strange New Worlds Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "CES8eX9CYZGifibpArr3A-Star-Trek-Strange-New-Worlds-Season-1",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "QM8CkwjdHa2V0KL9zy6aB-Star-Trek-Strange-New-Worlds-Season-1",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "BaVoUL252ZaHSOi0NZemu-Star-Trek-Strange-New-Worlds-Season-2",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "8GIYbQaiaNHh04htxWLRu-Star-Trek-Strange-New-Worlds-Season-2",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "lGKzORHfJ1Z4IZb8G14Qs-Star-Trek-Strange-New-Worlds-Season-3",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "6z6Llt80tnh16ub78xEce-Star-Trek-Strange-New-Worlds-Season-3",
+      "v": "sub",
+      "y": "flms"
+     },
+     {
+      "w": "aJSUZtg2hA1klSRf0yzTd-Star-Trek-Strange-New-Worlds-Season-3",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 4,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "I6W2XnWJXkKjHdR2x20fN-Star-Trek-Strange-New-Worlds-Season-4",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "z100EZKPtWFeBVzjULlUF-Star-Trek-Strange-New-Worlds-Season-4",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   }
+  ],
+  "nodos": 11,
+  "errores": [],
+  "nombres_nodos": [
+   "Star Trek: Extraños Nuevos Mundos Temporada 4",
+   "Star Trek: Strange New Worlds Season 1",
+   "Star Trek: Strange New Worlds Season 2",
+   "Star Trek: Strange New Worlds Season 3",
+   "Star Trek: Strange New Worlds Temporada 1",
+   "Star Trek: Strange New Worlds Temporada 2",
+   "Star Trek: Strange New Worlds Temporada 3"
+  ]
+ },
+ {
+  "titulo_txt": "42 días en la oscuridad",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "KA8i7h3kN5GUhHRZjQCDG-42-Days-of-Darkness",
+  "titulo_plat": "42 días en la oscuridad",
+  "sinopsis": "La lucha de una mujer por encontrar el paradero de su hermana desaparecida. Esto tendrá que luchar contra la negligencia de las instituciones, los prejuicios de la soledad y el acoso de los medios de comunicación.",
+  "poster": "https://img.peliculaplay.com/cover/20220519/1652943767073_711b5a73bf86f7f0d17a1688eff41ebcv43ERAGCtSYBGHkLvG2rTi53BCl.jpg",
+  "hero": "https://img.peliculaplay.com/cover/20220519/1652943771826_b92a2198bf995324d230260f20325073akxIzuVtdlcrxK8DlfbhaW3ChYx.jpg",
+  "score": 6.4,
+  "generos": [
+   "Crimen",
+   "Drama",
+   "Suspense",
+   "Thriller"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "KA8i7h3kN5GUhHRZjQCDG-42-Days-of-Darkness",
+      "v": "sub",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "42 días en la oscuridad"
+  ]
+ },
+ {
+  "titulo_txt": "Alchemy of Souls (Alquimia de almas)",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "FJnCUpYduYJ9nsojveQ2k-Alchemy-of-Souls",
+  "titulo_plat": "Alquimia de almas",
+  "sinopsis": "Es un drama histórico de fantasía sobre el amor y el crecimiento de unos jóvenes magos que lidian con la energía celestial y se sobreponen a sus torcidos destinos. El escenario es un mundo imaginario que se inspira en las historias de los refugiados de Goguryeo antes de que se fundara Balhae, pero no se basa en una historia real. Sigue la historia de un guerrero de élite llamado Nak-su, cuya alma queda atrapada accidentalmente dentro del cuerpo débil de Mu-deok, la sirviente del noble Jang Wook",
+  "poster": "https://img.321moviesfree.com/cover/20250812/1754979450104_96c8afd79f2db4c1b5dfddf1ec0153c71654856586824_de2f4e47379a52bc27cae5a1afb55354还魂 剧集 20256竖版.png",
+  "hero": "https://img.321moviesfree.com/cover/20250812/1754979455231_9b1f547f2432171af8e7926265a1d18a1662461285944_ad351a81bc998fda97d758196ed6836epj3zCnPXI5Bh3lblZAgfzWUAn5v.png",
+  "score": 8.9,
+  "generos": [
+   "Acción",
+   "Fantasía",
+   "Historia",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "Alchemy of Souls Season 1",
+   "Alquimia de almas",
+   "Alquimia de almas",
+   "Alquimia de almas",
+   "Alquimia de almas"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 20,
+    "fuentes": [
+     {
+      "w": "FJnCUpYduYJ9nsojveQ2k-Alchemy-of-Souls",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "IL8R1DvHoZHWbLIcq9MPR-Alchemy-of-Souls",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "pY8gkWH8Ex4lmAX7Es7tc-Alchemy-of-Souls-Season-1",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 20,
+     "base": 20,
+     "sub": 20
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "sugm12wtLkE9Dx81mDWFp-Alchemy-of-Souls-Light-and-Shadow",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "pvQYZEIg3kot13MoAqMGR-Alchemy-of-Souls-Light-and-Shadow",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "LOBWcfBj776YUUQeBJBpk-Alchemy-of-Souls-Light-and-Shadow",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   }
+  ],
+  "nodos": 12,
+  "errores": [],
+  "nombres_nodos": [
+   "Alchemy of Souls Season 1",
+   "Alquimia de Almas Parte 2: Luz y Sombra",
+   "Alquimia de almas",
+   "Alquimia de almas Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Bad Prosecutor",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "RorjInwFeEwT5M7WUoGmq-Bad-Prosecutor",
+  "titulo_plat": "Bad Prosecutor",
+  "sinopsis": "Jin Jung trabaja como fiscal. Se basa a veces en la acción oportuna y el engaño, en lugar de las prácticas estándar de la ley. Al mismo tiempo, tiene un profundo sentido de la justicia y la conciencia. Se pondrá del lado de los débiles y peleará contra los malvados, extrayendo justicia ojo por ojo.",
+  "poster": "https://img.playspelis.com/cover/20221229/1672299328343_8021b973cf0025276c5537c38751622a胜负 竖.jpg",
+  "hero": "https://img.playspelis.com/cover/20221229/1672299504853_9b9286dc9686fe092ab326d4d4e3fa91胜负 横.jpg",
+  "score": 8.2,
+  "generos": [
+   "Acción",
+   "Comedia",
+   "Drama"
+  ],
+  "dubbing_names": [
+   "Bad Prosecutor",
+   "Bad Prosecutor"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 12,
+    "fuentes": [
+     {
+      "w": "RorjInwFeEwT5M7WUoGmq-Bad-Prosecutor",
+      "v": "sub",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "sub": 12
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "Bad Prosecutor"
+  ]
+ },
+ {
+  "titulo_txt": "Under the Queen's Umbrella (Bajo el paraguas de la reina)",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "RYFjSoNCuByDajWO1rJRy-Under-The-Queens-Umbrella[Audio-Latino]",
+  "titulo_plat": "Bajo el paraguas de la reina",
+  "sinopsis": "Dentro del palacio existen príncipes problemáticos que no causan dolores de cabeza para la familia real y están a punto de convertirse en príncipes de la corona adecuados. Su madre, IM Hwa Ryeong, es la esposa de un gran rey. Pero en lugar de tener un aura de elegancia y gracia, es una reina espinosa, sensible y de mal genio. Una vez más serena, cambió ya que la gente seguía presionando sus botones. ¡Es una reina que a veces abandona su orgullo e incluso se sabe que lo jura! Todos los días de su vida están llenos de pruebas, pero las resiste a todos, por el bien de sus hijos.",
+  "poster": "https://img.cuevana19.com/cover/20260525/1779680263463_e44d44410117d9011d21fd58d65cdcee0.webp",
+  "hero": "https://img.cuevana19.com/cover/20260525/1779680259137_b39d5fbf8b0d0e13cabd1bd42063ded30.webp",
+  "score": 8.1,
+  "generos": [
+   "Comedia",
+   "Drama",
+   "De época"
+  ],
+  "dubbing_names": [
+   "Under The Queen's Umbrella",
+   "Bajo el paraguas de la reina",
+   "Bajo el paraguas de la reina",
+   "Bajo el paraguas de la reina"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 16,
+    "fuentes": [
+     {
+      "w": "RYFjSoNCuByDajWO1rJRy-Under-The-Queens-Umbrella[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "8cDOErq0tlLZZKT5hLhF9-Under-the-Queens-Umbrella",
+      "v": "sub",
+      "y": "cuevana19"
+     },
+     {
+      "w": "e81nqIpyv838WZ8DwFfy3-Under-The-Queens-Umbrella",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 16,
+     "base": 16,
+     "sub": 16
+    }
+   }
+  ],
+  "nodos": 5,
+  "errores": [],
+  "nombres_nodos": [
+   "Bajo el paraguas de la reina",
+   "Under The Queen's Umbrella"
+  ]
+ },
+ {
+  "titulo_txt": "Bel-Air",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "51wWGmwVN5kHTSBiwCpwc-Bel-Air",
+  "titulo_plat": "Bel-Air Temporada 1",
+  "sinopsis": "El viaje de un adolescente inteligente de la calle cuya vida se transforma para siempre cuando se muda de las calles de West Filadelfia para vivir con sus familiares en uno de los suburbios más ricos de Los Ángeles.",
+  "poster": "https://img.cuevana4br.com/cover/20221229/1672292817673_d6adffe39db92153f326d6463f0719ff8Qcjj6WikAVPGoRjrV1oMYcEcGw.jpg",
+  "hero": "https://img.cuevana4br.com/cover/20221229/1672292822674_9d8f7eac8c5e61e39bf9d88a76c1a5e3zHdQ6yaqDf3OQO5uhr0auAgwK6O.jpg",
+  "score": 6.3,
+  "generos": [
+   "Drama"
+  ],
+  "dubbing_names": [
+   "Bel-Air Temporada 1",
+   "Bel-Air Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "51wWGmwVN5kHTSBiwCpwc-Bel-Air",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "X9AUl3KMsBG8qhzvH1UbD-Bel-Air",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "fdIZk1VlL5XaVXlqRtAnL-Bel-Air-Season-2",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "TAKUSbjA9vWgHOQhLpr8H-Bel-Air-Season-2",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "RPFGGLJ9KpXVS9rzdJhii-Bel-Air-Season-3",
+      "v": "latino",
+      "y": "cuevana4br"
+     },
+     {
+      "w": "zSBaNQbaRfZ3Yb5PJSYob-Bel-Air-Season-3",
+      "v": "base",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   }
+  ],
+  "nodos": 6,
+  "errores": [],
+  "nombres_nodos": [
+   "Bel-Air Temporada 1",
+   "Bel-Air Temporada 2",
+   "Bel-Air Temporada 3"
+  ]
+ },
+ {
+  "titulo_txt": "Bienvenidos a Edén",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "3ySUnkTmjfM5RTzzloZ1z-Welcome-to-Eden",
+  "titulo_plat": "Bienvenidos a Edén",
+  "sinopsis": "Un grupo de jóvenes adultos asisten a una fiesta en una isla remota, pero el tentador paraíso que les espera esconde peligrosos secretos y trampas.",
+  "poster": "https://img.peliculaplay.com/cover/20220606/1654508459498_52079feb39127a0832aba9eb5a4adbdekZO0mtTHAgg9QVscLVtwCcQ7Hgx.jpg",
+  "hero": "https://img.peliculaplay.com/cover/20220606/1654508460694_a628e86ba617bb3fb977961a78df78c8aScn0gmLiwfz8fGSm8nwAPgo0pD.jpg",
+  "score": 5.4,
+  "generos": [
+   "Acción",
+   "Drama",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "3ySUnkTmjfM5RTzzloZ1z-Welcome-to-Eden",
+      "v": "sub",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "XHGou8bVjJ3YnJ6HODjWA-Welcome-to-Eden-Season-2",
+      "v": "sub",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "Bienvenidos a Edén",
+   "Bienvenidos a Edén temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Big Mouth (Big Mouse)",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "aP7eIqzIuC1wESYudPffT-Big-Mouth-Season-1",
+  "titulo_plat": "Big Mouth Temporada 1",
+  "sinopsis": "Los amigos adolescentes encuentran sus vidas adelantadas por las maravillas y los horrores de la pubertad.",
+  "poster": "https://img.flixlat.com/cover/20250901/1756709852440_ef65b39515e32be5adb0554fa96dd0e31636443993418_3d14be7fc7a6d59b8d5efe81eb27c8ad1Zio9w1tAd3r5Gu4d9AzTSx2hnT.png",
+  "hero": "https://img.flixlat.com/cover/20250901/1756709854694_a5db0949aa44366697e548c0b8fbe2fc1636443971623_b1c80a849a8322db0f0b1f85858fad6f12lQiV31539v7al8N8gfgyySnoh.png",
+  "score": 7.9,
+  "generos": [
+   "Animación",
+   "Comedia",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "Big Mouth Season 1",
+   "Big Mouth Temporada 1",
+   "Big Mouth Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "aP7eIqzIuC1wESYudPffT-Big-Mouth-Season-1",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "HsQjZyhfiHWEwrSUMvrCe-Big-Mouth-Season-1",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "OCCRoT9R9MzEfopH8bKiO-Big-Mouth-Season-1",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "0mG41RGcHg4bdaaCcuWN3-Big-Mouth-Season-2",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "CjpdMw0egj9m7xcNjpCxr-Big-Mouth-Season-2",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "y6ygVIrbo9jtNuxHQQ1rW-Big-Mouth-Season-2",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 11,
+    "fuentes": [
+     {
+      "w": "Z94cVmOwyyNWZKLHJhkP1-Big-Mouth-Season-3",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "bHfpoXk2L5TlKe1JQMtun-Big-Mouth-Season-3",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "jArOjiMJUbWRLbiW61zHj-Big-Mouth-Season-3",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 11,
+     "base": 11,
+     "sub": 11
+    }
+   },
+   {
+    "n": 4,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "AINs468tDrhC75hc19bg8-Big-Mouth-Season-4",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "dTVRu8ObvTLpTxJRL32SU-Big-Mouth-Season-4",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "k4AmvN7E8cagHrqEhW6Ju-Big-Mouth-Season-4",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 5,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "swzYk87wcjmcZQHOGKsdE-Big-Mouth-Season-5",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "OAHjoPYwIFPJameDRglrs-Big-Mouth-Season-5",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "rE0vhGEQ18HBTruC5PuKT-Big-Mouth-Season-5",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 6,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "9HEorf8gSHmsipd7zxaGF-Big-Mouth-Season-6",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "mmjIzt74NG97gsE107XB8-Big-Mouth-Season-6",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "JDf9nUVVKuNvgiMta8Mxr-Big-Mouth-Season-6",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 7,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "PeYpbtW2ZPX27sQ9hKxMg-Big-Mouth-Season-7",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "MWxB6aNdoAWMgo8farKNk-Big-Mouth-Season-7",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "fmPYFOuL5ATnWRsKLQqzR-Big-Mouth-Season-7",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 8,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "lcVUdWgBDirgxC3GVUWVO-Big-Mouth-Season-8",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "MnYuzlbvBw0pKCJdaE111-Big-Mouth-Season-8",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "b3OQMZ9FrPqEZJPTgssIX-Big-Mouth-Season-8",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   }
+  ],
+  "nodos": 32,
+  "errores": [],
+  "nombres_nodos": [
+   "Big Mouth Season 1",
+   "Big Mouth Season 2",
+   "Big Mouth Season 3",
+   "Big Mouth Season 4",
+   "Big Mouth Season 5",
+   "Big Mouth Season 6",
+   "Big Mouth Season 7",
+   "Big Mouth Temporada 1",
+   "Big Mouth Temporada 2",
+   "Big Mouth Temporada 3",
+   "Big Mouth Temporada 4",
+   "Big Mouth Temporada 5",
+   "Big Mouth Temporada 6",
+   "Big Mouth Temporada 7",
+   "Big Mouth Temporada 8"
+  ]
+ },
+ {
+  "titulo_txt": "Blockbuster",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "FhSETtFWFoRrbzOwy42ku-Blockbuster-Season-1[Audio-Latino]",
+  "titulo_plat": "Blockbuster Season 1[Audio Latino]",
+  "sinopsis": "Timi Yun (Lan Doul Park) es un soñador simulado en el mundo 5G. Dedicó a todo su adulto a su primera película de amor, y Bai Shida, quien logró su ciudad natal, fue su primer y único trabajo. Entonces Timmy se enteró con horror que su tienda era la última Bai Shida en los Estados Unidos. Ahora no tiene otra opción. Solo puede tomar medidas y esforzarse por mantener los negocios y dejar que sus amigos no se desempleo. Timi y sus empleados se dieron cuenta rápidamente de que el último Bai Shida puede resolver las necesidades de la comunidad para volver a establecer la conexión interpersonal que perdieron en la era digital. Elissa (Melissa Ferlo) se convirtió en su último empleado, lo que también lo hizo inesperadamente reunirse con la persona larga y esperada. ¿Esta protección del pasado será la fuerza impulsora para que Timi se mueva hacia el presente? Sus empleados solo pueden esperar aquí.",
+  "poster": "https://img.cuevana19.com/cover/20230821/1692611236388_6e56d6cf05b3d001e5c5c02c287e70d81seIJ8wIKo3KXp7hnwS5wj69U8M.jpg",
+  "hero": "https://img.cuevana19.com/cover/20230821/1692611240104_f6a6a74bafc880c8acfca369979c87c1kkasrgvyhb0sW45FUKb4poWBrfr.jpg",
+  "score": 5.3,
+  "generos": [
+   "Comedia"
+  ],
+  "dubbing_names": [
+   "Blockbuster Season 1[Audio Latino]"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "FhSETtFWFoRrbzOwy42ku-Blockbuster-Season-1[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 10
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Blockbuster Season 1[Audio Latino]"
+  ]
+ },
+ {
+  "titulo_txt": "Cheer Up",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "czO6J86tXufIPvRPMfuEl-Cheer-Up",
+  "titulo_plat": "Cheer Up",
+  "sinopsis": "La brillante y diligente Do Hae Yi es estudiante en la Universidad de Yeonhee. Debido a la mala situación financiera de su familia, ella le da prioridad a ganar dinero en lugar de a la escuela. \nUn día, Do Hae Yi se une repentinamente al equipo de animadoras Teyia que existe desde hace 50 años en la Universidad de Yeonhee. Ella solo se une al club por dinero, pero mientras participa en el equipo de animadoras, Do Hae Yi comienza a experimentar la alegría de la vida en el campus y conoce a varias personas de Teyia, incluido Bae Young Woong, quien una vez fue miembro de Teyia y es alumno de Teyia. Yeonhee Univers, apoyando financiera y emocionalmente al equipo de animadoras.",
+  "poster": "https://img.peliculaplay.com/cover/20221202/1669967052392_11e1a981ee6a1cca520bafaece41d9c28.jpg",
+  "hero": "https://img.peliculaplay.com/cover/20221008/1665194076981_9c1f631c54eb4dcd2659c2da1f5e05911664944912647_a38711e4fe9648095e98d165f6d49e4cagyQFkNKBExKYiIealedXNDIDqn.jpeg",
+  "score": 8.5,
+  "generos": [
+   "Comedia",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "Cheer Up",
+   "Cheer Up",
+   "Cheer Up[SUB pt-BR]"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 16,
+    "fuentes": [
+     {
+      "w": "czO6J86tXufIPvRPMfuEl-Cheer-Up",
+      "v": "sub",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "ABLFgumr47XubE1EBBJWX-Cheer-Up[SUB-pt-BR]",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "sub": 16,
+     "base": 16
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "Cheer Up",
+   "Cheer Up[SUB pt-BR]"
+  ]
+ },
+ {
+  "titulo_txt": "Guillermo del Toro's Cabinet of Curiosities",
+  "site": "sololatino",
+  "tipo": "serie",
+  "wp_seed": "UZcMb3qb7WjqGTCup0oyf-Guillermo-del-Toros-Cabinet-of-Curiosities",
+  "titulo_plat": "El gabinete de curiosidades de Guillermo del Toro",
+  "sinopsis": "En esta colección de terror escalofriante y de gran impacto visual, las pesadillas más extrañas se desenvuelven en ocho tétricas historias seleccionadas por Guillermo del Toro.",
+  "poster": "https://img.solo-latino.com/cover/20221028/1666941540833_61b7e8bc91736529e2a457df078733e8奇思妙想 竖.jpg",
+  "hero": "https://img.solo-latino.com/cover/20221028/1666941542791_93617fcd18d325e3f6a6dab48ac55621奇思妙想 横.jpg",
+  "score": 8.1,
+  "generos": [
+   "Drama",
+   "Horror",
+   "Suspense",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Guillermo del Toro's Cabinet of Curiosities Tagalog",
+   "El gabinete de curiosidades de Guillermo del Toro",
+   "El gabinete de curiosidades de Guillermo del Toro",
+   "El gabinete de curiosidades de Guillermo del Toro",
+   "El gabinete de curiosidades de Guillermo del Toro"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "UZcMb3qb7WjqGTCup0oyf-Guillermo-del-Toros-Cabinet-of-Curiosities",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "b24ZJLkj8ooBoCNNAfRor-Guillermo-del-Toros-Cabinet-of-Curiosities",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "He2ylBqbMZV84FNlpSTRS-Guillermo-del-Toros-Cabinet-of-Curiosities-Tagalog",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8,
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 5,
+  "errores": [],
+  "nombres_nodos": [
+   "El gabinete de curiosidades de Guillermo del Toro",
+   "Guillermo del Toro's Cabinet of Curiosities Tagalog"
+  ]
+ },
+ {
+  "titulo_txt": "El hijo bastardo y el mismísimo diablo",
+  "site": "flms",
+  "tipo": "serie",
+  "wp_seed": "opeqSc2GSxW5r43Uhq8sG-The-Bastard-Son--The-Devil-Himself",
+  "titulo_plat": "El hijo bastardo y el mismísimo diablo",
+  "sinopsis": "Atrapado entre dos clanes en guerra, el hijo de un famoso brujo responsable de una masacre mortal intenta encontrar su lugar en el mundo… y sus poderes.",
+  "poster": "https://img.123flmsfree.com/cover/20221031/1667200160824_60d4ee939899fb5a23b1d3f75b36d0f4恶魔 竖.jpg",
+  "hero": "https://img.123flmsfree.com/cover/20221031/1667200163544_7b01b94ad3a856ffc77c57bfea48945f恶魔 横.jpg",
+  "score": 7.3,
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Drama",
+   "Fantasía"
+  ],
+  "dubbing_names": [
+   "El hijo bastardo y el mismísimo diablo",
+   "El hijo bastardo y el mismísimo diablo",
+   "El hijo bastardo y el mismísimo diablo"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "opeqSc2GSxW5r43Uhq8sG-The-Bastard-Son--The-Devil-Himself",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "BypIhvmIv2ZChQ3CBnv4I-The-Bastard-Son--The-Devil-Himself",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "El hijo bastardo y el mismísimo diablo"
+  ]
+ },
+ {
+  "titulo_txt": "The Patient (El paciente)",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "VSh2X6fphilP3K1va1o7R-The-Patient",
+  "titulo_plat": "The Patient",
+  "sinopsis": "Un psicoterapeuta que se encuentra cautivo por un asesino en serie con una petición inusual: frenar sus impulsos homicidas. Mientras el terapeuta desenreda la mente de este hombre, también tiene que lidiar con sus propios problemas reprimidos, creando un viaje que es tan traicionero como su encarcelamiento.",
+  "poster": "https://img.cuevana19.com/cover/20220830/1661841103361_6ce07ae0fd2f8083dcbef8c5c0eb8724病人 竖.jpg",
+  "hero": "https://img.cuevana19.com/cover/20220830/1661841106094_a46a6cfe10f3c4a432d436745358666f病人 横.jpg",
+  "score": 7.6,
+  "generos": [
+   "Drama",
+   "Suspense",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "The Patient",
+   "The Patient"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "VSh2X6fphilP3K1va1o7R-The-Patient",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "Yfr2ahvxhRe4QYiKERYdp-The-Patient",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "The Patient"
+  ]
+ },
+ {
+  "titulo_txt": "El primero de nosotros",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "JNtBHGVAWD0VjeMw1t6cQ-The-First-of-Us",
+  "titulo_plat": "El Primero de Nosotros",
+  "sinopsis": "Un grupo de 6 amigos sale a cenar cuando de repente uno de ellos se desmaya. Después de llevarlo rápidamente a la sala de emergencias, descubren que Santiago tiene un tumor cerebral bastante grave.",
+  "poster": "https://img.dramasfree.com/cover/20260828/1787909909882_513e5cb84896ecebb7d4d7ba0ca0cd05r5Z5ygBH9HYLY3nUPzvdSvlfW4Q.webp",
+  "hero": "https://img.dramasfree.com/cover/20260828/1787909900292_d81c92d73011c38a33eeedd7a67a3e4ffc874869-7189-4b3a-a727-4920894f4ba1.jpg",
+  "score": 7.2,
+  "generos": [
+   "Comedia",
+   "Drama",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "El Primero de Nosotros"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 59,
+    "fuentes": [
+     {
+      "w": "JNtBHGVAWD0VjeMw1t6cQ-The-First-of-Us",
+      "v": "latino",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 59
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "El Primero de Nosotros"
+  ]
+ },
+ {
+  "titulo_txt": "El rey, Vicente Fernández",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "mUoSuP4Lrt5eZRgpVmUov-El-Rey-Vicente-Fernández-Season-1[Audio-Latino]",
+  "titulo_plat": "El Rey, Vicente Fernández-Temporada 1",
+  "sinopsis": "Sigue la vida del ícono de la música mexicana Vicente Fernández.",
+  "poster": "https://img.cuevana19.com/cover/20221208/1670492544691_241bd438a80194b5b4b79f92390df064efZNiz4jkNybS7u4dmLZoNbroK0.jpg",
+  "hero": "https://img.cuevana19.com/cover/20221208/1670492796149_b051667d32d5328134a8e55e7388d740wsuAZBC1AdKUlfgTJZMOiUlpJsG.jpg",
+  "score": 7.4,
+  "generos": [
+   "Biografía",
+   "Drama",
+   "Música"
+  ],
+  "dubbing_names": [
+   "El Rey, Vicente Fernández-Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 36,
+    "fuentes": [
+     {
+      "w": "mUoSuP4Lrt5eZRgpVmUov-El-Rey-Vicente-Fernandez-Season-1[Audio-Latino]",
+      "v": "sub",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "sub": 36
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "El Rey, Vicente Fernández-Temporada 1"
+  ]
+ },
+ {
+  "titulo_txt": "El secreto de la familia Greco",
+  "site": "pelicula",
+  "tipo": "serie",
+  "wp_seed": "iIWrs1XsN7EdQPDeIbbpy-The-Secret-of-the-Greco-Family",
+  "titulo_plat": "The Secret of the Greco Family",
+  "sinopsis": "La familia Greco secuestra a las ricas víctimas y obliga a la familia de las víctimas a su dinero para que ellos mismos puedan mantener su estatus y los estándares vivos.",
+  "poster": "https://img.123pelicula.com/cover/20221114/1668415914723_93dc335281e57a79796bb9961940bb782ppZZoTORmHhvcWYp9UvdSXtrVL.jpg",
+  "hero": "https://img.123pelicula.com/cover/20221114/1668415917598_2ce37686158ee798e57c54ae6b5ed457hEZFPGyEFFZFcaORQ3xrBQj17tH.jpg",
+  "score": 6.4,
+  "generos": [
+   "Crimen",
+   "Drama"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "iIWrs1XsN7EdQPDeIbbpy-The-Secret-of-the-Greco-Family",
+      "v": "sub",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "sub": 9
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "The Secret of the Greco Family"
+  ]
+ },
+ {
+  "titulo_txt": "The Sound of Magic (El sonido de la magia)",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "FWShqRHM3mxVFFWc1KCa3-The-Sound-of-Magic",
+  "titulo_plat": "el sonido de la magia",
+  "sinopsis": "Abandonado por sus padres debido a la deuda, Yoon Ah Yi se apoya a sí misma y su hermana menor. A pesar de qué tan ocupado está con su trabajo a tiempo parcial y sus estudios, Yoon Ah Yi sigue siendo uno de los mejores estudiantes de la escuela. Todos los deseos de Yoon Ha Yi es crecer lo más rápido posible para que ella pueda tener un trabajo estable, y cuando ella revela su sueño con el mago Lee Eul, su vida se cambia para siempre.",
+  "poster": "https://img.flixlat.com/cover/20220415/1649993224652_1a1324cdda65685844de7ea9ee348a70ofU2TlwDOOuWtQ456jeGwRNkyp2.jpg",
+  "hero": "https://img.flixlat.com/cover/20220506/1651822659397_1224e9090f68589098e630fe3e9ab197魔幻之音 .png",
+  "score": 7.6,
+  "generos": [
+   "Drama",
+   "Fantasía",
+   "Música"
+  ],
+  "dubbing_names": [
+   "el sonido de la magia",
+   "el sonido de la magia",
+   "el sonido de la magia"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "FWShqRHM3mxVFFWc1KCa3-The-Sound-of-Magic",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "sPUv0aEkf4CiAG89tTKVR-The-Sound-of-Magic",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "E3jRLlzpH4Q239yPs5Tdu-The-Sound-of-Magic",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "sub": 6,
+     "base": 6
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "el sonido de la magia"
+  ]
+ },
+ {
+  "titulo_txt": "Entrevías",
+  "site": "pelicula",
+  "tipo": "serie",
+  "wp_seed": "4F8z6pL82EI0nnSboyrrm-Wrong-Side-of-the-Tracks-Season-1",
+  "titulo_plat": "Entrevías",
+  "sinopsis": "Cuando su nieta adolescente es víctima de los traficantes de drogas que adelantan a su vecindario, un veterano de guerra harto toma el asunto en sus propias manos.",
+  "poster": "https://img.123pelicula.com/cover/20250212/1739352555798_6e6c1507e7451fdf46fd427615816b7e7K5YGUN1myH0lv97mPUw7TmGbHv.jpg",
+  "hero": "https://img.123pelicula.com/cover/20250212/1739352564286_b59488042e102dcf135ecee5740a2fb3td5l6r4LciFVoHZJybMzgoR9keC.jpg",
+  "score": 7,
+  "generos": [
+   "Drama"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "4F8z6pL82EI0nnSboyrrm-Wrong-Side-of-the-Tracks-Season-1",
+      "v": "sub",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "RxBmVvlXCd9DRjWNGEJ5n-Wrong-Side-of-the-Tracks-Season-2",
+      "v": "sub",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "sub": 8
+    }
+   },
+   {
+    "n": 3,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "SCfOeDv1H74VYxu0Ipw3g-Wrong-Side-of-the-Tracks--Season-3",
+      "v": "sub",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "sub": 8
+    }
+   },
+   {
+    "n": 4,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "efpazphgBALX70yXPVb4y-Wrong-Side-of-the-Tracks-Season-4",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Entrevías",
+   "Entrevías Temporada 2",
+   "Entrevías Temporada 3",
+   "Entrevías Temporada 4"
+  ]
+ },
+ {
+  "titulo_txt": "Feria: la luz más oscura",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "jx3RedEPuaPJGtIT4xiYn-Feria-The-Darkest-Light",
+  "titulo_plat": "Feria: La luz más oscura",
+  "sinopsis": "Feria, Andalucía, mediados de la década de 1990. Dos hermanas, Eva y Sofía, descubren que sus padres desaparecidos son en realidad dos monstruos que, antes de desaparecer, comprometieron un crimen horrible que costó la vida de 23 víctimas. Las dos hermanas tienen que enfrentar las consecuencias de los padres de sus padres en una ciudad donde sus habitantes no son tan ingenuos, ya que parecen y la realidad oculta un universo fantástico.",
+  "poster": "https://img.dramasfree.com/cover/20220129/1643425728797_79950458650164e0add6b82184ceb144k1m4aydO6752Czydk3Z8dR4yP0L.jpg",
+  "hero": "https://img.dramasfree.com/cover/20220129/1643425732465_8a70cf76646fa417febf7c4a188e91a5shftekqAkBsGvHoXKgGMsGVjE5q.jpg",
+  "score": 7.1,
+  "generos": [
+   "Fantasía",
+   "Thriller"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "jx3RedEPuaPJGtIT4xiYn-Feria-The-Darkest-Light",
+      "v": "sub",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Feria: La luz más oscura"
+  ]
+ },
+ {
+  "titulo_txt": "Fire Country",
+  "site": "flms",
+  "tipo": "serie",
+  "wp_seed": "ZksMiSrWUBc6koxjzk2Q0-Fire-Country-Season-1",
+  "titulo_plat": "Fire Country Temporada 1",
+  "sinopsis": "Un joven convicto se une a un programa de lucha contra incendios en busca de redención y una sentencia de prisión acortada. Él y otros reclusos trabajan junto a los bomberos de élite para extinguir las llamas masivas en toda la región.",
+  "poster": "https://img.123flmsfree.com/cover/20251017/1760705320972_7eab6173e930b1c51411775e3d2804281684813331475_66ec64e57a2797ffa280b588c96e128a竖.png",
+  "hero": "https://img.123flmsfree.com/cover/20251017/1760705324803_5e54efd8ecc90f438f5d65d660a795271684813337268_4d6bba7148fcaac90e5f04fee917e913横.png",
+  "score": 7.2,
+  "generos": [
+   "Drama"
+  ],
+  "dubbing_names": [
+   "Fire Country Temporada 1",
+   "Fire Country Season",
+   "Fire Country Season",
+   "Fire Country Season"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 22,
+    "fuentes": [
+     {
+      "w": "ZksMiSrWUBc6koxjzk2Q0-Fire-Country-Season-1",
+      "v": "latino",
+      "y": "flms",
+      "m": 14
+     },
+     {
+      "w": "YczWZ8uu8jKUZiRkDyWEp-Fire-Country-Season",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 14,
+     "base": 22
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "tYiiWYvlVeFQ4asiNpQnN-Fire-Country-Season-2",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "n5MNL5toE0XOYcU8eXDAi-Fire-Country-Season-2",
+      "v": "sub",
+      "y": "flms"
+     },
+     {
+      "w": "35emFoPjVB3ULcqXQ0KUB-Fire-Country-Season-2",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "sub": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 20,
+    "fuentes": [
+     {
+      "w": "hntJjc52XTfuAS39xFHME-Fire-Country-Season-3",
+      "v": "sub",
+      "y": "flms"
+     },
+     {
+      "w": "VwWKegCL2BMNaGAkONb5y-Fire-Country-Season-3",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "sub": 20,
+     "base": 20
+    }
+   },
+   {
+    "n": 4,
+    "q": 20,
+    "fuentes": [
+     {
+      "w": "8dOJ9jneufZgTLZvtB1cP-Fire-Country-Season-4",
+      "v": "sub",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "sub": 20
+    }
+   }
+  ],
+  "nodos": 13,
+  "errores": [],
+  "nombres_nodos": [
+   "Fire Country Season",
+   "Fire Country Season 2",
+   "Fire Country Season 3",
+   "Fire Country Season 4",
+   "Fire Country Temporada 1",
+   "Fire Country Temporada 2",
+   "Fire Country Temporada 3"
+  ]
+ },
+ {
+  "titulo_txt": "Ghost Doctor",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "p752jnAQYZhvvPRobMHDv-Ghost-Doctor",
+  "titulo_plat": "Médico Fantasma",
+  "sinopsis": "Cha Young-Min (Rain) es un médico genio, pero es arrogante y egoísta. Un día, se ve envuelto en un caso inesperado. Debido al caso inesperado, su espíritu posee el cuerpo de otro médico. Estos dos médicos son completamente opuestos, con personalidades y habilidades médicas opuestas.",
+  "poster": "https://img.cuevana4br.com/cover/20220105/1641349065447_de02813cd6374002277de965dd2131f8sH5yEo5xvLmqWAz0PoDtY1rXN07.jpg",
+  "hero": "https://img.cuevana4br.com/cover/20220105/1641349078944_60fca184ab865a290ca51cb173557cfc微信截图_20220105101731.png",
+  "score": 8.6,
+  "generos": [
+   "Fantasía"
+  ],
+  "dubbing_names": [
+   "Médico Fantasma"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 16,
+    "fuentes": [
+     {
+      "w": "p752jnAQYZhvvPRobMHDv-Ghost-Doctor",
+      "v": "sub",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "sub": 16
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Médico Fantasma"
+  ]
+ },
+ {
+  "titulo_txt": "How I Met Your Father",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "pZbi3JgAX9NGD0PUoYlXW-How-I-Met-Your-Father[Audio-Latino]",
+  "titulo_plat": "How I Met Your Father[Audio Latino]",
+  "sinopsis": "En un futuro cercano, Sophie (Duff) le está diciendo a su hijo la historia de cómo se encontró con su padre: una historia que nos catapulta al año 2021, donde Sophie y su grupo de amigos de punto más cercano están en medio de quienes Son, lo que quieren de la vida, y cómo enamorarse en la edad de las aplicaciones de citas y las opciones ilimitadas.",
+  "poster": "https://img.cuevana19.com/cover/20220119/1642574090993_3f1ce123dfe96fa820febc334e3baa6dqrGqcfVvFrn3013meVlCe8BR7sb.jpg",
+  "hero": "https://img.cuevana19.com/cover/20220119/1642574095598_2e92ddb20727d295c6bb0b68d446191940JJpWnIkxMpKGHCjt9uE6kzJHU.jpg",
+  "score": 4.9,
+  "generos": [
+   "Comedia",
+   "Drama"
+  ],
+  "dubbing_names": [
+   "How I Met Your Father[Audio Latino]",
+   "How I Met Your Father Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "pZbi3JgAX9NGD0PUoYlXW-How-I-Met-Your-Father[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "Zs6YDkJYgKfwEfi2Upwtn-How-I-Met-Your-Father",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 20,
+    "fuentes": [
+     {
+      "w": "LEXwH2K4wojRC8zB1Oq1h-How-I-Met-Your-Father-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "cuevana19"
+     },
+     {
+      "w": "WGJkNGesA0K9a7wIfcdKp-How-I-Met-Your-Father-Season-2",
+      "v": "base",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "latino": 20,
+     "base": 20
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Cómo Conocí a Tu Padre Temporada 2",
+   "How I Met Your Father Temporada 1",
+   "How I Met Your Father[Audio Latino]"
+  ]
+ },
+ {
+  "titulo_txt": "Inventing Anna",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "foyAgnH8vi6mbURpf4tan-Inventing-Anna[Audio-Latino]",
+  "titulo_plat": "Inventando a Anna",
+  "sinopsis": "Un periodista con mucho para demostrar que investiga el caso de Anna Delvey, la legendaria heredera alemana de Instagram, que robó los corazones de la escena social de Nueva York, y también robó su dinero.",
+  "poster": "https://img.peliculaplay.com/cover/20220126/1643185310341_99cf49f9b1f91c7814877e1e8236243bjzCnl9wACp0eUMa3IG5e0aSJIXD.jpg",
+  "hero": "https://img.peliculaplay.com/cover/20220211/1644569527595_298e271534e9301331f287b6dfa626ae-nventing-anna.png",
+  "score": 6.8,
+  "generos": [
+   "Drama"
+  ],
+  "dubbing_names": [
+   "Inventing Anna",
+   "Inventando a Anna",
+   "Inventando a Anna"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "foyAgnH8vi6mbURpf4tan-Inventing-Anna[Audio-Latino]",
+      "v": "latino",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "rMJHCXfR68t9UfSr9Wrja-Inventing-Anna",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "latino": 9,
+     "base": 9
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Inventando a Anna",
+   "Inventing Anna"
+  ]
+ },
+ {
+  "titulo_txt": "Island",
+  "site": "sololatino",
+  "tipo": "serie",
+  "wp_seed": "HK3A5CnJhmgNRueO7DTZe-ISLAND",
+  "titulo_plat": "ISLAND",
+  "sinopsis": "Won Mi Ho es la única hija de un padre que dirige el Grupo Daehan. Es arrogante y egoísta, pero también se ve triste. Un día, crea un gran problema. Debido a esto, su padre la destierra a la isla de Jeju. Ella es asignada para trabajar allí como profesora de escuela secundaria, enseñando ética. Mientras tanto, Won Mi Ho se involucra en un caso relacionado con fantasmas. Los fantasmas han intentado deshacerse del mundo humano y apuntan a Won Mi Ho. Un misterioso cazador de fantasmas intenta proteger a Won Mi Ho.",
+  "poster": "https://img.solo-latino.com/cover/20230105/1672909185652_e615f58fa85f3137cf04e492c6e83fc5岛 竖.jpg",
+  "hero": "https://img.solo-latino.com/cover/20230105/1672909188677_8b3248228c2ddbb37d1fe6761ec82135岛 横.jpg",
+  "score": 8.2,
+  "generos": [
+   "Acción",
+   "Fantasía",
+   "Horror"
+  ],
+  "dubbing_names": [
+   "ISLAND"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "HK3A5CnJhmgNRueO7DTZe-ISLAND",
+      "v": "sub",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "ISLAND"
+  ]
+ },
+ {
+  "titulo_txt": "We Own This City (La ciudad es nuestra)",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "zipvdCgbArl6fcflOopV0-We-Own-This-City",
+  "titulo_plat": "La ciudad es nuestra",
+  "sinopsis": "Somos dueños de la ciudad en Baltimore 2015. Los disturbios están estallando en toda la ciudad a medida que los ciudadanos exigen justicia para Freddie Gray, un hombre negro de 25 años que ha muerto bajo circunstancias sospechosas mientras está bajo custodia policial. Las drogas y el crimen violento están aumentando, y la ciudad está alcanzando su más alto recuento de asesinatos en más de dos décadas: 342 homicidios en un solo año, en una ciudad de solo 600,000 personas. Enfrentando la presión de la oficina del alcalde, así como una investigación federal del departamento sobre los comandantes de la policía de la muerte de Gray-Baltimore, recurren a un héroe de rango, el sargento Wayne Jenkins, y su unidad de civilas de élite, la fuerza de tarea de rastreo de armas, hasta Ayuda a sacar armas y drogas fuera de la calle. Sin embargo, detrás de estos nuevos esfuerzos, una conspiración criminal de una escala sin precedentes se desarrollaba dentro del departamento de policía. Se le confió la fijación de la crisis de drogas y armas de la ciudad, Jenkins eligió explotarlo en su lugar.",
+  "poster": "https://img.cuevana4br.com/cover/20220505/1651736692629_179cf99dba5b09d97b534504f9a51999qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg",
+  "hero": "https://img.cuevana4br.com/cover/20220505/1651736695891_d776ba94505758476a97c918012c74c536sQKl71WMuuH0KF6SOOlSEIhZb.jpg",
+  "score": 7.6,
+  "generos": [
+   "Crimen",
+   "Drama"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "zipvdCgbArl6fcflOopV0-We-Own-This-City",
+      "v": "sub",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "La ciudad es nuestra"
+  ]
+ },
+ {
+  "titulo_txt": "The Staircase (La escalera)",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "hJzTfYGJZVNpcZZMQyNBD-The-Staircase",
+  "titulo_plat": "La escalera",
+  "sinopsis": "Un hombre, aferrado a la muerte de su esposa que cayó en una escalera, es acusada de asesinarla.",
+  "poster": "https://img.dramasfree.com/cover/20220507/1651888593500_034c4d8bb143a6ab45b7404493db71a6阶梯之间_15606_竖版.png",
+  "hero": "https://img.dramasfree.com/cover/20220507/1651888600965_ea359711aac5d99170b48ff046cfc327阶梯之间_15606横板.png",
+  "score": 7.4,
+  "generos": [
+   "Biografía",
+   "Crimen",
+   "Drama",
+   "Suspense",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "La escalera",
+   "La escalera"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "hJzTfYGJZVNpcZZMQyNBD-The-Staircase",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "wOxlLCYxxZNcgyY2AEU8u-The-Staircase",
+      "v": "base",
+      "y": "dramas",
+      "m": 4
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 4
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "La escalera"
+  ]
+ },
+ {
+  "titulo_txt": "The Glory (La gloria)",
+  "site": "pelicula",
+  "tipo": "serie",
+  "wp_seed": "A732Q2urBVwCpmNtMN9rg-The-Glory",
+  "titulo_plat": "La gloria",
+  "sinopsis": "Años después de haber sobrevivido al atroz acoso de varios compañeros de escuela, una mujer arma un elaborado plan de venganza para que caigan uno por uno.",
+  "poster": "https://img.123pelicula.com/cover/20230321/1679367353857_4227faaa056886b3f36186570f75fc30荣耀 竖.jpg",
+  "hero": "https://img.123pelicula.com/cover/20230321/1679367357258_796a7483c0979ca3eada6dd421f0accf荣耀 横.jpg",
+  "score": 8.1,
+  "generos": [
+   "Drama",
+   "Suspense",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "la gloria",
+   "la gloria",
+   "La gloria",
+   "la gloria Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 16,
+    "fuentes": [
+     {
+      "w": "kb3ZMb7iDu3fG1j9hWTDc-The-Glory",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "A732Q2urBVwCpmNtMN9rg-The-Glory",
+      "v": "sub",
+      "y": "pelicula",
+      "m": 8
+     },
+     {
+      "w": "7Wkln8b4leivJoappXd9l-The-Glory-Season-1",
+      "v": "base",
+      "y": "pelicula",
+      "m": 8
+     }
+    ],
+    "variantes": {
+     "sub": 8,
+     "base": 8,
+     "latino": 16
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "c9q0W7ygffqyyEr82pvyE-The-Glory-Season-2",
+      "v": "latino",
+      "y": "pelicula"
+     },
+     {
+      "w": "jSit0pp6mmN7MIWHmHDRW-The-Glory-Season-2",
+      "v": "sub",
+      "y": "pelicula"
+     },
+     {
+      "w": "CURD4De3g3412YLyV2xFK-The-Glory-Season-2",
+      "v": "base",
+      "y": "pelicula"
+     }
+    ],
+    "variantes": {
+     "sub": 8,
+     "base": 8,
+     "latino": 8
+    }
+   }
+  ],
+  "nodos": 8,
+  "errores": [],
+  "nombres_nodos": [
+   "La gloria",
+   "la gloria",
+   "la gloria Temporada 1",
+   "la gloria Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "Las de la última fila",
+  "site": "cuevana4br",
+  "tipo": "serie",
+  "wp_seed": "vGlpNiRCLKmu6cU0jUC25-The-Girls-at-the-Back",
+  "titulo_plat": "Las de la última fila",
+  "sinopsis": "Cinco mujeres de 30 años, amigas desde sus días escolares, van a su escapada anual. Pero este año, uno de ellos acaba de ser diagnosticado con cáncer.",
+  "poster": "https://img.cuevana4br.com/cover/20221115/1668484229487_483bbce5a7733b80383e002a3083878f后排闺蜜 剧集 26474竖版.png",
+  "hero": "https://img.cuevana4br.com/cover/20221115/1668484233604_41ea71534b3a7fb0a67953e3f4762cac后排闺蜜 剧集 26474横版.png",
+  "score": 7.6,
+  "generos": [
+   "Comedia",
+   "Drama"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "vGlpNiRCLKmu6cU0jUC25-The-Girls-at-the-Back",
+      "v": "sub",
+      "y": "cuevana4br"
+     }
+    ],
+    "variantes": {
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Las de la última fila"
+  ]
+ },
+ {
+  "titulo_txt": "The Lincoln Lawyer (El abogado del Lincoln)",
+  "site": "flixlat",
+  "tipo": "serie",
+  "wp_seed": "M2zZc5Im1n4UVVDj01NJH-The-Lincoln-Lawyer",
+  "titulo_plat": "El abogado del Lincoln",
+  "sinopsis": "Un idealista iconoclasta saca su práctica legal desde la parte posterior de su auto Lincoln Town en esta serie basada en las novelas más vendidas de Michael Connelly.",
+  "poster": "https://img.flixlat.com/cover/20220505/1651735417297_b33e0d6391a087c1a413737a1954c19e4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
+  "hero": "https://img.flixlat.com/cover/20220505/1651735425936_40544b27accde136dfdac388a20a7aebu2ekcvwO0AdSwUxFFhnLd9SV4Rh.jpg",
+  "score": 7.7,
+  "generos": [
+   "Crimen",
+   "Drama",
+   "Suspense",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "El abogado del Lincoln",
+   "El abogado del Lincoln",
+   "El abogado del Lincoln",
+   "El abogado del Lincoln"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "M2zZc5Im1n4UVVDj01NJH-The-Lincoln-Lawyer",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "NQR0ImwCED4uxtmjExkxR-The-Lincoln-Lawyer",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "7nWs9kydUGO7qs4lAzyxd-The-Lincoln-Lawyer-Season-1",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "kdASRrB8JW74edmxw37nJ-The-Lincoln-Lawyer-Season-2[Audio-Latino]",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "32qHv8Csm5ZI0rwk1Ebmq-The-Lincoln-Lawyer-Season-2",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "7bS30AUiV3OvnyBBSFyRd-The-Lincoln-Lawyer-Season-2",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "ai00cyZA20e9mf8w1tSfu-The-Lincoln-Lawyer-Season-3",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "IJEc2LrOsldX9MdAJZLo2-The-Lincoln-Lawyer-Season-3",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "Lp2iiiZ5UL9Oio3OX7rfO-The-Lincoln-Lawyer-Season-3",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   },
+   {
+    "n": 4,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "kjA0QMwD4pUnq8KxenyqP-The-Lincoln-Lawyer-Season-4",
+      "v": "latino",
+      "y": "flixlat"
+     },
+     {
+      "w": "V3soNqFWgDXSPD3IvK70j-The-Lincoln-Lawyer-Season-4",
+      "v": "sub",
+      "y": "flixlat"
+     },
+     {
+      "w": "KRECuw8fxxJ80hTBhtns3-The-Lincoln-Lawyer-Season-4",
+      "v": "base",
+      "y": "flixlat"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10,
+     "sub": 10
+    }
+   }
+  ],
+  "nodos": 16,
+  "errores": [],
+  "nombres_nodos": [
+   "El abogado del Lincoln",
+   "El abogado del Lincoln Temporada 4"
+  ]
+ },
+ {
+  "titulo_txt": "Man vs. Bee (El hombre contra la abeja)",
+  "site": "flms",
+  "tipo": "serie",
+  "wp_seed": "CUV1fxcpwOgWytiMo2cNq-Man-Vs-Bee[Audio-Latino]",
+  "titulo_plat": "El hombre contra la abeja",
+  "sinopsis": "Un hombre se encuentra en guerra con una abeja mientras casa de una mansión lujosa. ¿Quién ganará y qué daño irreparable se hará en el proceso?",
+  "poster": "https://img.123flmsfree.com/cover/20220530/1653897681494_44608422da3e4c3b2de3630c5e447b0dc80mxgOPvSWJBcgWoI5bf3et5Ws.jpg",
+  "hero": "https://img.123flmsfree.com/cover/20220624/1656061753918_022a5f579cc35bd43d61ad37c16b543c人来蜂 .png",
+  "score": 7.5,
+  "generos": [
+   "Comedia",
+   "Familiares",
+   "Sketch"
+  ],
+  "dubbing_names": [
+   "El hombre contra la abeja",
+   "El hombre contra la abeja",
+   "El hombre contra la abeja"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 9,
+    "fuentes": [
+     {
+      "w": "CUV1fxcpwOgWytiMo2cNq-Man-Vs-Bee[Audio-Latino]",
+      "v": "latino",
+      "y": "flms"
+     },
+     {
+      "w": "sYHFAKpcU2vmwP7ynHZAk-Man-vs-Bee",
+      "v": "base",
+      "y": "flms"
+     }
+    ],
+    "variantes": {
+     "latino": 9,
+     "base": 9
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "El hombre contra la abeja"
+  ]
+ },
+ {
+  "titulo_txt": "My Liberation Notes (Mi diario de liberación)",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "7gjTaMv2hbsEfcrM2UPwJ-My-Liberation-Notes",
+  "titulo_plat": "My Liberation Notes",
+  "sinopsis": "Una historia de tres hermanos y un misterioso extraño que anhelan ser \"liberados\" de sus frustrantes vidas.\n\nUbicados en Sanpo Village, un lugar donde más personas se van de las que se mudan, los tres hermanos Yeom, Chang Hee, Mi Jung y Ki Jung, quieren escapar de una vida que está obstruida con 'sin respuesta'.\n\nUn día, un hombre misterioso llamado Sr. Goo se muda repentinamente a su vecindario. Es un borracho y parece que tiene muchas cargas y secretos. Su personalidad cautelosa y su preferencia por mantenerse solo lo convierten en la comidilla de la ciudad, lo que lleva incluso a la tímida Mi Jung, la más joven de los tres hermanos, a acercarse a él.",
+  "poster": "https://img.321moviesfree.com/cover/20230104/1672812120855_235bb409649f294434a9d22191fba3d2olmfFeKZyQoTwj9Zo3Y5IUaioPB.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20230104/1672812123786_7cdd5a86c0878371f33b6c099c777d9aopuPMQPNeDyTmOTqRDxQSV7IN8h.jpg",
+  "score": 8.6,
+  "generos": [
+   "Drama",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "My Liberation Notes",
+   "My Liberation Notes"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 16,
+    "fuentes": [
+     {
+      "w": "7gjTaMv2hbsEfcrM2UPwJ-My-Liberation-Notes",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "UFo8W1mzS0kauv8zmeXlD-My-Liberation-Notes",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 16,
+     "base": 16
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "My Liberation Notes"
+  ]
+ },
+ {
+  "titulo_txt": "Narco-Saints (Narcosantos)",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "uB3DoelFC246zYQZa33Yq-Narco-Saints",
+  "titulo_plat": "Narcosantos",
+  "sinopsis": "Un empresario se une a una misión secreta del Gobierno para capturar a un capo de la droga coreano que opera en Sudamérica. Basada en hechos reales.",
+  "poster": "https://img.dramasfree.com/cover/20221026/1666780248506_fbc1df57d06017741460a76d44f79ef6苏里南 竖.jpg",
+  "hero": "https://img.dramasfree.com/cover/20221026/1666780251590_eaeeeefd7f51caf80e60ee6401443a30苏里南 横.jpg",
+  "score": 7.3,
+  "generos": [
+   "Acción",
+   "Biografía",
+   "Crimen",
+   "Drama",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Surinam Tagalog",
+   "Narcosantos",
+   "Narcosantos",
+   "Narcosantos"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "uB3DoelFC246zYQZa33Yq-Narco-Saints",
+      "v": "latino",
+      "y": "dramas"
+     },
+     {
+      "w": "yqrbJYN7sT8Di5ekq9E2M-Narco-Saints",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "gXFcFHt2r3IwIMDuOEc8S-Surinam-Tagalog",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "base": 6,
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 4,
+  "errores": [],
+  "nombres_nodos": [
+   "Narcosantos",
+   "Surinam Tagalog"
+  ]
+ },
+ {
+  "titulo_txt": "Obi-Wan Kenobi",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "2fSOz3P1H6rII4YhcNaGn-Obi-Wan-Kenobi[Audio-Latino]",
+  "titulo_plat": "Obi-Wan Kenobi[Audio Latino]",
+  "sinopsis": "Jedi Master Obi-Wan Kenobi Relojes sobre el joven Luke Skywalker y evade los cazadores de élite Jedi del Imperio durante su exilio en el Planeta del Desierto Tatooine.",
+  "poster": "https://img.321moviesfree.com/cover/20220315/1647324261473_1c59ff7e1b205584bce69cc4586e682086HFg9LPGYdTFhFQxPg9Cfpe7VD.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20220527/1653629108535_cd1285ac41e3e6d7fe7f3ce6a2968593gwmm1SlZdYbcTY0iJPyhgNXdVyk.jpeg",
+  "score": 7.6,
+  "generos": [
+   "Acción",
+   "Ciencia ficción"
+  ],
+  "dubbing_names": [
+   "Obi-Wan Kenobi",
+   "Obi-Wan Kenobi[Audio Latino]",
+   "Obi-Wan Kenobi"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "2fSOz3P1H6rII4YhcNaGn-Obi-Wan-Kenobi[Audio-Latino]",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "LLGSV5AWf4pyhdJ4scSbg-Obi-Wan-Kenobi",
+      "v": "sub",
+      "y": "movies321"
+     },
+     {
+      "w": "KNpWiUztukDpCHjaCsChX-Obi-Wan-Kenobi",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "sub": 6,
+     "base": 6
+    }
+   }
+  ],
+  "nodos": 3,
+  "errores": [],
+  "nombres_nodos": [
+   "Obi-Wan Kenobi",
+   "Obi-Wan Kenobi[Audio Latino]"
+  ]
+ },
+ {
+  "titulo_txt": "Pam & Tommy",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "ifTtmvAs6ewbHH0RJ9lAb-Pam--Tommy",
+  "titulo_plat": "Pam & Tommy",
+  "sinopsis": "Sigue la historia de la relación Pamela Anderson y Tommy Lee, volviendo a su romance de torbellino que comenzó con ellos casarse después de solo conociéndose solo durante 96 horas en 1995.",
+  "poster": "https://img.321moviesfree.com/cover/20220217/1645078407056_4b9a5907662dbc4e6bef5b548ea1a592u6Hfb3EsnvlPChr01jErXDTsdan.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20220217/1645078410441_fb94641bf1bc33eda7996e3d0617083de6isYUCluAhUITOJz5eBgvsbuiY.jpg",
+  "score": 7.5,
+  "generos": [
+   "Biografía",
+   "Drama",
+   "Romance"
+  ],
+  "dubbing_names": [
+   "Pam & Tommy",
+   "Pam & Tommy"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "ifTtmvAs6ewbHH0RJ9lAb-Pam--Tommy",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "kAW8LnWLMYuuIEyDJwGfQ-Pam--Tommy",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "Pam & Tommy"
+  ]
+ },
+ {
+  "titulo_txt": "Paper Girls",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "vUUdHftn2D9vYi9UyKMHX-Paper-Girls[Audio-Latino]",
+  "titulo_plat": "Paper Girls[Audio Latino]",
+  "sinopsis": "Pocas horas después de la noche de Halloween de 1988, cuatro niñas de 12 años deben enfrentarse a una misión. Atrapados en un conflicto complicado, viajarán en el tiempo para salvar el mundo.",
+  "poster": "https://img.321moviesfree.com/cover/20220726/1658800449593_b06c293916cffe26a8125521c01370481rNcKqHm8UsZ66M6OgmlFSEbuXE.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20220726/1658800456302_fd80e19e63db3650aee628f92f5307f9tfEG67ia9AsG7J8aiwfJgGFi9et.jpg",
+  "score": 6.4,
+  "generos": [
+   "Drama",
+   "Fantasía",
+   "Horror",
+   "Ciencia ficción",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "Paper Girls",
+   "Paper Girls[Audio Latino]"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "vUUdHftn2D9vYi9UyKMHX-Paper-Girls[Audio-Latino]",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "umWeJspZSZrKCvk0T1oJU-Paper-Girls",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "Paper Girls",
+   "Paper Girls[Audio Latino]"
+  ]
+ },
+ {
+  "titulo_txt": "Pistol",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "0u4oFp2gQnao5LnpPTzAj-Pistol",
+  "titulo_plat": "Pistol",
+  "sinopsis": "Basado en las memorias de Steve Jones, el legendario guitarrista de Sex Pistols que ayudó a iniciar una revolución punk en Gran Bretaña.",
+  "poster": "https://img.peliculaplay.com/cover/20220527/1653616280798_ff5d246aea0df2a1a78f4d7e5fb93a90手枪 剧集 18881竖版.png",
+  "hero": "https://img.peliculaplay.com/cover/20220525/1653446315207_b64a56de6d511f22dc593d07d0249d17pLYJAJGPWWz9gWlFdx33yIyTICj.jpg",
+  "score": 6.9,
+  "generos": [
+   "Biografía",
+   "Drama",
+   "Música"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "0u4oFp2gQnao5LnpPTzAj-Pistol",
+      "v": "sub",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "sub": 6
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "Pistol"
+  ]
+ },
+ {
+  "titulo_txt": "Santa Evita",
+  "site": "peliculaplay",
+  "tipo": "serie",
+  "wp_seed": "8AFIM7r6bF7RcIQ6SJN27-Santa-Evita",
+  "titulo_plat": "Santa Evita",
+  "sinopsis": "El destino a veces casi surreal y siempre significativo del cuerpo de Eva Perón después de su muerte en 1952 mientras esperaba el entierro durante décadas.",
+  "poster": "https://img.peliculaplay.com/cover/20250205/1738735844442_57c7bf8b20ad9f60912268f238742fb1xx.jpg",
+  "hero": "https://img.peliculaplay.com/cover/20250205/1738735834082_9389bdd75077e76e6ddd5d59050b11561.jpg",
+  "score": 6.8,
+  "generos": [
+   "Biografía",
+   "Drama"
+  ],
+  "dubbing_names": [
+   "Santa Evita",
+   "Santa Evita"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 7,
+    "fuentes": [
+     {
+      "w": "8AFIM7r6bF7RcIQ6SJN27-Santa-Evita",
+      "v": "latino",
+      "y": "peliculaplay"
+     },
+     {
+      "w": "NzbYZJXhWPkq31qgKnxK7-Santa-Evita",
+      "v": "base",
+      "y": "peliculaplay"
+     }
+    ],
+    "variantes": {
+     "latino": 7,
+     "base": 7
+    }
+   }
+  ],
+  "nodos": 2,
+  "errores": [],
+  "nombres_nodos": [
+   "Santa Evita"
+  ]
+ },
+ {
+  "titulo_txt": "Shining Vale",
+  "site": "dramas",
+  "tipo": "serie",
+  "wp_seed": "fzYLWuhUUJnTVTnpLWfNW-Shining-Vale-Season-1",
+  "titulo_plat": "Shining Vale Temporada 1",
+  "sinopsis": "Una familia disfuncional se mueve de la ciudad a un pequeño pueblo en una casa en la que se han producido atrocidades terribles. Pero nadie parece notar, excepto Patricia \"Pat\" Phelps (Corteney Cox), quien está convencido de que está deprimida o poseída, resulta que los síntomas son exactamente los mismos. Pat S a un ex \"niño salvaje\", que se levantó a la fama escribiendo una novela de empoderamiento de mujeres arrugas, empapadas de drogas y alcohol (A.K.A. Lady Porn). Avance rápido 17 años después, Pat está limpio y sobrio, pero totalmente incumplido. Todavía no ha escrito su segunda novela, no puede recordar la última vez que tuvo relaciones sexuales con su esposo, Terry (Greg Kinnear), y sus hijos adolescentes Gaynor (Gus Birney) y Jake (Dylan Gage) están en esa etapa. Donde quieren que te mueras. Era una esposa fiel hasta su sequía: tenía un asunto tórrido con el handyman caliente y joven que vino para arreglar el fregadero mientras Terry estaba en el trabajo. En un último esfuerzo de zanja para salvar su matrimonio, ella y Terry en efectivo en todos sus ahorros y mueven a la familia, pase de la \"locaja\" de la ciudad a una casa grande y antigua en los suburbios que tiene un pasado histórico propio. Todos tienen sus demonios, pero para Pat Phelps, pueden ser reales.",
+  "poster": "https://img.dramasfree.com/cover/20250814/1755159040176_2a6c272f5b9a83aeb08e41da4e8d1f621.png",
+  "hero": "https://img.dramasfree.com/cover/20250814/1755159042689_658b378f561a114ee38cabb2de2ed51e2.png",
+  "score": 6.5,
+  "generos": [
+   "Comedia",
+   "Fantasía",
+   "Horror"
+  ],
+  "dubbing_names": [
+   "Shining Vale Temporada 1",
+   "Shining Vale Temporada 1",
+   "Shining Vale"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "fzYLWuhUUJnTVTnpLWfNW-Shining-Vale-Season-1",
+      "v": "latino",
+      "y": "dramas",
+      "m": 6
+     },
+     {
+      "w": "gqIlE4gWGRQbLLAlUO2D8-Shining-Vale",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "0UFDOzOZHOJq0WMYDJftn-Shining-Vale-Season-1",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "base": 8,
+     "sub": 8
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "hrB6U0OpRymKl7Zo7C50t-Shining-Vale-Season-2",
+      "v": "latino",
+      "y": "dramas",
+      "m": 7
+     },
+     {
+      "w": "AhodyHcJALF6nTWOjXdQT-Shining-Vale-Season-2",
+      "v": "sub",
+      "y": "dramas"
+     },
+     {
+      "w": "iSLTqWxJW5Z5TWOmx7yCF-Shining-Vale-Season-2",
+      "v": "base",
+      "y": "dramas"
+     }
+    ],
+    "variantes": {
+     "latino": 7,
+     "base": 8,
+     "sub": 8
+    }
+   }
+  ],
+  "nodos": 6,
+  "errores": [],
+  "nombres_nodos": [
+   "Shining Vale",
+   "Shining Vale Season 2",
+   "Shining Vale Temporada 1",
+   "Shining Vale Temporada 2"
+  ]
+ },
+ {
+  "titulo_txt": "The Afterparty",
+  "site": "movies321",
+  "tipo": "serie",
+  "wp_seed": "cCE0kUMkTROB4KtGJxo0n-The-Afterparty-Season-1[Audio-Latino]",
+  "titulo_plat": "The Afterparty Season 1[Audio Latino]",
+  "sinopsis": "\"El AfterParty\" es una comedia de asesinato-misterio en una reunión de la escuela secundaria después de Party. Cada uno de los ocho episodios contará con una reposición de la misma noche a través de la perspectiva de un personaje diferente, cada uno con su propio formato visual único y un género de película para que coincidan con la personalidad del cajero.",
+  "poster": "https://img.321moviesfree.com/cover/20220129/1643439917212_0494cb006bde765c3af1cda112d111cf9iAxAxeX5RjB39ckhxPMDCJPpG9.jpg",
+  "hero": "https://img.321moviesfree.com/cover/20220129/1643439921605_82fd886bc803d07d3eb34560057cbbd59ZyAUZrfccsjtDwYgc7yvOBnqM9.jpg",
+  "score": 7,
+  "generos": [
+   "Comedia"
+  ],
+  "dubbing_names": [
+   "Fiesta hasta el final Temporada 1",
+   "Fiesta hasta el final Temporada 1",
+   "The Afterparty Season 1[Audio Latino]"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "dTwyOZalQSekVV8xoil65-Party-Down-Season 1",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "uTEKqzE27mU0aedJ9V2jp-Party-Down-Season 1",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 2,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "fP5BaB2Qja63yfyOJ0ce1-The-Afterparty-Season-2",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "LqT95ygYgEh38tNqaM777-Party-Down-Season 2",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 10,
+     "base": 10
+    }
+   },
+   {
+    "n": 3,
+    "q": 6,
+    "fuentes": [
+     {
+      "w": "MkYuxeUXVjSs7ToGO3f7S-Party-Down-Season 3",
+      "v": "latino",
+      "y": "movies321"
+     },
+     {
+      "w": "TgKY7oN7QKAhZzXlUmS9Y",
+      "v": "base",
+      "y": "movies321"
+     }
+    ],
+    "variantes": {
+     "latino": 6,
+     "base": 6
+    }
+   }
+  ],
+  "nodos": 8,
+  "errores": [],
+  "nombres_nodos": [
+   "El día después Temporada 2",
+   "Fiesta hasta el final Temporada 1",
+   "Fiesta hasta el final Temporada 2",
+   "Fiesta hasta el final Temporada 3",
+   "The Afterparty Season 1[Audio Latino]"
+  ]
+ },
+ {
+  "titulo_txt": "The Dropout",
+  "site": "playspelis",
+  "tipo": "serie",
+  "wp_seed": "7Cu6bz2dB7HirlaQkSMrr-The-Dropout",
+  "titulo_plat": "The Dropout",
+  "sinopsis": "Serie de TV que crónicas a los Theranos Fundadora Elizabeth Holmes intenta revolucionar la industria de la salud después de abandonar la universidad y comenzar una compañía tecnológica.",
+  "poster": "https://img.playspelis.com/cover/20220221/1645436959197_c3eb8f690bda3421799eedd5359844399SkOJF92FE0H1UXeOgLz7lAnoMb.jpg",
+  "hero": "https://img.playspelis.com/cover/20220304/1646385399805_5432417687e3133d82ab2570980e7b70辍学生.png",
+  "score": 7.5,
+  "generos": [
+   "Biografía",
+   "Drama"
+  ],
+  "dubbing_names": [
+   "The Dropout"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "7Cu6bz2dB7HirlaQkSMrr-The-Dropout",
+      "v": "latino",
+      "y": "playspelis"
+     }
+    ],
+    "variantes": {
+     "latino": 8
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "The Dropout"
+  ]
+ },
+ {
+  "titulo_txt": "The First Lady",
+  "site": "cuevana19",
+  "tipo": "serie",
+  "wp_seed": "O7ajW9LG9xegRVlyOhoEg-The-First-Lady",
+  "titulo_plat": "The First Lady",
+  "sinopsis": "En el ala este de la Casa Blanca, muchas de las decisiones más impactantes y cambiantes de la historia han sido ocultas a la vista, hechas por las primeras damas carismáticas, complejas y dinámicas de los Estados Unidos.",
+  "poster": "https://img.cuevana19.com/cover/20220418/1650257273856_5d092a9e725cc0fa08cf04a14d8b8935d4E8sayYfKqLfohq1gfXhNCbreC.jpg",
+  "hero": "https://img.cuevana19.com/cover/20220418/1650257276818_7cbbf6ebcd4182c1309c113663c8bd149XSo8vyG68BfNccz56VS04YZ4FO.jpg",
+  "score": 5.5,
+  "generos": [
+   "Biografía",
+   "Drama",
+   "Historia"
+  ],
+  "dubbing_names": [],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 10,
+    "fuentes": [
+     {
+      "w": "O7ajW9LG9xegRVlyOhoEg-The-First-Lady",
+      "v": "sub",
+      "y": "cuevana19"
+     }
+    ],
+    "variantes": {
+     "sub": 10
+    }
+   }
+  ],
+  "nodos": 1,
+  "errores": [],
+  "nombres_nodos": [
+   "The First Lady"
+  ]
+ },
+ {
+  "titulo_txt": "The Old Man",
+  "site": "sololatino",
+  "tipo": "serie",
+  "wp_seed": "zYXqS6n5WOQcW1qitaH3T-The-Old-Man",
+  "titulo_plat": "The Old Man",
+  "sinopsis": "Un ex oficial de la CIA, que vive fuera de la red, se encuentra huyendo de personas que quieren matarlo.",
+  "poster": "https://img.solo-latino.com/cover/20220617/1655452793564_2a295bebf8c108031c57e2dbec68d417老人 竖.jpg",
+  "hero": "https://img.solo-latino.com/cover/20220617/1655452797014_281f8eaca0006c9ee69ccad8bd2e5eb9老人 横.jpg",
+  "score": 8.9,
+  "generos": [
+   "Acción",
+   "Drama",
+   "Thriller"
+  ],
+  "dubbing_names": [
+   "The Old Man",
+   "The Old Man",
+   "The Old Man Temporada 1"
+  ],
+  "temporadas": [
+   {
+    "n": 1,
+    "q": 7,
+    "fuentes": [
+     {
+      "w": "zYXqS6n5WOQcW1qitaH3T-The-Old-Man",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "THpHAFkS0jESYKfdPn6GR-The-Old-Man",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "6tKFeYOuJFJn44GrO5PKf-The-Old-Man-Season-1",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 7,
+     "sub": 7,
+     "base": 7
+    }
+   },
+   {
+    "n": 2,
+    "q": 8,
+    "fuentes": [
+     {
+      "w": "j6M3upLCEDFsDQADXblid-The-Old-Man-Season-2",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "fxD7fXbv2GaQ7qgGIbJa3-The-Old-Man-Season-2",
+      "v": "sub",
+      "y": "sololatino"
+     },
+     {
+      "w": "pgKgAgle5U7RYSnUs5WDh-The-Old-Man-Season-2",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ],
+    "variantes": {
+     "latino": 8,
+     "sub": 8,
+     "base": 8
+    }
+   }
+  ],
+  "nodos": 7,
+  "errores": [],
+  "nombres_nodos": [
+   "The Old Man",
+   "The Old Man Season 2",
+   "The Old Man Temporada 1",
+   "The Old Man Temporada 2"
+  ]
+ }
+]

@@ -1,0 +1,141 @@
+{
+ "no_estandar": [
+  {
+   "titulo_txt": "Slow Horses",
+   "url": null,
+   "motivo": "título SIN URL en el TXT"
+  }
+ ],
+ "duplicados": [
+  {
+   "titulo_txt": "House of the Dragon (La Casa del Dragón)",
+   "site": "cuevana4br",
+   "tipo": "drama",
+   "wp": "fv3CdkPKbxP0JtCNSREsK-House-of-the-Dragon[Audio-Latino]",
+   "wp_id": "fv3CdkPKbxP0JtCNSREsK",
+   "url": "https://es.cuevana4br.com/es/detail/drama/fv3CdkPKbxP0JtCNSREsK-House-of-the-Dragon%5BAudio-Latino%5D/1",
+   "truncado": false,
+   "motivo": "ID de plataforma ya en catálogo"
+  },
+  {
+   "titulo_txt": "Wednesday (Miércoles)",
+   "site": "playspelis",
+   "tipo": "drama",
+   "wp": "j5LWeaJpNFW159I98DsqD-Wednesday-Season-1",
+   "wp_id": "j5LWeaJpNFW159I98DsqD",
+   "url": "https://video.playspelis.com/es/detail/drama/j5LWeaJpNFW159I98DsqD-Wednesday-Season-1/1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  },
+  {
+   "titulo_txt": "Andor",
+   "site": "pelicula",
+   "tipo": "drama",
+   "wp": "KOviQzNr3zSrzio0cTc9f-Andor-Season-1[Audio-Latino]",
+   "wp_id": "KOviQzNr3zSrzio0cTc9f",
+   "url": "https://ver.123pelicula.com/es/detail/drama/KOviQzNr3zSrzio0cTc9f-Andor-Season-1[Audio-Latino]",
+   "truncado": false,
+   "motivo": "ID de plataforma ya en catálogo"
+  },
+  {
+   "titulo_txt": "Peacemaker (El Pacificador)",
+   "site": "cuevana19",
+   "tipo": "drama",
+   "wp": "THOX41TxNcTBbDpkj5kPN-Peacemaker[Audio-Latino]",
+   "wp_id": "THOX41TxNcTBbDpkj5kPN",
+   "url": "https://play.cuevana19.com/es/detail/drama/THOX41TxNcTBbDpkj5kPN-Peacemaker%5BAudio-Latino%5D/1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  },
+  {
+   "titulo_txt": "The Sandman",
+   "site": "sololatino",
+   "tipo": "drama",
+   "wp": "twcG7VQcAVaKhcApKpMl7-The-Sandman",
+   "wp_id": "twcG7VQcAVaKhcApKpMl7",
+   "url": "https://latino.solo-latino.com/es/detail/drama/twcG7VQcAVaKhcApKpMl7-The-Sandman/1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  },
+  {
+   "titulo_txt": "1899",
+   "site": "flixlat",
+   "tipo": "drama",
+   "wp": "JICbdT00YNUyvwuKqt8K2-1899",
+   "wp_id": "JICbdT00YNUyvwuKqt8K2",
+   "url": "https://flixlat.com/es/detail/drama/JICbdT00YNUyvwuKqt8K2-1899/1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  },
+  {
+   "titulo_txt": "The Peripheral",
+   "site": "flixlat",
+   "tipo": "drama",
+   "wp": "xPiIvGazkWe63W8M4Zvd2-The-Peripheral-Season-1[Audio-Latino]",
+   "wp_id": "xPiIvGazkWe63W8M4Zvd2",
+   "url": "https://flixlat.com/es/detail/drama/xPiIvGazkWe63W8M4Zvd2-The-Peripheral-Season-1%5BAudio-Latino%5D/1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  },
+  {
+   "titulo_txt": "A League of Their Own",
+   "site": "flixlat",
+   "tipo": "drama",
+   "wp": "B8IXkbZY1hrhJrvrCJJGc-A-League-of-Their-Own[Audio-Latino]",
+   "wp_id": "B8IXkbZY1hrhJrvrCJJGc",
+   "url": "https://flixlat.com/es/detail/drama/B8IXkbZY1hrhJrvrCJJGc-A-League-of-Their-Own%5BAudio-Latino%5D/1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  },
+  {
+   "titulo_txt": "El encargado",
+   "site": "pelicula",
+   "tipo": "drama",
+   "wp": "WvvVEdBtreSmUdFA5VIAl-El-Encargado-Season-1",
+   "wp_id": "WvvVEdBtreSmUdFA5VIAl",
+   "url": "https://ver.123pelicula.com/es/detail/drama/WvvVEdBtreSmUdFA5VIAl-El-Encargado-Season-1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  },
+  {
+   "titulo_txt": "She-Hulk: Attorney at Law",
+   "site": "flms",
+   "tipo": "drama",
+   "wp": "Hzg4tZSileWYQ0pa4bvl9-She-Hulk-Attorney-at-Law",
+   "wp_id": "Hzg4tZSileWYQ0pa4bvl9",
+   "url": "https://ww1.123flmsfree.com/es/detail/drama/Hzg4tZSileWYQ0pa4bvl9-She-Hulk-Attorney-at-Law/1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  },
+  {
+   "titulo_txt": "The Gilded Age (La edad dorada)",
+   "site": "flms",
+   "tipo": "drama",
+   "wp": "RiqrwL4bHxL11J35za2bR-The-Gilded-Age[Audio-Latino]",
+   "wp_id": "RiqrwL4bHxL11J35za2bR",
+   "url": "https://ww1.123flmsfree.com/es/detail/drama/RiqrwL4bHxL11J35za2bR-The-Gilded-Age%5BAudio-Latino%5D/1",
+   "truncado": false,
+   "motivo": "ID de plataforma ya en catálogo"
+  },
+  {
+   "titulo_txt": "The Serpent Queen",
+   "site": "flms",
+   "tipo": "drama",
+   "wp": "fNHET3DasxMo3jBgMDx1p-The-Serpent-Queen",
+   "wp_id": "fNHET3DasxMo3jBgMDx1p",
+   "url": "https://ww1.123flmsfree.com/es/detail/drama/fNHET3DasxMo3jBgMDx1p-The-Serpent-Queen/1",
+   "truncado": false,
+   "motivo": "wp ya en catálogo"
+  }
+ ],
+ "avisos_parciales": [
+  "Chainsaw Man ~ Saw (saw)",
+  "Extraordinary Attorney Woo (Woo, abogada extraordinaria) ~ X (x-2022)",
+  "The Legend of Vox Machina ~ X (x-2022)",
+  "The Terminal List (La lista final) ~ La lista terminal: Lobo negro (la-lista-terminal-lobo-negro)",
+  "Alchemy of Souls (Alquimia de almas) ~ Soul (soul)",
+  "Bel-Air ~ Air (air)",
+  "El hijo bastardo y el mismísimo diablo ~ Bastard!! (bastard)",
+  "The Staircase (La escalera) ~ Air (air)"
+ ]
+}
