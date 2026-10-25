@@ -1,0 +1,104 @@
+{
+ "show": "apples-never-fall",
+ "v": {
+  "antes": 29,
+  "despues": 30
+ },
+ "campos_cambiados": [
+  "e",
+  "em"
+ ],
+ "campos_temporada_1": [
+  "q",
+  "w",
+  "x"
+ ],
+ "antes": {
+  "i": "apples-never-fall",
+  "t": "Apples Never Fall",
+  "k": "serie",
+  "e": [
+   {
+    "n": 1,
+    "q": 4,
+    "w": [
+     {
+      "w": "h9Zfv4JWRikD67p2cMmnq-Apples-Never-Fall",
+      "v": "latino",
+      "y": "sololatino"
+     },
+     {
+      "w": "X5VY3jk5O41gAA36nXtlA-Apples-Never-Fall",
+      "v": "base",
+      "y": "sololatino"
+     }
+    ]
+   }
+  ],
+  "tt": "tt14371926",
+  "p": "https://images.metahub.space/poster/medium/tt14371926/img",
+  "b": "https://images.metahub.space/background/medium/tt14371926/img",
+  "h": "https://img.solo-latino.com/cover/20250811/1754892558371_77b467c40487cac9c2b0469e9cb31d0c1710418321102_5ff68496105e51525e0625fcc078ee69Apples Never Fall.png",
+  "s": "La familia Delaney parece feliz, pero la alegría desaparece, obligando a su esposo y cuatro hijos adultos a reevaluar su historia familiar.",
+  "a": 2024,
+  "r": 9,
+  "g": [
+   "Drama"
+  ],
+  "em": 1
+ },
+ "despues": {
+  "i": "apples-never-fall",
+  "t": "Apples Never Fall",
+  "k": "serie",
+  "e": [
+   {
+    "n": 1,
+    "q": 7,
+    "w": [
+     {
+      "w": "h9Zfv4JWRikD67p2cMmnq-Apples-Never-Fall",
+      "v": "latino",
+      "y": "sololatino",
+      "m": 3
+     },
+     {
+      "w": "a0mpdhN7BOq4gdkIg453V-Apples-Never-Fall",
+      "v": "sub",
+      "y": "flixlat"
+     }
+    ],
+    "x": [
+     "The Delaneys",
+     "Logan",
+     "Amy",
+     "Brooke",
+     "Troy",
+     "Stan",
+     "Joy"
+    ]
+   }
+  ],
+  "tt": "tt14371926",
+  "p": "https://images.metahub.space/poster/medium/tt14371926/img",
+  "b": "https://images.metahub.space/background/medium/tt14371926/img",
+  "h": "https://img.solo-latino.com/cover/20250811/1754892558371_77b467c40487cac9c2b0469e9cb31d0c1710418321102_5ff68496105e51525e0625fcc078ee69Apples Never Fall.png",
+  "s": "La familia Delaney parece feliz, pero la alegría desaparece, obligando a su esposo y cuatro hijos adultos a reevaluar su historia familiar.",
+  "a": 2024,
+  "r": 9,
+  "g": [
+   "Drama"
+  ],
+  "em": 0
+ },
+ "nota_reemplazo": "Reemplazo completo pedido por el dueño: la version latino de Apples Never Fall estaba incompleta y 'media rota' (walk por relay: la subida [Audio Latino] de sololatino declara episodeVo=[1,3,4,5] y pedir el cap 2/6/7 SIRVE EL VIDEO DEL CAP 1 — clamping del sitio; el cap 2 directamente no existe). La version [Sub Espanol] de flixlat (link del dueno, a0mpdhN7BOq4gdkIg453V-…) trae los 7 caps sanos con subtitlingList ES por episodio. Regla del dueno: latino SOLO en los primeros 3 caps -> campo 'm' (tope de episodios de la variante, lo lee la TV 3.30.44 / Movil 1.0.12), el resto sub espanol. La fuente [Audio Portugues-BR] (base) se descarta ('reemplazarla completamente'). Miniserie terminada 2024: em 1->0 y fuera del rail enEmision (214->213). q=7 y x con los nombres oficiales (TVMaze 60411).",
+ "walk": {
+  "latino_sololatino": "h9Zfv4JWRikD67p2cMmnq-Apples-Never-Fall — eps [1,3,4,5], E2/E6/E7 clampean al video del E1, E2 inexistente",
+  "base_sololatino": "X5VY3jk5O41gAA36nXtlA-Apples-Never-Fall — 7/7 correcto pero es portugues-BR (descartada por el dueno)",
+  "sub_flixlat": "a0mpdhN7BOq4gdkIg453V-Apples-Never-Fall — 7/7, currentEpisodeNumber correcto, subtitlingList ES en los 7, m3u8 200 (link del dueno)"
+ },
+ "apps": {
+  "tv": "3.30.44 (152) — cascada de fuentes por episodio + tope 'm' + deteccion de episodio equivocado (clamping)",
+  "movil": "1.0.12 (13) — mismo cambio (base PandoraApi diff 0)"
+ }
+}

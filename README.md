@@ -16,6 +16,21 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v30/ — Apples Never Fall: versión Sub Español + tope de audio parcial (v 29 → 30)
+
+Reemplazo completo pedido por el dueño: la versión **latino** de *Apples
+Never Fall* estaba incompleta y "media rota" (walk: la subida de sololatino
+declara `episodeVo=[1,3,4,5]` y pedir el cap 2/6/7 **sirve el video del
+cap 1** — clamping del sitio). Pasa a la **[Sub Español] de flixlat** (el
+link exacto del dueño, 7/7 caps con pista ES por episodio) con el **latino
+solo en los primeros 3 capítulos**: nuevo campo **`m`** (tope de la
+variante) que la **TV 3.30.44 / Móvil 1.0.12** respetan con su **cascada
+de fuentes por episodio** + detección de episodio clampeado — el cap 4 va
+solo a sub español y nunca más se reproduce un video que no es el cap
+pedido. La fuente portuguesa-BR se descarta. **973 shows, 972
+byte-identical, 1 show (e/em de show · q/w/x de T1) + rail enEmision.**
+[`reto-v30/`](reto-v30/) tiene el diagnóstico, la matriz del walk y el QA.
+
 ## reto-v29/ — Prefiero la Muerte: servidor 123 Película + póster latino + subtítulos ES propios (v 28 → 29)
 
 Mudanza completa del show pedido por el dueño: la serie pasa de **cuevanae**
