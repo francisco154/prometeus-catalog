@@ -41,6 +41,14 @@ export async function claveCatalogo(token) {
   return claveDesdeMitades(m.encA, m.encB);
 }
 
+/** ¿La temporada ya tiene hermana 'sub'? (v29 usaba otro hash de wp — lo
+ *  que importa es que exista UNA hermana, no cuál). Devuelve su wp. */
+function hermanaExistente(show, temporada) {
+  const temp = (show.e || []).find(t => t.n === temporada);
+  const her = (temp?.w || []).find(f => f.v === 'sub');
+  return her?.w || null;
+}
+
 /**
  * El paso del catálogo. Entrada:
  *   catalogoTxt: contenido ACTUAL de catalog.json (raw)
@@ -68,8 +76,9 @@ export async function parchearCatalogo(catalogoTxt, clave, slug, temporada, wpRe
     throw new Error(`la temporada ${temporada} no tiene la fuente ${wpReal} de ${site} — elegí la temporada correcta`);
   }
 
-  const sintetico = wpSintetico(slug, temporada);
-  if (fuentes.some(f => f.w === sintetico)) {
+  const existente = fuentes.find(f => f.v === 'sub')?.w || null;
+  const sintetico = existente || wpSintetico(slug, temporada);
+  if (existente) {
     return { yaEstaba: true, sintetico, v: cat.v };
   }
   fuentes.push({ w: sintetico, v: 'sub', y: site });
@@ -124,7 +133,13 @@ export async function publicar(opts, onPaso) {
   const idx = JSON.parse(idxTxt);
   idx.v = (idx.v || 0) + 1;
   idx.hermanas = idx.hermanas || [];
-  const claveH = `${site}|drama|${wpSintetico(slug, temporada)}`;
+  // el catálogo manda: si la temporada ya tiene hermana, esa ES la clave
+  const catTxt0 = await leerArchivo(OWNER, REPO_CATALOGO, 'catalog.json', token);
+  const clave0 = await claveCatalogo(token);
+  const cat0 = JSON.parse(await desencriptar(catTxt0, clave0));
+  const show0 = cat0.shows.find(s => s.i === slug);
+  const hermana0 = show0 ? hermanaExistente(show0, temporada) : null;
+  const claveH = `${site}|drama|${hermana0 || wpSintetico(slug, temporada)}`;
   let her = idx.hermanas.find(h => h.clave === claveH);
   if (!her) {
     her = {

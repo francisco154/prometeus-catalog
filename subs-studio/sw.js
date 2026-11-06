@@ -1,6 +1,7 @@
-// Service worker · cache-first SOLO del shell (la app funciona offline una
-// vez abierta); las llamadas de red (relay, CDN, GitHub, Groq) van directas.
-const CACHE = 'substudio-v1';
+// Service worker v2 · NETWORK-FIRST para el shell: los cambios del estudio
+// propagan al recargar (v1 era cache-first y servía código viejo para
+// siempre); el cache queda como respaldo OFFLINE solamente.
+const CACHE = 'substudio-v2';
 const SHELL = ['./', 'index.html', 'app.js', 'style.css', 'i18n.js', 'srt.js',
   'tsdemux.js', 'audio.js', 'whisper.js', 'groq.js', 'penc1.js', 'github.js',
   'publish.js', 'manifest.webmanifest'];
@@ -20,10 +21,10 @@ self.addEventListener('fetch', (e) => {
   if (u.origin !== location.origin) return;      // red: tal cual
   if (e.request.method !== 'GET') return;
   e.respondWith(
-    caches.match(e.request).then(hit => hit || fetch(e.request).then(r => {
+    fetch(e.request).then(r => {
       const copia = r.clone();
       caches.open(CACHE).then(c => c.put(e.request, copia));
       return r;
-    }).catch(() => caches.match('./index.html')))
+    }).catch(() => caches.match(e.request).then(hit => hit || caches.match('./index.html')))
   );
 });
