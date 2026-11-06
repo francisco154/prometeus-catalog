@@ -136,6 +136,20 @@ export function extraerAdtsConSobrante(ts, previo, pidConocido) {
   return { frames: r.frames, sobrante: r.resto, st, pid };
 }
 
+/** Bytes que YA vienen como ADTS (proxy audio=1 del worker): coser con el
+ *  sobrante de la frontera y devolver frames completos + resto. */
+export function coserAdts(adts, previo) {
+  const r = splitAdts(concat(previo, adts));
+  return { frames: r.frames, sobrante: r.resto };
+}
+
+/** ¿Estos bytes son un .ts (0x47) o ADTS crudo (0xFFF)? */
+export function tipoBytes(b) {
+  if (b.length > 0 && b[0] === 0x47) return 'ts';
+  if (b.length > 1 && b[0] === 0xff && (b[1] & 0xf6) === 0xf0) return 'adts';
+  return '?';
+}
+
 /** { sampleRate, canales } del primer frame ADTS (HE-AAC: rate del CORE). */
 export function adtsInfo(frame) {
   if (frame.length < 7) return null;

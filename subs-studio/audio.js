@@ -12,7 +12,7 @@
 // worker de Cloudflare (le pega con la UA de TV). Modo "ahorro de datos":
 // el worker demuxa el .ts y devuelve SOLO el audio ADTS (~30× menos bytes).
 
-import { extraerAdtsConSobrante, adtsInfo, ST_AAC_LATM } from './tsdemux.js';
+import { extraerAdtsConSobrante, coserAdts, tipoBytes, adtsInfo, ST_AAC_LATM } from './tsdemux.js';
 
 export const SR = 16000;          // 16 kHz mono — requisito de Whisper
 
@@ -104,13 +104,15 @@ export class Transporte {
     throw new Error(`no pude leer el playlist (${ultimoError})`);
   }
 
-  /** GET binario de UN segmento → Uint8Array. Decide transporte solo. */
+  /** GET binario de UN segmento → Uint8Array. Decide transporte solo.
+   *  Orden de intentos: directo (móvil) → proxy con DEMUX de audio (92% menos
+   *  bytes, solo AAC ADTS) → proxy passthrough (fail-open del demux). */
   async segmento(url) {
     const intentos = this.modo === 'auto'
-      ? [{ m: 'directo' }, { m: 'proxy' }, { m: 'proxy', audioSolo: true }]
+      ? [{ m: 'directo' }, { m: 'proxy', audioSolo: true }, { m: 'proxy' }]
       : this.modo === 'proxy'
-        ? [{ m: 'proxy', audioSolo: this.audioSolo }, { m: 'proxy', audioSolo: false }]
-        : [{ m: 'directo' }];
+        ? [{ m: 'proxy', audioSolo: this.audioSolo }, { m: 'proxy', audioSolo: this.audioSolo ? false : true }]
+        : [{ m: 'directo' }, { m: 'proxy', audioSolo: true }];
     let ultimoError = null;
     for (const it of intentos) {
       try {
@@ -220,13 +222,24 @@ export async function bajarAudio(playlist, transporte, onProgreso, signal) {
 
   const pendientes = [];
   for (let i = 0; i < segs.length; i++) {
-    const ts = datos[i];
-    if (!ts) { sobrante = new Uint8Array(0); continue; }  // hueco: no mentir tiempos
+    const dato = datos[i];
+    if (!dato || !dato.length) { sobrante = new Uint8Array(0); continue; }  // hueco: no mentir tiempos
     if (loteBytes.length === 0) loteDesdeMs = segs[i].offsetMs;
-    const r = extraerAdtsConSobrante(ts, sobrante, pidAudioConocido);
+    const tipo = tipoBytes(dato);
+    let r;
+    if (tipo === 'ts') {
+      // .ts MUXADO → demux local (port del TsAac de la app)
+      r = extraerAdtsConSobrante(dato, sobrante, pidAudioConocido);
+      if (r.pid != null) pidAudioConocido = r.pid;
+      if (r.st != null) streamType = r.st;
+    } else if (tipo === 'adts') {
+      // YA viene ADTS del worker (proxy audio=1 — 92% menos bytes): coser
+      r = coserAdts(dato, sobrante);
+    } else {
+      sobrante = new Uint8Array(0);
+      continue;
+    }
     sobrante = r.sobrante;
-    if (r.pid != null) pidAudioConocido = r.pid;
-    if (r.st != null) streamType = r.st;
     if (r.frames.length) {
       if (!infoAdts) infoAdts = adtsInfo(r.frames[0]);
       for (const f of r.frames) loteBytes.push(f);
