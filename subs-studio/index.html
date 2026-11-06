@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0e14">
+<title>Prometeus Sub Studio</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>⚡</text></svg>">
+<link rel="stylesheet" href="style.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<div id="toast" class="toast"></div>
+
+<header>
+  <div class="marca">
+    <div class="logo">⚡</div>
+    <div>
+      <h1 id="tituloApp">Prometeus Sub Studio</h1>
+      <p data-t="subtitulo">Subtítulos por IA para tu catálogo — gratis, sin servidores, sin la TV</p>
+    </div>
+  </div>
+  <button id="langBtn" class="chip accion">EN</button>
+</header>
+
+<main>
+
+  <!-- 1 · episodio -->
+  <section class="card">
+    <h2 data-t="paso1">1 · Elegí el episodio</h2>
+    <p class="desc" data-t="paso1desc">Pegá el enlace de la serie o el m3u8 directo.</p>
+    <input id="enlace" type="url" data-tp="enlacePh" placeholder="https://peliculaplay.com/es/detail/drama/…-Lab-Rats-Season-3" spellcheck="false" autocapitalize="off">
+    <button id="btnResolver" class="btn primario" data-t="resolver">Resolver episodios</button>
+
+    <div id="cardEps" style="display:none">
+      <h3 id="epsTitulo"></h3>
+      <div id="eps" class="eps"></div>
+    </div>
+  </section>
+
+  <!-- 2 · motor -->
+  <section class="card">
+    <h2 data-t="paso2">2 · Motor de IA</h2>
+    <div class="motores">
+      <button id="motorGroq" class="motor">
+        <b data-t="motorGroq">Turbo · Groq gratis</b>
+        <small>whisper-large-v3-turbo · 2 h de audio/hora</small>
+      </button>
+      <button id="motorLocal" class="motor">
+        <b data-t="motorLocal">Local (en este navegador)</b>
+        <small id="gpuBadge" class="chip">WebGPU</small>
+      </button>
+    </div>
+    <div id="groqBox" class="subcaja">
+      <input id="groqKey" type="password" placeholder="gsk_… (console.groq.com/keys)" spellcheck="false">
+      <p class="nota" data-t="groqNota"></p>
+    </div>
+    <div id="localBox" class="subcaja">
+      <label data-t="modelo">Modelo</label>
+      <select id="modeloSel"></select>
+    </div>
+    <label data-t="idioma">Idioma del audio</label>
+    <select id="idiomaSel"></select>
+  </section>
+
+  <!-- 3 · generar -->
+  <section class="card">
+    <h2 data-t="paso3">3 · Generar</h2>
+    <button id="btnGenerar" class="btn grande primario" data-t="generar">Generar subtítulos</button>
+    <button id="btnCancelar" class="btn grande" style="display:none" data-t="cancelar">Cancelar</button>
+
+    <div id="cardProgreso" style="display:none" class="prog">
+      <div class="barra"><div id="progBar"></div></div>
+      <div class="progfila">
+        <span id="progTxt"></span>
+        <span id="progCues" class="chip"></span>
+        <span id="progMeta" class="chip"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4 · revisar y publicar -->
+  <section id="cardRevisar" class="card" style="display:none">
+    <h2 data-t="paso4">4 · Revisar y publicar</h2>
+    <div id="stats" class="stats"></div>
+    <p class="desc" data-t="revisar">Revisá las líneas (tocá para editar)</p>
+    <audio id="previewAudio" controls preload="none"></audio>
+    <div id="cues" class="cues"></div>
+    <button id="btnDescargar" class="btn" data-t="descargar">Descargar SRT</button>
+  </section>
+
+  <section id="cardPublicar" class="card" style="display:none">
+    <h2 data-t="publicarBtn">Publicar al catálogo</h2>
+    <p class="desc" data-t="publicarDesc"></p>
+    <input id="tokenInput" type="password" data-tp="token" placeholder="Token de GitHub (scope repo)" spellcheck="false">
+    <input id="showInput" type="text" data-tp="buscarShow" placeholder="Buscar show…" autocomplete="off">
+    <div id="showSug" class="sugs"></div>
+    <div class="fila2">
+      <div>
+        <label data-t="temporada">Temporada</label>
+        <input id="tempPub" type="number" min="1" max="99" value="1">
+      </div>
+      <div>
+        <label>Episodio</label>
+        <input id="epPub" type="number" min="1" max="999" value="1">
+      </div>
+    </div>
+    <label class="check">
+      <input id="sobrescribir" type="checkbox">
+      <span data-t="sobrescribir">Sobrescribir si ya existe</span>
+    </label>
+    <button id="btnPublicar" class="btn grande primario" data-t="publicarBtn">Publicar al catálogo</button>
+    <div id="pubLog" class="publog"></div>
+  </section>
+
+  <section class="card como">
+    <h2 data-t="fuistes.titulo">¿Cómo funciona?</h2>
+    <ul>
+      <li data-t="fuistes.a"></li>
+      <li data-t="fuistes.b"></li>
+      <li data-t="fuistes.c"></li>
+      <li data-t="fuistes.d"></li>
+    </ul>
+  </section>
+
+</main>
+
+<footer>Prometeus / Pandora · Sub Studio 3.30.52 · <span id="anio"></span></footer>
+<script>document.getElementById('anio').textContent = new Date().getFullYear();
+if ('serviceWorker' in navigator && location.protocol === 'https:') {
+  navigator.serviceWorker.register('sw.js').catch(() => {});
+}</script>
+</body>
+</html>

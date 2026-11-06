@@ -16,6 +16,24 @@ Data file endpoint for the Prometeus Android TV updater.
 > cada publicación; los clientes aplican cuando `v` > última aplicada y
 > nunca degradan contenido existente.
 
+## reto-v32/ — SUB STUDIO: subtítulos por IA sin la TV + Lab Rats T3E6
+
+La generación de subtítulos se muda del televisor al ecosistema (el
+decoder AAC de la TV del dueño rechaza el HE-AAC del stream): **Sub
+Studio** ([`subs-studio/`](subs-studio/), servido por GitHub Pages de este
+repo) transcribe desde el celular/PC — enlace de la serie → relay → audio
+del CDN → Whisper local (WebGPU) o Groq turbo (gratis) → SRT → publica
+acá mismo: SRT + [`subs/subs-index.json`](subs/subs-index.json) + hermana
+`sub` en el catálogo cifrado (PENC1 en el navegador con el token del
+dueño). El relay lee el índice **EN VIVO**: nuevas hermanas sin redeploy.
+La app TV **no se toca** (conSubsDeHermanaSub 3.30.1). Primer fruto: el
+episodio reportado — [`subs/lab-rats/S03E06.es.srt`](subs/lab-rats/S03E06.es.srt)
+(292 cues sobre el audio real del CDN). **973 → 1039 shows en índice
+público [`subs/estudio.json`](subs/estudio.json) (solo títulos), catálogo
+v31 → 32 con 1038 byte-identical.** [`reto-v32/`](reto-v32/) tiene el
+diseño completo, las mediciones (UA del CDN, decodeAudioData, demux TS→ADTS)
+y el QA (relays 14/14 y 40/40).
+
 ## reto-v31/ — 66 series nuevas: 973 → 1039
 
 Noveno ingreso incremental (TXT de Filemail del dueño, 78 fichas): +66

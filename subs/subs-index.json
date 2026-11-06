@@ -1,0 +1,54 @@
+{
+ "v": 1,
+ "nota": "hermanas sintéticas [Sub Español] — el relay (Render v1.11 / worker CF v3) lee este archivo EN VIVO; la app las descubre en el catálogo cifrado (conSubsDeHermanaSub 3.30.1)",
+ "hermanas": [
+  {
+   "clave": "pelicula|drama|PLMSUBES0001-Prefiero-La-Muerte",
+   "realWp": "UINycRxjfab5o7S547Enc-I-Would-Rather-Die",
+   "name": "[Sub Español]Prefiero la Muerte",
+   "subsBase": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/prefiero-la-muerte/",
+   "temporadas": [
+    {
+     "n": 1,
+     "eps": 8
+    }
+   ],
+   "idiomas": [
+    "es"
+   ],
+   "slug": "prefiero-la-muerte",
+   "site": "pelicula",
+   "tipo": "drama"
+  },
+  {
+   "clave": "peliculaplay|drama|SUBES25BD2E-lab-rats-S03",
+   "realWp": "hggpQhy6TIpgmJtVDBAUC-Lab-Rats-Season-3",
+   "name": "[Sub Español]Lab Rats Season 3",
+   "subsBase": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/lab-rats/",
+   "temporadas": [
+    {
+     "n": 3,
+     "eps": 26
+    }
+   ],
+   "idiomas": [
+    "es"
+   ],
+   "slug": "lab-rats",
+   "site": "peliculaplay",
+   "tipo": "drama",
+   "subs": {
+    "S03E06": "es"
+   },
+   "generado": {
+    "model": "faster-whisper small int8 beam5",
+    "idioma": "es",
+    "duracionS": 1323.212,
+    "cues": 292,
+    "rtf": 0.115,
+    "wallS": 152.6,
+    "generado": "2026-11-06T14:53:30Z"
+   }
+  }
+ ]
+}
