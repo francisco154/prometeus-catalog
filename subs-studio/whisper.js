@@ -8,7 +8,9 @@
 
 import { SR, hayVoz } from './audio.js';
 
-const CDN = 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.7.5';
+// 3.8.1: la 3.7.5 tenía un bug (device:'wasm' igual intentaba webgpu →
+// "no available backend found" — medido en vivo); 3.8.1 lo respeta.
+const CDN = 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.8.1';
 
 export const MODELOS = [
   { id: 'Xenova/whisper-tiny', nombre: 'Whisper Tiny (rápido, ~75 MB)', mb: 75 },
@@ -23,12 +25,28 @@ export function soportaWebGPU() {
   return typeof navigator !== 'undefined' && !!navigator.gpu;
 }
 
+/** Sonda REAL de WebGPU: navigator.gpu puede existir y el adapter fallar
+ *  (headless, drivers viejos, flag desactivado) — en ese caso hay que ir a
+ *  WASM, no dejar que onnxruntime reviente con "no available backend". */
+async function webgpuVivo() {
+  if (!soportaWebGPU()) return false;
+  try {
+    const adapter = await navigator.gpu.requestAdapter();
+    return !!adapter;
+  } catch { return false; }
+}
+
 async function cargarPipeline(modeloId) {
   const { pipeline, env } = await import(/* @vite-ignore */ CDN);
   env.allowLocalModels = false;
   env.useBrowserCache = true;
+  // sin cross-origin isolation (GitHub Pages no manda COOP/COEP) el WASM
+  // multihilo no está disponible: 1 hilo, lento pero seguro
+  env.backends.onnx.wasm.numThreads =
+    (typeof crossOriginIsolated !== 'undefined' && crossOriginIsolated)
+      ? Math.min(4, navigator.hardwareConcurrency || 1) : 1;
 
-  const webgpu = soportaWebGPU();
+  const webgpu = await webgpuVivo();
   const intentos = webgpu
     ? [
         { device: 'webgpu', dtype: { encoder_model: 'fp32', decoder_model_merged: 'q4' } },
