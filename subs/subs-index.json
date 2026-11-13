@@ -1,5 +1,5 @@
 {
- "v": 2,
+ "v": 1,
  "nota": "hermanas sintéticas [Sub Español] — el relay (Render v1.11 / worker CF v3) lee este archivo EN VIVO; la app las descubre en el catálogo cifrado (conSubsDeHermanaSub 3.30.1)",
  "hermanas": [
   {
@@ -38,32 +38,7 @@
    "site": "peliculaplay",
    "tipo": "drama",
    "subs": {
-    "S03E01": "es",
-    "S03E02": "es",
-    "S03E03": "es",
-    "S03E04": "es",
-    "S03E05": "es",
-    "S03E06": "es",
-    "S03E07": "es",
-    "S03E08": "es",
-    "S03E09": "es",
-    "S03E10": "es",
-    "S03E11": "es",
-    "S03E12": "es",
-    "S03E13": "es",
-    "S03E14": "es",
-    "S03E15": "es",
-    "S03E16": "es",
-    "S03E17": "es",
-    "S03E18": "es",
-    "S03E19": "es",
-    "S03E20": "es",
-    "S03E21": "es",
-    "S03E22": "es",
-    "S03E23": "es",
-    "S03E24": "es",
-    "S03E25": "es",
-    "S03E26": "es"
+    "S03E06": "es"
    },
    "generado": {
     "model": "faster-whisper small int8 beam5",
@@ -72,11 +47,26 @@
     "cues": 292,
     "rtf": 0.115,
     "wallS": 152.6,
-    "generado": "2026-11-06T14:53:30Z",
-    "temporada": 3,
-    "episodios": 26,
-    "actualizado": "2026-11-06T18:23:02Z"
+    "generado": "2026-11-06T14:53:30Z"
    }
+  },
+  {
+   "clave": "cuevana4br|drama|SUBESMIRAMEASI-S01",
+   "realWp": "Hpqx1nVvpCf7b2sS4QsYL-Mirame-asi-el-camino-de-Noa",
+   "name": "[Sub Español]Mírame así, el camino de Noa",
+   "subsBase": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/mirame-asi/",
+   "temporadas": [
+    {
+     "n": 1,
+     "eps": 24
+    }
+   ],
+   "idiomas": [
+    "es"
+   ],
+   "slug": "mirame-asi",
+   "site": "cuevana4br",
+   "tipo": "drama"
   }
  ]
 }
