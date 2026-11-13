@@ -1,2683 +1,2111 @@
 1
-00:00:00,000 --> 00:00:08,900
-¿Me ізos??
+00:00:16,893 --> 00:00:17,893
+¿Estás en Argentina?
 
 2
-00:00:13,880 --> 00:00:15,080
-¿Ah, me estás?
+00:00:17,893 --> 00:00:18,893
+¡Hola, papá!
 
 3
-00:00:15,160 --> 00:00:16,640
-¿Y cómo un Argentina?
+00:00:18,893 --> 00:00:19,893
+¡Buenas noches!
 
 4
-00:00:16,720 --> 00:00:17,440
-¡Ay, dé, Dios!
+00:00:19,893 --> 00:00:20,893
+¿Estás hablando en serio?
 
 5
-00:00:17,520 --> 00:00:19,880
-¡¡¡¡Pay, Lesslie! ¡Marista a la Anacera!
+00:00:20,893 --> 00:00:21,893
+Sí, mamá.
 
 6
-00:00:19,960 --> 00:00:20,920
-Sí, mamá!
+00:00:21,893 --> 00:00:22,893
+Estoy en tu país.
 
 7
-00:00:21,000 --> 00:00:22,120
-Estoy en tu país, no te alegró.
+00:00:22,893 --> 00:00:23,893
+¿No te alegras?
 
 8
-00:00:22,200 --> 00:00:23,600
-No, es que es ahí.
+00:00:23,893 --> 00:00:24,893
+Por supuesto que no.
 
 9
-00:00:23,680 --> 00:00:24,360
-You go, Lesslie.
+00:00:24,893 --> 00:00:25,893
+¿Qué haces ahí?
 
 10
-00:00:24,440 --> 00:00:24,980
-¡No!
+00:00:25,893 --> 00:00:26,893
+Nicolás.
 
 11
-00:00:26,080 --> 00:00:27,840
-¿Vale?
+00:00:26,893 --> 00:00:30,543
+No.
 
 12
-00:00:27,920 --> 00:00:28,840
-¡La no!
+00:00:30,543 --> 00:00:32,413
+¡Lalo!
 
 13
-00:00:30,000 --> 00:00:31,000
-¡No!
+00:00:32,413 --> 00:00:33,633
+Mira.
 
 14
-00:00:31,000 --> 00:00:33,000
-No sé si mi de la persona para vos.
+00:00:33,633 --> 00:00:34,633
+No sé si Emilia es la persona para vos.
 
 15
-00:00:33,000 --> 00:00:34,000
-No sé, están duró con ella.
+00:00:34,633 --> 00:00:35,633
+No seas tan duro con ella.
 
 16
-00:00:34,000 --> 00:00:35,000
+00:00:35,633 --> 00:00:36,633
 Ok.
 
 17
-00:00:35,000 --> 00:00:36,000
-Martín, Martín, ahí lo sea.
+00:00:36,633 --> 00:00:37,633
+Martina es Martina.
 
 18
-00:00:36,000 --> 00:00:38,000
-Te extrañó, horores.
+00:00:37,633 --> 00:00:39,633
+Elluciá te extraña horrores.
 
 19
-00:00:38,000 --> 00:00:40,000
+00:00:39,633 --> 00:00:43,553
 En realidad todos te extrañamos.
 
 20
-00:00:40,000 --> 00:00:42,000
-¡Safreza!
+00:00:43,553 --> 00:00:47,903
+Yo no sentí que tenía que venir a venta.
 
 21
-00:00:42,000 --> 00:00:43,000
-¡Ey!
+00:00:47,903 --> 00:00:49,953
+No estás solo.
 
 22
-00:00:43,000 --> 00:00:44,000
-¡Ey!
+00:00:49,953 --> 00:00:50,953
+Yo confiaba en vos.
 
 23
-00:00:44,000 --> 00:00:46,000
-Vamos a sentir que tenia que venir a verte.
+00:00:50,953 --> 00:00:51,953
+¿Cómo pudiste ganarnos?
 
 24
-00:00:46,000 --> 00:00:47,000
-No es solo.
-
-25
-00:00:48,000 --> 00:00:50,000
-Lo cociado de vos, como fuiste?
-
-26
-00:00:50,000 --> 00:00:51,000
-¡Ganérlo así!
-
-27
-00:00:51,000 --> 00:00:52,000
-¡Qué fácil, Fafreza!
-
-28
-00:00:52,000 --> 00:00:54,000
-¡Dés vestir ahí con mi novio!
-
-29
-00:00:56,000 --> 00:00:57,000
-¡Derno!
-
-30
-00:00:57,000 --> 00:01:00,000
-Te hago mis documentos, mi dinero, todo.
-
-31
-00:01:00,000 --> 00:01:01,000
-¿Qué es más boros?
-
-32
-00:01:01,000 --> 00:01:02,000
-¿A realidad voy con alguien?
-
-33
-00:01:02,000 --> 00:01:03,000
-¿Qué viene desde lejos?
-
-34
-00:01:03,000 --> 00:01:05,000
-Chicos, viene Tomi, les dije.
-
-35
-00:01:05,000 --> 00:01:06,000
-¿Tú?
-
-36
-00:01:06,000 --> 00:01:08,000
-¿Qué es acá?
-
-37
-00:01:08,000 --> 00:01:10,000
-Veniste sola, al bar, a metrajo tu más.
-
-38
-00:01:10,000 --> 00:01:12,000
-¡Sau!
-
-39
-00:01:12,000 --> 00:01:13,000
-¡Sau!
-
-40
-00:01:13,000 --> 00:01:14,000
-¿Te gusta mucho este bar?
-
-41
-00:01:14,000 --> 00:01:15,000
-Es de ustedes.
-
-42
-00:01:17,000 --> 00:01:20,000
-Déjeme y trabajó mi estudios, mi casa, mi gente, todo.
-
-43
-00:01:20,000 --> 00:01:23,000
-A la verina, a lo otro, a lo del mundo, a ver mi novio.
-
-44
-00:01:23,000 --> 00:01:24,000
-Y lo encontré con otra.
-
-45
-00:01:24,000 --> 00:01:26,000
-La cíomato, a él y...
-
-46
-00:01:26,000 --> 00:01:28,000
-¿Cómo si yo no te novia?
-
-47
-00:01:28,000 --> 00:01:29,000
-No, mi...
-
-48
-00:01:29,000 --> 00:01:30,000
-¡Judas!
-
-49
-00:01:30,000 --> 00:01:32,000
-Te acabó en el conchu.
-
-50
-00:01:32,000 --> 00:01:33,000
-¡Judas!
-
-51
-00:01:54,000 --> 00:01:59,000
-Solo que paciencia me voy a encontrar, aunque lo tengo quien tendor.
-
-52
-00:01:59,000 --> 00:02:02,000
-¡Mir, ver a ser!
-
-53
-00:02:02,000 --> 00:02:03,000
-¡Páquen!
-
-54
-00:02:03,000 --> 00:02:04,000
-¡Aplí, ver a ser!
-
-55
-00:02:04,000 --> 00:02:08,000
-¡Sos, mira, o si se que solo me deseo decir.
-
-56
-00:02:08,000 --> 00:02:09,000
-¡Páquen!
-
-57
-00:02:09,000 --> 00:02:10,000
-¡Páquen!
-
-58
-00:02:10,000 --> 00:02:11,000
-¡Páquen!
-
-59
-00:02:11,000 --> 00:02:14,000
-¡Páquen!
-
-60
-00:02:14,000 --> 00:02:15,000
-¡Páquen!
-
-61
-00:02:15,000 --> 00:02:20,000
-¡Spero que más ya te sigo, sí lo que piensan me estás engo mío.
-
-62
-00:02:20,000 --> 00:02:24,000
-¡Por qué, salda libre, te saldo si yo.
-
-63
-00:02:24,000 --> 00:02:26,000
-¡Si solo yo te sigo.
-
-64
-00:02:34,000 --> 00:02:37,000
-¡Ay, algo más difícil que saber quiénes somos.
-
-65
-00:02:37,000 --> 00:02:39,000
-Piencen lo bien.
-
-66
-00:02:39,000 --> 00:02:41,000
-¿Qué te os define?
-
-67
-00:02:41,000 --> 00:02:45,000
-Lo que pensamos, que sentimos, lo que hacemos,
-
-68
-00:02:45,000 --> 00:02:47,000
-lo que hacemos.
-
-69
-00:02:47,000 --> 00:02:49,000
-En ese momento de vivir a lo único que tenía en claro,
-
-70
-00:02:49,000 --> 00:02:52,000
-era quién no sabía quién era yo.
-
-71
-00:02:58,000 --> 00:03:00,000
-¿Y quién era él?
-
-72
-00:03:00,000 --> 00:03:03,000
-¿Qué es eso, salda?
-
-73
-00:03:03,000 --> 00:03:05,000
-¿Qué es eso, pusefa?
-
-74
-00:03:05,000 --> 00:03:07,000
-¿Y no de esa cara?
-
-75
-00:03:07,000 --> 00:03:10,000
-¿Qué es el agita, son de Martín?
-
-76
-00:03:10,000 --> 00:03:12,000
-No va a colo, un llegue da.
-
-77
-00:03:12,000 --> 00:03:13,000
-Se está un poco.
-
-78
-00:03:16,000 --> 00:03:18,000
-No sé, ¿qué va a cilló?
-
-79
-00:03:18,000 --> 00:03:20,000
-¿Abo es eso, nosotros?
-
-80
-00:03:20,000 --> 00:03:21,000
-Entonces sí.
-
-81
-00:03:21,000 --> 00:03:22,000
-Yo no me acuerdo sin seramente,
-
-82
-00:03:22,000 --> 00:03:24,000
-y te vienes ser a lo sí, sí, vamos a atacar.
-
-83
-00:03:24,000 --> 00:03:26,000
-¿Epo como me ven ya se lo siento?
-
-84
-00:03:26,000 --> 00:03:27,000
+00:00:51,953 --> 00:00:53,113
 Sí.
 
-85
-00:03:27,000 --> 00:03:30,000
-Sí, lo único como faltaba yo, sólo ser de abostras.
+25
+00:00:53,113 --> 00:00:54,113
+¿Qué estás haciendo, papá?
 
-86
-00:03:36,000 --> 00:03:38,000
-Bueno, igual, mejor.
+26
+00:00:54,113 --> 00:00:56,113
+Desvestirá y con mi novio.
 
-87
-00:03:38,000 --> 00:03:39,000
+27
+00:00:56,113 --> 00:00:58,233
+¿Qué es eso?
+
+28
+00:00:58,233 --> 00:01:01,743
+Tengo mis documentos, mi dinero, todo.
+
+29
+00:01:01,743 --> 00:01:03,293
+En realidad voy con alguien.
+
+30
+00:01:03,293 --> 00:01:04,293
+¿Qué viene desde lejos?
+
+31
+00:01:04,293 --> 00:01:05,293
+Chicos, viene Tommy.
+
+32
+00:01:05,293 --> 00:01:06,293
+Les dije.
+
+33
+00:01:06,293 --> 00:01:07,903
+Bueno, llegamos.
+
+34
+00:01:07,903 --> 00:01:08,903
+¿Qué haces acá?
+
+35
+00:01:08,903 --> 00:01:10,903
+¿Viniste sola al bar?
+
+36
+00:01:10,903 --> 00:01:11,903
+Me trajo Tomás.
+
+37
+00:01:11,903 --> 00:01:12,903
+¡Shot!
+
+38
+00:01:12,903 --> 00:01:14,903
+Me gusta mucho este bar.
+
+39
+00:01:14,903 --> 00:01:18,463
+Desde ustedes.
+
+40
+00:01:18,463 --> 00:01:21,463
+Dejé mi trabajo, mi estudio, mi casa, mi gente, todo.
+
+41
+00:01:21,463 --> 00:01:24,463
+Para verín al otro lado del mundo a ver a mi novio.
+
+42
+00:01:24,463 --> 00:01:25,463
+Y lo encontré con otra.
+
+43
+00:01:25,463 --> 00:01:27,463
+Casi lo mato a él y...
+
+44
+00:01:27,463 --> 00:01:29,463
+¿Cómo se llama tu novia?
+
+45
+00:01:29,463 --> 00:01:31,463
+¡No me jodas!
+
+46
+00:01:31,463 --> 00:01:33,503
+¡Te cagó el conchú!
+
+47
+00:01:38,413 --> 00:02:38,263
+Difícil que saber quiénes somos.
+
+48
+00:02:38,263 --> 00:02:39,553
+Piensen lo bien.
+
+49
+00:02:39,553 --> 00:02:42,423
+¿Quiénes define?
+
+50
+00:02:42,423 --> 00:02:43,963
+Lo que pensamos.
+
+51
+00:02:43,963 --> 00:02:44,963
+Lo que sentimos.
+
+52
+00:02:44,963 --> 00:02:46,963
+Lo que hacemos.
+
+53
+00:02:46,963 --> 00:02:48,823
+En este momento de mi vida,
+
+54
+00:02:48,823 --> 00:02:50,823
+lo único que tenían claro era
+
+55
+00:02:50,823 --> 00:02:52,823
+que no sabía quién era yo.
+
+56
+00:02:52,823 --> 00:03:00,903
+Ni quién era él.
+
+57
+00:03:00,903 --> 00:03:06,383
+¿Qué haces vos acá?
+
+58
+00:03:06,383 --> 00:03:08,313
+Y no desecá.
+
+59
+00:03:08,313 --> 00:03:13,043
+Yo soy de Martina, pero no me acuerdo mucho de acá.
+
+60
+00:03:13,043 --> 00:03:14,043
+Yo tampoco.
+
+61
+00:03:14,043 --> 00:03:18,703
+¿No será que vos y yo?
+
+62
+00:03:18,703 --> 00:03:21,343
+Pues sí, nosotros...
+
+63
+00:03:21,663 --> 00:03:22,663
+Entonces sí.
+
+64
+00:03:22,663 --> 00:03:26,263
+Me decía lo sí y llegamos hasta acá.
+
+65
+00:03:26,263 --> 00:03:27,613
+¿Cómo me venía a hacer vos siendo?
+
+66
+00:03:27,613 --> 00:03:31,153
+Sí, lo único que me faltaba es yo solucirte a vos.
+
+67
+00:03:31,153 --> 00:03:38,433
+Bueno, igual.
+
+68
+00:03:38,433 --> 00:03:40,623
 ¿Qué?
 
-88
-00:03:40,000 --> 00:03:42,000
-No es que no me parecate a la activa, que no me guste,
+69
+00:03:40,623 --> 00:03:42,543
+No es que no me parezca atractiva,
 
-89
-00:03:42,000 --> 00:03:45,000
-pero lo deco muy, no pasamos.
+70
+00:03:42,543 --> 00:03:43,543
+que no me guste,
 
-90
-00:03:45,000 --> 00:03:46,000
+71
+00:03:43,543 --> 00:03:46,723
+pero no pasa nada.
+
+72
+00:03:46,723 --> 00:03:47,723
 Sí, mejor.
 
+73
+00:03:47,723 --> 00:03:50,723
+Y yo me voy antes que esto se ponga más raro.
+
+74
+00:03:50,723 --> 00:03:53,983
+¡Qué noche, la noche!
+
+75
+00:03:53,983 --> 00:03:57,043
+Ay, estoy aniquilada.
+
+76
+00:03:57,043 --> 00:03:59,043
+La verdad es que yo lo doy todo,
+
+77
+00:03:59,043 --> 00:04:02,043
+pero ustedes dos no son unas bestias.
+
+78
+00:04:02,043 --> 00:04:04,043
+No me pedían allá.
+
+79
+00:04:04,043 --> 00:04:06,043
+¡Va! ¡Va! ¡Va, amor!
+
+80
+00:04:06,043 --> 00:04:07,043
+¡Va! ¡Va!
+
+81
+00:04:07,043 --> 00:04:08,043
+¡Va! ¡Va!
+
+82
+00:04:08,043 --> 00:04:09,043
+¡Va! ¡Va!
+
+83
+00:04:09,043 --> 00:04:10,043
+¡Va! ¡Va!
+
+84
+00:04:10,043 --> 00:04:11,043
+¡Va!
+
+85
+00:04:11,043 --> 00:04:12,043
+¡Va! ¡Va!
+
+86
+00:04:12,043 --> 00:04:13,043
+¡Va!
+
+87
+00:04:13,043 --> 00:04:14,043
+¡Va!
+
+88
+00:04:14,043 --> 00:04:15,043
+¡Va!
+
+89
+00:04:15,043 --> 00:04:20,203
+¡Va!
+
+90
+00:04:20,203 --> 00:04:21,203
+¡Va!
+
 91
-00:03:46,000 --> 00:03:49,000
-Y yo me voy antes que esto se ponga más farón.
+00:04:21,203 --> 00:04:22,203
+¡Va!
 
 92
-00:03:49,000 --> 00:03:52,000
-¡Qué noche, las noche!
+00:04:22,203 --> 00:04:24,673
+¡Va!
 
 93
-00:03:52,000 --> 00:03:55,000
-¡Ay, estoy aniquilada!
+00:04:24,673 --> 00:04:26,123
+¡Va!
 
 94
-00:03:55,000 --> 00:03:58,000
-La verdad es que yo lo hoy todo, pero ¿te ves dos?
+00:04:26,123 --> 00:04:27,123
+¡Va!
 
 95
-00:03:58,000 --> 00:04:02,000
-Es una abecta, no me pedían a llave!
+00:04:27,123 --> 00:04:28,123
+¡Va!
 
 96
-00:04:02,000 --> 00:04:04,000
-¡Wow! ¡Wah! ¡Muy!
+00:04:28,123 --> 00:04:29,123
+¡Va!
 
 97
-00:04:04,000 --> 00:04:05,000
-¡Asta le que me he metas!
+00:04:29,123 --> 00:04:31,983
+¡Va!
 
 98
-00:04:05,000 --> 00:04:06,000
-¡Asta le que me he metas! ¡Asta le que me he metas!
+00:04:31,983 --> 00:04:34,773
+¡Va!
 
 99
-00:04:06,000 --> 00:04:09,000
-¡Asta le que me he metas! ¡Asta le que me he metas!
+00:04:34,773 --> 00:04:44,023
+¡Va!
 
 100
-00:04:09,000 --> 00:04:11,000
-¡Asta le que me he metas! No, no, no, tranquila.
+00:04:44,023 --> 00:04:52,543
+¡Va!
 
 101
-00:04:11,000 --> 00:04:13,000
-No, no, no, no, que tenemos una nota de sangre en común.
+00:04:52,543 --> 00:04:53,543
+¡Va!
 
 102
-00:04:17,000 --> 00:04:18,000
-¡Lel ha gotta job!
+00:04:53,543 --> 00:04:54,543
+¡Va!
 
 103
-00:04:18,000 --> 00:04:21,000
-¡Lel ha gotta ora!
+00:04:54,543 --> 00:04:55,543
+¡Va!
 
 104
-00:04:21,000 --> 00:04:23,000
-¡Laluma Xerí.
+00:04:55,543 --> 00:04:56,543
+¡Va!
 
 105
-00:04:23,000 --> 00:04:24,000
-¿Cosela Germí?
+00:04:56,543 --> 00:04:57,543
+¡Va!
 
 106
-00:04:24,000 --> 00:04:26,000
-¿Cómo aller beforeateur?
+00:04:57,543 --> 00:05:01,303
+¡Va!
 
 107
-00:04:31,000 --> 00:04:32,000
-Martín...
+00:05:01,303 --> 00:05:02,303
+¡Va!
 
 108
-00:04:33,000 --> 00:04:34,000
-Martín?
+00:05:02,303 --> 00:05:03,713
+¡Va!
 
 109
-00:04:40,000 --> 00:04:42,000
-?
+00:05:03,713 --> 00:05:04,713
+¡Va!
 
 110
-00:04:42,000 --> 00:04:44,000
-¡Pues!
+00:05:04,713 --> 00:05:05,713
+¡Va!
 
 111
-00:04:50,000 --> 00:04:53,000
-¿Qué mar? ¿Le puedes contestar algo mensaje a la mamá?
+00:05:05,713 --> 00:05:06,713
+¡Va!
 
 112
-00:04:53,000 --> 00:04:57,000
-Después no me para preguntar por vos, con papá de la ciembre.
+00:05:06,713 --> 00:05:07,873
+¡Va!
 
 113
-00:04:58,000 --> 00:05:01,000
-Ma, estoy vivante.
+00:05:07,873 --> 00:05:08,873
+¡Va!
 
 114
-00:05:01,000 --> 00:05:02,000
-Chao.
+00:05:08,873 --> 00:05:10,773
+¡Va!
 
 115
-00:05:02,000 --> 00:05:03,000
-Vale, ¿ví tú se llorar?
+00:05:10,773 --> 00:05:11,773
+¡Va!
 
 116
-00:05:03,000 --> 00:05:04,000
-No tengo idea.
+00:05:11,773 --> 00:05:12,773
+¡Va!
 
 117
-00:05:04,000 --> 00:05:06,000
-Bueno, tengo noticias.
+00:05:12,773 --> 00:05:13,773
+¡Va!
 
 118
-00:05:06,000 --> 00:05:08,000
-Bantra el plata.
+00:05:13,773 --> 00:05:14,773
+¡Va!
 
 119
-00:05:08,000 --> 00:05:10,000
-Hoy te emprano a su un turista francés.
+00:05:14,773 --> 00:05:15,773
+¡Va!
 
 120
-00:05:10,000 --> 00:05:12,000
-¿Y las invadicas?
+00:05:15,773 --> 00:05:16,773
+¡Va!
 
 121
-00:05:12,000 --> 00:05:14,000
-Vale, ¿en tenido nada? No es el español.
+00:05:16,773 --> 00:05:17,773
+¡Va!
 
 122
-00:05:14,000 --> 00:05:15,000
-Ningles, o lo fases.
+00:05:17,773 --> 00:05:18,773
+¡Va!
 
 123
-00:05:15,000 --> 00:05:17,000
-Ah, sí, sí.
+00:05:18,773 --> 00:05:19,993
+¡Va!
 
 124
-00:05:17,000 --> 00:05:19,000
-Okay.
+00:05:19,993 --> 00:05:20,993
+¡Va!
 
 125
-00:05:19,000 --> 00:05:21,000
-Fense.
+00:05:20,993 --> 00:05:22,123
+¡Va!
 
 126
-00:05:21,000 --> 00:05:25,000
-¿Cómo no le pueden encontrar la vuelta?
+00:05:22,123 --> 00:05:23,123
+Sí.
 
 127
-00:05:25,000 --> 00:05:26,000
-¿Qué?
+00:05:23,123 --> 00:05:24,123
+Sí.
 
 128
-00:05:26,000 --> 00:05:27,000
-¿N nada?
+00:05:24,123 --> 00:05:28,393
+Bueno, le puedo encontrar la vuelta.
 
 129
-00:05:27,000 --> 00:05:29,000
-¿Cosa mías?
+00:05:28,393 --> 00:05:30,393
+Nada, cosas mías. ¿Listo?
 
 130
-00:05:29,000 --> 00:05:30,000
-listo.
+00:05:30,393 --> 00:05:32,393
+No, también va a entrar un grupo
 
 131
-00:05:30,000 --> 00:05:31,000
-No.
+00:05:32,393 --> 00:05:34,393
+y necesitamos todas las habitaciones.
 
 132
-00:05:31,000 --> 00:05:32,000
-También me han traído un grupo.
+00:05:34,393 --> 00:05:36,393
+Anda hablando con Sofía.
 
 133
-00:05:32,000 --> 00:05:34,000
-Y necesitamos todas las habitaciones.
+00:05:36,393 --> 00:05:37,393
+¿Te vueltas lo de Sofía?
 
 134
-00:05:34,000 --> 00:05:35,000
-Anda hablando con sofías.
+00:05:37,393 --> 00:05:38,393
+Ya te dije que no se va a ir.
 
 135
-00:05:35,000 --> 00:05:37,000
-Te juvenca lo hizo fíjate.
+00:05:38,393 --> 00:05:39,393
+Pero ¿por qué, Mara?
 
 136
-00:05:37,000 --> 00:05:39,400
-¡Ahí! Lo quiero por qué mar, está viviendo gratis ese mes.
+00:05:39,393 --> 00:05:40,393
+Está viviendo gratis hace meses.
 
 137
-00:05:39,480 --> 00:05:41,600
+00:05:40,393 --> 00:05:42,393
 No, primero que nada no está viviendo gratis, ok?
 
 138
-00:05:41,680 --> 00:05:43,480
-A mí me pagó un año por ahí el andado.
+00:05:42,393 --> 00:05:44,393
+A mí me pagó un año por adelantado.
 
 139
-00:05:43,560 --> 00:05:46,840
-Que yo no sé para que hice con la plata o no sé para calcular.
+00:05:44,393 --> 00:05:46,393
+Que yo no sepa qué hice con la plata
 
 140
-00:05:46,920 --> 00:05:47,920
-Y eso otra cosa.
+00:05:46,393 --> 00:05:47,393
+o no sepa calcular.
 
 141
-00:05:48,480 --> 00:05:50,240
-Según no tenemos la habitación de Tommy.
+00:05:47,393 --> 00:05:48,393
+Es otra cosa.
 
 142
-00:05:50,560 --> 00:05:52,960
-¿Se fue? Es un depósito de polquerías.
+00:05:48,393 --> 00:05:49,393
+Sí.
 
 143
-00:05:53,200 --> 00:05:55,600
-Dale. Ahora que ovio de la crezbaciar.
+00:05:49,393 --> 00:05:51,393
+Segundo, tenemos la habitación de Tommy.
 
 144
-00:05:55,880 --> 00:05:57,200
-Me neceso reírte curo.
+00:05:51,393 --> 00:05:54,393
+No sé, desde que se fuese un depósito de polquerías.
 
 145
-00:05:57,280 --> 00:05:58,880
-Pute pensar que Tomás se va a quedar.
+00:05:54,393 --> 00:05:55,393
+Vale.
 
 146
-00:05:58,960 --> 00:06:00,560
-En dos minutos vuelve con la conchula.
+00:05:55,393 --> 00:05:57,393
+Ahora que volvió, la querés vaciar.
 
 147
-00:06:00,640 --> 00:06:02,000
-¿Sabes?
+00:05:57,393 --> 00:05:58,393
+Mienes a reír, te juro.
 
 148
-00:09:07,000 --> 00:09:12,000
-¡Ahí!
+00:05:58,393 --> 00:06:00,393
+¿Pues te pensás que Tomás se va a quedar?
 
 149
-00:09:37,960 --> 00:09:40,960
-Porque la vez sólo una...
+00:06:00,393 --> 00:06:02,393
+En dos minutos vuelve con la conchuda, ¿sabes lo?
 
 150
-00:09:41,360 --> 00:09:43,840
-Y puede quemar a ganos.
+00:06:02,393 --> 00:10:46,533
+Pero...
 
 151
-00:09:44,000 --> 00:09:45,000
-¡Ahí!
+00:10:46,533 --> 00:10:47,533
+Te traje agüita.
 
 152
-00:09:45,120 --> 00:09:50,000
-¡Puedes quemar a ganos!
+00:10:47,533 --> 00:10:48,533
+Gracias.
 
 153
-00:09:50,120 --> 00:09:53,080
-¡Todo su forma ganada!
+00:10:48,533 --> 00:10:49,533
+Para que tomes mucho líquido.
 
 154
-00:09:53,160 --> 00:09:55,160
-¡Tendré a lo más grande!
+00:10:49,533 --> 00:10:51,533
+Rezca más de lag.
 
 155
-00:09:55,240 --> 00:09:56,560
-¡Spor el escondad!
+00:10:51,533 --> 00:10:52,533
+No es una buena combinación.
 
 156
-00:09:56,640 --> 00:09:59,920
-¡Díos el tido, se tu porazo!
+00:10:52,533 --> 00:10:57,733
+¿Algo huele más, no?
 
 157
-00:10:00,000 --> 00:10:04,800
-¡Spor el enfugio para esta canción!
+00:10:57,733 --> 00:10:58,733
+Ay.
 
 158
-00:10:04,800 --> 00:10:07,800
-No hay que masquillar con poco
+00:10:58,733 --> 00:10:59,733
+Sí, creo que es vos.
 
 159
-00:10:07,800 --> 00:10:09,800
-Vivir en el momento
+00:10:59,733 --> 00:11:00,733
+Ay.
 
 160
-00:10:09,800 --> 00:10:11,800
-O sea, o sea, o sea
+00:11:00,733 --> 00:11:01,733
+No.
 
 161
-00:10:11,800 --> 00:10:14,800
-O sea, o sea
+00:11:01,733 --> 00:11:03,763
+Necesito bañarme,
 
 162
-00:10:14,800 --> 00:10:19,800
-No hay que tomar o sea
+00:11:03,763 --> 00:11:06,893
+pero todas mis cosas quedaron lo de Nico.
 
 163
-00:10:19,800 --> 00:10:21,800
-No hay que masquillar con poco
+00:11:06,893 --> 00:11:10,823
+¿Podrías llamarlo y pediúselas?
 
 164
-00:10:21,800 --> 00:10:23,800
-Y en el momento
+00:11:10,823 --> 00:11:11,823
+No.
 
 165
-00:10:23,800 --> 00:10:27,800
-O sea, o sea
+00:11:11,823 --> 00:11:13,043
+No.
 
 166
-00:10:27,800 --> 00:10:34,800
-No hay que tomar o sea
+00:11:13,043 --> 00:11:14,043
+No puedo hablar con él.
 
 167
-00:10:34,800 --> 00:10:37,800
-No hay que tomar o sea
+00:11:14,043 --> 00:11:16,043
+Además, quiero darle tiempo.
 
 168
-00:10:37,800 --> 00:10:43,800
-Bueno, hoy como estamos
+00:11:16,043 --> 00:11:18,943
+¿Tiempo para qué?
 
 169
-00:10:43,800 --> 00:10:45,800
-Te traque a Uita
+00:11:18,943 --> 00:11:20,943
+¿Para qué reflexiones?
 
 170
-00:10:45,800 --> 00:10:46,800
-Gracias
+00:11:20,943 --> 00:11:23,663
+Me pide perdón.
 
 171
-00:10:46,800 --> 00:10:47,800
-Raque, tomés mucho, líquido
+00:11:23,663 --> 00:11:27,663
+No, creo que tendrías que pensar en la posibilidad de que eso no suceda.
 
 172
-00:10:47,800 --> 00:10:49,800
-Pero ¿está que a masquillar?
+00:11:27,663 --> 00:11:29,403
+¿No?
 
 173
-00:10:49,800 --> 00:10:51,800
-No, es una buena combinación
+00:11:29,403 --> 00:11:31,403
+Algo dentro mío me dice que
 
 174
-00:10:51,800 --> 00:10:55,800
-Algo, algo de la mal, no
+00:11:31,403 --> 00:11:33,403
+Nico va a volver a estar perdida.
 
 175
-00:10:55,800 --> 00:10:58,800
-No hay, sí, creo que esto va
+00:11:33,403 --> 00:11:34,403
+Yo confío en mi intuición.
 
 176
-00:10:58,800 --> 00:11:00,800
-Ay, no
+00:11:34,403 --> 00:11:35,403
+¿Sí?
 
 177
-00:11:00,800 --> 00:11:02,800
-Es si te voy a venir, pero
+00:11:35,403 --> 00:11:36,403
+Sí.
 
 178
-00:11:02,800 --> 00:11:04,800
-Todas mis cosas quedaron lo de Nico
+00:11:36,403 --> 00:11:38,713
+No sé.
 
 179
-00:11:04,800 --> 00:11:06,800
-Ay, que...
+00:11:38,713 --> 00:11:39,713
+No sé.
 
 180
-00:11:06,800 --> 00:11:09,800
-Podría llamarlo y peíos las
+00:11:39,713 --> 00:11:40,713
+Capaz que...
 
 181
-00:11:09,800 --> 00:11:11,800
-No, no, no puedo agar con él
+00:11:40,713 --> 00:11:42,163
+No.
 
 182
-00:11:11,800 --> 00:11:14,800
-Además, quiero darle tiempo
+00:11:42,163 --> 00:11:43,163
+Es Nico.
 
 183
-00:11:14,800 --> 00:11:16,800
-Sí, tengo para que
+00:11:43,163 --> 00:11:47,533
+¿Cómo está? Y me veo bien.
 
 184
-00:11:16,800 --> 00:11:18,800
-Para que les reaccione
+00:11:47,533 --> 00:11:53,543
+Yo sabía que ibas a volver, pero...
 
 185
-00:11:18,800 --> 00:11:20,800
-Y me pide para
+00:11:53,543 --> 00:11:55,543
+¿Cómo sabía dónde estaba?
 
 186
-00:11:20,800 --> 00:11:24,800
-Ay, no creo que tendrás que pensar en la posibilidad
+00:11:55,543 --> 00:11:57,543
+Y me equipaje, ¿no? Trajiste mis cosas.
 
 187
-00:11:24,800 --> 00:11:27,800
-Y que eso no se da
+00:11:57,543 --> 00:12:01,463
+No, no sé. No pensé en eso.
 
 188
-00:11:27,800 --> 00:11:29,800
-Algo dentro de mí o me dice que
+00:12:01,463 --> 00:12:03,503
+Tranquilo, Nico.
 
 189
-00:11:29,800 --> 00:11:31,800
-Nico va a volver a la dependida
+00:12:03,503 --> 00:12:05,503
+No necesitas ninguna excusa para verme.
 
 190
-00:11:31,800 --> 00:11:33,800
-Yo confío mucha invitación
+00:12:05,503 --> 00:12:06,503
+Ahora podemos ir a tu casa.
 
 191
-00:11:33,800 --> 00:11:34,800
-Sí, sí
+00:12:06,503 --> 00:12:10,233
+Es que no, no quiero ir a ningún lado con vos.
 
 192
-00:11:34,800 --> 00:11:36,800
-Sí
+00:12:10,233 --> 00:12:13,363
+Entonces, ¿para qué viniste a buscarme?
 
 193
-00:11:36,800 --> 00:11:39,800
-No sé, no te apague
+00:12:13,363 --> 00:12:14,363
+Es que no vine a buscarte, ¿no?
 
 194
-00:11:39,800 --> 00:11:41,800
-Sí, sí, sí, sí
+00:12:14,363 --> 00:12:16,363
+Por favor, deja de ver cosas que no son.
 
 195
-00:11:41,800 --> 00:11:43,800
-¿Cómo está y me volviendo?
+00:12:16,363 --> 00:12:20,763
+Por favor.
 
 196
-00:11:43,800 --> 00:11:45,800
-Yo con lo dejo solos
+00:12:20,763 --> 00:12:23,183
+Ya, no quiero lastimarte.
 
 197
-00:11:49,800 --> 00:11:51,800
-Yo, yo sabía que iba a sugo lo ver
+00:12:23,183 --> 00:12:24,183
+Tarde.
 
 198
-00:11:51,800 --> 00:11:53,800
-¿Cómo sabía dónde estaba
+00:12:24,183 --> 00:12:28,423
+Si vos viniste a Buenos Aires a buscarme,
 
 199
-00:11:53,800 --> 00:11:55,800
-Y me equivaje a otra gesto mis cosas
+00:12:28,423 --> 00:12:31,253
+te recomiendo que te vayas.
 
 200
-00:11:55,800 --> 00:11:58,800
-No, no, no, no sé, no pensé en eso
+00:12:31,253 --> 00:12:34,283
+Sí, porque no va a pasar nada entre nosotros.
 
 201
-00:11:58,800 --> 00:12:00,800
-Pén Quilo, Nico
+00:12:34,283 --> 00:12:36,623
+¿Está claro?
 
 202
-00:12:00,800 --> 00:12:03,800
-No necesitas ninguna excusa para verme
+00:12:36,623 --> 00:12:39,673
+Por esto vine.
 
 203
-00:12:03,800 --> 00:12:04,800
-Ahora podemos ir a tu casa
+00:12:39,673 --> 00:12:41,573
+Tú, mamá.
 
 204
-00:12:04,800 --> 00:12:06,800
-Es que no, no quiero la ninguna lado, como eso
+00:12:41,573 --> 00:12:43,823
+No me pare de mandar mensaje.
 
 205
-00:12:07,800 --> 00:12:10,800
-Y entonces, para que me dista buscarme
+00:12:43,823 --> 00:12:44,823
+No me para de llamar.
 
 206
-00:12:10,800 --> 00:12:13,800
-Es que no vine a buscarte, no, por favor, dejáver cosas
+00:12:44,823 --> 00:12:45,823
+Ella no sé qué hacer.
 
 207
-00:12:13,800 --> 00:12:15,800
-Que no son
+00:12:45,823 --> 00:12:46,823
+Tú, mamá.
 
 208
-00:12:15,800 --> 00:12:17,800
-Por favor
+00:12:46,823 --> 00:12:47,823
+Resolvero.
 
 209
-00:12:17,800 --> 00:12:20,800
-Ya, no quiero la última vez
+00:12:47,823 --> 00:12:48,823
+¿Qué le dijiste? ¿Le contaste algo?
 
 210
-00:12:20,800 --> 00:12:22,800
-Talde
+00:12:48,823 --> 00:12:51,393
+No le contesté.
 
 211
-00:12:24,800 --> 00:12:26,800
-Si vos veniste o no soy les da buscarme
+00:12:51,393 --> 00:12:52,393
+Hola, mamá.
 
 212
-00:12:27,800 --> 00:12:29,800
-Te recomiendo que te vayas
+00:12:52,393 --> 00:12:53,393
+Por fin.
 
 213
-00:12:29,800 --> 00:12:32,800
-Si, porque no vamos a pasar nada entre nosotros
+00:12:53,393 --> 00:12:55,393
+Pensé que estabas muerta.
 
 214
-00:12:33,800 --> 00:12:35,800
-Está claro
+00:12:55,393 --> 00:12:56,393
+No te dejarés, mamá.
 
 215
-00:12:36,800 --> 00:12:38,800
-Por esto, Ínea
+00:12:56,393 --> 00:12:58,393
+Estoy perfecta.
 
 216
-00:12:38,800 --> 00:12:40,800
-Tu mamba
-
-217
-00:12:40,800 --> 00:12:42,800
-No me parei mandar mensaje, no me parei llamar
-
-218
-00:12:42,800 --> 00:12:44,800
-Ya no sé qué hacer tu mamba, no es el suelo
-
-219
-00:12:44,800 --> 00:12:46,800
-Quiero decirte, me contesté algo
-
-220
-00:12:46,800 --> 00:12:48,800
-No le conté
-
-221
-00:12:49,800 --> 00:12:52,800
-Hola mamá, por fin, pensé que estaba muerta
-
-222
-00:12:53,800 --> 00:12:55,800
-No estas cares, mamá estoy perfecta
-
-223
-00:12:55,800 --> 00:12:56,800
+00:12:58,393 --> 00:12:59,393
 ¿Qué te pasó?
 
-224
-00:12:56,800 --> 00:12:57,800
-¿Qué te tienes?
-
-225
-00:12:57,800 --> 00:12:59,800
+217
+00:12:59,393 --> 00:13:01,393
 ¿Por qué no me contestas las llamadas?
 
+218
+00:13:01,393 --> 00:13:02,393
+Porque se me rompió el celular.
+
+219
+00:13:02,393 --> 00:13:03,393
+Mentira.
+
+220
+00:13:03,393 --> 00:13:04,393
+Te robaron.
+
+221
+00:13:04,393 --> 00:13:05,393
+A vos te robaron.
+
+222
+00:13:05,393 --> 00:13:06,393
+Yo sabía.
+
+223
+00:13:06,393 --> 00:13:07,393
+¿Y ese novio?
+
+224
+00:13:07,393 --> 00:13:08,393
+¿Vale, educado, que tenés?
+
+225
+00:13:08,393 --> 00:13:10,393
+¿Que ni siquiera me contestas?
+
 226
-00:12:59,800 --> 00:13:00,800
-Porque se veron pió el celular
+00:13:10,393 --> 00:13:11,393
+Argentino tenía que ser.
 
 227
-00:13:00,800 --> 00:13:03,800
-Mentira, te robaron, no vamos a robar
+00:13:11,393 --> 00:13:12,393
+Pasta, mamá.
 
 228
-00:13:03,800 --> 00:13:04,800
-No sabía
+00:13:12,393 --> 00:13:14,393
+Cuando tenga muy nuevo celular, te llamo.
 
 229
-00:13:04,800 --> 00:13:06,800
-Y ese no dio, mal educado que tenés
+00:13:14,393 --> 00:13:16,103
+Chau.
 
 230
-00:13:06,800 --> 00:13:07,800
-Que ni siquiera me contesta
+00:13:16,103 --> 00:13:17,103
+¿Por qué no le dijiste
 
 231
-00:13:07,800 --> 00:13:09,800
-Argentido, tenía que ser
+00:13:17,103 --> 00:13:18,103
+que no me mande más mensaje
 
 232
-00:13:09,800 --> 00:13:11,800
-Pasta mamá, cuando tenga muy noves celular
+00:13:18,103 --> 00:13:19,103
+ni que me llame?
 
 233
-00:13:11,800 --> 00:13:12,800
-Te llamo, chau
-
-234
-00:13:13,800 --> 00:13:15,800
-¿Por qué no le dijiste que no me mande un mensaje
-
-235
-00:13:15,800 --> 00:13:16,800
-Ni que me llame?
-
-236
-00:13:16,800 --> 00:13:17,800
+00:13:19,103 --> 00:13:20,103
 ¿Qué querías?
 
+234
+00:13:20,103 --> 00:13:21,103
+¿Quién le diga que terminamos
+
+235
+00:13:21,103 --> 00:13:22,103
+porque me mandé este con otra?
+
+236
+00:13:22,103 --> 00:13:23,103
+No, pero le podrías haber dicho
+
 237
-00:13:17,800 --> 00:13:19,800
-Que le diga que terminamos porque me da en este con otra
+00:13:23,103 --> 00:13:25,103
+que ya no estamos más juntos y listo.
 
 238
-00:13:19,800 --> 00:13:22,800
-No, pero le podrías saber dicho que ya no estamos más juntos
+00:13:25,103 --> 00:13:44,313
+Que bueno, harto otra vez así, ¿eh?
 
 239
-00:13:22,800 --> 00:13:24,800
-¿Qué es esto?
+00:13:44,313 --> 00:13:46,313
+Sin ese trajecito de pin bueno, ¿me tenías?
 
 240
-00:13:26,800 --> 00:13:28,800
-Yo no, chau
+00:13:47,543 --> 00:13:49,543
+Yo creo que yo prefiero estar resnudo
 
 241
-00:13:29,800 --> 00:13:30,800
-Chau
+00:13:49,543 --> 00:13:51,543
+a tener que ponerme el traje de todos los días.
 
 242
-00:13:33,800 --> 00:13:35,800
-Chau
+00:13:51,543 --> 00:13:52,543
+¿Porta diciendo en serio
 
 243
-00:13:40,800 --> 00:13:41,800
-¿Qué bueno, ¿verdad otra vez así?
+00:13:52,543 --> 00:13:54,543
+de eso creo que es un traje de buceo?
 
 244
-00:13:41,800 --> 00:13:44,800
-Si me traje, si todo pinc buena, me traías
+00:13:54,543 --> 00:13:56,543
+Un mal necesario.
 
 245
-00:13:44,800 --> 00:13:46,800
-Había que yo que yo prefiero estar
+00:13:56,543 --> 00:13:58,573
+Me lo puse para mi entrevista de trabajo.
 
 246
-00:13:46,800 --> 00:13:48,800
-No, a tener que verme traje todos los otros
+00:13:58,573 --> 00:13:59,573
+Un sábado.
 
 247
-00:13:48,800 --> 00:13:50,800
-Por ti hay si no sé que eso
+00:13:59,573 --> 00:14:02,213
+No, no, no, no, no.
 
 248
-00:13:50,800 --> 00:13:52,800
-Porque un traje de buceo
+00:14:02,213 --> 00:14:03,213
+¿Qué sé yo?
 
 249
-00:13:52,800 --> 00:13:55,800
-Un mañez es salio, me no puse para
+00:14:03,213 --> 00:14:05,213
+Igual, ya les avicié ante mano
 
 250
-00:13:55,800 --> 00:13:56,800
-Mentre vista de trojo
+00:14:05,213 --> 00:14:06,213
+que pagaran o que pagaran.
 
 251
-00:13:56,800 --> 00:13:58,800
-Un salado
+00:14:06,213 --> 00:14:08,213
+Yo así vestido, ni iba a trabajar.
 
 252
-00:13:58,800 --> 00:13:59,800
-¿Ara, ¿eh?
+00:14:08,213 --> 00:14:09,213
+Uy, eso es de tú.
 
 253
-00:13:59,800 --> 00:14:00,800
-¿Qué es esto?
+00:14:09,213 --> 00:14:10,213
+Me imagino que le habrá encantado.
 
 254
-00:14:00,800 --> 00:14:02,800
-Igual, en el salio sabiciante, me mano
+00:14:10,213 --> 00:14:12,213
+Igual tranquilo que se va a conseguir algo.
 
 255
-00:14:02,800 --> 00:14:05,800
-Que pagaron que pagaron yo así vestido ni otra
+00:14:12,213 --> 00:14:16,543
+¿Me dieron el trabajo?
 
 256
-00:14:05,800 --> 00:14:07,800
-O, eso es de tu, imagino que le habré encantado
+00:14:16,543 --> 00:14:17,543
+Yo no sé cómo hacer.
 
 257
-00:14:07,800 --> 00:14:09,800
-Y va al tranquilo, que estaba conseguido
+00:14:17,543 --> 00:14:18,543
+Realmente me entiendo
 
 258
-00:14:11,800 --> 00:14:13,800
-Me dieron trojo
+00:14:18,543 --> 00:14:20,543
+a trabajar con el que vos te tomen.
 
 259
-00:14:13,800 --> 00:14:16,800
-Chau, si como se realmente me entiendo
+00:14:20,543 --> 00:14:21,583
+Es increíble.
 
 260
-00:14:16,800 --> 00:14:17,800
-Que Chau trabajó al jojo, te tomenes
+00:14:21,583 --> 00:14:22,583
+¿Catima?
 
 261
-00:14:17,800 --> 00:14:18,800
-Increíble
+00:14:22,583 --> 00:14:23,583
+¿Lo conocés?
 
 262
-00:14:18,800 --> 00:14:19,800
-¿Qué es?
+00:14:23,583 --> 00:14:24,583
+Sí, sí, sí, sí.
 
 263
-00:14:19,800 --> 00:14:20,800
-Es cariima
+00:14:24,583 --> 00:14:25,583
+¿Vos?
 
 264
-00:14:20,800 --> 00:14:21,800
-¿Ehh, lo que no sé
+00:14:25,583 --> 00:14:26,583
+¿Qué andas?
 
 265
-00:14:21,800 --> 00:14:22,800
-Sí, sí, sí, sí
+00:14:26,583 --> 00:14:27,583
+¿Yo pensaste que te vas a hacer?
 
 266
-00:14:22,800 --> 00:14:25,800
-Bós, ¿qué andas yo pensaste que vas a hacer
+00:14:27,583 --> 00:14:28,583
+Digo, sí.
 
 267
-00:14:25,800 --> 00:14:28,800
-Y yo sí, sí, sí, te vas a quedar en el jostel
+00:14:28,583 --> 00:14:30,583
+Te vas a quedar en el hostel.
 
 268
-00:14:28,800 --> 00:14:30,800
-Si vas solo el conmilia
+00:14:30,583 --> 00:14:31,583
+Se vas a volar con Emilia.
 
 269
-00:14:30,800 --> 00:14:32,800
-Y dudo da ya lugar en la dama
+00:14:31,583 --> 00:14:33,583
+Y dudo talla el lugar en la cama.
 
 270
-00:14:32,800 --> 00:14:35,800
-Entre mi y el vecino que voy a lograr andotes
+00:14:33,583 --> 00:14:36,583
+Entre Emilia y el vecino que es mi grandote.
 
 271
-00:14:35,800 --> 00:14:37,800
-Pero, mal a vía
+00:14:36,583 --> 00:14:38,583
+Ajá, ajá, ajá.
 
 272
-00:14:37,800 --> 00:14:39,800
-Igual te acordan sol
+00:14:38,583 --> 00:14:39,583
+Perdón, mala mía.
 
 273
-00:14:39,800 --> 00:14:41,800
-Toma, te va a la lito, así ocupar es la boca
+00:14:39,583 --> 00:14:41,583
+Igual te encuentro.
 
 274
-00:14:41,800 --> 00:14:43,800
-Con algo, hija, sí, o dos veces
+00:14:41,583 --> 00:14:42,583
+Toma, toma, Lalito.
 
 275
-00:14:44,800 --> 00:14:46,800
-No sé lo que va a hacer todo
+00:14:42,583 --> 00:14:43,583
+Hace copas la boca con él
 
 276
-00:14:46,800 --> 00:14:47,800
-Y con mi mía, ya ya la te
+00:14:43,583 --> 00:14:45,583
+que deja de decir bueno.
 
 277
-00:14:47,800 --> 00:14:48,800
-Sí
+00:14:45,583 --> 00:14:48,763
+No sé qué voy a hacer toda vez.
 
 278
-00:14:48,800 --> 00:14:50,800
-Te mando más que he llegado hasta acá
+00:14:48,763 --> 00:14:49,763
+¿Con Emilia ya hablaste?
 
 279
-00:14:50,800 --> 00:14:51,800
-Me dice
+00:14:49,763 --> 00:14:51,763
+Sí, le mando un mensaje y dije que estaba acá.
 
 280
-00:14:51,800 --> 00:14:52,800
-Por la duda
+00:14:51,763 --> 00:14:53,763
+No sé, por las dudas.
 
 281
-00:14:52,800 --> 00:14:53,800
-Tranquilo, no voy, no
+00:14:53,763 --> 00:14:55,763
+Tranqui, lo bueno es que nadie te corre.
 
 282
-00:14:53,800 --> 00:14:54,800
-Me tiene de correr
+00:14:55,763 --> 00:14:58,763
+Tenés tiempo para decir qué hacer con tu vida.
 
 283
-00:14:54,800 --> 00:14:55,800
-Te me estienvo para
+00:14:58,763 --> 00:14:59,763
+¿Sabes qué es lo peor?
 
 284
-00:14:55,800 --> 00:14:57,800
-Se siga hacer con tu guía
+00:14:59,763 --> 00:15:02,763
+Que hasta hace 24 horas tenía mi vida resuelta
 
 285
-00:14:57,800 --> 00:14:58,800
-¿Sabe qué lo peoro?
+00:15:02,763 --> 00:15:05,763
+hacia donde quería ir y con quién quería estar.
 
 286
-00:14:58,800 --> 00:15:00,800
-Y hasta 24 horas tenía mi vida
+00:15:05,763 --> 00:15:08,273
+Y de repente, de un momento a otro,
 
 287
-00:15:00,800 --> 00:15:02,800
-Resuelta hacia donde quería ir
+00:15:08,273 --> 00:15:10,753
+se fue toda la mierda.
 
 288
-00:15:02,800 --> 00:15:03,800
-Con quién quería estar
+00:15:10,753 --> 00:15:13,753
+Y acá estoy tomándonos más de uno de ustedes.
 
 289
-00:15:04,800 --> 00:15:05,800
-Y arrepende un momento otro
+00:15:13,753 --> 00:15:16,753
+Perdido, sin casa, sin novia, sin futuro.
 
 290
-00:15:05,800 --> 00:15:06,800
-Tu...
+00:15:16,753 --> 00:15:18,753
+Yo si me voy a dar una mala.
 
 291
-00:15:07,800 --> 00:15:08,800
-Se fue toda la mía
+00:15:18,753 --> 00:15:19,753
+Comen, maní.
 
 292
-00:15:08,800 --> 00:15:09,800
-Te he da toy
+00:15:19,753 --> 00:15:20,753
+Es un alérgico.
 
 293
-00:15:09,800 --> 00:15:11,800
-Tomando los más de un último té
+00:15:20,753 --> 00:15:22,753
+Por eso, por eso o sea, de alguna manera
 
 294
-00:15:11,800 --> 00:15:13,800
-Parcillados sin casa, sin novia
+00:15:22,753 --> 00:15:25,753
+vas a ir al hospital ya sea por la alergia
 
 295
-00:15:13,800 --> 00:15:14,800
-Sin futuro
+00:15:25,753 --> 00:15:27,753
+o por la cadapina que te aperta,
 
 296
-00:15:14,800 --> 00:15:16,120
-¿Qué es un amado de la ale?
+00:15:27,753 --> 00:15:28,753
+porque si no te callas, amiguito.
 
 297
-00:15:16,120 --> 00:15:16,800
-¿Cómo es mi amado?
+00:15:28,753 --> 00:15:29,753
+Pero sí, la maní, me cómodo.
 
 298
-00:15:16,800 --> 00:15:17,800
-¿Cómo es mi amado de la ale?
+00:15:29,753 --> 00:15:34,933
+No, no, para, para, me iba, acá no, acá no.
 
 299
-00:15:17,800 --> 00:15:18,800
-Es un ladrico.
+00:15:34,933 --> 00:15:46,043
+Juantera.
 
 300
-00:15:18,800 --> 00:15:19,800
-Por eso.
+00:15:46,043 --> 00:15:48,043
+No, no, justo metelo.
 
 301
-00:15:19,800 --> 00:15:21,800
-Por eso, se va a decir lo que tal ya sea.
+00:15:48,043 --> 00:15:49,043
+Amo y lo estoy buscando así.
 
 302
-00:15:21,800 --> 00:15:22,800
-Por la aleería.
+00:15:49,043 --> 00:15:50,043
+Perdón.
 
 303
-00:15:22,800 --> 00:15:24,800
-O por la cada pina que te aparentó mi acercarse.
+00:15:50,043 --> 00:15:52,233
+Martina, le estamos buscando ropa nueva, te acordás?
 
 304
-00:15:24,800 --> 00:15:25,800
-A mí te ha dicho.
-
-305
-00:15:25,800 --> 00:15:27,800
-No, pero si no, no, no.
-
-306
-00:15:27,800 --> 00:15:28,800
-No, no.
-
-307
-00:15:28,800 --> 00:15:29,800
-Para, para mí, me va a cano.
-
-308
-00:15:29,800 --> 00:15:30,800
-Acá no.
-
-309
-00:15:32,800 --> 00:15:33,800
-Antera.
-
-310
-00:15:37,800 --> 00:15:38,800
-Este.
-
-311
-00:15:41,800 --> 00:15:42,800
-¿Este?
-
-312
-00:15:42,800 --> 00:15:43,800
-¿Ví vi no?
-
-313
-00:15:43,800 --> 00:15:46,800
-No, no, justo no esté lo amo y lo estoy buscando.
-
-314
-00:15:46,800 --> 00:15:47,800
-Pero no.
-
-315
-00:15:47,800 --> 00:15:49,800
-Martín, ¿ale estamos en un fondo de ropa?
-
-316
-00:15:49,800 --> 00:15:50,800
-No, no, no.
-
-317
-00:15:50,800 --> 00:15:52,800
+00:15:52,233 --> 00:15:54,363
 Sí, sí, perdón.
 
+305
+00:15:54,363 --> 00:15:58,363
+Igual, chicas, no quiero molestar en serio.
+
+306
+00:15:58,363 --> 00:16:00,363
+¿Puedo seguir usando eso?
+
+307
+00:16:00,363 --> 00:16:04,363
+No, no, no, perdóname, pero esa ropa la tenés que quemar.
+
+308
+00:16:04,363 --> 00:16:07,363
+Entre las manchas y el olor es un asco.
+
+309
+00:16:07,363 --> 00:16:11,943
+Qué mala, no seas así, pobrecita.
+
+310
+00:16:11,943 --> 00:16:15,483
+Ay, no, perdón, es un asco, sí, no, es un asco.
+
+311
+00:16:15,483 --> 00:16:18,483
+Sí, sí, sí, yo sé, es que todos mis cosas quedaron lo de Nico.
+
+312
+00:16:18,483 --> 00:16:21,483
+Mira, a ese, ni lo nombres, ¿ok?
+
+313
+00:16:21,483 --> 00:16:25,483
+Es que yo no entiendo cómo te van a engañar a vos, con lo linda que sos.
+
+314
+00:16:25,483 --> 00:16:27,483
+Yo te agarro y te mato.
+
+315
+00:16:27,483 --> 00:16:33,253
+No sé qué me quiere decir eso, olvídate, Martina nace sin filtra.
+
+316
+00:16:33,253 --> 00:16:35,253
+Bueno, ¿pero qué prefieren?
+
+317
+00:16:35,253 --> 00:16:38,253
+Que sea una virgen puritana, o que sea una conchuda,
+
 318
-00:15:52,800 --> 00:15:55,800
-Igual, le chicas no quiero molestar en serio.
-
-319
-00:15:55,800 --> 00:15:56,800
-No, no se falta.
-
-320
-00:15:56,800 --> 00:15:57,800
-Bueno, se quiere.
-
-321
-00:15:57,800 --> 00:15:58,800
-¿Puesando eso?
-
-322
-00:15:58,800 --> 00:15:59,800
-No.
-
-323
-00:15:59,800 --> 00:16:02,800
-No, no, no, no, perdón, a mí, pero se ropa a la tenés que quemar.
-
-324
-00:16:02,800 --> 00:16:05,800
-Entre las manchas y el olor es un aco.
-
-325
-00:16:05,800 --> 00:16:06,800
-¿Qué mala?
-
-326
-00:16:06,800 --> 00:16:08,800
-No es así, por eso.
-
-327
-00:16:08,800 --> 00:16:09,800
-Por eso, sí.
-
-328
-00:16:10,800 --> 00:16:11,800
-¿Aí no, perdón, es una...
-
-329
-00:16:11,800 --> 00:16:12,800
-Sí, no.
-
-330
-00:16:12,800 --> 00:16:13,800
-Es una...
-
-331
-00:16:13,800 --> 00:16:14,800
-Sí, sí, sí, sí, sí, sí, sí, sí, sí.
-
-332
-00:16:14,800 --> 00:16:16,800
-Es que todos mis cosas quedaron lo de mí, con...
-
-333
-00:16:16,800 --> 00:16:17,800
-Sí, sí.
-
-334
-00:16:17,800 --> 00:16:18,800
-Mira, a ese ni lo nombres.
-
-335
-00:16:18,800 --> 00:16:19,800
-¿O qué?
-
-336
-00:16:19,800 --> 00:16:22,800
-Y que yo le entiendo cómo te van a engañar a vos
-
-337
-00:16:22,800 --> 00:16:24,800
-con lo linda que sos, yo te adaro y te mato.
-
-338
-00:16:26,800 --> 00:16:27,800
-No sé, qué...
-
-339
-00:16:27,800 --> 00:16:28,800
-¿Dí qué decir a ese o?
-
-340
-00:16:28,800 --> 00:16:31,800
-No le dite, Martín, en las es infiltra.
-
-341
-00:16:31,800 --> 00:16:32,800
-Bueno, pero qué prefieren?
-
-342
-00:16:32,800 --> 00:16:34,800
-Que sea una virgen, purita, nada.
-
-343
-00:16:34,800 --> 00:16:36,800
-O que sea una conchuda,
-
-344
-00:16:36,800 --> 00:16:38,800
+00:16:38,253 --> 00:16:40,253
 como la ex novia de mi hermano.
 
-345
-00:16:38,800 --> 00:16:40,800
-No, perdón, en chicas, pero yo...
+319
+00:16:40,253 --> 00:16:43,253
+No, perdónen chicas, pero yo me amo como soy.
 
-346
-00:16:40,800 --> 00:16:41,800
-Me amo como soy.
+320
+00:16:43,253 --> 00:16:45,733
+¿Por qué tenés tanta ropa de hombre?
 
-347
-00:16:41,800 --> 00:16:44,800
-¿Por qué te ni tanta ropa de hombre, entiendo?
+321
+00:16:45,733 --> 00:16:47,823
+Entiendo, trofeos de guerra.
 
-348
-00:16:44,800 --> 00:16:45,800
-Torféos de guerra.
+322
+00:16:47,823 --> 00:16:49,823
+No, mira, ésta te va a encantar.
 
-349
-00:16:45,800 --> 00:16:46,800
-No, amiga.
+323
+00:16:49,823 --> 00:16:54,543
+Hey, ¿a dónde te fuiste?
 
-350
-00:16:46,800 --> 00:16:47,800
-Esta te van a cantar.
+324
+00:16:54,543 --> 00:16:57,543
+Estaba pensando que... que voy a hacer.
 
-351
-00:16:49,800 --> 00:16:50,800
-Ei.
+325
+00:16:57,543 --> 00:17:00,543
+Primero, bañarte. Después, lo que quieras.
 
-352
-00:16:51,800 --> 00:16:52,800
-A dónde te fuiste?
+326
+00:17:00,543 --> 00:17:02,543
+Es más, podemos hacer una salida de chicas.
 
-353
-00:16:52,800 --> 00:16:54,800
-Esta va pensando que...
+327
+00:17:02,543 --> 00:17:03,543
+Ay, sí.
 
-354
-00:16:54,800 --> 00:16:55,800
-que voy a hacer.
+328
+00:17:03,543 --> 00:17:06,543
+Ah, no sé si estoy de ánimo para eso.
 
-355
-00:16:55,800 --> 00:16:57,800
-Primero van a artes.
+329
+00:17:06,543 --> 00:17:10,543
+Además, necesito hablar con mi papá y mi mamá y contarles todo.
 
-356
-00:16:57,800 --> 00:16:58,800
-¿Epues lo que quieras?
+330
+00:17:10,543 --> 00:17:11,543
+Necesito volver.
 
-357
-00:16:58,800 --> 00:17:01,800
-Emas, podemos hacer una salida de chicas.
+331
+00:17:11,543 --> 00:17:13,543
+Ya, pero se resolviste.
 
-358
-00:17:01,800 --> 00:17:02,800
-Ah, sí.
-
-359
-00:17:02,800 --> 00:17:04,800
-Ah, no sé, sí, estoy léano para eso.
-
-360
-00:17:04,800 --> 00:17:07,800
-Además, necesito hablar con mi papá y mi mamá
-
-361
-00:17:07,800 --> 00:17:09,800
-y contarles todo.
-
-362
-00:17:09,800 --> 00:17:10,800
-Es decir, sí, todo lo vero.
-
-363
-00:17:10,800 --> 00:17:12,800
-Ya, pero es una salida de...
-
-364
-00:17:12,800 --> 00:17:13,800
+332
+00:17:13,543 --> 00:17:14,543
 Claro.
 
-365
-00:17:13,800 --> 00:17:15,800
+333
+00:17:14,543 --> 00:17:17,543
 Además, hay un montón de cosas para conocer acá.
 
-366
-00:17:15,800 --> 00:17:17,800
-Piste, yo lo lugares.
+334
+00:17:17,543 --> 00:17:22,063
+Pienso yo, lugares, comidas, chicos.
 
-367
-00:17:17,800 --> 00:17:18,800
-Comidas.
+335
+00:17:22,063 --> 00:17:23,063
+¡Ay!
 
-368
-00:17:19,800 --> 00:17:20,800
-Chicos.
+336
+00:17:23,063 --> 00:17:26,063
+Marta, ¿no puedes quedarte los días más?
 
-369
-00:17:20,800 --> 00:17:21,800
-Hay.
+337
+00:17:26,063 --> 00:17:30,283
+Después de todo lo que pasó con Nico, siento que no puedo seguir acá.
 
-370
-00:17:21,800 --> 00:17:22,800
-Martín.
+338
+00:17:30,283 --> 00:17:33,823
+Es una lástima porque ya me empezaba a caer bien.
 
-371
-00:17:22,800 --> 00:17:24,800
-No fue que el triuncio más.
+339
+00:17:33,823 --> 00:17:35,723
+Te entiendo.
 
-372
-00:17:24,800 --> 00:17:26,800
-Después de todo lo que paseo conico.
+340
+00:17:35,723 --> 00:17:40,423
+Hay momentos en los que uno necesita estar en casa.
 
-373
-00:17:26,800 --> 00:17:28,800
-Siento que no, pero siquiera acá.
+341
+00:17:40,423 --> 00:17:42,613
+¿Nos hasta que recibo otra señal?
 
-374
-00:17:28,800 --> 00:17:29,800
-Quícas.
+342
+00:17:42,613 --> 00:17:44,613
+Eh, no, no, no, no va.
 
-375
-00:17:29,800 --> 00:17:32,800
-Es una lástima, porque ya me empezaba a sacar el viergo bien.
-
-376
-00:17:32,800 --> 00:17:34,800
-Tentiendo.
-
-377
-00:17:34,800 --> 00:17:36,800
-No hay momentos en los que uno necesita.
-
-378
-00:17:36,800 --> 00:17:37,800
-¿Te encas?
-
-379
-00:17:37,800 --> 00:17:40,800
-Al menos, ¿este que he visivo a otra señal?
-
-380
-00:17:40,800 --> 00:17:41,800
-No.
-
-381
-00:17:41,800 --> 00:17:42,800
-No.
-
-382
-00:17:42,800 --> 00:17:43,800
-No. No. No.
-
-383
-00:17:43,800 --> 00:17:44,800
+343
+00:17:44,613 --> 00:17:45,613
 Te voy a dar un consejo.
 
-384
-00:17:44,800 --> 00:17:46,800
-No escuchemos más a un universo.
+344
+00:17:45,613 --> 00:17:47,613
+No escuchemos más al universo, ¿sí?
 
-385
-00:17:46,800 --> 00:17:49,800
-Porque, últimamente, le viene piciando fuerte a las señales.
+345
+00:17:47,613 --> 00:17:50,613
+Porque últimamente le viene pifiando fuerte a las señales.
 
-386
-00:17:50,800 --> 00:17:51,800
-Como voleto.
+346
+00:17:50,613 --> 00:17:53,183
+Vamos, bonito.
 
-387
-00:17:52,800 --> 00:17:53,800
-Sí.
+347
+00:17:53,183 --> 00:18:02,643
+Hey, casi que no te reconozco con ese look.
 
-388
-00:17:58,800 --> 00:17:59,800
-Hey.
+348
+00:18:02,643 --> 00:18:05,643
+Te iba a decir lo mismo, sos otro.
 
-389
-00:17:59,800 --> 00:18:01,800
-¿Casi que no te reconojo con ese look?
+349
+00:18:05,643 --> 00:18:07,643
+Bueno, me siento un poco otro.
 
-390
-00:18:01,800 --> 00:18:02,800
-Sí, va a decir lo mismo.
+350
+00:18:07,643 --> 00:18:08,643
+¿Eso es bueno o malo?
 
-391
-00:18:02,800 --> 00:18:03,800
-¿Y eso es uno?
+351
+00:18:08,643 --> 00:18:11,343
+No sé, de si me vos.
 
-392
-00:18:03,800 --> 00:18:04,800
-¿Sos otro?
-
-393
-00:18:04,800 --> 00:18:05,800
-No.
-
-394
-00:18:05,800 --> 00:18:06,800
-No, me siento un poco otro.
-
-395
-00:18:06,800 --> 00:18:07,800
-Eso es bueno, o malo.
-
-396
-00:18:07,800 --> 00:18:08,800
-No sé, decirme, ¿vo?
-
-397
-00:18:09,800 --> 00:18:10,800
+352
+00:18:11,343 --> 00:18:12,343
 ¿Te ves bien?
 
-398
-00:18:10,800 --> 00:18:11,800
-Entonces, bueno.
+353
+00:18:12,343 --> 00:18:14,343
+Entonces, bueno, vos también te ves muy bien, ¿eh?
 
-399
-00:18:11,800 --> 00:18:12,800
-¿Votamente es muy bien, ¿eh?
+354
+00:18:14,343 --> 00:18:15,343
+Gracias, no sé.
 
-400
-00:18:12,800 --> 00:18:13,800
-Gracias.
+355
+00:18:15,343 --> 00:18:16,343
+Me gusta como...
 
-401
-00:18:13,800 --> 00:18:14,800
-¿Vo te como...
+356
+00:18:16,343 --> 00:18:17,343
+Sí.
 
-402
-00:18:14,800 --> 00:18:15,800
-Sí, como bien.
+357
+00:18:17,343 --> 00:18:18,663
+¡Qué especialidad!
 
-403
-00:18:15,800 --> 00:18:16,800
-¿Te estaba ocondo?
+358
+00:18:18,663 --> 00:18:19,663
+Te estaba buscando.
 
-404
-00:18:17,800 --> 00:18:20,800
-De todos los vares, de todas las ciudades, de todo el mundo.
+359
+00:18:19,663 --> 00:18:23,563
+De todos los bares, de todas las ciudades, de todo el mundo...
 
-405
-00:18:21,800 --> 00:18:22,800
-Tás a blanca.
+360
+00:18:23,563 --> 00:18:25,563
+Casa Blanca, la peli de mil nueve con tíos que la tienen.
 
-406
-00:18:22,800 --> 00:18:23,800
-La pena y el mismo en los días.
+361
+00:18:25,563 --> 00:18:26,563
+Muy actuado tuyo, ¿eh?
 
-407
-00:18:23,800 --> 00:18:24,800
-¿Te tienen?
+362
+00:18:26,563 --> 00:18:28,563
+Los clásicos no tienen edad, chavón.
 
-408
-00:18:24,800 --> 00:18:25,800
-Muy alto a lo tuyo.
+363
+00:18:28,563 --> 00:18:30,563
+Vindo eso, me gusta.
 
-409
-00:18:25,800 --> 00:18:26,800
-La clasica no tiene nada, chavón.
+364
+00:18:30,563 --> 00:18:34,033
+Ah, te traje algo.
 
-410
-00:18:26,800 --> 00:18:28,800
-Dínde, eso me gusta.
+365
+00:18:34,033 --> 00:18:38,063
+Es un poco viejo, pero bueno, te vas a arruir hasta que consigas otro.
 
-411
-00:18:28,800 --> 00:18:29,800
-Ah.
+366
+00:18:38,063 --> 00:18:40,063
+¡Viene muy bien! ¡Muchas gracias!
 
-412
-00:18:29,800 --> 00:18:30,800
-Para.
-
-413
-00:18:30,800 --> 00:18:31,800
-Tentrás de algo.
-
-414
-00:18:31,800 --> 00:18:35,800
-Es un poco viejo, pero bueno, te va a servir hasta que consigues otra.
-
-415
-00:18:35,800 --> 00:18:36,800
-Muy bien, muy bien.
-
-416
-00:18:36,800 --> 00:18:37,800
-Muchas gracias.
-
-417
-00:18:37,800 --> 00:18:38,800
+367
+00:18:40,063 --> 00:18:41,063
 No.
 
-418
-00:18:38,800 --> 00:18:41,800
-Ahí, Shale Pusun Chipp, te ha gendé mi contacto.
+368
+00:18:41,063 --> 00:18:44,063
+Ahí ya le puse un chip, te agende mi contacto.
 
-419
-00:18:41,800 --> 00:18:43,800
-Bueno, voy a que dos agresizices.
+369
+00:18:44,063 --> 00:18:47,063
+Bueno, cualquier cosa que necesites, acá es todo el tiempo.
 
-420
-00:18:43,800 --> 00:18:44,800
-Hay actos, siempre.
+370
+00:18:47,063 --> 00:18:49,063
+Gracias, gracias, claro, de verdad.
 
-421
-00:18:44,800 --> 00:18:45,800
-Gracias.
+371
+00:18:49,063 --> 00:18:51,473
+¿Tú ya?
 
-422
-00:18:45,800 --> 00:18:46,800
-Gracias, la no me lo da.
+372
+00:18:51,473 --> 00:18:52,503
+Ah, sí.
 
-423
-00:18:48,800 --> 00:18:49,800
-Tucha.
+373
+00:18:52,503 --> 00:18:54,213
+¡Mensi!
 
-424
-00:18:49,800 --> 00:18:50,800
-Ah, así.
+374
+00:18:54,213 --> 00:18:55,213
+¡Oye!
 
-425
-00:18:50,800 --> 00:18:52,800
-Madre, me hagas así.
+375
+00:18:55,213 --> 00:18:59,193
+¡Ven aquí, carucha!
 
-426
-00:18:52,800 --> 00:18:53,800
-Hoy.
+376
+00:18:59,193 --> 00:19:01,643
+¿Rubia o Ipan?
 
-427
-00:18:55,800 --> 00:18:56,800
-Tena, aquí, tarda.
-
-428
-00:18:56,800 --> 00:18:57,800
-¿Qué tal?
-
-429
-00:18:57,800 --> 00:18:58,800
-¿Qué tal?
-
-430
-00:18:58,800 --> 00:18:59,800
-¿Ruvia, hoy, pa?
-
-431
-00:18:59,800 --> 00:19:00,800
+377
+00:19:01,643 --> 00:19:02,643
 No, negro.
 
-432
-00:19:00,800 --> 00:19:02,800
-¿Qué pedó el hipartes?
+378
+00:19:02,643 --> 00:19:03,643
+Capia de Uli Puertes.
 
-433
-00:19:02,800 --> 00:19:03,800
-Sí.
+379
+00:19:03,643 --> 00:19:04,643
+¿Rubia ahí?
 
-434
-00:19:11,800 --> 00:19:12,800
-Gracias.
+380
+00:19:04,643 --> 00:19:17,783
+Rubia no me ha recuperado ayer y todo, que llevo un montón.
 
-435
-00:19:12,800 --> 00:19:15,800
-No había nada más recuperado, es elito que estoy muy tan.
+381
+00:19:17,783 --> 00:19:19,913
+Imagínate yo, pito de trabajo.
 
-436
-00:19:15,800 --> 00:19:17,800
-Y me hagan de eso.
+382
+00:19:23,703 --> 00:19:27,983
+Sí, Sophie, sobre lo que dijiste anoche...
 
-437
-00:19:17,800 --> 00:19:18,800
-Y de otro.
+383
+00:19:27,983 --> 00:19:31,563
+Olvídate, no quiero el orden.
 
-438
-00:19:21,800 --> 00:19:22,800
-Sí.
+384
+00:19:31,563 --> 00:19:42,193
+Ok, yo entiendo si no quieres hablar, pero quiero que sepas que yo...
 
-439
-00:19:22,800 --> 00:19:26,800
-Soy vivo y solo lo que hita noche.
+385
+00:19:42,193 --> 00:19:43,193
+Ya está.
 
-440
-00:19:27,800 --> 00:19:30,800
-Alviante, no quiero la hora de eso.
+386
+00:19:43,193 --> 00:19:44,193
+¿En serio?
 
-441
-00:19:30,800 --> 00:19:31,800
-Ok.
+387
+00:19:44,193 --> 00:19:46,643
+Fue muy valiente lo que hiciste.
 
-442
-00:19:37,800 --> 00:19:41,800
-Yo entiendo si no quieres hablar, pero quiero decir, ¿qué yo?
+388
+00:19:46,643 --> 00:19:49,743
+Te diste cuenta que algo no estaba bien y lo arreglaste.
 
-443
-00:19:41,800 --> 00:19:42,800
-Me está.
-
-444
-00:19:42,800 --> 00:19:43,800
-En serio.
-
-445
-00:19:43,800 --> 00:19:45,800
-Fue muy valiente lo que existe.
-
-446
-00:19:45,800 --> 00:19:48,800
-Si estoy cuenta de algo, no está bien y lo relaste.
-
-447
-00:19:49,800 --> 00:19:51,800
+389
+00:19:49,743 --> 00:19:52,303
 Me escapé.
 
-448
-00:19:51,800 --> 00:19:53,800
-Ahora había mejor.
+390
+00:19:52,303 --> 00:19:55,203
+A una vida mejor, no está mal.
 
-449
-00:19:53,800 --> 00:19:54,800
-No está mal.
-
-450
-00:19:57,800 --> 00:19:59,800
+391
+00:19:55,203 --> 00:20:01,593
 Fue todo muy caótico y rápido.
 
-451
-00:19:59,800 --> 00:20:01,800
-No pensé bien la consecuencias.
+392
+00:20:01,593 --> 00:20:03,593
+No pensé bien las consecuencias.
 
-452
-00:20:01,800 --> 00:20:03,800
-La verdad, de extraño, un chomicasa,
+393
+00:20:03,593 --> 00:20:07,593
+La verdad, extraño mucho mi casa, mis amigos, mi familia.
 
-453
-00:20:03,800 --> 00:20:05,800
-mis amigos, mis familia.
-
-454
-00:20:05,800 --> 00:20:07,800
+394
+00:20:07,593 --> 00:20:08,853
 No es fácil.
 
-455
-00:20:07,800 --> 00:20:10,800
-El chau es ni siquiera la panión me está jodiendo.
+395
+00:20:08,853 --> 00:20:12,203
+El chaval ni siquiera en la España me está jodiendo, ¿no?
 
-456
-00:20:18,800 --> 00:20:20,800
-Vamos a entender muy bien.
+396
+00:20:12,203 --> 00:20:22,073
+A mí se entienden muy bien.
 
-457
-00:20:26,800 --> 00:20:34,800
+397
+00:20:22,073 --> 00:20:35,163
 A veces me pregunto si no somos simplemente las decisiones que tomamos.
 
-458
-00:20:34,800 --> 00:20:37,800
-Con vencidos de que estamos haciendo lo correcto.
+398
+00:20:35,163 --> 00:20:38,613
+Convencidos de que estamos haciéndolo correcto.
 
-459
-00:20:37,800 --> 00:20:39,800
-O no tanto.
+399
+00:20:38,613 --> 00:20:40,773
+Oh, no tanto.
 
-460
-00:20:48,800 --> 00:20:50,800
-No, hola.
+400
+00:20:40,773 --> 00:20:54,773
+Sí, sí, estoy bien.
 
-461
-00:20:50,800 --> 00:20:51,800
-¿Qué tal bien?
-
-462
-00:20:51,800 --> 00:20:52,800
-Sí.
-
-463
-00:20:52,800 --> 00:20:53,800
-Sí.
-
-464
-00:20:53,800 --> 00:20:54,800
-Estoy bien.
-
-465
-00:20:54,800 --> 00:20:56,800
+401
+00:20:54,773 --> 00:20:56,773
 Quería hablar con vos y con papá.
 
-466
-00:20:56,800 --> 00:20:57,800
-Sí.
+402
+00:20:56,773 --> 00:20:59,183
+Sí, ven, honey.
 
-467
-00:20:57,800 --> 00:20:58,800
-¡Hani!
+403
+00:20:59,183 --> 00:21:00,183
+Amigo, quiero.
 
-468
-00:20:58,800 --> 00:20:59,800
-¿A mío quiero.
+404
+00:21:00,183 --> 00:21:01,953
+¿Qué pasa?
 
-469
-00:20:59,800 --> 00:21:01,800
-¿Muscono?
+405
+00:21:01,953 --> 00:21:03,273
+¿Qué pasa?
 
-470
-00:21:01,800 --> 00:21:02,800
-¿Salada?
+406
+00:21:03,273 --> 00:21:04,273
+¿Qué pasa?
 
-471
-00:21:02,800 --> 00:21:03,800
-¿Hay que?
+407
+00:21:04,273 --> 00:21:06,523
+Hi, dad.
 
-472
-00:21:03,800 --> 00:21:06,800
-¿Aí quieres a salir de que?
+408
+00:21:06,523 --> 00:21:07,523
+Quiero decirlo.
 
-473
-00:21:06,800 --> 00:21:08,800
-Ni cuando hay...
+409
+00:21:07,523 --> 00:21:15,503
+Me siento.
 
-474
-00:21:08,800 --> 00:21:10,800
-...ví poco.
+410
+00:21:15,503 --> 00:21:16,503
+A mí no me sorprende.
 
-475
-00:21:10,800 --> 00:21:11,800
-Oh, honey.
-
-476
-00:21:12,800 --> 00:21:13,800
-So sorry.
-
-477
-00:21:13,800 --> 00:21:15,800
-Aminamos sorprende.
-
-478
-00:21:15,800 --> 00:21:17,800
+411
+00:21:16,503 --> 00:21:19,503
 Yo siempre dije que esa relación iba a terminar mal.
 
+412
+00:21:19,503 --> 00:21:22,503
+Espero, hija, que esto te sirva de algo.
+
+413
+00:21:22,503 --> 00:21:24,503
+No, no, por favor, no empieces.
+
+414
+00:21:24,503 --> 00:21:26,503
+No, no empiezo, pero alguien te tiene que decir cómo son las cosas.
+
+415
+00:21:26,503 --> 00:21:28,503
+Oh, no, right, honey, please.
+
+416
+00:21:28,503 --> 00:21:31,503
+Fue una locura que fueras hasta la otra punta del mundo
+
+417
+00:21:31,503 --> 00:21:33,503
+siguiendo un completo desconocido.
+
+418
+00:21:33,503 --> 00:21:34,503
+Maya, por favor.
+
+419
+00:21:34,503 --> 00:21:35,503
+Por favor, no.
+
+420
+00:21:35,503 --> 00:21:36,503
+Estoy cuidando a ella.
+
+421
+00:21:36,503 --> 00:21:37,503
+¿Puedes apoyarme?
+
+422
+00:21:37,503 --> 00:21:40,503
+Mejor hablamos en otro momento, ¿ok?
+
+423
+00:21:40,503 --> 00:21:42,503
+Bueno, sí, me parece que va a estar lo mejor,
+
+424
+00:21:42,503 --> 00:21:43,503
+porque si no estás preparada para ver la realidad,
+
+425
+00:21:43,503 --> 00:21:44,503
+no tenemos nada que hablar.
+
+426
+00:21:44,503 --> 00:21:45,503
+¡Hija!
+
+427
+00:21:45,503 --> 00:21:46,593
+¡Madura!
+
+428
+00:21:46,593 --> 00:21:50,123
+Hola, quiero.
+
+429
+00:21:50,123 --> 00:21:52,123
+No, no, no, no.
+
+430
+00:21:52,123 --> 00:21:57,423
+¿Cómo estás?
+
+431
+00:21:57,423 --> 00:21:59,573
+No sé.
+
+432
+00:21:59,573 --> 00:22:00,573
+Me confuso.
+
+433
+00:22:00,573 --> 00:22:03,113
+Que tengo que preguntar algo.
+
+434
+00:22:03,113 --> 00:22:06,183
+No tengo mucho dinero para volver a casa,
+
+435
+00:22:06,183 --> 00:22:07,183
+así que...
+
+436
+00:22:07,183 --> 00:22:15,763
+Quiero...
+
+437
+00:22:15,763 --> 00:22:16,763
+No sé, algo dentro de mí me dice que...
+
+438
+00:22:16,763 --> 00:22:18,763
+No, que tengo que estar aquí,
+
+439
+00:22:18,763 --> 00:22:22,273
+pero no puedo hacer otro error.
+
+440
+00:22:22,273 --> 00:22:24,273
+Claro que no, no.
+
+441
+00:22:24,273 --> 00:22:27,103
+Ya, un segundo, ¿no quiero que tu mamá me...
+
+442
+00:22:27,103 --> 00:22:29,653
+No, escucha, por supuesto que no.
+
+443
+00:22:29,653 --> 00:22:32,423
+Sweetie, mira, creo que...
+
+444
+00:22:32,423 --> 00:22:35,313
+lo mejor que puedes hacer ahora mismo
+
+445
+00:22:35,313 --> 00:22:37,603
+es confiar en tu intuición.
+
+446
+00:22:37,603 --> 00:22:41,143
+All your gut, ok?
+
+447
+00:22:41,143 --> 00:22:43,143
+You have to respect your dreams as
+
+448
+00:22:43,143 --> 00:22:46,383
+craziest they may seem.
+
+449
+00:22:46,383 --> 00:22:47,383
+And besides,
+
+450
+00:22:47,383 --> 00:22:49,423
+you don't have to make a decision right now,
+
+451
+00:22:49,423 --> 00:22:50,423
+ok?
+
+452
+00:22:50,423 --> 00:22:54,183
+In fact, don't rush.
+
+453
+00:22:54,183 --> 00:22:56,533
+Dad, you know my mom will be so angry
+
+454
+00:22:56,533 --> 00:22:58,533
+if I stay here even one more day.
+
+455
+00:22:58,533 --> 00:23:04,463
+I don't understand her.
+
+456
+00:23:04,463 --> 00:23:06,463
+Maybe if you stick around a little bit longer
+
+457
+00:23:06,463 --> 00:23:10,893
+you'll figure it out.
+
+458
+00:23:10,893 --> 00:23:11,893
+I gotta go get out,
+
+459
+00:23:11,893 --> 00:23:14,303
+but I'm gonna call you soon, ok?
+
+460
+00:23:14,303 --> 00:23:18,423
+Take care of yourself.
+
+461
+00:23:18,423 --> 00:23:39,553
+Thanks dad, you too.
+
+462
+00:24:22,463 --> 00:24:53,623
+Perdón, no, no, aquí se molestraste.
+
+463
+00:24:53,623 --> 00:24:55,623
+Tranqui, no pasa nada.
+
+464
+00:24:55,623 --> 00:24:58,223
+Si es mucho que no contabas.
+
+465
+00:24:58,223 --> 00:25:02,373
+La hora que sí, bastante.
+
+466
+00:25:02,373 --> 00:25:05,583
+¿Puedo preguntar por qué?
+
+467
+00:25:05,583 --> 00:25:11,653
+Creía que era lo mejor para mí.
+
+468
+00:25:11,653 --> 00:25:26,863
+¿Y te equivocaste?
+
+469
+00:25:26,863 --> 00:25:28,863
+Yo no sé qué es lo mejor para mí.
+
+470
+00:25:28,863 --> 00:25:42,513
+Creía que quería decirte.
+
+471
+00:25:42,513 --> 00:25:47,103
+Sabe que lo que más me gusta de Buenos Aires.
+
+472
+00:25:47,103 --> 00:25:51,413
+Nunca de excepción.
+
+473
+00:25:51,413 --> 00:25:58,213
+Creo que deberías quedarte para comprobarme.
+
+474
+00:25:58,213 --> 00:26:00,213
+¿Y vos deberías comprobar si te equivocaste o no
+
+475
+00:26:00,213 --> 00:26:02,213
+al alejarte de la música?
+
+476
+00:26:02,213 --> 00:26:06,933
+Esa noche mirando las estrellas junto a él
+
+477
+00:26:06,933 --> 00:26:09,933
+entendí que sólo podía tomar una decisión.
+
+478
+00:26:09,933 --> 00:26:12,863
+Porque es cierto,
+
 479
-00:21:17,800 --> 00:21:20,800
-Espero y já que esto te sirva de algo.
+00:26:12,863 --> 00:26:14,863
+los clásicos no tienen edad.
 
 480
-00:21:20,800 --> 00:21:21,800
-No, por favor, no.
+00:26:14,863 --> 00:26:18,523
+De todas las terrazas,
 
 481
-00:21:21,800 --> 00:21:22,800
-Pieses.
+00:26:18,523 --> 00:26:20,523
+de todas las ciudades,
 
 482
-00:21:22,800 --> 00:21:23,800
-No, en pie sobre.
+00:26:20,523 --> 00:26:21,523
+de todo el mundo,
 
 483
-00:21:23,800 --> 00:21:25,800
-¿Alguien te tiene que decir como son las cosas?
+00:26:21,523 --> 00:26:25,923
+justo yo tenía que estar en esa.
 
 484
-00:21:25,800 --> 00:21:27,800
-O no, right, honey, please.
+00:26:25,923 --> 00:26:32,303
+O sea, cuando quieras.
 
 485
-00:21:27,800 --> 00:21:32,800
-Una locura que fuera hasta la otra punta del mundo siguiendo un completo desconocido.
+00:26:32,303 --> 00:26:33,303
+Vetele, dale.
 
 486
-00:21:32,800 --> 00:21:33,800
-Ay, por favor.
+00:26:35,303 --> 00:26:38,863
+Ni siquiera estamos ensayando a provocar cantante.
 
 487
-00:21:33,800 --> 00:21:35,800
-Por favor, I'm checking care of her.
+00:26:38,863 --> 00:26:40,863
+Hasta altura no sé si tiene mucho sentido seguir con la banda.
 
 488
-00:21:35,800 --> 00:21:36,800
-¿En su puesto su porpli?
+00:26:40,863 --> 00:26:42,863
+Tomy fundó la banda.
 
 489
-00:21:36,800 --> 00:21:38,800
-Mejor hablamos en otro momento.
+00:26:42,863 --> 00:26:44,903
+Él escribía las letras,
 
 490
-00:21:38,800 --> 00:21:39,800
-¿OK?
+00:26:44,903 --> 00:26:48,083
+en que todos componíamos la música.
 
 491
-00:21:39,800 --> 00:21:41,800
-Bueno, sí me parece que va a ser lo mejor.
+00:26:48,083 --> 00:26:49,083
+Lo pasábamos genial.
 
 492
-00:21:41,800 --> 00:21:43,800
-Puedes ir a estas preparadas, pero la realidad no tenemos nada que hablar.
+00:26:49,083 --> 00:26:51,083
+Pero si se llevaban tan bien
 
 493
-00:21:43,800 --> 00:21:44,800
-Y, ¿eh?
+00:26:51,083 --> 00:26:53,083
+y si trataban tan perfecto porque se separaron.
 
 494
-00:21:44,800 --> 00:21:45,800
-Madura.
+00:26:53,083 --> 00:26:55,083
+Tomy renunció un día para el otro,
 
 495
-00:21:45,800 --> 00:21:48,800
-Lo que no, vamos a seguir.
+00:26:55,083 --> 00:26:56,083
+así, de la nada.
 
 496
-00:21:48,800 --> 00:21:50,800
-¡Ahora, chico!
+00:26:56,083 --> 00:26:58,083
+No nos dio mucha opción.
 
 497
-00:21:50,800 --> 00:21:52,800
-¡No amo!
+00:26:58,083 --> 00:27:00,113
+Un buen cantante
 
 498
-00:21:54,800 --> 00:21:55,800
-¿Qué?
+00:27:00,113 --> 00:27:01,113
+en que sabe componer...
 
 499
-00:21:56,800 --> 00:21:58,800
-Hay un chico.
+00:27:01,113 --> 00:27:02,113
+Lalo,
 
 500
-00:21:58,800 --> 00:22:00,800
-¿Qué he visto?
+00:27:02,113 --> 00:27:04,113
+volvés a proponer a Tomas una vez más
 
 501
-00:22:00,800 --> 00:22:03,800
-¿Dende no has dado alguna cosa con una cosa?
+00:27:04,113 --> 00:27:05,113
+y te afectó la caja.
 
 502
-00:22:03,800 --> 00:22:04,800
-¿Esto no va a estar condeniendo el chico?
+00:27:05,113 --> 00:27:07,113
+¿Habaste algo sin cantante un día para el otro?
 
 503
-00:22:04,800 --> 00:22:05,800
-Quiero.
+00:27:07,113 --> 00:27:09,113
+Nunca te podrían reemplazar y tampoco te hiciste cargo.
 
 504
-00:22:05,800 --> 00:22:06,800
-¿De dónde?
+00:27:09,113 --> 00:27:11,113
+Igual, no fue lo que realmente le jodí a Martina.
 
 505
-00:22:06,800 --> 00:22:10,800
-¿Lo lo sé?
+00:27:11,113 --> 00:27:12,113
+¿Qué fue?
 
 506
-00:22:10,800 --> 00:22:12,800
-¿Vo en mi lado?
+00:27:12,113 --> 00:27:14,563
+Le pasó lo que las pasa a todos, Tomy.
 
 507
-00:22:12,800 --> 00:22:16,680
-Something deep inside me tells me that no...
+00:27:14,563 --> 00:27:17,563
+No nos bancamos, no entender qué fue lo que te pasó.
 
 508
-00:22:16,680 --> 00:22:18,240
-but I have to stay here...
+00:27:17,563 --> 00:27:19,853
+¿O por qué dijaste de ser vos?
 
 509
-00:22:18,240 --> 00:22:20,940
-but I can't make an on Everstake...
+00:27:19,853 --> 00:27:20,853
+A mí se me ocurre alguien.
 
 510
-00:22:20,940 --> 00:22:22,440
-Of course you can, no...
+00:27:20,853 --> 00:27:22,853
+Noah tiene una base espectacular.
 
 511
-00:22:22,440 --> 00:22:23,280
-Let...
+00:27:22,853 --> 00:27:23,853
+Noah, me encantaría, chicos.
 
 512
-00:22:23,280 --> 00:22:24,540
-No, I'm not so...
+00:27:23,853 --> 00:27:25,853
+Pero tiene un pie acá y un pie en un avión.
 
 513
-00:22:24,540 --> 00:22:25,680
-I don't think I'm not sure...
+00:27:25,853 --> 00:27:27,853
+Yo no tengo problema que te quedes, Noah.
 
 514
-00:22:25,680 --> 00:22:26,180
-I'm not sure...
+00:27:27,853 --> 00:27:28,853
+Pero necesitamos la plata.
 
 515
-00:22:26,180 --> 00:22:27,380
-and of course you can't.
+00:27:28,853 --> 00:27:30,853
+¿Tenés otra opción a vos me quedarte?
 
 516
-00:22:27,380 --> 00:22:28,500
-Is what he...
+00:27:30,853 --> 00:27:31,853
+No tengo ni siquiera mi ropa.
 
 517
-00:22:28,500 --> 00:22:30,420
-Look, I think...
+00:27:31,853 --> 00:27:33,853
+Mi corazón debería de traerme a mi valija,
 
 518
-00:22:30,420 --> 00:22:32,820
-The best thing you can do right now...
+00:27:33,853 --> 00:27:35,883
+pero no quiero pedirle ningún favor.
 
 519
-00:22:32,820 --> 00:22:34,680
-is just...
+00:27:35,883 --> 00:27:37,883
+Bueno, yo tengo que ir a mi ex departamento.
 
 520
-00:22:34,680 --> 00:22:37,180
-trust your intuition.
+00:27:37,883 --> 00:27:39,883
+Así que si quieres podemos ir juntos.
 
 521
-00:22:37,180 --> 00:22:38,680
-All of your gut...
+00:27:39,883 --> 00:27:41,883
+Emilia tenía llaves del departamento de Nico
 
 522
-00:22:38,680 --> 00:22:41,440
-Okay, we have to respect your dreams as...
+00:27:41,883 --> 00:27:43,883
+y nunca sospechaste nada.
 
 523
-00:22:41,440 --> 00:22:43,440
-¿Crees si es si si si?
+00:27:43,883 --> 00:27:45,883
+Noah, no sé cómo es en tu país,
 
 524
-00:22:44,440 --> 00:22:47,440
-Y no hay que hacer una decisión.
+00:27:45,883 --> 00:27:47,883
+pero acá estamos acostumbrados al que lo decimos.
 
 525
-00:22:47,440 --> 00:22:48,440
-Ok.
+00:27:47,883 --> 00:27:48,883
+Nos ayudamos.
 
 526
-00:22:48,440 --> 00:22:49,440
-Si no.
+00:27:48,883 --> 00:27:51,323
+Es eso que es muy frágil.
 
 527
-00:22:49,440 --> 00:22:50,440
-No.
+00:27:51,323 --> 00:27:52,323
+Así.
 
 528
-00:22:50,440 --> 00:22:51,440
-No.
-
-529
-00:22:51,440 --> 00:22:52,440
-No.
-
-530
-00:22:52,440 --> 00:22:53,440
-No.
-
-531
-00:22:53,440 --> 00:22:54,440
-No.
-
-532
-00:22:54,440 --> 00:22:55,440
-No.
-
-533
-00:22:55,440 --> 00:22:56,440
-No.
-
-534
-00:22:56,440 --> 00:22:57,440
-No.
-
-535
-00:22:57,440 --> 00:22:58,440
-No.
-
-536
-00:22:58,440 --> 00:22:59,440
-No.
-
-537
-00:23:02,440 --> 00:23:03,440
-Si si.
-
-538
-00:23:03,440 --> 00:23:04,440
-Si.
-
-539
-00:23:04,440 --> 00:23:05,440
-Si.
-
-540
-00:23:05,440 --> 00:23:07,440
-No.
-
-541
-00:23:07,440 --> 00:23:08,440
-No.
-
-542
-00:23:08,440 --> 00:23:09,440
-¿Crees que no?
-
-543
-00:23:09,440 --> 00:23:10,440
-Hay que recalgar.
-
-544
-00:23:10,440 --> 00:23:11,440
-No, no.
-
-545
-00:23:11,440 --> 00:23:12,440
-No.
-
-546
-00:23:12,440 --> 00:23:13,440
-Yo no.
-
-547
-00:23:13,440 --> 00:23:14,440
-No creo que no.
-
-548
-00:23:14,440 --> 00:23:15,440
-No.
-
-549
-00:23:15,440 --> 00:23:16,440
-No.
-
-550
-00:23:16,440 --> 00:23:17,440
-No.
-
-551
-00:23:17,440 --> 00:23:18,440
-No.
-
-552
-00:23:18,440 --> 00:23:19,440
-No.
-
-553
-00:23:19,440 --> 00:23:21,440
-No.
-
-554
-00:23:21,440 --> 00:23:22,440
-No.
-
-555
-00:23:22,440 --> 00:23:23,440
-No.
-
-556
-00:23:23,440 --> 00:23:24,440
-No.
-
-557
-00:23:24,440 --> 00:23:25,440
-No.
-
-558
-00:23:25,440 --> 00:23:26,440
-No.
-
-559
-00:23:26,440 --> 00:23:27,440
-No.
-
-560
-00:23:27,440 --> 00:23:28,440
-No.
-
-561
-00:23:28,440 --> 00:23:29,440
-No.
-
-562
-00:23:29,440 --> 00:23:30,440
-No.
-
-563
-00:23:30,440 --> 00:23:31,440
-No.
-
-564
-00:23:31,440 --> 00:23:32,440
-No.
-
-565
-00:23:32,440 --> 00:23:33,440
-No.
-
-566
-00:23:33,440 --> 00:23:34,440
-No.
-
-567
-00:23:34,440 --> 00:23:41,440
-así ya y en todo qué o acoriendo por la calle
-
-568
-00:23:41,440 --> 00:23:45,440
-que en ese sinteo el mozaynez
-
-569
-00:23:45,440 --> 00:23:49,440
-en mis historias ni el fraca
-
-570
-00:23:49,440 --> 00:23:55,440
-su espero y de si ni tirara la waspura
-
-571
-00:23:55,440 --> 00:23:59,440
-porque la vida solo una
-
-572
-00:23:59,440 --> 00:24:03,440
-puede queman ya no yo no soy bien sol
-
-573
-00:24:03,440 --> 00:24:10,440
-pero solo podrá cambiar que el regano más grandes poder despertando
-
-574
-00:24:10,440 --> 00:24:13,440
-y los latinos se tocó la sol
-
-575
-00:24:13,440 --> 00:24:18,440
-sobre refugio para esta canción
-
-576
-00:24:18,440 --> 00:24:24,440
-donde cremos que este alcoco
-
-577
-00:24:24,440 --> 00:24:28,440
-me diré un lento el lo de más se borra
-
-578
-00:24:28,440 --> 00:24:35,440
-pero no aquí se bolestrece
-
-579
-00:24:35,440 --> 00:24:37,440
-tranquilo pasa nada
-
-580
-00:24:37,440 --> 00:24:42,440
-si hay mucho que no cuentas
-
-581
-00:24:42,440 --> 00:24:49,440
-pero no aquí se bolestrece
-
-582
-00:24:49,440 --> 00:24:54,440
-tranquilo pasa nada
-
-583
-00:24:54,440 --> 00:24:58,440
-si hay mucho que no cuentas
-
-584
-00:24:58,440 --> 00:25:02,440
-pero ahora que sí va a dar dónde
-
-585
-00:25:02,440 --> 00:25:08,440
-puedo preguntar por qué
-
-586
-00:25:08,440 --> 00:25:12,440
-creo que era lo mejor para mí
-
-587
-00:25:12,440 --> 00:25:15,440
-y te equivocaste
-
-588
-00:25:24,440 --> 00:25:28,440
-yo no sé qué es lo mejor para mí
-
-589
-00:25:29,440 --> 00:25:35,440
-creo que quería ser
-
-590
-00:25:40,440 --> 00:25:45,440
-sé que lo que mamá me gusta de una serie
-
-591
-00:25:45,440 --> 00:25:49,440
-nunca es ación
-
-592
-00:25:49,440 --> 00:25:55,440
-pero que debería que arte para comprobarme
-
-593
-00:25:56,440 --> 00:25:59,440
-y vos deberías comprobar si te equivocaste o no
-
-594
-00:25:59,440 --> 00:26:02,440
-a la jate de la música
-
-595
-00:26:03,440 --> 00:26:06,440
-esa noche mirando las estrellas junto a él
-
-596
-00:26:06,440 --> 00:26:10,440
-tendría que solo podía tomar una decisión
-
-597
-00:26:10,440 --> 00:26:11,440
-porque es cierto
-
-598
-00:26:11,440 --> 00:26:14,440
-los clásicos no tienen nada
-
-599
-00:26:14,440 --> 00:26:17,440
-de todas las terrasas
-
-600
-00:26:17,440 --> 00:26:22,440
-de todas las ciudades de todo el mundo
-
-601
-00:26:22,440 --> 00:26:29,440
-justo yo tenía que estar en esa
-
-602
-00:26:29,440 --> 00:26:31,440
-el pesa cuando quieras
-
-603
-00:26:31,440 --> 00:26:34,440
-el te le da
-
-604
-00:26:34,440 --> 00:26:37,440
-y si ya estamos sensiando por boca
-
-605
-00:26:37,440 --> 00:26:41,440
-hasta el tuna no sé si tiene mucho sentido sirvo en la banda
-
-606
-00:26:44,440 --> 00:26:46,440
-Tommy fondo la banda
-
-607
-00:26:46,440 --> 00:26:47,440
-él escribía las letras
-
-608
-00:26:47,440 --> 00:26:49,440
-entonces todos componíamos la música
-
-609
-00:26:49,440 --> 00:26:51,440
-y yo me lo sabamos genial
-
-610
-00:26:51,440 --> 00:26:53,440
-y si se llaban también y le intento
-
-611
-00:26:53,440 --> 00:26:55,440
-también perfecto porque este te pararon
-
-612
-00:26:55,440 --> 00:26:57,440
-Tommy y yo renunció un día para el otro
-
-613
-00:26:57,440 --> 00:26:59,440
-así de la nada
-
-614
-00:26:59,440 --> 00:27:01,440
-no nos dio mucho opción
-
-615
-00:27:01,440 --> 00:27:03,440
-un buen cantante que sabe componer
-
-616
-00:27:03,440 --> 00:27:05,440
-la luego voy a responder a tomar una vez más
-
-617
-00:27:05,440 --> 00:27:07,440
-y te afectó la raja hasta algo
-
-618
-00:27:07,440 --> 00:27:08,440
-se encantó en día para el otro
-
-619
-00:27:08,440 --> 00:27:10,440
-nunca te fueron ramblas haritan poco te cité cargo
-
-620
-00:27:10,440 --> 00:27:14,440
-igual no fue lo que realmente lejos de amartina
-
-621
-00:27:14,440 --> 00:27:16,440
-le basó lo que nos pasa a todos
-
-622
-00:27:16,440 --> 00:27:18,440
-por qué hijas te desergos
-
-623
-00:27:18,440 --> 00:27:20,440
-a mí se no ocurre alguien
-
-624
-00:27:20,440 --> 00:27:21,440
-no a ti no no se pecular
-
-625
-00:27:21,440 --> 00:27:22,440
-no a mi cantaría chicos
-
-626
-00:27:22,440 --> 00:27:24,440
-pero tiene un pie acá y un pie no no hay una vía
-
-627
-00:27:24,440 --> 00:27:26,440
-no tengo problemas de te quedas
-
-628
-00:27:26,440 --> 00:27:27,440
-pero no es así que estamos en la plata
-
-629
-00:27:27,440 --> 00:27:29,440
-en eso para opción a la mayor
-
-630
-00:27:29,440 --> 00:27:30,440
-no tengo ni siquiera miropa
-
-631
-00:27:30,440 --> 00:27:32,440
-y con las deberías traerme mi valija
-
-632
-00:27:32,440 --> 00:27:34,440
-pero no quiero pedirle ningún favor
-
-633
-00:27:34,440 --> 00:27:36,440
-como yo tengo que ir a mi ex de partama
-
-634
-00:27:36,440 --> 00:27:38,440
-si que siquiera podemos jugar
-
-635
-00:27:38,440 --> 00:27:39,440
-en mil y tenías llaves
-
-636
-00:27:39,440 --> 00:27:41,440
-del departamento de Nincu
-
-637
-00:27:41,440 --> 00:27:42,440
-y nunca sospecha escena
-
-638
-00:27:42,440 --> 00:27:44,440
-no sé como es un dupe ahí
-
-639
-00:27:44,440 --> 00:27:46,440
-pero acá estamos a un cochtuma de alcalacino
-
-640
-00:27:46,440 --> 00:27:48,440
-no sé lo que vamos
-
-641
-00:27:48,440 --> 00:27:50,440
-que hay suena muy frágil
-
-642
-00:27:50,440 --> 00:27:51,440
-así, esta en mil
-
-643
-00:28:02,440 --> 00:28:04,440
-que es así que es un marido
-
-644
-00:28:44,440 --> 00:28:49,440
-A vernos en el contado no puedes verte
-
-645
-00:28:49,440 --> 00:28:51,440
-Fue contra el acorante
-
-646
-00:28:51,440 --> 00:28:55,440
-Entre toda la gente, mis mianos te siempre
-
-647
-00:28:55,440 --> 00:28:57,440
-Son agua bajo el fente
-
-648
-00:28:57,440 --> 00:28:59,440
-Pero yo soy consciente
-
-649
-00:28:59,440 --> 00:29:01,440
-No nos y cases y andes
-
-650
-00:29:01,440 --> 00:29:03,440
-Si tú estás conmigo
-
-651
-00:29:03,440 --> 00:29:05,440
-Seramos su vaciente
-
-652
-00:29:06,440 --> 00:29:09,440
-Qued soy junto de ti
-
-653
-00:29:09,440 --> 00:29:13,440
-Pahuelas mi rismosielo
-
-654
-00:29:14,440 --> 00:29:16,440
-Me he hecho a sol
-
-655
-00:29:16,440 --> 00:29:18,440
-Sonas mi...
-
-656
-00:29:18,440 --> 00:29:20,440
-La sol en la ropa
-
-657
-00:29:20,440 --> 00:29:23,440
-No nos y no te he sido feliz
-
-658
-00:29:23,440 --> 00:29:25,440
-Pero yo creo que me pante
-
-659
-00:29:25,440 --> 00:29:29,440
-A sol y cases y y en el contado no puedes verte
-
-660
-00:29:29,440 --> 00:29:32,440
-Si la sol y me ha hecho a sol
-
-661
-00:29:32,440 --> 00:29:34,440
-Sonas y en el contado no puedes verte
-
-662
-00:29:34,440 --> 00:29:39,440
-A ver, no se han encontrado, no se esté
-
-663
-00:29:54,440 --> 00:29:58,440
-Soy que el pasado, soy el pasado
-
-664
-00:29:58,440 --> 00:30:02,440
-Que la síca triste, de cerrar
-
-665
-00:30:02,440 --> 00:30:06,440
-Se que el pasaré, se fue el pasado
-
-666
-00:30:06,440 --> 00:30:10,440
-¿Dónde se que el que se crea?
-
-667
-00:30:10,440 --> 00:30:14,440
-La que soy, un buen gui
-
-668
-00:30:14,440 --> 00:30:18,440
-Un buen gui, un buen doble, un buen gui
-
-669
-00:30:18,440 --> 00:30:22,440
-La que no va a ver, un buen gui
-
-670
-00:30:22,440 --> 00:30:25,440
-Es un gui, un buen gui
-
-671
-00:30:25,440 --> 00:30:27,440
-Es un gui, un buen gui, un buen gui
+00:27:52,323 --> 00:27:53,323
+Este, Emilia.
