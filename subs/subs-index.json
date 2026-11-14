@@ -49,24 +49,6 @@
     "wallS": 152.6,
     "generado": "2026-11-06T14:53:30Z"
    }
-  },
-  {
-   "clave": "cuevana4br|drama|SUBESMIRAMEASI-S01",
-   "realWp": "Hpqx1nVvpCf7b2sS4QsYL-Mirame-asi-el-camino-de-Noa",
-   "name": "[Sub Español]Mírame así, el camino de Noa",
-   "subsBase": "https://raw.githubusercontent.com/francisco154/prometeus-catalog/main/subs/mirame-asi/",
-   "temporadas": [
-    {
-     "n": 1,
-     "eps": 24
-    }
-   ],
-   "idiomas": [
-    "es"
-   ],
-   "slug": "mirame-asi",
-   "site": "cuevana4br",
-   "tipo": "drama"
   }
  ]
 }
